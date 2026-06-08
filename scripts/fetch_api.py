@@ -21,12 +21,12 @@ logger = logging.getLogger(__name__)
 NATIONAL_LIST_EP = (
     "https://apis.data.go.kr/B554287"
     "/NationalWelfareInformationsV001"
-    "/NationalWelfarelistV001"
+    "/NationalWelfarelistV001"          # 포털 Swagger 확인값
 )
 LOCAL_LIST_EP = (
     "https://apis.data.go.kr/B554287"
     "/LocalGovernmentWelfareInformations"
-    "/LcgvWelfarelist"
+    "/LcgvWelfarelist"                  # 포털 상세기능정보 확인값
 )
 
 MAX_ROWS = 100       # 페이지당 최대 수신 건수 (API 한도)
@@ -64,7 +64,7 @@ def _fetch_page(url: str, params: dict) -> Optional[ET.Element]:
                 root.findtext(".//cmmMsgHeader/returnReasonCode") or
                 "00"
             ).strip()
-            if result_code not in ("00", "0000", ""):
+            if result_code not in ("00", "0000", "0", "000", ""):
                 result_msg = root.findtext(".//resultMsg", "알 수 없는 오류")
                 logger.error(f"API 오류 응답: [{result_code}] {result_msg}")
                 return None
@@ -232,7 +232,11 @@ def _fetch_all(url: str, base_params: dict, parse_fn, label: str) -> list:
 def fetch_national_welfare(api_key: str) -> list:
     """중앙부처 복지서비스 전체 수집."""
     logger.info("━━ 중앙부처 API 수집 시작 ━━")
-    params = {"serviceKey": api_key, "callTp": "L"}
+    params = {
+        "serviceKey": api_key,
+        "callTp": "L",
+        "srchKeyCode": "001",   # 001 = 전체 조회 (포털 샘플 URL 확인값)
+    }
     items = _fetch_all(NATIONAL_LIST_EP, params, _parse_national_item, "중앙부처")
     logger.info(f"━━ 중앙부처 수집 완료: {len(items)}건 ━━")
     return items
@@ -241,7 +245,10 @@ def fetch_national_welfare(api_key: str) -> list:
 def fetch_local_welfare(api_key: str) -> list:
     """지자체 복지서비스 전체 수집."""
     logger.info("━━ 지자체 API 수집 시작 ━━")
-    params = {"serviceKey": api_key, "callTp": "L"}
+    params = {
+        "serviceKey": api_key,
+        "srchKeyCode": "001",   # callTp 없음 - 지자체 API는 해당 파라미터 미지원
+    }
     items = _fetch_all(LOCAL_LIST_EP, params, _parse_local_item, "지자체")
     logger.info(f"━━ 지자체 수집 완료: {len(items)}건 ━━")
     return items
