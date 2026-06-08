@@ -21,12 +21,12 @@ logger = logging.getLogger(__name__)
 NATIONAL_LIST_EP = (
     "https://apis.data.go.kr/B554287"
     "/NationalWelfareInformationsV001"
-    "/getNationalWelfarelistV001"
+    "/NationalWelfarelistV001"
 )
 LOCAL_LIST_EP = (
     "https://apis.data.go.kr/B554287"
     "/LocalGovernmentWelfareInformations"
-    "/getLocalWelfareInfoList"
+    "/LcgvWelfarelist"
 )
 
 MAX_ROWS = 100       # 페이지당 최대 수신 건수 (API 한도)
