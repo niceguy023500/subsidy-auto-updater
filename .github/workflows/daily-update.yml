@@ -1,0 +1,68 @@
+name: 📊 복지 데이터 자동 업데이트
+
+on:
+  schedule:
+    # 매일 새벽 3시 KST = UTC 18:00 (전날)
+    - cron: "0 18 * * *"
+
+  # 수동 실행 버튼 (GitHub Actions 탭에서 실행 가능)
+  workflow_dispatch:
+    inputs:
+      reason:
+        description: "수동 실행 사유"
+        required: false
+        default: "수동 테스트"
+
+jobs:
+  update-welfare-data:
+    name: 복지 데이터 수집 및 가공
+    runs-on: ubuntu-latest
+
+    # 첫 실행 시 수천 건을 처리해야 할 수 있으므로 최대 6시간 허용
+    timeout-minutes: 360
+
+    permissions:
+      contents: write   # data/ 폴더를 커밋하기 위해 필요
+
+    steps:
+      # ── 1. 레포지토리 체크아웃 ──
+      - name: 📥 레포지토리 체크아웃
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # ── 2. Python 환경 설정 ──
+      - name: 🐍 Python 3.11 설정
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: "pip"
+
+      # ── 3. 의존성 설치 ──
+      - name: 📦 의존성 설치
+        run: pip install -r requirements.txt
+
+      # ── 4. 파이프라인 실행 ──
+      - name: 🚀 데이터 업데이트 실행
+        env:
+          WELFARE_API_KEY: ${{ secrets.WELFARE_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python scripts/main.py
+
+      # ── 5. 변경된 data/ 폴더를 커밋 & 푸시 ──
+      - name: 💾 변경사항 커밋 & 푸시
+        run: |
+          git config --global user.name  "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add data/
+
+          # 변경사항이 있을 때만 커밋 (없으면 스킵)
+          if git diff --staged --quiet; then
+            echo "변경사항 없음 — 커밋 스킵"
+          else
+            TIMESTAMP=$(TZ='Asia/Seoul' date +'%Y-%m-%d %H:%M KST')
+            git commit -m "🔄 복지 데이터 자동 업데이트 ${TIMESTAMP}"
+            git push
+            echo "✅ 커밋 & 푸시 완료"
+          fi
