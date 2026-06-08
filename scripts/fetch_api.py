@@ -160,6 +160,46 @@ def _parse_local_item(item: ET.Element) -> Optional[dict]:
 # ─────────────────────────────────────────────
 # 전체 페이지 수집 (공통)
 # ─────────────────────────────────────────────
+
+# 복지로 API가 사용할 수 있는 아이템 태그명 후보 (우선순위 순)
+_ITEM_TAG_CANDIDATES = [
+    "item",        # 대부분의 공공데이터 API 표준
+    "serv",        # 복지서비스 약어
+    "service",
+    "wantedListDTO",
+    "wantedVO",
+    "lcgvItem",
+    "lcgvVO",
+    "servInfo",
+    "welfareInfo",
+    "row",         # 일부 레거시 API
+]
+
+def _find_items(root: ET.Element, label: str) -> list:
+    """
+    XML에서 아이템 요소 목록을 유연하게 탐색.
+    API마다 태그명이 다를 수 있으므로 여러 후보를 순서대로 시도.
+    모두 실패하면 XML 구조를 로그에 출력해 디버깅 단서를 제공.
+    """
+    for tag in _ITEM_TAG_CANDIDATES:
+        found = root.findall(f".//{tag}")
+        if found:
+            if tag != "item":
+                logger.info(f"[{label}] 아이템 태그: <{tag}> 사용")
+            return found
+
+    # ── 모든 후보 실패 → XML 구조 덤프 ──
+    # body 또는 루트의 직접 자식 요소 이름 출력
+    children = [child.tag for child in root.iter()]
+    unique_tags = list(dict.fromkeys(children))[:30]  # 중복 제거, 최대 30개
+    logger.warning(
+        f"[{label}] 알려진 태그로 아이템을 못 찾았습니다.\n"
+        f"  XML에 존재하는 태그 목록: {unique_tags}\n"
+        f"  XML 앞부분 (500자): {ET.tostring(root, encoding='unicode')[:500]}"
+    )
+    return []
+
+
 def _fetch_all(url: str, base_params: dict, parse_fn, label: str) -> list:
     """
     페이지네이션을 돌며 전체 데이터를 수집.
@@ -197,10 +237,17 @@ def _fetch_all(url: str, base_params: dict, parse_fn, label: str) -> list:
                 # totalCount가 없거나 0인 경우: 아이템 유무로 판단
                 total_pages = 9999
 
-        # ── 아이템 파싱 ──
-        xml_items = root.findall(".//item")
+        # ── 아이템 파싱 (유연한 태그 탐색) ──
+        xml_items = _find_items(root, label)
         if not xml_items:
-            logger.info(f"[{label}] 더 이상 데이터 없음 → 완료")
+            if page == 1 and total_pages and total_pages > 1:
+                # 1페이지인데 아이템이 없고 totalCount는 있음 → 태그명 문제
+                logger.error(
+                    f"[{label}] totalCount={total_count}이지만 아이템 파싱 실패. "
+                    "위의 XML 태그 목록을 확인해 _ITEM_TAG_CANDIDATES에 추가 필요."
+                )
+            else:
+                logger.info(f"[{label}] 더 이상 데이터 없음 → 완료")
             break
 
         for xml_item in xml_items:
