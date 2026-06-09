@@ -94,31 +94,40 @@ def _fetch_page(url: str, params: dict) -> Optional[ET.Element]:
 # 중앙부처 API 파서
 # ─────────────────────────────────────────────
 def _parse_national_item(item: ET.Element) -> Optional[dict]:
-    """중앙부처 XML <item> 하나를 dict로 변환."""
+    """
+    중앙부처 XML <servList> 하나를 dict로 변환.
+    필드명은 포털 로그에서 직접 확인한 실제값 기준.
+    """
     serv_id = _get_text(item, "servId")
     if not serv_id:
-        return None  # ID 없는 항목은 스킵
+        return None
+
+    # 주관부처 + 주관기관 합치기 (예: "국토교통부 주거복지지원과")
+    ministry = _get_text(item, "jurMnofNm")
+    dept     = _get_text(item, "jurOrgNm")
+    org      = f"{ministry} {dept}".strip() if dept else ministry
 
     return {
-        "id": f"national_{serv_id}",
-        "source": "national",
-        "serv_id": serv_id,
-        "title": _get_text(item, "servNm"),
-        "organization": _get_text(item, "jurMnofNm"),
-        "target": _get_text(item, "tgtrDtlCn"),
-        "criteria": _get_text(item, "slctCritCn"),
-        "content": _get_text(item, "srvPvsnMthCn"),
-        "apply_method": _get_text(item, "aplyMthCn"),
-        "contact": _get_text(item, "inqplCtadrCn"),
-        "apply_url": _get_text(item, "srvUrl"),
-        "life_cycle": _get_text(item, "lifeNmArray"),
-        "family_type": _get_text(item, "familyNmArray"),
-        "support_type": _get_text(item, "tyNmArray"),
+        "id":           f"national_{serv_id}",
+        "source":       "national",
+        "serv_id":      serv_id,
+        "title":        _get_text(item, "servNm"),
+        "organization": org,
+        # servDgst = 서비스 요약 → Gemini 가공의 핵심 입력값
+        "content":      _get_text(item, "servDgst"),
+        "target":       _get_text(item, "trgterIndvdlArray"),   # 대상자 배열
+        "criteria":     "",                                      # 목록 API 미제공
+        "apply_method": _get_text(item, "onapPsbltYn"),         # 온라인신청 가능 여부
+        "contact":      _get_text(item, "rprsCntadr"),          # 대표 연락처
+        "apply_url":    _get_text(item, "servDtlLink"),         # 복지로 상세 링크
+        "life_cycle":   _get_text(item, "lifeArray"),           # 생애주기
+        "support_type": _get_text(item, "intrsThemaArray"),     # 관심 주제
+        "family_type":  "",
         "support_cycle": _get_text(item, "sprtCycNm"),
-        # 중앙부처는 전국 공통
-        "region_raw": "전국",
-        "sido_raw": "전국",
-        "sgg_raw": "",
+        # 중앙부처 = 전국 공통
+        "region_raw":   "전국",
+        "sido_raw":     "전국",
+        "sgg_raw":      "",
     }
 
 
@@ -126,34 +135,37 @@ def _parse_national_item(item: ET.Element) -> Optional[dict]:
 # 지자체 API 파서
 # ─────────────────────────────────────────────
 def _parse_local_item(item: ET.Element) -> Optional[dict]:
-    """지자체 XML <item> 하나를 dict로 변환."""
+    """
+    지자체 XML <servList> 하나를 dict로 변환.
+    필드명은 포털 로그에서 직접 확인한 실제값 기준.
+    """
     serv_id = _get_text(item, "servId")
     if not serv_id:
         return None
 
     sido = _get_text(item, "ctpvNm")
-    sgg = _get_text(item, "sggNm")
+    sgg  = _get_text(item, "sggNm")
     region_raw = f"{sido} {sgg}".strip() if sgg else sido
 
     return {
-        "id": f"local_{serv_id}",
-        "source": "local",
-        "serv_id": serv_id,
-        "title": _get_text(item, "servNm"),
-        "organization": _get_text(item, "jurOrgNm"),
-        "target": _get_text(item, "tgtrDtlCn"),
-        "criteria": _get_text(item, "slctCritCn"),
-        "content": _get_text(item, "srvPvsnMthCn"),
-        "apply_method": _get_text(item, "aplyMthCn"),
-        "contact": _get_text(item, "inqplCtadrCn"),
-        "apply_url": _get_text(item, "srvUrl"),
-        "life_cycle": _get_text(item, "lifeNmArray"),
-        "family_type": _get_text(item, "familyNmArray"),
-        "support_type": _get_text(item, "tyNmArray"),
+        "id":           f"local_{serv_id}",
+        "source":       "local",
+        "serv_id":      serv_id,
+        "title":        _get_text(item, "servNm"),
+        "organization": _get_text(item, "bizChrDeptNm"),        # 업무담당부서
+        "content":      _get_text(item, "servDgst"),            # 서비스 요약
+        "target":       _get_text(item, "trgterIndvdlNmArray"), # 대상자명 배열
+        "criteria":     "",                                      # 목록 API 미제공
+        "apply_method": _get_text(item, "aplyMtdNm"),          # 신청방법명
+        "contact":      _get_text(item, "inqNum"),              # 문의번호
+        "apply_url":    _get_text(item, "servDtlLink"),         # 복지로 상세 링크
+        "life_cycle":   _get_text(item, "lifeNmArray"),         # 생애주기명
+        "support_type": _get_text(item, "intrsThemaNmArray"),   # 관심주제명
+        "family_type":  "",
         "support_cycle": _get_text(item, "sprtCycNm"),
-        "region_raw": region_raw,
-        "sido_raw": sido,
-        "sgg_raw": sgg,
+        "region_raw":   region_raw,
+        "sido_raw":     sido,
+        "sgg_raw":      sgg,
     }
 
 
@@ -163,8 +175,9 @@ def _parse_local_item(item: ET.Element) -> Optional[dict]:
 
 # 복지로 API가 사용할 수 있는 아이템 태그명 후보 (우선순위 순)
 _ITEM_TAG_CANDIDATES = [
-    "item",        # 대부분의 공공데이터 API 표준
-    "serv",        # 복지서비스 약어
+    "servList",    # ✅ 복지로 API 실제 확인값 (국가·지자체 공통)
+    "item",        # 공공데이터 API 표준
+    "serv",
     "service",
     "wantedListDTO",
     "wantedVO",
@@ -172,7 +185,7 @@ _ITEM_TAG_CANDIDATES = [
     "lcgvVO",
     "servInfo",
     "welfareInfo",
-    "row",         # 일부 레거시 API
+    "row",
 ]
 
 def _find_items(root: ET.Element, label: str) -> list:
