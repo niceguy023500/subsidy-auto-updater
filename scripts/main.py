@@ -147,13 +147,21 @@ def main():
     # STEP 4: Gemini 가공
     # ──────────────────────────────────────────
     logger.info("")
-    logger.info("▶ STEP 4: Gemini 1.5 Flash 가공")
+    logger.info("▶ STEP 4: Gemini 2.5 Flash 가공")
 
     model = setup_gemini(GEMINI_API_KEY)
-    newly_processed = {}   # id → welfare_item
-    last_req_time = 0.0
-    gemini_ok_count = 0
+    newly_processed  = {}
+    last_req_time    = 0.0
+    gemini_ok_count  = 0
     gemini_fail_count = 0
+
+    # 체크포인트용: 기존 유지 아이템 미리 추출
+    kept_items = [
+        item for item_id, item in existing_map.items()
+        if item_id in current_api_ids
+        and item_id not in {i["id"] for i in new_items}
+    ]
+    CHECKPOINT_INTERVAL = 100   # N건마다 중간 저장
 
     for i, raw_item in enumerate(new_items, start=1):
         # Rate limit 적용
@@ -167,8 +175,8 @@ def main():
         gemini_result = process_item(model, raw_item)
         last_req_time = time.time()
 
-        region_info   = get_regions_for_item(raw_item)
-        welfare_item  = build_welfare_item(raw_item, gemini_result, region_info)
+        region_info  = get_regions_for_item(raw_item)
+        welfare_item = build_welfare_item(raw_item, gemini_result, region_info)
 
         newly_processed[raw_item["id"]] = welfare_item
         processed_ids.add(raw_item["id"])
@@ -177,6 +185,16 @@ def main():
             gemini_ok_count += 1
         else:
             gemini_fail_count += 1
+
+        # ── 체크포인트 저장 (N건마다 또는 마지막 건) ──
+        if i % CHECKPOINT_INTERVAL == 0 or i == len(new_items):
+            checkpoint_items = kept_items + list(newly_processed.values())
+            save_welfare_json(checkpoint_items, len(all_raw_items))
+            save_cache(processed_ids)
+            logger.info(
+                f"  💾 체크포인트 저장 완료 "
+                f"({i}/{len(new_items)}건 처리 | 누적 {len(checkpoint_items)}건)"
+            )
 
     logger.info(
         f"  Gemini 성공: {gemini_ok_count}건 | "
