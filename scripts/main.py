@@ -17,6 +17,7 @@ import os
 import sys
 import time
 import logging
+import subprocess
 from datetime import datetime, timezone, timedelta
 
 # ─────────────────────────────────────────────
@@ -69,6 +70,44 @@ from build_json     import (
 )
 
 KST = timezone(timedelta(hours=9))
+
+# ─────────────────────────────────────────────
+# Git 체크포인트 커밋 (타임아웃 대비 중간 저장)
+# ─────────────────────────────────────────────
+# 레포 루트 경로 (scripts/ 의 상위 폴더)
+REPO_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
+
+def _git_checkpoint(message: str):
+    """
+    data/ 폴더를 즉시 git commit + push.
+    타임아웃으로 스크립트가 강제 종료되어도
+    마지막 체크포인트까지의 데이터는 GitHub에 보존됨.
+    """
+    try:
+        def run(cmd):
+            subprocess.run(cmd, cwd=REPO_ROOT, check=True,
+                           capture_output=True, text=True)
+
+        run(["git", "config", "user.name",  "github-actions[bot]"])
+        run(["git", "config", "user.email", "github-actions[bot]@users.noreply.github.com"])
+        run(["git", "add", "data/"])
+
+        # 변경사항 없으면 커밋 스킵
+        diff = subprocess.run(
+            ["git", "diff", "--staged", "--quiet"],
+            cwd=REPO_ROOT
+        )
+        if diff.returncode == 0:
+            logger.info("  [체크포인트] 변경사항 없음 - 커밋 스킵")
+            return
+
+        run(["git", "commit", "-m", message])
+        run(["git", "push"])
+        logger.info(f"  [체크포인트] GitHub 커밋 완료: {message}")
+
+    except subprocess.CalledProcessError as e:
+        # 커밋 실패해도 파이프라인은 계속 진행
+        logger.warning(f"  [체크포인트] Git 커밋 실패 (계속 진행): {e.stderr}")
 
 # ─────────────────────────────────────────────
 # 유틸
@@ -194,6 +233,11 @@ def main():
             logger.info(
                 f"  💾 체크포인트 저장 완료 "
                 f"({i}/{len(new_items)}건 처리 | 누적 {len(checkpoint_items)}건)"
+            )
+            # ★ 핵심: 파일 저장 직후 즉시 GitHub에 push
+            _git_checkpoint(
+                f"💾 체크포인트 {i}/{len(new_items)}건 "
+                f"({datetime.now(KST).strftime('%m/%d %H:%M KST')})"
             )
 
     logger.info(
