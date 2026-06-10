@@ -1,9 +1,3810 @@
 {
   "metadata": {
-    "last_updated": null,
-    "last_updated_kst": "초기 상태 (아직 실행 전)",
-    "total_count": 0,
-    "total_fetched_from_api": 0
+    "last_updated": "2026-06-10T17:43:23.737205+09:00",
+    "last_updated_kst": "2026년 06월 10일 17:43",
+    "total_count": 100,
+    "total_fetched_from_api": 5011
   },
-  "items": []
+  "items": [
+    {
+      "id": "national_WLF00001084",
+      "source": "national",
+      "title": "여성긴급전화 1366센터 운영 지원",
+      "organization": "성평등가족부 친밀관계폭력방지과",
+      "summary": [
+        "여성긴급전화 1366센터 운",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "성평등가족부 친밀관계폭력방지"
+      ],
+      "plain_desc": "'여성긴급전화 1366센터 운영 지원' 서비스입니다. 지원 대상 및 신청 방법은 성평등가족부 친밀관계폭력방지과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001084&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "신체건강,정신건강,안전·위기,법률",
+      "support_cycle": "수시",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:06:52.737744+09:00"
+    },
+    {
+      "id": "national_WLF00000888",
+      "source": "national",
+      "title": "영구임대주택공급",
+      "organization": "국토교통부 주거복지지원과",
+      "summary": [
+        "영구임대주택공급",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "국토교통부 주거복지지원과"
+      ],
+      "plain_desc": "'영구임대주택공급' 서비스입니다. 지원 대상 및 신청 방법은 국토교통부 주거복지지원과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000888&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "주거",
+      "support_cycle": "수시",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:07:23.907760+09:00"
+    },
+    {
+      "id": "national_WLF00000057",
+      "source": "national",
+      "title": "공공분양",
+      "organization": "국토교통부 주택공급정책과",
+      "summary": [
+        "공공분양",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "국토교통부 주택공급정책과"
+      ],
+      "plain_desc": "'공공분양' 서비스입니다. 지원 대상 및 신청 방법은 국토교통부 주택공급정책과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000057&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "주거",
+      "support_cycle": "수시",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:07:48.392307+09:00"
+    },
+    {
+      "id": "national_WLF00001079",
+      "source": "national",
+      "title": "주거안정 월세대출 보증",
+      "organization": "금융위원회 금융정책과",
+      "summary": [
+        "주거안정 월세대출 보증",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "금융위원회 금융정책과"
+      ],
+      "plain_desc": "'주거안정 월세대출 보증' 서비스입니다. 지원 대상 및 신청 방법은 금융위원회 금융정책과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001079&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "주거,서민금융",
+      "support_cycle": "1회성",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:08:14.829096+09:00"
+    },
+    {
+      "id": "national_WLF00000026",
+      "source": "national",
+      "title": "장애인자립자금대여",
+      "organization": "보건복지부 장애인자립기반과",
+      "summary": [
+        "장애인자립자금대여",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "보건복지부 장애인자립기반과"
+      ],
+      "plain_desc": "'장애인자립자금대여' 서비스입니다. 지원 대상 및 신청 방법은 보건복지부 장애인자립기반과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000026&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "생활지원,일자리,서민금융",
+      "support_cycle": "1회성",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:08:42.661259+09:00"
+    },
+    {
+      "id": "national_WLF00001098",
+      "source": "national",
+      "title": "온가족보듬사업",
+      "organization": "성평등가족부 가족정책과",
+      "summary": [
+        "온가족보듬사업",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "성평등가족부 가족정책과"
+      ],
+      "plain_desc": "'온가족보듬사업' 서비스입니다. 지원 대상 및 신청 방법은 성평등가족부 가족정책과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001098&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "정신건강,생활지원,안전·위기,보호·돌봄",
+      "support_cycle": "수시",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:09:18.058061+09:00"
+    },
+    {
+      "id": "national_WLF00000751",
+      "source": "national",
+      "title": "청소년복지시설 운영 지원",
+      "organization": "성평등가족부 청소년자립지원과",
+      "summary": [
+        "청소년복지시설 운영 지원",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "성평등가족부 청소년자립지원과"
+      ],
+      "plain_desc": "'청소년복지시설 운영 지원' 서비스입니다. 지원 대상 및 신청 방법은 성평등가족부 청소년자립지원과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000751&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "생활지원,문화·여가,보호·돌봄",
+      "support_cycle": "년",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:09:50.811516+09:00"
+    },
+    {
+      "id": "national_WLF00000077",
+      "source": "national",
+      "title": "원폭피해자지원",
+      "organization": "보건복지부 질병정책과",
+      "summary": [
+        "원폭피해자지원",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "보건복지부 질병정책과"
+      ],
+      "plain_desc": "'원폭피해자지원' 서비스입니다. 지원 대상 및 신청 방법은 보건복지부 질병정책과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000077&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "신체건강,생활지원,보호·돌봄",
+      "support_cycle": "수시",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:10:17.399571+09:00"
+    },
+    {
+      "id": "national_WLF00000049",
+      "source": "national",
+      "title": "에너지 취약계층 고효율조명기기 무상교체 지원(취약계층 에너지복지사업)",
+      "organization": "기후에너지환경부 기후적응과",
+      "summary": [
+        "에너지 취약계층 고효율조명기",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "기후에너지환경부 기후적응과"
+      ],
+      "plain_desc": "'에너지 취약계층 고효율조명기기 무상교체 지원(취약계층 에너지복지사업)' 서비스입니다. 지원 대상 및 신청 방법은 기후에너지환경부 기후적응과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000049&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "생활지원,에너지",
+      "support_cycle": "1회성",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:10:44.130892+09:00"
+    },
+    {
+      "id": "national_WLF00000072",
+      "source": "national",
+      "title": "에너지바우처",
+      "organization": "기후에너지환경부 기후적응과",
+      "summary": [
+        "에너지바우처",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "기후에너지환경부 기후적응과"
+      ],
+      "plain_desc": "'에너지바우처' 서비스입니다. 지원 대상 및 신청 방법은 기후에너지환경부 기후적응과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000072&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "생활지원,주거,에너지",
+      "support_cycle": "년",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:11:10.107761+09:00"
+    },
+    {
+      "id": "national_WLF00001064",
+      "source": "national",
+      "title": "6.25자녀수당",
+      "organization": "국가보훈부 보상정책과",
+      "summary": [
+        "6.25자녀수당",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "국가보훈부 보상정책과"
+      ],
+      "plain_desc": "'6.25자녀수당' 서비스입니다. 지원 대상 및 신청 방법은 국가보훈부 보상정책과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001064&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "생활지원",
+      "support_cycle": "월",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:11:31.583474+09:00"
+    },
+    {
+      "id": "national_WLF00001065",
+      "source": "national",
+      "title": "고엽제후유의증수당",
+      "organization": "국가보훈부 보상정책과",
+      "summary": [
+        "고엽제후유의증수당",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "국가보훈부 보상정책과"
+      ],
+      "plain_desc": "'고엽제후유의증수당' 서비스입니다. 지원 대상 및 신청 방법은 국가보훈부 보상정책과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001065&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "생활지원",
+      "support_cycle": "월",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:11:53.012051+09:00"
+    },
+    {
+      "id": "national_WLF00000051",
+      "source": "national",
+      "title": "고엽제환자2세수당",
+      "organization": "국가보훈부 보상정책과",
+      "summary": [
+        "고엽제환자2세수당",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "국가보훈부 보상정책과"
+      ],
+      "plain_desc": "'고엽제환자2세수당' 서비스입니다. 지원 대상 및 신청 방법은 국가보훈부 보상정책과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000051&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "신체건강,생활지원",
+      "support_cycle": "월",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:12:14.504153+09:00"
+    },
+    {
+      "id": "national_WLF00000050",
+      "source": "national",
+      "title": "무공영예수당",
+      "organization": "국가보훈부 보상정책과",
+      "summary": [
+        "무공영예수당",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "국가보훈부 보상정책과"
+      ],
+      "plain_desc": "'무공영예수당' 서비스입니다. 지원 대상 및 신청 방법은 국가보훈부 보상정책과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000050&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "생활지원",
+      "support_cycle": "월",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:12:36.096241+09:00"
+    },
+    {
+      "id": "national_WLF00000043",
+      "source": "national",
+      "title": "보상금",
+      "organization": "국가보훈부 보상정책과",
+      "summary": [
+        "보상금",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "국가보훈부 보상정책과"
+      ],
+      "plain_desc": "'보상금' 서비스입니다. 지원 대상 및 신청 방법은 국가보훈부 보상정책과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000043&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "생활지원",
+      "support_cycle": "월",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:12:57.501827+09:00"
+    },
+    {
+      "id": "national_WLF00001066",
+      "source": "national",
+      "title": "참전명예수당",
+      "organization": "국가보훈부 보상정책과",
+      "summary": [
+        "참전명예수당",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "국가보훈부 보상정책과"
+      ],
+      "plain_desc": "'참전명예수당' 서비스입니다. 지원 대상 및 신청 방법은 국가보훈부 보상정책과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001066&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "생활지원",
+      "support_cycle": "월",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:13:18.876725+09:00"
+    },
+    {
+      "id": "national_WLF00000063",
+      "source": "national",
+      "title": "(북한이탈주민)교육비 지원",
+      "organization": "통일부 자립지원과",
+      "summary": [
+        "(북한이탈주민)교육비 지원",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "통일부 자립지원과"
+      ],
+      "plain_desc": "'(북한이탈주민)교육비 지원' 서비스입니다. 지원 대상 및 신청 방법은 통일부 자립지원과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000063&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "교육",
+      "support_cycle": "반기",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:13:40.353224+09:00"
+    },
+    {
+      "id": "national_WLF00000921",
+      "source": "national",
+      "title": "(북한이탈주민)상담 지원",
+      "organization": "통일부 정착지원과",
+      "summary": [
+        "(북한이탈주민)상담 지원",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "통일부 정착지원과"
+      ],
+      "plain_desc": "'(북한이탈주민)상담 지원' 서비스입니다. 지원 대상 및 신청 방법은 통일부 정착지원과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000921&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "신체건강,주거,일자리,교육",
+      "support_cycle": "수시",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:14:01.825424+09:00"
+    },
+    {
+      "id": "national_WLF00000065",
+      "source": "national",
+      "title": "발달장애인 공공후견지원 사업",
+      "organization": "보건복지부 장애인서비스과",
+      "summary": [
+        "발달장애인 공공후견지원 사업",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "보건복지부 장애인서비스과"
+      ],
+      "plain_desc": "'발달장애인 공공후견지원 사업' 서비스입니다. 지원 대상 및 신청 방법은 보건복지부 장애인서비스과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000065&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "생활지원,법률",
+      "support_cycle": "년",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:14:23.264336+09:00"
+    },
+    {
+      "id": "national_WLF00001099",
+      "source": "national",
+      "title": "농업인건강보험료지원",
+      "organization": "농림축산식품부 농촌사회서비스과",
+      "summary": [
+        "농업인건강보험료지원",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "농림축산식품부 농촌사회서비스"
+      ],
+      "plain_desc": "'농업인건강보험료지원' 서비스입니다. 지원 대상 및 신청 방법은 농림축산식품부 농촌사회서비스과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001099&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "신체건강,정신건강,생활지원",
+      "support_cycle": "월",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:14:44.699624+09:00"
+    },
+    {
+      "id": "national_WLF00001097",
+      "source": "national",
+      "title": "농업인연금보험료지원",
+      "organization": "농림축산식품부 농촌사회서비스과",
+      "summary": [
+        "농업인연금보험료지원",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "농림축산식품부 농촌사회서비스"
+      ],
+      "plain_desc": "'농업인연금보험료지원' 서비스입니다. 지원 대상 및 신청 방법은 농림축산식품부 농촌사회서비스과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001097&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "생활지원",
+      "support_cycle": "월",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:15:06.139142+09:00"
+    },
+    {
+      "id": "national_WLF00001068",
+      "source": "national",
+      "title": "한부모가족 아동양육비 지원",
+      "organization": "성평등가족부 가족지원과",
+      "summary": [
+        "한부모가족 아동양육비 지원",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "성평등가족부 가족지원과"
+      ],
+      "plain_desc": "'한부모가족 아동양육비 지원' 서비스입니다. 지원 대상 및 신청 방법은 성평등가족부 가족지원과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001068&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "생활지원,보육,교육",
+      "support_cycle": "월",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:15:27.591334+09:00"
+    },
+    {
+      "id": "national_WLF00000076",
+      "source": "national",
+      "title": "스포츠강좌이용권",
+      "organization": "문화체육관광부 체육진흥과",
+      "summary": [
+        "스포츠강좌이용권",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "문화체육관광부 체육진흥과"
+      ],
+      "plain_desc": "'스포츠강좌이용권' 서비스입니다. 지원 대상 및 신청 방법은 문화체육관광부 체육진흥과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000076&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "문화·여가",
+      "support_cycle": "월",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:15:49.000988+09:00"
+    },
+    {
+      "id": "national_WLF00001077",
+      "source": "national",
+      "title": "가정폭력상담소 운영지원",
+      "organization": "성평등가족부 가정폭력스토킹방지과",
+      "summary": [
+        "가정폭력상담소 운영지원",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "성평등가족부 가정폭력스토킹방"
+      ],
+      "plain_desc": "'가정폭력상담소 운영지원' 서비스입니다. 지원 대상 및 신청 방법은 성평등가족부 가정폭력스토킹방지과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001077&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "신체건강,정신건강,안전·위기,법률",
+      "support_cycle": "수시",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:16:10.434486+09:00"
+    },
+    {
+      "id": "national_WLF00000069",
+      "source": "national",
+      "title": "보훈원 양로지원",
+      "organization": "국가보훈부 복지서비스과",
+      "summary": [
+        "보훈원 양로지원",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "국가보훈부 복지서비스과"
+      ],
+      "plain_desc": "'보훈원 양로지원' 서비스입니다. 지원 대상 및 신청 방법은 국가보훈부 복지서비스과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000069&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "신체건강,생활지원,보호·돌봄",
+      "support_cycle": "월",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:16:31.861867+09:00"
+    },
+    {
+      "id": "national_WLF00000025",
+      "source": "national",
+      "title": "장애인일자리지원",
+      "organization": "보건복지부 장애인자립기반과",
+      "summary": [
+        "장애인일자리지원",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "보건복지부 장애인자립기반과"
+      ],
+      "plain_desc": "'장애인일자리지원' 서비스입니다. 지원 대상 및 신청 방법은 보건복지부 장애인자립기반과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000025&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "일자리",
+      "support_cycle": "월",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:16:53.314804+09:00"
+    },
+    {
+      "id": "national_WLF00000060",
+      "source": "national",
+      "title": "청년내일저축계좌",
+      "organization": "보건복지부 자활정책과",
+      "summary": [
+        "청년내일저축계좌",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "보건복지부 자활정책과"
+      ],
+      "plain_desc": "'청년내일저축계좌' 서비스입니다. 지원 대상 및 신청 방법은 보건복지부 자활정책과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000060&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "서민금융",
+      "support_cycle": "월",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:17:14.742882+09:00"
+    },
+    {
+      "id": "national_WLF00000059",
+      "source": "national",
+      "title": "희망복지지원단 통합사례관리",
+      "organization": "보건복지부 지역복지과",
+      "summary": [
+        "희망복지지원단 통합사례관리",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "보건복지부 지역복지과"
+      ],
+      "plain_desc": "'희망복지지원단 통합사례관리' 서비스입니다. 지원 대상 및 신청 방법은 보건복지부 지역복지과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000059&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "신체건강,정신건강,생활지원,주거,일자리,안전·위기,보호·돌봄",
+      "support_cycle": "수시",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:17:36.181880+09:00"
+    },
+    {
+      "id": "national_WLF00000032",
+      "source": "national",
+      "title": "실종아동 등 보호 및 지원",
+      "organization": "보건복지부 아동학대대응과",
+      "summary": [
+        "실종아동 등 보호 및 지원",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "보건복지부 아동학대대응과"
+      ],
+      "plain_desc": "'실종아동 등 보호 및 지원' 서비스입니다. 지원 대상 및 신청 방법은 보건복지부 아동학대대응과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000032&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "안전·위기",
+      "support_cycle": "수시",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:17:57.604470+09:00"
+    },
+    {
+      "id": "national_WLF00000027",
+      "source": "national",
+      "title": "장애인 운전교육 사업",
+      "organization": "보건복지부 장애예방운전지원과",
+      "summary": [
+        "장애인 운전교육 사업",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "보건복지부 장애예방운전지원과"
+      ],
+      "plain_desc": "'장애인 운전교육 사업' 서비스입니다. 지원 대상 및 신청 방법은 보건복지부 장애예방운전지원과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000027&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "",
+      "support_cycle": "수시",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:18:19.069333+09:00"
+    },
+    {
+      "id": "national_WLF00001076",
+      "source": "national",
+      "title": "서민금융 활성화 지원(햇살론youth 보증사업)",
+      "organization": "금융위원회 서민금융과",
+      "summary": [
+        "서민금융 활성화 지원(햇살론",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "금융위원회 서민금융과"
+      ],
+      "plain_desc": "'서민금융 활성화 지원(햇살론youth 보증사업)' 서비스입니다. 지원 대상 및 신청 방법은 금융위원회 서민금융과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001076&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "생활지원,서민금융",
+      "support_cycle": "1회성",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:18:40.551164+09:00"
+    },
+    {
+      "id": "national_WLF00000031",
+      "source": "national",
+      "title": "노후준비서비스",
+      "organization": "보건복지부 인구정책총괄과",
+      "summary": [
+        "노후준비서비스",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "보건복지부 인구정책총괄과"
+      ],
+      "plain_desc": "'노후준비서비스' 서비스입니다. 지원 대상 및 신청 방법은 보건복지부 인구정책총괄과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000031&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "생활지원",
+      "support_cycle": "수시",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:19:02.064644+09:00"
+    },
+    {
+      "id": "national_WLF00001083",
+      "source": "national",
+      "title": "디지털배움터",
+      "organization": "과학기술정보통신부 디지털포용정책팀",
+      "summary": [
+        "디지털배움터",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "과학기술정보통신부 디지털포용"
+      ],
+      "plain_desc": "'디지털배움터' 서비스입니다. 지원 대상 및 신청 방법은 과학기술정보통신부 디지털포용정책팀에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001083&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "교육",
+      "support_cycle": "수시",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:19:23.474021+09:00"
+    },
+    {
+      "id": "national_WLF00000066",
+      "source": "national",
+      "title": "장애인 집합 정보화교육",
+      "organization": "과학기술정보통신부 디지털포용정책팀",
+      "summary": [
+        "장애인 집합 정보화교육",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "과학기술정보통신부 디지털포용"
+      ],
+      "plain_desc": "'장애인 집합 정보화교육' 서비스입니다. 지원 대상 및 신청 방법은 과학기술정보통신부 디지털포용정책팀에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000066&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "교육",
+      "support_cycle": "수시",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:19:44.940314+09:00"
+    },
+    {
+      "id": "national_WLF00000056",
+      "source": "national",
+      "title": "의료급여(요양비)",
+      "organization": "보건복지부 기초의료보장과",
+      "summary": [
+        "의료급여(요양비)",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "보건복지부 기초의료보장과"
+      ],
+      "plain_desc": "'의료급여(요양비)' 서비스입니다. 지원 대상 및 신청 방법은 보건복지부 기초의료보장과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000056&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "신체건강,임신·출산",
+      "support_cycle": "수시",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:20:06.391325+09:00"
+    },
+    {
+      "id": "national_WLF00000067",
+      "source": "national",
+      "title": "의료급여 장애인보조기기 지원",
+      "organization": "보건복지부 기초의료보장과",
+      "summary": [
+        "의료급여 장애인보조기기 지원",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "보건복지부 기초의료보장과"
+      ],
+      "plain_desc": "'의료급여 장애인보조기기 지원' 서비스입니다. 지원 대상 및 신청 방법은 보건복지부 기초의료보장과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000067&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "신체건강,생활지원",
+      "support_cycle": "수시",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:20:27.814858+09:00"
+    },
+    {
+      "id": "national_WLF00000061",
+      "source": "national",
+      "title": "의료급여임신.출산진료비지원",
+      "organization": "보건복지부 기초의료보장과",
+      "summary": [
+        "의료급여임신.출산진료비지원",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "보건복지부 기초의료보장과"
+      ],
+      "plain_desc": "'의료급여임신.출산진료비지원' 서비스입니다. 지원 대상 및 신청 방법은 보건복지부 기초의료보장과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000061&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "신체건강,임신·출산",
+      "support_cycle": "수시",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:20:49.337655+09:00"
+    },
+    {
+      "id": "national_WLF00000782",
+      "source": "national",
+      "title": "(북한이탈주민)사회보장 지원(수급권자 범위의 특례)",
+      "organization": "통일부 안전지원과",
+      "summary": [
+        "(북한이탈주민)사회보장 지원",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "통일부 안전지원과"
+      ],
+      "plain_desc": "'(북한이탈주민)사회보장 지원(수급권자 범위의 특례)' 서비스입니다. 지원 대상 및 신청 방법은 통일부 안전지원과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000782&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "신체건강,정신건강,생활지원",
+      "support_cycle": "월",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:21:10.816253+09:00"
+    },
+    {
+      "id": "national_WLF00000044",
+      "source": "national",
+      "title": "생활안정자금(융자)",
+      "organization": "고용노동부 퇴직연금복지과",
+      "summary": [
+        "생활안정자금(융자)",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "고용노동부 퇴직연금복지과"
+      ],
+      "plain_desc": "'생활안정자금(융자)' 서비스입니다. 지원 대상 및 신청 방법은 고용노동부 퇴직연금복지과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000044&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "생활지원,서민금융",
+      "support_cycle": "1회성",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:21:32.362834+09:00"
+    },
+    {
+      "id": "national_WLF00000040",
+      "source": "national",
+      "title": "선천성대사이상 검사 및 환아관리",
+      "organization": "보건복지부 출산정책과",
+      "summary": [
+        "선천성대사이상 검사 및 환아",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "보건복지부 출산정책과"
+      ],
+      "plain_desc": "'선천성대사이상 검사 및 환아관리' 서비스입니다. 지원 대상 및 신청 방법은 보건복지부 출산정책과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000040&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "신체건강",
+      "support_cycle": "분기",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:21:53.849184+09:00"
+    },
+    {
+      "id": "national_WLF00000033",
+      "source": "national",
+      "title": "노인복지민간단체지원",
+      "organization": "보건복지부 노인지원과",
+      "summary": [
+        "노인복지민간단체지원",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "보건복지부 노인지원과"
+      ],
+      "plain_desc": "'노인복지민간단체지원' 서비스입니다. 지원 대상 및 신청 방법은 보건복지부 노인지원과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000033&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "신체건강,정신건강,생활지원,일자리,문화·여가,보호·돌봄",
+      "support_cycle": "년",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:22:15.272901+09:00"
+    },
+    {
+      "id": "national_WLF00001093",
+      "source": "national",
+      "title": "독거노인·장애인 응급안전안심서비스",
+      "organization": "보건복지부 노인정책과",
+      "summary": [
+        "독거노인·장애인 응급안전안심",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "보건복지부 노인정책과"
+      ],
+      "plain_desc": "'독거노인·장애인 응급안전안심서비스' 서비스입니다. 지원 대상 및 신청 방법은 보건복지부 노인정책과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001093&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "생활지원,안전·위기",
+      "support_cycle": "수시",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:22:36.696346+09:00"
+    },
+    {
+      "id": "national_WLF00000896",
+      "source": "national",
+      "title": "중독관리통합지원센터 지원",
+      "organization": "보건복지부 정신건강관리과",
+      "summary": [
+        "중독관리통합지원센터 지원",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "보건복지부 정신건강관리과"
+      ],
+      "plain_desc": "'중독관리통합지원센터 지원' 서비스입니다. 지원 대상 및 신청 방법은 보건복지부 정신건강관리과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000896&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "정신건강",
+      "support_cycle": "월",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:22:58.326132+09:00"
+    },
+    {
+      "id": "national_WLF00001088",
+      "source": "national",
+      "title": "고위험 임산부 의료비 지원",
+      "organization": "보건복지부 출산정책과",
+      "summary": [
+        "고위험 임산부 의료비 지원",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "보건복지부 출산정책과"
+      ],
+      "plain_desc": "'고위험 임산부 의료비 지원' 서비스입니다. 지원 대상 및 신청 방법은 보건복지부 출산정책과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001088&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "신체건강,임신·출산",
+      "support_cycle": "1회성",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:23:19.799129+09:00"
+    },
+    {
+      "id": "national_WLF00001094",
+      "source": "national",
+      "title": "어린이집지원(교사근무환경개선비,교사겸직원장지원비)",
+      "organization": "교육부 영유아교원지원과",
+      "summary": [
+        "어린이집지원(교사근무환경개선",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "교육부 영유아교원지원과"
+      ],
+      "plain_desc": "'어린이집지원(교사근무환경개선비,교사겸직원장지원비)' 서비스입니다. 지원 대상 및 신청 방법은 교육부 영유아교원지원과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001094&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "생활지원,일자리",
+      "support_cycle": "월",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:23:41.223392+09:00"
+    },
+    {
+      "id": "national_WLF00000041",
+      "source": "national",
+      "title": "어선원 및 어선 재해보상보험",
+      "organization": "해양수산부 소득복지과",
+      "summary": [
+        "어선원 및 어선 재해보상보험",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "해양수산부 소득복지과"
+      ],
+      "plain_desc": "'어선원 및 어선 재해보상보험' 서비스입니다. 지원 대상 및 신청 방법은 해양수산부 소득복지과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000041&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "신체건강,안전·위기,서민금융",
+      "support_cycle": "수시",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:24:02.677998+09:00"
+    },
+    {
+      "id": "national_WLF00001072",
+      "source": "national",
+      "title": "가정폭력·성폭력 등 폭력 피해자 무료법률지원",
+      "organization": "성평등가족 친밀관계폭력방지과",
+      "summary": [
+        "가정폭력·성폭력 등 폭력 피",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "성평등가족 친밀관계폭력방지과"
+      ],
+      "plain_desc": "'가정폭력·성폭력 등 폭력 피해자 무료법률지원' 서비스입니다. 지원 대상 및 신청 방법은 성평등가족 친밀관계폭력방지과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001072&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "안전·위기,법률",
+      "support_cycle": "수시",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:24:24.184264+09:00"
+    },
+    {
+      "id": "national_WLF00000062",
+      "source": "national",
+      "title": "기존주택등 매입임대주택 지원사업",
+      "organization": "국토교통부 주거복지지원과",
+      "summary": [
+        "기존주택등 매입임대주택 지원",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "국토교통부 주거복지지원과"
+      ],
+      "plain_desc": "'기존주택등 매입임대주택 지원사업' 서비스입니다. 지원 대상 및 신청 방법은 국토교통부 주거복지지원과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000062&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "주거",
+      "support_cycle": "수시",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:24:45.608257+09:00"
+    },
+    {
+      "id": "national_WLF00000923",
+      "source": "national",
+      "title": "의료급여 중증질환, 희귀질환 및 중증난치질환자 지원",
+      "organization": "보건복지부 기초의료보장과",
+      "summary": [
+        "의료급여 중증질환, 희귀질환",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "보건복지부 기초의료보장과"
+      ],
+      "plain_desc": "'의료급여 중증질환, 희귀질환 및 중증난치질환자 지원' 서비스입니다. 지원 대상 및 신청 방법은 보건복지부 기초의료보장과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000923&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "신체건강",
+      "support_cycle": "수시",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:25:07.072767+09:00"
+    },
+    {
+      "id": "national_WLF00000028",
+      "source": "national",
+      "title": "공동육아나눔터 운영",
+      "organization": "성평등가족부 가족친화서비스과",
+      "summary": [
+        "공동육아나눔터 운영",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "성평등가족부 가족친화서비스과"
+      ],
+      "plain_desc": "'공동육아나눔터 운영' 서비스입니다. 지원 대상 및 신청 방법은 성평등가족부 가족친화서비스과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000028&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "보육",
+      "support_cycle": "수시",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:25:28.494419+09:00"
+    },
+    {
+      "id": "national_WLF00000948",
+      "source": "national",
+      "title": "학교 밖 청소년 지원",
+      "organization": "성평등가족부 학교밖청소년지원과",
+      "summary": [
+        "학교 밖 청소년 지원",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "성평등가족부 학교밖청소년지원"
+      ],
+      "plain_desc": "'학교 밖 청소년 지원' 서비스입니다. 지원 대상 및 신청 방법은 성평등가족부 학교밖청소년지원과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000948&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "생활지원,일자리,교육",
+      "support_cycle": "수시",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:25:49.943844+09:00"
+    },
+    {
+      "id": "national_WLF00000074",
+      "source": "national",
+      "title": "양곡할인",
+      "organization": "농림축산식품부 식량정책과",
+      "summary": [
+        "양곡할인",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "농림축산식품부 식량정책과"
+      ],
+      "plain_desc": "'양곡할인' 서비스입니다. 지원 대상 및 신청 방법은 농림축산식품부 식량정책과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000074&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "생활지원",
+      "support_cycle": "월",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:26:11.370746+09:00"
+    },
+    {
+      "id": "national_WLF00001096",
+      "source": "national",
+      "title": "농촌출신대학생학자금융자",
+      "organization": "농림축산식품부 농촌사회서비스과",
+      "summary": [
+        "농촌출신대학생학자금융자",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "농림축산식품부 농촌사회서비스"
+      ],
+      "plain_desc": "'농촌출신대학생학자금융자' 서비스입니다. 지원 대상 및 신청 방법은 농림축산식품부 농촌사회서비스과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001096&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "교육,서민금융",
+      "support_cycle": "분기",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:26:32.886085+09:00"
+    },
+    {
+      "id": "national_WLF00000035",
+      "source": "national",
+      "title": "개발제한구역 거주민 생활비용보조사업",
+      "organization": "국토교통부 녹색도시과",
+      "summary": [
+        "개발제한구역 거주민 생활비용",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "국토교통부 녹색도시과"
+      ],
+      "plain_desc": "'개발제한구역 거주민 생활비용보조사업' 서비스입니다. 지원 대상 및 신청 방법은 국토교통부 녹색도시과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000035&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "생활지원,주거",
+      "support_cycle": "년",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:26:54.371108+09:00"
+    },
+    {
+      "id": "national_WLF00000054",
+      "source": "national",
+      "title": "국가보훈대상자 보훈장학금",
+      "organization": "국가보훈부 생활안정과",
+      "summary": [
+        "국가보훈대상자 보훈장학금",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "국가보훈부 생활안정과"
+      ],
+      "plain_desc": "'국가보훈대상자 보훈장학금' 서비스입니다. 지원 대상 및 신청 방법은 국가보훈부 생활안정과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000054&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "교육",
+      "support_cycle": "반기",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:27:15.830616+09:00"
+    },
+    {
+      "id": "national_WLF00000058",
+      "source": "national",
+      "title": "소상공인지원(융자)",
+      "organization": "중소벤처기업부 소상공인경영안정정책과",
+      "summary": [
+        "소상공인지원(융자)",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "중소벤처기업부 소상공인경영안"
+      ],
+      "plain_desc": "'소상공인지원(융자)' 서비스입니다. 지원 대상 및 신청 방법은 중소벤처기업부 소상공인경영안정정책과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000058&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "서민금융",
+      "support_cycle": "1회성",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:27:37.558832+09:00"
+    },
+    {
+      "id": "national_WLF00001103",
+      "source": "national",
+      "title": "초중고 교육비 지원사업(고교학비 지원)",
+      "organization": "교육부 학생지원총괄과",
+      "summary": [
+        "초중고 교육비 지원사업(고교",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "교육부 학생지원총괄과"
+      ],
+      "plain_desc": "'초중고 교육비 지원사업(고교학비 지원)' 서비스입니다. 지원 대상 및 신청 방법은 교육부 학생지원총괄과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001103&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "교육",
+      "support_cycle": "수시",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:27:58.981064+09:00"
+    },
+    {
+      "id": "national_WLF00001091",
+      "source": "national",
+      "title": "국가유공자의료급여증발급",
+      "organization": "국가보훈부 보훈의료정책과",
+      "summary": [
+        "국가유공자의료급여증발급",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "국가보훈부 보훈의료정책과"
+      ],
+      "plain_desc": "'국가유공자의료급여증발급' 서비스입니다. 지원 대상 및 신청 방법은 국가보훈부 보훈의료정책과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001091&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "신체건강,정신건강",
+      "support_cycle": "수시",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:28:20.522078+09:00"
+    },
+    {
+      "id": "national_WLF00001075",
+      "source": "national",
+      "title": "장애학생 정보격차 해소 지원",
+      "organization": "교육부 디지털교육지원과",
+      "summary": [
+        "장애학생 정보격차 해소 지원",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "교육부 디지털교육지원과"
+      ],
+      "plain_desc": "'장애학생 정보격차 해소 지원' 서비스입니다. 지원 대상 및 신청 방법은 교육부 디지털교육지원과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001075&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "교육",
+      "support_cycle": "수시",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:28:41.975645+09:00"
+    },
+    {
+      "id": "national_WLF00001070",
+      "source": "national",
+      "title": "척수장애인재활훈련지원",
+      "organization": "보건복지부 장애인정책과",
+      "summary": [
+        "척수장애인재활훈련지원",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "보건복지부 장애인정책과"
+      ],
+      "plain_desc": "'척수장애인재활훈련지원' 서비스입니다. 지원 대상 및 신청 방법은 보건복지부 장애인정책과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001070&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "신체건강,생활지원,문화·여가",
+      "support_cycle": "년",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:29:03.549468+09:00"
+    },
+    {
+      "id": "national_WLF00000024",
+      "source": "national",
+      "title": "아이돌봄서비스",
+      "organization": "성평등가족부 아이돌봄지원과",
+      "summary": [
+        "아이돌봄서비스",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "성평등가족부 아이돌봄지원과"
+      ],
+      "plain_desc": "'아이돌봄서비스' 서비스입니다. 지원 대상 및 신청 방법은 성평등가족부 아이돌봄지원과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000024&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "보육,보호·돌봄",
+      "support_cycle": "수시",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:29:25.085816+09:00"
+    },
+    {
+      "id": "national_WLF00000071",
+      "source": "national",
+      "title": "여성경제활동 촉진지원(여성새로일하기지원센터 사업)",
+      "organization": "성평등가족부 경력이음지원과",
+      "summary": [
+        "여성경제활동 촉진지원(여성새",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "성평등가족부 경력이음지원과"
+      ],
+      "plain_desc": "'여성경제활동 촉진지원(여성새로일하기지원센터 사업)' 서비스입니다. 지원 대상 및 신청 방법은 성평등가족부 경력이음지원과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000071&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "일자리",
+      "support_cycle": "수시",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:29:46.667266+09:00"
+    },
+    {
+      "id": "national_WLF00001090",
+      "source": "national",
+      "title": "장애인고용장려금",
+      "organization": "고용노동부 장애인고용과",
+      "summary": [
+        "장애인고용장려금",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "고용노동부 장애인고용과"
+      ],
+      "plain_desc": "'장애인고용장려금' 서비스입니다. 지원 대상 및 신청 방법은 고용노동부 장애인고용과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001090&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "일자리",
+      "support_cycle": "월",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:30:08.122263+09:00"
+    },
+    {
+      "id": "national_WLF00000052",
+      "source": "national",
+      "title": "인문100년장학금",
+      "organization": "교육부 청년장학지원과",
+      "summary": [
+        "인문100년장학금",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "교육부 청년장학지원과"
+      ],
+      "plain_desc": "'인문100년장학금' 서비스입니다. 지원 대상 및 신청 방법은 교육부 청년장학지원과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000052&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "생활지원,교육",
+      "support_cycle": "반기",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:30:29.567170+09:00"
+    },
+    {
+      "id": "national_WLF00000747",
+      "source": "national",
+      "title": "중장기복무 제대군인 무료법률 구조지원",
+      "organization": "국가보훈부 제대군인일자리과",
+      "summary": [
+        "중장기복무 제대군인 무료법률",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "국가보훈부 제대군인일자리과"
+      ],
+      "plain_desc": "'중장기복무 제대군인 무료법률 구조지원' 서비스입니다. 지원 대상 및 신청 방법은 국가보훈부 제대군인일자리과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000747&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "안전·위기,법률",
+      "support_cycle": "수시",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:30:51.070622+09:00"
+    },
+    {
+      "id": "national_WLF00001089",
+      "source": "national",
+      "title": "교육급여(맞춤형 급여)",
+      "organization": "교육부 학생지원총괄과",
+      "summary": [
+        "교육급여(맞춤형 급여)",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "교육부 학생지원총괄과"
+      ],
+      "plain_desc": "'교육급여(맞춤형 급여)' 서비스입니다. 지원 대상 및 신청 방법은 교육부 학생지원총괄과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001089&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "교육",
+      "support_cycle": "년",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:31:12.578948+09:00"
+    },
+    {
+      "id": "national_WLF00001104",
+      "source": "national",
+      "title": "한부모가족자녀 교육비 지원",
+      "organization": "교육부 학생지원총괄과",
+      "summary": [
+        "한부모가족자녀 교육비 지원",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "교육부 학생지원총괄과"
+      ],
+      "plain_desc": "'한부모가족자녀 교육비 지원' 서비스입니다. 지원 대상 및 신청 방법은 교육부 학생지원총괄과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001104&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "교육",
+      "support_cycle": "년",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:31:34.081230+09:00"
+    },
+    {
+      "id": "national_WLF00000946",
+      "source": "national",
+      "title": "산림복지서비스이용권",
+      "organization": "산림청 산림복지교육과",
+      "summary": [
+        "산림복지서비스이용권",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "산림청 산림복지교육과"
+      ],
+      "plain_desc": "'산림복지서비스이용권' 서비스입니다. 지원 대상 및 신청 방법은 산림청 산림복지교육과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000946&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "문화·여가",
+      "support_cycle": "1회성",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:31:55.592860+09:00"
+    },
+    {
+      "id": "national_WLF00000068",
+      "source": "national",
+      "title": "장애인고용증진융자",
+      "organization": "고용노동부 장애인고용과",
+      "summary": [
+        "장애인고용증진융자",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "고용노동부 장애인고용과"
+      ],
+      "plain_desc": "'장애인고용증진융자' 서비스입니다. 지원 대상 및 신청 방법은 고용노동부 장애인고용과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000068&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "생활지원,일자리",
+      "support_cycle": "수시",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:32:17.057807+09:00"
+    },
+    {
+      "id": "national_WLF00001101",
+      "source": "national",
+      "title": "폭력피해자 주거지원 사업",
+      "organization": "성평등가족부 친밀관계폭력방지과",
+      "summary": [
+        "폭력피해자 주거지원 사업",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "성평등가족부 친밀관계폭력방지"
+      ],
+      "plain_desc": "'폭력피해자 주거지원 사업' 서비스입니다. 지원 대상 및 신청 방법은 성평등가족부 친밀관계폭력방지과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001101&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "주거,안전·위기",
+      "support_cycle": "1회성",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:32:38.529445+09:00"
+    },
+    {
+      "id": "national_WLF00001092",
+      "source": "national",
+      "title": "요양급여(보조기)-산재보험급여",
+      "organization": "고용노동부 산재보상정책과",
+      "summary": [
+        "요양급여(보조기)-산재보험급",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "고용노동부 산재보상정책과"
+      ],
+      "plain_desc": "'요양급여(보조기)-산재보험급여' 서비스입니다. 지원 대상 및 신청 방법은 고용노동부 산재보상정책과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001092&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "신체건강",
+      "support_cycle": "월",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:33:00.010261+09:00"
+    },
+    {
+      "id": "national_WLF00000023",
+      "source": "national",
+      "title": "농어가목돈마련저축 저축장려금 지급",
+      "organization": "금융위원회 은행과",
+      "summary": [
+        "농어가목돈마련저축 저축장려금",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "금융위원회 은행과"
+      ],
+      "plain_desc": "'농어가목돈마련저축 저축장려금 지급' 서비스입니다. 지원 대상 및 신청 방법은 금융위원회 은행과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000023&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "서민금융",
+      "support_cycle": "1회성",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:33:21.464884+09:00"
+    },
+    {
+      "id": "national_WLF00000047",
+      "source": "national",
+      "title": "고혈압·당뇨병 등록관리사업",
+      "organization": "질병관리청 만성질환예방과",
+      "summary": [
+        "고혈압·당뇨병 등록관리사업",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "질병관리청 만성질환예방과"
+      ],
+      "plain_desc": "'고혈압·당뇨병 등록관리사업' 서비스입니다. 지원 대상 및 신청 방법은 질병관리청 만성질환예방과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000047&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "신체건강",
+      "support_cycle": "월",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:33:42.960813+09:00"
+    },
+    {
+      "id": "national_WLF00001087",
+      "source": "national",
+      "title": "가사·간병 방문 지원사업",
+      "organization": "보건복지부 사회서비스사업과",
+      "summary": [
+        "가사·간병 방문 지원사업",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "보건복지부 사회서비스사업과"
+      ],
+      "plain_desc": "'가사·간병 방문 지원사업' 서비스입니다. 지원 대상 및 신청 방법은 보건복지부 사회서비스사업과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001087&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "생활지원,보호·돌봄",
+      "support_cycle": "월",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:34:04.400877+09:00"
+    },
+    {
+      "id": "national_WLF00000038",
+      "source": "national",
+      "title": "독립유공자 제수비 지급",
+      "organization": "국가보훈부 보훈문화정책과",
+      "summary": [
+        "독립유공자 제수비 지급",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "국가보훈부 보훈문화정책과"
+      ],
+      "plain_desc": "'독립유공자 제수비 지급' 서비스입니다. 지원 대상 및 신청 방법은 국가보훈부 보훈문화정책과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000038&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "생활지원",
+      "support_cycle": "년",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:34:25.828961+09:00"
+    },
+    {
+      "id": "national_WLF00000022",
+      "source": "national",
+      "title": "산재근로자 사회심리재활지원",
+      "organization": "고용노동부 산재보상정책과",
+      "summary": [
+        "산재근로자 사회심리재활지원",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "고용노동부 산재보상정책과"
+      ],
+      "plain_desc": "'산재근로자 사회심리재활지원' 서비스입니다. 지원 대상 및 신청 방법은 고용노동부 산재보상정책과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000022&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "신체건강,정신건강,생활지원,문화·여가,안전·위기,보호·돌봄",
+      "support_cycle": "월",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:34:47.318890+09:00"
+    },
+    {
+      "id": "national_WLF00001069",
+      "source": "national",
+      "title": "산재근로자 합병증 등 예방관리",
+      "organization": "고용노동부 산재보상정책과",
+      "summary": [
+        "산재근로자 합병증 등 예방관",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "고용노동부 산재보상정책과"
+      ],
+      "plain_desc": "'산재근로자 합병증 등 예방관리' 서비스입니다. 지원 대상 및 신청 방법은 고용노동부 산재보상정책과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001069&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "신체건강",
+      "support_cycle": "월",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:35:08.732890+09:00"
+    },
+    {
+      "id": "national_WLF00000750",
+      "source": "national",
+      "title": "애국지사특별예우금",
+      "organization": "국가보훈부 보훈문화정책과",
+      "summary": [
+        "애국지사특별예우금",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "국가보훈부 보훈문화정책과"
+      ],
+      "plain_desc": "'애국지사특별예우금' 서비스입니다. 지원 대상 및 신청 방법은 국가보훈부 보훈문화정책과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000750&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "생활지원",
+      "support_cycle": "월",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:35:30.213749+09:00"
+    },
+    {
+      "id": "national_WLF00001086",
+      "source": "national",
+      "title": "특별현금급여(가족요양비)",
+      "organization": "보건복지부 요양보험제도과",
+      "summary": [
+        "특별현금급여(가족요양비)",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "보건복지부 요양보험제도과"
+      ],
+      "plain_desc": "'특별현금급여(가족요양비)' 서비스입니다. 지원 대상 및 신청 방법은 보건복지부 요양보험제도과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001086&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "생활지원,보호·돌봄",
+      "support_cycle": "월",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:35:51.628429+09:00"
+    },
+    {
+      "id": "national_WLF00001080",
+      "source": "national",
+      "title": "산재근로자 생활안정자금융자",
+      "organization": "고용노동부 산재보상정책과",
+      "summary": [
+        "산재근로자 생활안정자금융자",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "고용노동부 산재보상정책과"
+      ],
+      "plain_desc": "'산재근로자 생활안정자금융자' 서비스입니다. 지원 대상 및 신청 방법은 고용노동부 산재보상정책과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001080&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "생활지원,서민금융",
+      "support_cycle": "수시",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:36:13.267794+09:00"
+    },
+    {
+      "id": "national_WLF00001074",
+      "source": "national",
+      "title": "재해보상금",
+      "organization": "국가보훈부 보상정책과",
+      "summary": [
+        "재해보상금",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "국가보훈부 보상정책과"
+      ],
+      "plain_desc": "'재해보상금' 서비스입니다. 지원 대상 및 신청 방법은 국가보훈부 보상정책과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001074&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "생활지원,안전·위기",
+      "support_cycle": "1회성",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:36:34.767233+09:00"
+    },
+    {
+      "id": "national_WLF00000781",
+      "source": "national",
+      "title": "여성청소년 생리용품 지원",
+      "organization": "성평등가족부 청소년정책과",
+      "summary": [
+        "여성청소년 생리용품 지원",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "성평등가족부 청소년정책과"
+      ],
+      "plain_desc": "'여성청소년 생리용품 지원' 서비스입니다. 지원 대상 및 신청 방법은 성평등가족부 청소년정책과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000781&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "신체건강,생활지원",
+      "support_cycle": "년",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:36:56.356396+09:00"
+    },
+    {
+      "id": "national_WLF00000075",
+      "source": "national",
+      "title": "여성기업종합지원센터운영",
+      "organization": "중소벤처기업부 중소기업제도과",
+      "summary": [
+        "여성기업종합지원센터운영",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "중소벤처기업부 중소기업제도과"
+      ],
+      "plain_desc": "'여성기업종합지원센터운영' 서비스입니다. 지원 대상 및 신청 방법은 중소벤처기업부 중소기업제도과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000075&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "일자리",
+      "support_cycle": "수시",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:37:17.827692+09:00"
+    },
+    {
+      "id": "national_WLF00000922",
+      "source": "national",
+      "title": "여성기업 판로지원",
+      "organization": "중소벤처기업부 중소기업제도과",
+      "summary": [
+        "여성기업 판로지원",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "중소벤처기업부 중소기업제도과"
+      ],
+      "plain_desc": "'여성기업 판로지원' 서비스입니다. 지원 대상 및 신청 방법은 중소벤처기업부 중소기업제도과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000922&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "일자리",
+      "support_cycle": "1회성",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:37:39.375404+09:00"
+    },
+    {
+      "id": "national_WLF00001085",
+      "source": "national",
+      "title": "산재근로자원직장복귀지원",
+      "organization": "고용노동부 산재보상정책과",
+      "summary": [
+        "산재근로자원직장복귀지원",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "고용노동부 산재보상정책과"
+      ],
+      "plain_desc": "'산재근로자원직장복귀지원' 서비스입니다. 지원 대상 및 신청 방법은 고용노동부 산재보상정책과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001085&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "일자리,안전·위기",
+      "support_cycle": "1회성",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:38:00.899812+09:00"
+    },
+    {
+      "id": "national_WLF00000055",
+      "source": "national",
+      "title": "통합문화이용권",
+      "organization": "문화체육관광부 문화정책과",
+      "summary": [
+        "통합문화이용권",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "문화체육관광부 문화정책과"
+      ],
+      "plain_desc": "'통합문화이용권' 서비스입니다. 지원 대상 및 신청 방법은 문화체육관광부 문화정책과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000055&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "문화·여가",
+      "support_cycle": "년",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:38:22.378041+09:00"
+    },
+    {
+      "id": "national_WLF00000036",
+      "source": "national",
+      "title": "주거취약계층 주거상향 지원사업",
+      "organization": "국토교통부 주거복지정책과",
+      "summary": [
+        "주거취약계층 주거상향 지원사",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "국토교통부 주거복지정책과"
+      ],
+      "plain_desc": "'주거취약계층 주거상향 지원사업' 서비스입니다. 지원 대상 및 신청 방법은 국토교통부 주거복지정책과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000036&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "생활지원,주거",
+      "support_cycle": "1회성",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:38:43.945492+09:00"
+    },
+    {
+      "id": "national_WLF00000064",
+      "source": "national",
+      "title": "발달장애인 부모상담지원사업",
+      "organization": "보건복지부 장애인서비스과",
+      "summary": [
+        "발달장애인 부모상담지원사업",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "보건복지부 장애인서비스과"
+      ],
+      "plain_desc": "'발달장애인 부모상담지원사업' 서비스입니다. 지원 대상 및 신청 방법은 보건복지부 장애인서비스과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000064&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "정신건강",
+      "support_cycle": "월",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:39:05.471990+09:00"
+    },
+    {
+      "id": "national_WLF00000030",
+      "source": "national",
+      "title": "육아종합지원서비스 제공",
+      "organization": "교육부 영유아정책총괄과",
+      "summary": [
+        "육아종합지원서비스 제공",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "교육부 영유아정책총괄과"
+      ],
+      "plain_desc": "'육아종합지원서비스 제공' 서비스입니다. 지원 대상 및 신청 방법은 교육부 영유아정책총괄과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000030&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "보육",
+      "support_cycle": "분기",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:39:26.946440+09:00"
+    },
+    {
+      "id": "national_WLF00000053",
+      "source": "national",
+      "title": "풍수해·지진재해보험료 지원",
+      "organization": "행정안전부 재난보험과",
+      "summary": [
+        "풍수해·지진재해보험료 지원",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "행정안전부 재난보험과"
+      ],
+      "plain_desc": "'풍수해·지진재해보험료 지원' 서비스입니다. 지원 대상 및 신청 방법은 행정안전부 재난보험과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000053&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "생활지원,안전·위기",
+      "support_cycle": "년",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:39:48.459019+09:00"
+    },
+    {
+      "id": "national_WLF00000048",
+      "source": "national",
+      "title": "국가유공자등대부지원",
+      "organization": "국가보훈부 생활안정과",
+      "summary": [
+        "국가유공자등대부지원",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "국가보훈부 생활안정과"
+      ],
+      "plain_desc": "'국가유공자등대부지원' 서비스입니다. 지원 대상 및 신청 방법은 국가보훈부 생활안정과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000048&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "생활지원,주거,서민금융",
+      "support_cycle": "1회성",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:40:09.950417+09:00"
+    },
+    {
+      "id": "national_WLF00000078",
+      "source": "national",
+      "title": "청소년특별지원",
+      "organization": "성평등가족부 학교밖청소년지원과",
+      "summary": [
+        "청소년특별지원",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "성평등가족부 학교밖청소년지원"
+      ],
+      "plain_desc": "'청소년특별지원' 서비스입니다. 지원 대상 및 신청 방법은 성평등가족부 학교밖청소년지원과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000078&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "신체건강,생활지원,일자리,문화·여가,교육,법률",
+      "support_cycle": "수시",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:40:31.490984+09:00"
+    },
+    {
+      "id": "national_WLF00001071",
+      "source": "national",
+      "title": "우수학생 국가장학금 지원",
+      "organization": "과학기술정보통신부 미래인재양성과",
+      "summary": [
+        "우수학생 국가장학금 지원",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "과학기술정보통신부 미래인재양"
+      ],
+      "plain_desc": "'우수학생 국가장학금 지원' 서비스입니다. 지원 대상 및 신청 방법은 과학기술정보통신부 미래인재양성과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001071&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "생활지원,교육",
+      "support_cycle": "반기",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:40:52.968569+09:00"
+    },
+    {
+      "id": "national_WLF00001073",
+      "source": "national",
+      "title": "장기복무제대군인수업료지원",
+      "organization": "국가보훈부 제대군인일자리과",
+      "summary": [
+        "장기복무제대군인수업료지원",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "국가보훈부 제대군인일자리과"
+      ],
+      "plain_desc": "'장기복무제대군인수업료지원' 서비스입니다. 지원 대상 및 신청 방법은 국가보훈부 제대군인일자리과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001073&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "교육",
+      "support_cycle": "분기",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:41:14.495325+09:00"
+    },
+    {
+      "id": "national_WLF00001067",
+      "source": "national",
+      "title": "장애아보육료지원",
+      "organization": "교육부 영유아재정과",
+      "summary": [
+        "장애아보육료지원",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "교육부 영유아재정과"
+      ],
+      "plain_desc": "'장애아보육료지원' 서비스입니다. 지원 대상 및 신청 방법은 교육부 영유아재정과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001067&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "보육",
+      "support_cycle": "월",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:41:36.050775+09:00"
+    },
+    {
+      "id": "national_WLF00000917",
+      "source": "national",
+      "title": "긴급복지 주거지원",
+      "organization": "보건복지부 기초생활보장과",
+      "summary": [
+        "긴급복지 주거지원",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "보건복지부 기초생활보장과"
+      ],
+      "plain_desc": "'긴급복지 주거지원' 서비스입니다. 지원 대상 및 신청 방법은 보건복지부 기초생활보장과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000917&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "주거",
+      "support_cycle": "월",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:41:57.570790+09:00"
+    },
+    {
+      "id": "national_WLF00000892",
+      "source": "national",
+      "title": "긴급복지 장제비지원",
+      "organization": "보건복지부 기초생활보장과",
+      "summary": [
+        "긴급복지 장제비지원",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "보건복지부 기초생활보장과"
+      ],
+      "plain_desc": "'긴급복지 장제비지원' 서비스입니다. 지원 대상 및 신청 방법은 보건복지부 기초생활보장과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000892&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "생활지원",
+      "support_cycle": "1회성",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:42:19.134156+09:00"
+    },
+    {
+      "id": "national_WLF00001063",
+      "source": "national",
+      "title": "주거안정 월세대출",
+      "organization": "국토교통부 주택기금과",
+      "summary": [
+        "주거안정 월세대출",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "국토교통부 주택기금과"
+      ],
+      "plain_desc": "'주거안정 월세대출' 서비스입니다. 지원 대상 및 신청 방법은 국토교통부 주택기금과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001063&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "주거,서민금융",
+      "support_cycle": "월",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:42:40.605522+09:00"
+    },
+    {
+      "id": "national_WLF00000037",
+      "source": "national",
+      "title": "시간제보육 지원",
+      "organization": "교육부 영유아정책총괄과",
+      "summary": [
+        "시간제보육 지원",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "교육부 영유아정책총괄과"
+      ],
+      "plain_desc": "'시간제보육 지원' 서비스입니다. 지원 대상 및 신청 방법은 교육부 영유아정책총괄과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000037&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "보육",
+      "support_cycle": "수시",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:43:02.134885+09:00"
+    },
+    {
+      "id": "national_WLF00001100",
+      "source": "national",
+      "title": "큰글자책 보급 지원",
+      "organization": "문화체육관광부 도서관정책기획단",
+      "summary": [
+        "큰글자책 보급 지원",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "문화체육관광부 도서관정책기획"
+      ],
+      "plain_desc": "'큰글자책 보급 지원' 서비스입니다. 지원 대상 및 신청 방법은 문화체육관광부 도서관정책기획단에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001100&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "문화·여가",
+      "support_cycle": "1회성",
+      "gemini_ok": false,
+      "updated_at": "2026-06-10T17:43:23.737167+09:00"
+    }
+  ]
 }
