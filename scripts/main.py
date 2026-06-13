@@ -52,19 +52,18 @@ if not WELFARE_API_KEY:
     logger.error("환경변수 WELFARE_API_KEY 가 없습니다. 종료.")
     sys.exit(1)
 
-if not GEMINI_API_KEY:
-    logger.error("환경변수 GEMINI_API_KEY 가 없습니다. 종료.")
-    sys.exit(1)
+GEMINI_API_KEY  = os.environ.get("GEMINI_API_KEY",  "").strip()
+# Gemini는 선택사항으로 변경 (규칙 기반 처리로 대체)
 
 # ─────────────────────────────────────────────
 # 내부 모듈 import
 # ─────────────────────────────────────────────
 sys.path.insert(0, os.path.dirname(__file__))
 
-from fetch_api      import fetch_national_welfare, fetch_local_welfare
-from gemini_process import setup_gemini, process_item, REQUEST_INTERVAL
-from region_mapper  import get_regions_for_item
-from build_json     import (
+from fetch_api       import fetch_national_welfare, fetch_local_welfare
+from rule_processor  import process_item as rule_process_item   # 규칙 기반 처리
+from region_mapper   import get_regions_for_item
+from build_json      import (
     load_existing_data, load_cache, save_cache,
     build_welfare_item, save_welfare_json,
 )
@@ -183,16 +182,12 @@ def main():
     )
 
     # ──────────────────────────────────────────
-    # STEP 4: Gemini 가공
+    # STEP 4: 규칙 기반 분류 + 요약 생성
     # ──────────────────────────────────────────
     logger.info("")
-    logger.info("▶ STEP 4: Gemini 2.5 Flash 가공")
+    logger.info("▶ STEP 4: 규칙 기반 분류 처리 (API 한도 없음)")
 
-    model = setup_gemini(GEMINI_API_KEY)
-    newly_processed  = {}
-    last_req_time    = 0.0
-    gemini_ok_count  = 0
-    gemini_fail_count = 0
+    newly_processed = {}
 
     # 체크포인트용: 기존 유지 아이템 미리 추출
     kept_items = [
@@ -200,50 +195,35 @@ def main():
         if item_id in current_api_ids
         and item_id not in {i["id"] for i in new_items}
     ]
-    CHECKPOINT_INTERVAL = 100   # N건마다 중간 저장
+    CHECKPOINT_INTERVAL = 500   # 500건마다 중간 저장 (규칙 기반은 빠르므로 간격 확대)
 
     for i, raw_item in enumerate(new_items, start=1):
-        # Rate limit 적용
-        elapsed = time.time() - last_req_time
-        if elapsed < REQUEST_INTERVAL and last_req_time > 0:
-            time.sleep(REQUEST_INTERVAL - elapsed)
-
-        title_preview = raw_item.get("title", "")[:35]
-        logger.info(f"  [{i:4d}/{len(new_items)}] {title_preview}")
-
-        gemini_result = process_item(model, raw_item)
-        last_req_time = time.time()
-
+        # 규칙 기반 처리 (API 호출 없음 → 즉시 처리)
+        rule_result  = rule_process_item(raw_item)
         region_info  = get_regions_for_item(raw_item)
-        welfare_item = build_welfare_item(raw_item, gemini_result, region_info)
+        welfare_item = build_welfare_item(raw_item, rule_result, region_info)
 
         newly_processed[raw_item["id"]] = welfare_item
         processed_ids.add(raw_item["id"])
 
-        if gemini_result:
-            gemini_ok_count += 1
-        else:
-            gemini_fail_count += 1
+        if i % 100 == 0:
+            logger.info(f"  처리 중: {i}/{len(new_items)}건")
 
-        # ── 체크포인트 저장 (N건마다 또는 마지막 건) ──
+        # ── 체크포인트 저장 ──
         if i % CHECKPOINT_INTERVAL == 0 or i == len(new_items):
             checkpoint_items = kept_items + list(newly_processed.values())
             save_welfare_json(checkpoint_items, len(all_raw_items))
             save_cache(processed_ids)
             logger.info(
                 f"  💾 체크포인트 저장 완료 "
-                f"({i}/{len(new_items)}건 처리 | 누적 {len(checkpoint_items)}건)"
+                f"({i}/{len(new_items)}건 | 누적 {len(checkpoint_items)}건)"
             )
-            # ★ 핵심: 파일 저장 직후 즉시 GitHub에 push
             _git_checkpoint(
                 f"💾 체크포인트 {i}/{len(new_items)}건 "
                 f"({datetime.now(KST).strftime('%m/%d %H:%M KST')})"
             )
 
-    logger.info(
-        f"  Gemini 성공: {gemini_ok_count}건 | "
-        f"폴백 처리: {gemini_fail_count}건"
-    )
+    logger.info(f"  규칙 기반 처리 완료: {len(newly_processed)}건")
 
     # ──────────────────────────────────────────
     # STEP 5: 최종 아이템 목록 구성
