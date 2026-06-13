@@ -105,18 +105,27 @@ def _match_any(text: str, keywords: list) -> bool:
 
 
 def _extract_categories(item: dict) -> list:
-    """카테고리 분류."""
-    # API 제공 관심주제 필드 우선 활용
-    theme_raw = _clean(item.get("support_type", ""))  # intrsThemaNmArray
-    content   = _clean(item.get("content", ""))       # servDgst
-    title     = _clean(item.get("title", ""))
-    target    = _clean(item.get("target", ""))
-    combined  = " ".join([theme_raw, content, title, target])
+    """카테고리 분류 - 공식 필드 우선, 오탐 방지."""
+    theme   = _clean(item.get("support_type", ""))  # intrsThemaNmArray
+    life    = _clean(item.get("life_cycle",   ""))  # lifeNmArray
+    title   = _clean(item.get("title",        ""))
+    content = _clean(item.get("content",      ""))
+    target  = _clean(item.get("target",       ""))
+
+    # 넓은 범위: 주제+생애주기+제목+내용+대상 전체
+    combined_all = " ".join([theme, life, title, content, target])
+    # 좁은 범위: 공식 분류 필드만 (오탐 방지)
+    combined_official = " ".join([theme, life, title, target])
 
     matched = []
     for cat, keywords in CATEGORY_KEYWORDS.items():
-        if _match_any(combined, keywords):
-            matched.append(cat)
+        # 노인돌봄·장애인지원은 공식 필드에서만 매칭 (설명 본문 제외)
+        if cat in ("노인돌봄", "장애인지원"):
+            if _match_any(combined_official, keywords):
+                matched.append(cat)
+        else:
+            if _match_any(combined_all, keywords):
+                matched.append(cat)
 
     return matched if matched else ["생활비·소득"]
 
