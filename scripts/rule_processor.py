@@ -78,9 +78,22 @@ INCOME_KEYWORDS = {
 # ─────────────────────────────────────────────
 # 내부 유틸
 # ─────────────────────────────────────────────
+def _clean_text(text: str, max_len: int = 0) -> str:
+    """제어문자 제거 + 공백 정리 + 길이 제한."""
+    if not text:
+        return ""
+    # 제어문자(U+0000~U+001F, U+007F) 제거
+    text = re.sub(r'[\x00-\x1F\x7F]', ' ', text)
+    # 연속 공백 정리
+    text = re.sub(r'\s+', ' ', text).strip()
+    if max_len and len(text) > max_len:
+        text = text[:max_len]
+    return text
+
+
 def _clean(text: str) -> str:
     """None 처리 + 소문자 변환."""
-    return (text or "").strip()
+    return _clean_text(text or "")
 
 
 def _match_any(text: str, keywords: list) -> bool:
@@ -151,15 +164,13 @@ def _extract_income_levels(item: dict) -> list:
 
 def _build_summary(item: dict) -> list:
     """3줄 요약 생성 (규칙 기반)."""
-    title   = _clean(item.get("title", ""))
-    content = _clean(item.get("content", ""))
-    target  = _clean(item.get("target", ""))
-    org     = _clean(item.get("organization", ""))
+    title   = _clean_text(item.get("title", ""),   20)
+    content = _clean_text(item.get("content", ""))
+    target  = _clean_text(item.get("target", ""))
+    org     = _clean_text(item.get("organization", ""), 15)
 
-    # 요약 줄 1: 서비스명 (20자 제한)
-    line1 = title[:20] if title else "복지 지원 서비스"
+    line1 = title if title else "복지 지원 서비스"
 
-    # 요약 줄 2: 지원대상 (첫 구절, 20자 제한)
     if target:
         line2 = re.split(r'[,\.\n]', target)[0].strip()[:20]
     elif content:
@@ -167,8 +178,7 @@ def _build_summary(item: dict) -> list:
     else:
         line2 = "지원 대상 확인 필요"
 
-    # 요약 줄 3: 주관기관 (15자 제한)
-    line3 = org[:15] if org else "주관기관에 문의"
+    line3 = org if org else "주관기관에 문의"
 
     return [line1, line2, line3]
 
