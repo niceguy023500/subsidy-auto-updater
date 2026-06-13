@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-06-13T09:19:09.582581+09:00",
-    "last_updated_kst": "2026년 06월 13일 09:19",
-    "total_count": 2900,
+    "last_updated": "2026-06-13T09:54:51.430794+09:00",
+    "last_updated_kst": "2026년 06월 13일 09:54",
+    "total_count": 3000,
     "total_fetched_from_api": 5012
   },
   "items": [
@@ -110205,6 +110205,3806 @@
       "support_cycle": "월",
       "gemini_ok": false,
       "updated_at": "2026-06-13T09:19:09.582497+09:00"
+    },
+    {
+      "id": "local_WLF00002859",
+      "source": "local",
+      "title": "결식아동급식지원",
+      "organization": "강원특별자치도 홍천군 행정복지국 복지과",
+      "summary": [
+        "결식아동급식지원",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "강원특별자치도 홍천군 행정복"
+      ],
+      "plain_desc": "'결식아동급식지원' 서비스입니다. 지원 대상 및 신청 방법은 강원특별자치도 홍천군 행정복지국 복지과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "강원특별자치도"
+        ],
+        "districts": [
+          "홍천군"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00002859&wlfareInfoReldBztpCd=02",
+      "contact": "7310",
+      "support_type": "안전·위기, 교육",
+      "support_cycle": "월",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:19:30.954933+09:00"
+    },
+    {
+      "id": "local_WLF00003457",
+      "source": "local",
+      "title": "차상위 건강보험료 지원",
+      "organization": "전라남도 무안군 사회복지과",
+      "summary": [
+        "차상위 건강보험료 지원",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "전라남도 무안군 사회복지과"
+      ],
+      "plain_desc": "'차상위 건강보험료 지원' 서비스입니다. 지원 대상 및 신청 방법은 전라남도 무안군 사회복지과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전라남도"
+        ],
+        "districts": [
+          "무안군"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00003457&wlfareInfoReldBztpCd=02",
+      "contact": "3592",
+      "support_type": "",
+      "support_cycle": "월",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:19:52.358651+09:00"
+    },
+    {
+      "id": "local_WLF00000189",
+      "source": "local",
+      "title": "건강생활유지비",
+      "organization": "전라남도 무안군 사회복지과",
+      "summary": [
+        "건강생활유지비",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "전라남도 무안군 사회복지과"
+      ],
+      "plain_desc": "'건강생활유지비' 서비스입니다. 지원 대상 및 신청 방법은 전라남도 무안군 사회복지과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전라남도"
+        ],
+        "districts": [
+          "무안군"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000189&wlfareInfoReldBztpCd=02",
+      "contact": "5292",
+      "support_type": "서민금융",
+      "support_cycle": "월",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:20:13.808543+09:00"
+    },
+    {
+      "id": "local_WLF00003596",
+      "source": "local",
+      "title": "화장장려금 지원",
+      "organization": "강원특별자치도 양구군 행정복지국 사회복지과",
+      "summary": [
+        "화장장려금 지원",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "강원특별자치도 양구군 행정복"
+      ],
+      "plain_desc": "'화장장려금 지원' 서비스입니다. 지원 대상 및 신청 방법은 강원특별자치도 양구군 행정복지국 사회복지과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "강원특별자치도"
+        ],
+        "districts": [
+          "양구군"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00003596&wlfareInfoReldBztpCd=02",
+      "contact": "3447",
+      "support_type": "서민금융, 안전·위기",
+      "support_cycle": "1회성",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:20:35.179388+09:00"
+    },
+    {
+      "id": "local_WLF00004062",
+      "source": "local",
+      "title": "참전유공자 명예수당, 사망위로금 및 참전유공자 배우자수당  지급",
+      "organization": "강원특별자치도 삼척시 자치행정국 복지정책과",
+      "summary": [
+        "참전유공자 명예수당, 사망위",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "강원특별자치도 삼척시 자치행"
+      ],
+      "plain_desc": "'참전유공자 명예수당, 사망위로금 및 참전유공자 배우자수당  지급' 서비스입니다. 지원 대상 및 신청 방법은 강원특별자치도 삼척시 자치행정국 복지정책과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "강원특별자치도"
+        ],
+        "districts": [
+          "삼척시"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00004062&wlfareInfoReldBztpCd=02",
+      "contact": "1459",
+      "support_type": "서민금융",
+      "support_cycle": "월",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:20:56.686784+09:00"
+    },
+    {
+      "id": "local_WLF00003117",
+      "source": "local",
+      "title": "농촌주택빈집정비(슬레이트지붕)",
+      "organization": "경상북도 예천군 농촌활력과",
+      "summary": [
+        "농촌주택빈집정비(슬레이트지붕",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "경상북도 예천군 농촌활력과"
+      ],
+      "plain_desc": "'농촌주택빈집정비(슬레이트지붕)' 서비스입니다. 지원 대상 및 신청 방법은 경상북도 예천군 농촌활력과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "경상북도"
+        ],
+        "districts": [
+          "예천군"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00003117&wlfareInfoReldBztpCd=02",
+      "contact": "1303",
+      "support_type": "서민금융",
+      "support_cycle": "수시",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:21:18.090426+09:00"
+    },
+    {
+      "id": "local_WLF00000346",
+      "source": "local",
+      "title": "삼척시 요보호 아동 및 학대피해(의심)아동 지원",
+      "organization": "강원특별자치도 삼척시 자치행정국 아동청소년과",
+      "summary": [
+        "삼척시 요보호 아동 및 학대",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "강원특별자치도 삼척시 자치행"
+      ],
+      "plain_desc": "'삼척시 요보호 아동 및 학대피해(의심)아동 지원' 서비스입니다. 지원 대상 및 신청 방법은 강원특별자치도 삼척시 자치행정국 아동청소년과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "강원특별자치도"
+        ],
+        "districts": [
+          "삼척시"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000346&wlfareInfoReldBztpCd=02",
+      "contact": "1381",
+      "support_type": "",
+      "support_cycle": "1회성",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:21:39.549550+09:00"
+    },
+    {
+      "id": "local_WLF00002974",
+      "source": "local",
+      "title": "저소득재가노인식사배달 사업",
+      "organization": "강원특별자치도 홍천군 행정복지국 행복나눔과",
+      "summary": [
+        "저소득재가노인식사배달 사업",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "강원특별자치도 홍천군 행정복"
+      ],
+      "plain_desc": "'저소득재가노인식사배달 사업' 서비스입니다. 지원 대상 및 신청 방법은 강원특별자치도 홍천군 행정복지국 행복나눔과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "강원특별자치도"
+        ],
+        "districts": [
+          "홍천군"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00002974&wlfareInfoReldBztpCd=02",
+      "contact": "2479",
+      "support_type": "",
+      "support_cycle": "주",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:22:00.964257+09:00"
+    },
+    {
+      "id": "local_WLF00002583",
+      "source": "local",
+      "title": "저소득주민 국민건강보험료 지원",
+      "organization": "인천광역시 부평구 문화복지국 사회보장과",
+      "summary": [
+        "저소득주민 국민건강보험료 지",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "인천광역시 부평구 문화복지국"
+      ],
+      "plain_desc": "'저소득주민 국민건강보험료 지원' 서비스입니다. 지원 대상 및 신청 방법은 인천광역시 부평구 문화복지국 사회보장과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "인천광역시"
+        ],
+        "districts": [
+          "부평구"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00002583&wlfareInfoReldBztpCd=02",
+      "contact": "1948",
+      "support_type": "서민금융",
+      "support_cycle": "월",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:22:22.393179+09:00"
+    },
+    {
+      "id": "local_WLF00001544",
+      "source": "local",
+      "title": "저소득층에 대한 특별지원",
+      "organization": "인천광역시 옹진군 행정복지국 복지정책과",
+      "summary": [
+        "저소득층에 대한 특별지원",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "인천광역시 옹진군 행정복지국"
+      ],
+      "plain_desc": "'저소득층에 대한 특별지원' 서비스입니다. 지원 대상 및 신청 방법은 인천광역시 옹진군 행정복지국 복지정책과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "인천광역시"
+        ],
+        "districts": [
+          "옹진군"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001544&wlfareInfoReldBztpCd=02",
+      "contact": "4754",
+      "support_type": "서민금융",
+      "support_cycle": "수시",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:22:43.806209+09:00"
+    },
+    {
+      "id": "local_WLF00001904",
+      "source": "local",
+      "title": "아동급식비 지원(결식아동급식)",
+      "organization": "강원특별자치도 양양군 교육체육과",
+      "summary": [
+        "아동급식비 지원(결식아동급식",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "강원특별자치도 양양군 교육체"
+      ],
+      "plain_desc": "'아동급식비 지원(결식아동급식)' 서비스입니다. 지원 대상 및 신청 방법은 강원특별자치도 양양군 교육체육과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "강원특별자치도"
+        ],
+        "districts": [
+          "양양군"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001904&wlfareInfoReldBztpCd=02",
+      "contact": "14533",
+      "support_type": "안전·위기",
+      "support_cycle": "주",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:23:05.209680+09:00"
+    },
+    {
+      "id": "local_WLF00003109",
+      "source": "local",
+      "title": "국가유공자 지원",
+      "organization": "강원특별자치도 양구군 행정복지국 사회복지과",
+      "summary": [
+        "국가유공자 지원",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "강원특별자치도 양구군 행정복"
+      ],
+      "plain_desc": "'국가유공자 지원' 서비스입니다. 지원 대상 및 신청 방법은 강원특별자치도 양구군 행정복지국 사회복지과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "강원특별자치도"
+        ],
+        "districts": [
+          "양구군"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00003109&wlfareInfoReldBztpCd=02",
+      "contact": "1273",
+      "support_type": "서민금융",
+      "support_cycle": "월",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:23:26.596337+09:00"
+    },
+    {
+      "id": "local_WLF00004125",
+      "source": "local",
+      "title": "보훈명예수당",
+      "organization": "경기도 안산시 복지국 복지정책과",
+      "summary": [
+        "보훈명예수당",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "경기도 안산시 복지국 복지정"
+      ],
+      "plain_desc": "'보훈명예수당' 서비스입니다. 지원 대상 및 신청 방법은 경기도 안산시 복지국 복지정책과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "경기도"
+        ],
+        "districts": [
+          "안산시"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00004125&wlfareInfoReldBztpCd=02",
+      "contact": "4178",
+      "support_type": "서민금융",
+      "support_cycle": "분기",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:23:47.996727+09:00"
+    },
+    {
+      "id": "local_WLF00002683",
+      "source": "local",
+      "title": "국가유공자 등 위문",
+      "organization": "경기도 안산시 복지국 복지정책과",
+      "summary": [
+        "국가유공자 등 위문",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "경기도 안산시 복지국 복지정"
+      ],
+      "plain_desc": "'국가유공자 등 위문' 서비스입니다. 지원 대상 및 신청 방법은 경기도 안산시 복지국 복지정책과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "경기도"
+        ],
+        "districts": [
+          "안산시"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00002683&wlfareInfoReldBztpCd=02",
+      "contact": "927",
+      "support_type": "서민금융, 보호·돌봄, 주거",
+      "support_cycle": "반기",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:24:09.401363+09:00"
+    },
+    {
+      "id": "local_WLF00002860",
+      "source": "local",
+      "title": "국가보훈대상자 수당지원",
+      "organization": "강원특별자치도 홍천군 행정복지국 복지과",
+      "summary": [
+        "국가보훈대상자 수당지원",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "강원특별자치도 홍천군 행정복"
+      ],
+      "plain_desc": "'국가보훈대상자 수당지원' 서비스입니다. 지원 대상 및 신청 방법은 강원특별자치도 홍천군 행정복지국 복지과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "강원특별자치도"
+        ],
+        "districts": [
+          "홍천군"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00002860&wlfareInfoReldBztpCd=02",
+      "contact": "2167",
+      "support_type": "서민금융",
+      "support_cycle": "월",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:24:30.824250+09:00"
+    },
+    {
+      "id": "local_WLF00000415",
+      "source": "local",
+      "title": "행려자지원",
+      "organization": "강원특별자치도 양구군 행정복지국 사회복지과",
+      "summary": [
+        "행려자지원",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "강원특별자치도 양구군 행정복"
+      ],
+      "plain_desc": "'행려자지원' 서비스입니다. 지원 대상 및 신청 방법은 강원특별자치도 양구군 행정복지국 사회복지과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "강원특별자치도"
+        ],
+        "districts": [
+          "양구군"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000415&wlfareInfoReldBztpCd=02",
+      "contact": "829",
+      "support_type": "",
+      "support_cycle": "1회성",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:24:52.222138+09:00"
+    },
+    {
+      "id": "local_WLF00000552",
+      "source": "local",
+      "title": "학기중(평일)아동급식지원",
+      "organization": "강원특별자치도 삼척시 자치행정국 아동청소년과",
+      "summary": [
+        "학기중(평일)아동급식지원",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "강원특별자치도 삼척시 자치행"
+      ],
+      "plain_desc": "'학기중(평일)아동급식지원' 서비스입니다. 지원 대상 및 신청 방법은 강원특별자치도 삼척시 자치행정국 아동청소년과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "강원특별자치도"
+        ],
+        "districts": [
+          "삼척시"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000552&wlfareInfoReldBztpCd=02",
+      "contact": "1450",
+      "support_type": "입양·위탁",
+      "support_cycle": "수시",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:25:13.648366+09:00"
+    },
+    {
+      "id": "local_WLF00003845",
+      "source": "local",
+      "title": "보호아동 생활안정 지원",
+      "organization": "강원특별자치도 삼척시 자치행정국 아동청소년과",
+      "summary": [
+        "보호아동 생활안정 지원",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "강원특별자치도 삼척시 자치행"
+      ],
+      "plain_desc": "'보호아동 생활안정 지원' 서비스입니다. 지원 대상 및 신청 방법은 강원특별자치도 삼척시 자치행정국 아동청소년과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "강원특별자치도"
+        ],
+        "districts": [
+          "삼척시"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00003845&wlfareInfoReldBztpCd=02",
+      "contact": "1129",
+      "support_type": "서민금융",
+      "support_cycle": "월",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:25:35.103097+09:00"
+    },
+    {
+      "id": "local_WLF00003377",
+      "source": "local",
+      "title": "가정위탁아동 양육지원",
+      "organization": "강원특별자치도 삼척시 자치행정국 아동청소년과",
+      "summary": [
+        "가정위탁아동 양육지원",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "강원특별자치도 삼척시 자치행"
+      ],
+      "plain_desc": "'가정위탁아동 양육지원' 서비스입니다. 지원 대상 및 신청 방법은 강원특별자치도 삼척시 자치행정국 아동청소년과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "강원특별자치도"
+        ],
+        "districts": [
+          "삼척시"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00003377&wlfareInfoReldBztpCd=02",
+      "contact": "1196",
+      "support_type": "안전·위기, 서민금융, 입양·위탁",
+      "support_cycle": "월",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:25:56.529622+09:00"
+    },
+    {
+      "id": "local_WLF00000410",
+      "source": "local",
+      "title": "결식아동급식비지원",
+      "organization": "강원특별자치도 양구군 행정복지국 사회복지과",
+      "summary": [
+        "결식아동급식비지원",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "강원특별자치도 양구군 행정복"
+      ],
+      "plain_desc": "'결식아동급식비지원' 서비스입니다. 지원 대상 및 신청 방법은 강원특별자치도 양구군 행정복지국 사회복지과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "강원특별자치도"
+        ],
+        "districts": [
+          "양구군"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000410&wlfareInfoReldBztpCd=02",
+      "contact": "2358",
+      "support_type": "안전·위기, 입양·위탁",
+      "support_cycle": "수시",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:26:17.923528+09:00"
+    },
+    {
+      "id": "local_WLF00003490",
+      "source": "local",
+      "title": "가정위탁아동 양육수당 지원",
+      "organization": "강원특별자치도 양구군 행정복지국 사회복지과",
+      "summary": [
+        "가정위탁아동 양육수당 지원",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "강원특별자치도 양구군 행정복"
+      ],
+      "plain_desc": "'가정위탁아동 양육수당 지원' 서비스입니다. 지원 대상 및 신청 방법은 강원특별자치도 양구군 행정복지국 사회복지과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "강원특별자치도"
+        ],
+        "districts": [
+          "양구군"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00003490&wlfareInfoReldBztpCd=02",
+      "contact": "1434",
+      "support_type": "서민금융, 입양·위탁",
+      "support_cycle": "월",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:26:39.365976+09:00"
+    },
+    {
+      "id": "local_WLF00003394",
+      "source": "local",
+      "title": "보호아동 생활안정지원(가정위탁아동 양육비 지원)",
+      "organization": "강원특별자치도 고성군 행정복지국 교육문화과",
+      "summary": [
+        "보호아동 생활안정지원(가정위",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "강원특별자치도 고성군 행정복"
+      ],
+      "plain_desc": "'보호아동 생활안정지원(가정위탁아동 양육비 지원)' 서비스입니다. 지원 대상 및 신청 방법은 강원특별자치도 고성군 행정복지국 교육문화과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "강원특별자치도"
+        ],
+        "districts": [
+          "고성군"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00003394&wlfareInfoReldBztpCd=02",
+      "contact": "1811",
+      "support_type": "안전·위기, 서민금융, 입양·위탁",
+      "support_cycle": "월",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:27:00.780552+09:00"
+    },
+    {
+      "id": "local_WLF00003588",
+      "source": "local",
+      "title": "저소득 장례용품 지급",
+      "organization": "전라남도 함평군 가족행복과",
+      "summary": [
+        "저소득 장례용품 지급",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "전라남도 함평군 가족행복과"
+      ],
+      "plain_desc": "'저소득 장례용품 지급' 서비스입니다. 지원 대상 및 신청 방법은 전라남도 함평군 가족행복과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전라남도"
+        ],
+        "districts": [
+          "함평군"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00003588&wlfareInfoReldBztpCd=02",
+      "contact": "2296",
+      "support_type": "",
+      "support_cycle": "1회성",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:27:22.222336+09:00"
+    },
+    {
+      "id": "local_WLF00002310",
+      "source": "local",
+      "title": "화장장려금지원",
+      "organization": "전라남도 함평군 가족행복과",
+      "summary": [
+        "화장장려금지원",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "전라남도 함평군 가족행복과"
+      ],
+      "plain_desc": "'화장장려금지원' 서비스입니다. 지원 대상 및 신청 방법은 전라남도 함평군 가족행복과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전라남도"
+        ],
+        "districts": [
+          "함평군"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00002310&wlfareInfoReldBztpCd=02",
+      "contact": "1861",
+      "support_type": "서민금융",
+      "support_cycle": "1회성",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:27:43.633128+09:00"
+    },
+    {
+      "id": "local_WLF00003491",
+      "source": "local",
+      "title": "복지사각지대 저소득층 지원",
+      "organization": "강원특별자치도 양구군 행정복지국 사회복지과",
+      "summary": [
+        "복지사각지대 저소득층 지원",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "강원특별자치도 양구군 행정복"
+      ],
+      "plain_desc": "'복지사각지대 저소득층 지원' 서비스입니다. 지원 대상 및 신청 방법은 강원특별자치도 양구군 행정복지국 사회복지과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "강원특별자치도"
+        ],
+        "districts": [
+          "양구군"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00003491&wlfareInfoReldBztpCd=02",
+      "contact": "7281",
+      "support_type": "서민금융, 안전·위기",
+      "support_cycle": "수시",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:28:05.013054+09:00"
+    },
+    {
+      "id": "local_WLF00001790",
+      "source": "local",
+      "title": "가정위탁 양육비 지원",
+      "organization": "강원특별자치도 양양군 교육체육과",
+      "summary": [
+        "가정위탁 양육비 지원",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "강원특별자치도 양양군 교육체"
+      ],
+      "plain_desc": "'가정위탁 양육비 지원' 서비스입니다. 지원 대상 및 신청 방법은 강원특별자치도 양양군 교육체육과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "강원특별자치도"
+        ],
+        "districts": [
+          "양양군"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001790&wlfareInfoReldBztpCd=02",
+      "contact": "2009",
+      "support_type": "서민금융, 안전·위기, 입양·위탁",
+      "support_cycle": "월",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:28:26.408848+09:00"
+    },
+    {
+      "id": "local_WLF00002956",
+      "source": "local",
+      "title": "이재민 응급구호",
+      "organization": "경기도 안산시 복지국 복지정책과",
+      "summary": [
+        "이재민 응급구호",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "경기도 안산시 복지국 복지정"
+      ],
+      "plain_desc": "'이재민 응급구호' 서비스입니다. 지원 대상 및 신청 방법은 경기도 안산시 복지국 복지정책과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "경기도"
+        ],
+        "districts": [
+          "안산시"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00002956&wlfareInfoReldBztpCd=02",
+      "contact": "890",
+      "support_type": "",
+      "support_cycle": "1회성",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:28:47.823630+09:00"
+    },
+    {
+      "id": "local_WLF00000656",
+      "source": "local",
+      "title": "재가노인 식사배달",
+      "organization": "강원특별자치도 동해시 행정복지국 가족과",
+      "summary": [
+        "재가노인 식사배달",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "강원특별자치도 동해시 행정복"
+      ],
+      "plain_desc": "'재가노인 식사배달' 서비스입니다. 지원 대상 및 신청 방법은 강원특별자치도 동해시 행정복지국 가족과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "강원특별자치도"
+        ],
+        "districts": [
+          "동해시"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000656&wlfareInfoReldBztpCd=02",
+      "contact": "1265",
+      "support_type": "",
+      "support_cycle": "주",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:29:09.253016+09:00"
+    },
+    {
+      "id": "local_WLF00001618",
+      "source": "local",
+      "title": "노숙자 및 행려자 보호",
+      "organization": "인천광역시 서구 복지문화국 복지정책과",
+      "summary": [
+        "노숙자 및 행려자 보호",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "인천광역시 서구 복지문화국 "
+      ],
+      "plain_desc": "'노숙자 및 행려자 보호' 서비스입니다. 지원 대상 및 신청 방법은 인천광역시 서구 복지문화국 복지정책과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "인천광역시"
+        ],
+        "districts": [
+          "서구"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001618&wlfareInfoReldBztpCd=02",
+      "contact": "1936",
+      "support_type": "안전·위기",
+      "support_cycle": "1회성",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:29:30.831465+09:00"
+    },
+    {
+      "id": "local_WLF00003581",
+      "source": "local",
+      "title": "발달재활서비스지원 (시자체사업)",
+      "organization": "강원특별자치도 춘천시 복지국 장애인복지과",
+      "summary": [
+        "발달재활서비스지원 (시자체사",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "강원특별자치도 춘천시 복지국"
+      ],
+      "plain_desc": "'발달재활서비스지원 (시자체사업)' 서비스입니다. 지원 대상 및 신청 방법은 강원특별자치도 춘천시 복지국 장애인복지과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "강원특별자치도"
+        ],
+        "districts": [
+          "춘천시"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00003581&wlfareInfoReldBztpCd=02",
+      "contact": "13253",
+      "support_type": "서민금융, 입양·위탁, 보호·돌봄, 주거",
+      "support_cycle": "월",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:29:52.218377+09:00"
+    },
+    {
+      "id": "local_WLF00001380",
+      "source": "local",
+      "title": "사물인터넷(IoT) 기술기반 어르신 안심안부서비스(안심폰)",
+      "organization": "인천광역시 여성가족국 노인정책과",
+      "summary": [
+        "사물인터넷(IoT) 기술기반",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "인천광역시 여성가족국 노인정"
+      ],
+      "plain_desc": "'사물인터넷(IoT) 기술기반 어르신 안심안부서비스(안심폰)' 서비스입니다. 지원 대상 및 신청 방법은 인천광역시 여성가족국 노인정책과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "인천광역시"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001380&wlfareInfoReldBztpCd=02",
+      "contact": "4127",
+      "support_type": "",
+      "support_cycle": "년",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:30:13.643108+09:00"
+    },
+    {
+      "id": "local_WLF00003496",
+      "source": "local",
+      "title": "가정위탁아동 양육보조금 지원",
+      "organization": "강원특별자치도 춘천시 복지국 보육아동과",
+      "summary": [
+        "가정위탁아동 양육보조금 지원",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "강원특별자치도 춘천시 복지국"
+      ],
+      "plain_desc": "'가정위탁아동 양육보조금 지원' 서비스입니다. 지원 대상 및 신청 방법은 강원특별자치도 춘천시 복지국 보육아동과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "강원특별자치도"
+        ],
+        "districts": [
+          "춘천시"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00003496&wlfareInfoReldBztpCd=02",
+      "contact": "1243",
+      "support_type": "서민금융, 입양·위탁",
+      "support_cycle": "월",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:30:35.032818+09:00"
+    },
+    {
+      "id": "local_WLF00001250",
+      "source": "local",
+      "title": "결연기관 운영",
+      "organization": "인천광역시 여성가족국 아동정책과",
+      "summary": [
+        "결연기관 운영",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "인천광역시 여성가족국 아동정"
+      ],
+      "plain_desc": "'결연기관 운영' 서비스입니다. 지원 대상 및 신청 방법은 인천광역시 여성가족국 아동정책과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "인천광역시"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001250&wlfareInfoReldBztpCd=02",
+      "contact": "1189",
+      "support_type": "",
+      "support_cycle": "수시",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:30:56.466194+09:00"
+    },
+    {
+      "id": "local_WLF00000588",
+      "source": "local",
+      "title": "행려자 구호비",
+      "organization": "강원특별자치도 홍천군 행정복지국 복지과",
+      "summary": [
+        "행려자 구호비",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "강원특별자치도 홍천군 행정복"
+      ],
+      "plain_desc": "'행려자 구호비' 서비스입니다. 지원 대상 및 신청 방법은 강원특별자치도 홍천군 행정복지국 복지과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "강원특별자치도"
+        ],
+        "districts": [
+          "홍천군"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000588&wlfareInfoReldBztpCd=02",
+      "contact": "886",
+      "support_type": "",
+      "support_cycle": "1회성",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:31:17.898239+09:00"
+    },
+    {
+      "id": "local_WLF00000586",
+      "source": "local",
+      "title": "취약계층 능력개발 학습지원 사업",
+      "organization": "강원특별자치도 홍천군 행정복지국 복지과",
+      "summary": [
+        "취약계층 능력개발 학습지원 ",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "강원특별자치도 홍천군 행정복"
+      ],
+      "plain_desc": "'취약계층 능력개발 학습지원 사업' 서비스입니다. 지원 대상 및 신청 방법은 강원특별자치도 홍천군 행정복지국 복지과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "강원특별자치도"
+        ],
+        "districts": [
+          "홍천군"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000586&wlfareInfoReldBztpCd=02",
+      "contact": "1355",
+      "support_type": "교육, 서민금융",
+      "support_cycle": "월",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:31:39.280028+09:00"
+    },
+    {
+      "id": "local_WLF00004212",
+      "source": "local",
+      "title": "북한이탈주민 행사 실비 지원",
+      "organization": "강원특별자치도 홍천군 행정복지국 복지과",
+      "summary": [
+        "북한이탈주민 행사 실비 지원",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "강원특별자치도 홍천군 행정복"
+      ],
+      "plain_desc": "'북한이탈주민 행사 실비 지원' 서비스입니다. 지원 대상 및 신청 방법은 강원특별자치도 홍천군 행정복지국 복지과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "강원특별자치도"
+        ],
+        "districts": [
+          "홍천군"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00004212&wlfareInfoReldBztpCd=02",
+      "contact": "1146",
+      "support_type": "서민금융",
+      "support_cycle": "1회성",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:32:00.720828+09:00"
+    },
+    {
+      "id": "local_WLF00000604",
+      "source": "local",
+      "title": "저소득노인 위문",
+      "organization": "경상북도 의성군 관광복지국 통합돌봄과",
+      "summary": [
+        "저소득노인 위문",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "경상북도 의성군 관광복지국 "
+      ],
+      "plain_desc": "'저소득노인 위문' 서비스입니다. 지원 대상 및 신청 방법은 경상북도 의성군 관광복지국 통합돌봄과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "경상북도"
+        ],
+        "districts": [
+          "의성군"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000604&wlfareInfoReldBztpCd=02",
+      "contact": "880",
+      "support_type": "",
+      "support_cycle": "수시",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:32:22.136560+09:00"
+    },
+    {
+      "id": "local_WLF00001554",
+      "source": "local",
+      "title": "부랑인 보호",
+      "organization": "강원특별자치도 고성군 행정복지국 복지과",
+      "summary": [
+        "부랑인 보호",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "강원특별자치도 고성군 행정복"
+      ],
+      "plain_desc": "'부랑인 보호' 서비스입니다. 지원 대상 및 신청 방법은 강원특별자치도 고성군 행정복지국 복지과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "강원특별자치도"
+        ],
+        "districts": [
+          "고성군"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001554&wlfareInfoReldBztpCd=02",
+      "contact": "850",
+      "support_type": "",
+      "support_cycle": "1회성",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:32:43.551242+09:00"
+    },
+    {
+      "id": "local_WLF00004138",
+      "source": "local",
+      "title": "보훈수당 및 위로금",
+      "organization": "강원특별자치도 고성군 행정복지국 복지과",
+      "summary": [
+        "보훈수당 및 위로금",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "강원특별자치도 고성군 행정복"
+      ],
+      "plain_desc": "'보훈수당 및 위로금' 서비스입니다. 지원 대상 및 신청 방법은 강원특별자치도 고성군 행정복지국 복지과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "강원특별자치도"
+        ],
+        "districts": [
+          "고성군"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00004138&wlfareInfoReldBztpCd=02",
+      "contact": "1305",
+      "support_type": "입양·위탁, 서민금융",
+      "support_cycle": "월",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:33:04.977374+09:00"
+    },
+    {
+      "id": "local_WLF00000354",
+      "source": "local",
+      "title": "요보호아동 생활환경개선",
+      "organization": "강원특별자치도 철원군 주민생활지원실",
+      "summary": [
+        "요보호아동 생활환경개선",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "강원특별자치도 철원군 주민생"
+      ],
+      "plain_desc": "'요보호아동 생활환경개선' 서비스입니다. 지원 대상 및 신청 방법은 강원특별자치도 철원군 주민생활지원실에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "강원특별자치도"
+        ],
+        "districts": [
+          "철원군"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000354&wlfareInfoReldBztpCd=02",
+      "contact": "824",
+      "support_type": "입양·위탁, 서민금융",
+      "support_cycle": "1회성",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:33:26.415326+09:00"
+    },
+    {
+      "id": "local_WLF00000279",
+      "source": "local",
+      "title": "노숙인 구호",
+      "organization": "강원특별자치도 춘천시 복지국 복지정책과",
+      "summary": [
+        "노숙인 구호",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "강원특별자치도 춘천시 복지국"
+      ],
+      "plain_desc": "'노숙인 구호' 서비스입니다. 지원 대상 및 신청 방법은 강원특별자치도 춘천시 복지국 복지정책과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "강원특별자치도"
+        ],
+        "districts": [
+          "춘천시"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000279&wlfareInfoReldBztpCd=02",
+      "contact": "917",
+      "support_type": "",
+      "support_cycle": "1회성",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:33:47.807432+09:00"
+    },
+    {
+      "id": "local_WLF00000280",
+      "source": "local",
+      "title": "생계곤란가정 긴급 생활용품 지원",
+      "organization": "강원특별자치도 춘천시 복지국 통합돌봄과",
+      "summary": [
+        "생계곤란가정 긴급 생활용품 ",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "강원특별자치도 춘천시 복지국"
+      ],
+      "plain_desc": "'생계곤란가정 긴급 생활용품 지원' 서비스입니다. 지원 대상 및 신청 방법은 강원특별자치도 춘천시 복지국 통합돌봄과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "강원특별자치도"
+        ],
+        "districts": [
+          "춘천시"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000280&wlfareInfoReldBztpCd=02",
+      "contact": "2260",
+      "support_type": "",
+      "support_cycle": "수시",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:34:09.254856+09:00"
+    },
+    {
+      "id": "local_WLF00003579",
+      "source": "local",
+      "title": "노숙인 일시보호시설 운영",
+      "organization": "강원특별자치도 춘천시 복지국 복지정책과",
+      "summary": [
+        "노숙인 일시보호시설 운영",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "강원특별자치도 춘천시 복지국"
+      ],
+      "plain_desc": "'노숙인 일시보호시설 운영' 서비스입니다. 지원 대상 및 신청 방법은 강원특별자치도 춘천시 복지국 복지정책과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "강원특별자치도"
+        ],
+        "districts": [
+          "춘천시"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00003579&wlfareInfoReldBztpCd=02",
+      "contact": "2551",
+      "support_type": "",
+      "support_cycle": "1회성",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:34:30.659357+09:00"
+    },
+    {
+      "id": "local_WLF00003164",
+      "source": "local",
+      "title": "어려운 이웃 명절위문",
+      "organization": "강원특별자치도 철원군 주민생활지원과",
+      "summary": [
+        "어려운 이웃 명절위문",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "강원특별자치도 철원군 주민생"
+      ],
+      "plain_desc": "'어려운 이웃 명절위문' 서비스입니다. 지원 대상 및 신청 방법은 강원특별자치도 철원군 주민생활지원과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "강원특별자치도"
+        ],
+        "districts": [
+          "철원군"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00003164&wlfareInfoReldBztpCd=02",
+      "contact": "1537",
+      "support_type": "",
+      "support_cycle": "1회성",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:34:52.117477+09:00"
+    },
+    {
+      "id": "local_WLF00000909",
+      "source": "local",
+      "title": "행려자 지원 ,무연고사망자 장제비 지원",
+      "organization": "인천광역시 부평구 문화복지국 사회보장과",
+      "summary": [
+        "행려자 지원 ,무연고사망자 ",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "인천광역시 부평구 문화복지국"
+      ],
+      "plain_desc": "'행려자 지원 ,무연고사망자 장제비 지원' 서비스입니다. 지원 대상 및 신청 방법은 인천광역시 부평구 문화복지국 사회보장과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "인천광역시"
+        ],
+        "districts": [
+          "부평구"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000909&wlfareInfoReldBztpCd=02",
+      "contact": "891",
+      "support_type": "서민금융",
+      "support_cycle": "1회성",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:35:13.542773+09:00"
+    },
+    {
+      "id": "local_WLF00003622",
+      "source": "local",
+      "title": "출산축하금 지원",
+      "organization": "강원특별자치도 평창군 행정지원국 가족복지과",
+      "summary": [
+        "출산축하금 지원",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "강원특별자치도 평창군 행정지"
+      ],
+      "plain_desc": "'출산축하금 지원' 서비스입니다. 지원 대상 및 신청 방법은 강원특별자치도 평창군 행정지원국 가족복지과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "강원특별자치도"
+        ],
+        "districts": [
+          "평창군"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00003622&wlfareInfoReldBztpCd=02",
+      "contact": "2286",
+      "support_type": "임신·출산, 서민금융",
+      "support_cycle": "수시",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:35:34.946315+09:00"
+    },
+    {
+      "id": "local_WLF00000116",
+      "source": "local",
+      "title": "출생아건강보험료지원",
+      "organization": "강원특별자치도 평창군 행정지원국 가족복지과",
+      "summary": [
+        "출생아건강보험료지원",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "강원특별자치도 평창군 행정지"
+      ],
+      "plain_desc": "'출생아건강보험료지원' 서비스입니다. 지원 대상 및 신청 방법은 강원특별자치도 평창군 행정지원국 가족복지과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "강원특별자치도"
+        ],
+        "districts": [
+          "평창군"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000116&wlfareInfoReldBztpCd=02",
+      "contact": "1162",
+      "support_type": "임신·출산",
+      "support_cycle": "월",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:35:56.363958+09:00"
+    },
+    {
+      "id": "local_WLF00001996",
+      "source": "local",
+      "title": "4대이상가정 효도수당",
+      "organization": "충청남도 보령시 행정지원국 경로장애인과",
+      "summary": [
+        "4대이상가정 효도수당",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "충청남도 보령시 행정지원국 "
+      ],
+      "plain_desc": "'4대이상가정 효도수당' 서비스입니다. 지원 대상 및 신청 방법은 충청남도 보령시 행정지원국 경로장애인과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "충청남도"
+        ],
+        "districts": [
+          "보령시"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001996&wlfareInfoReldBztpCd=02",
+      "contact": "1214",
+      "support_type": "서민금융",
+      "support_cycle": "월",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:36:17.777806+09:00"
+    },
+    {
+      "id": "local_WLF00001667",
+      "source": "local",
+      "title": "장애인 건강교실 운영",
+      "organization": "충청남도 보령시 행정지원국 경로장애인과",
+      "summary": [
+        "장애인 건강교실 운영",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "충청남도 보령시 행정지원국 "
+      ],
+      "plain_desc": "'장애인 건강교실 운영' 서비스입니다. 지원 대상 및 신청 방법은 충청남도 보령시 행정지원국 경로장애인과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "충청남도"
+        ],
+        "districts": [
+          "보령시"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001667&wlfareInfoReldBztpCd=02",
+      "contact": "1079",
+      "support_type": "",
+      "support_cycle": "년",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:36:39.179105+09:00"
+    },
+    {
+      "id": "local_WLF00001642",
+      "source": "local",
+      "title": "미취업장애인 건강검진 지원",
+      "organization": "충청남도 보령시 행정지원국 경로장애인과",
+      "summary": [
+        "미취업장애인 건강검진 지원",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "충청남도 보령시 행정지원국 "
+      ],
+      "plain_desc": "'미취업장애인 건강검진 지원' 서비스입니다. 지원 대상 및 신청 방법은 충청남도 보령시 행정지원국 경로장애인과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "충청남도"
+        ],
+        "districts": [
+          "보령시"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001642&wlfareInfoReldBztpCd=02",
+      "contact": "929",
+      "support_type": "일자리",
+      "support_cycle": "1회성",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:37:00.599408+09:00"
+    },
+    {
+      "id": "local_WLF00004460",
+      "source": "local",
+      "title": "월세거주장애인 주거비 지원",
+      "organization": "충청남도 보령시 행정지원국 경로장애인과",
+      "summary": [
+        "월세거주장애인 주거비 지원",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "충청남도 보령시 행정지원국 "
+      ],
+      "plain_desc": "'월세거주장애인 주거비 지원' 서비스입니다. 지원 대상 및 신청 방법은 충청남도 보령시 행정지원국 경로장애인과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "충청남도"
+        ],
+        "districts": [
+          "보령시"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00004460&wlfareInfoReldBztpCd=02",
+      "contact": "8249",
+      "support_type": "서민금융",
+      "support_cycle": "월",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:37:21.983325+09:00"
+    },
+    {
+      "id": "local_WLF00001942",
+      "source": "local",
+      "title": "부부장애수당 지원",
+      "organization": "충청남도 보령시 행정지원국 경로장애인과",
+      "summary": [
+        "부부장애수당 지원",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "충청남도 보령시 행정지원국 "
+      ],
+      "plain_desc": "'부부장애수당 지원' 서비스입니다. 지원 대상 및 신청 방법은 충청남도 보령시 행정지원국 경로장애인과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "충청남도"
+        ],
+        "districts": [
+          "보령시"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001942&wlfareInfoReldBztpCd=02",
+      "contact": "1535",
+      "support_type": "서민금융",
+      "support_cycle": "월",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:37:43.405896+09:00"
+    },
+    {
+      "id": "local_WLF00001479",
+      "source": "local",
+      "title": "효사랑 지원금",
+      "organization": "경기도 수원시 시민복지국 노인복지과",
+      "summary": [
+        "효사랑 지원금",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "경기도 수원시 시민복지국 노"
+      ],
+      "plain_desc": "'효사랑 지원금' 서비스입니다. 지원 대상 및 신청 방법은 경기도 수원시 시민복지국 노인복지과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "경기도"
+        ],
+        "districts": [
+          "수원시"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001479&wlfareInfoReldBztpCd=02",
+      "contact": "2926",
+      "support_type": "서민금융",
+      "support_cycle": "분기",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:38:04.850473+09:00"
+    },
+    {
+      "id": "local_WLF00001478",
+      "source": "local",
+      "title": "효도수당",
+      "organization": "경기도 수원시 시민복지국 노인복지과",
+      "summary": [
+        "효도수당",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "경기도 수원시 시민복지국 노"
+      ],
+      "plain_desc": "'효도수당' 서비스입니다. 지원 대상 및 신청 방법은 경기도 수원시 시민복지국 노인복지과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "경기도"
+        ],
+        "districts": [
+          "수원시"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001478&wlfareInfoReldBztpCd=02",
+      "contact": "4255",
+      "support_type": "서민금융",
+      "support_cycle": "반기",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:38:26.255633+09:00"
+    },
+    {
+      "id": "local_WLF00003520",
+      "source": "local",
+      "title": "저소득층 난방연료비 지원",
+      "organization": "강원특별자치도 평창군 행정지원국 복지정책과",
+      "summary": [
+        "저소득층 난방연료비 지원",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "강원특별자치도 평창군 행정지"
+      ],
+      "plain_desc": "'저소득층 난방연료비 지원' 서비스입니다. 지원 대상 및 신청 방법은 강원특별자치도 평창군 행정지원국 복지정책과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "강원특별자치도"
+        ],
+        "districts": [
+          "평창군"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00003520&wlfareInfoReldBztpCd=02",
+      "contact": "34343",
+      "support_type": "서민금융",
+      "support_cycle": "년",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:38:47.651902+09:00"
+    },
+    {
+      "id": "local_WLF00003163",
+      "source": "local",
+      "title": "국민기초생활보장수급자 수도요금 감면",
+      "organization": "강원특별자치도 철원군 주민생활지원실",
+      "summary": [
+        "국민기초생활보장수급자 수도요",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "강원특별자치도 철원군 주민생"
+      ],
+      "plain_desc": "'국민기초생활보장수급자 수도요금 감면' 서비스입니다. 지원 대상 및 신청 방법은 강원특별자치도 철원군 주민생활지원실에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "강원특별자치도"
+        ],
+        "districts": [
+          "철원군"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00003163&wlfareInfoReldBztpCd=02",
+      "contact": "15203",
+      "support_type": "서민금융",
+      "support_cycle": "월",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:39:09.044313+09:00"
+    },
+    {
+      "id": "local_WLF00003646",
+      "source": "local",
+      "title": "정선군 출생아 양육비 지원사업",
+      "organization": "강원특별자치도 정선군 행정국 가족행복과",
+      "summary": [
+        "정선군 출생아 양육비 지원사",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "강원특별자치도 정선군 행정국"
+      ],
+      "plain_desc": "'정선군 출생아 양육비 지원사업' 서비스입니다. 지원 대상 및 신청 방법은 강원특별자치도 정선군 행정국 가족행복과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "강원특별자치도"
+        ],
+        "districts": [
+          "정선군"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00003646&wlfareInfoReldBztpCd=02",
+      "contact": "1662",
+      "support_type": "서민금융",
+      "support_cycle": "월",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:39:30.511456+09:00"
+    },
+    {
+      "id": "local_WLF00003625",
+      "source": "local",
+      "title": "결혼이민자 고향방문 지원",
+      "organization": "강원특별자치도 정선군 행정국 가족행복과",
+      "summary": [
+        "결혼이민자 고향방문 지원",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "강원특별자치도 정선군 행정국"
+      ],
+      "plain_desc": "'결혼이민자 고향방문 지원' 서비스입니다. 지원 대상 및 신청 방법은 강원특별자치도 정선군 행정국 가족행복과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "강원특별자치도"
+        ],
+        "districts": [
+          "정선군"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00003625&wlfareInfoReldBztpCd=02",
+      "contact": "997",
+      "support_type": "서민금융",
+      "support_cycle": "1회성",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:39:51.867925+09:00"
+    },
+    {
+      "id": "local_WLF00006030",
+      "source": "local",
+      "title": "논산공공산후조리원 설치 및 운영",
+      "organization": "충청남도 논산시 보건소 건강증진과",
+      "summary": [
+        "논산공공산후조리원 설치 및 ",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "충청남도 논산시 보건소 건강"
+      ],
+      "plain_desc": "'논산공공산후조리원 설치 및 운영' 서비스입니다. 지원 대상 및 신청 방법은 충청남도 논산시 보건소 건강증진과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "충청남도"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006030&wlfareInfoReldBztpCd=02",
+      "contact": "835",
+      "support_type": "서민금융",
+      "support_cycle": "1회성",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:40:13.255608+09:00"
+    },
+    {
+      "id": "local_WLF00006029",
+      "source": "local",
+      "title": "고등학교 무상급식비 지원",
+      "organization": "충청남도교육청 교육국 체육건강과",
+      "summary": [
+        "고등학교 무상급식비 지원",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "충청남도교육청 교육국 체육건"
+      ],
+      "plain_desc": "'고등학교 무상급식비 지원' 서비스입니다. 지원 대상 및 신청 방법은 충청남도교육청 교육국 체육건강과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "충청남도"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006029&wlfareInfoReldBztpCd=02",
+      "contact": "1758",
+      "support_type": "서민금융, 교육",
+      "support_cycle": "년",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:40:34.639514+09:00"
+    },
+    {
+      "id": "local_WLF00006028",
+      "source": "local",
+      "title": "초등학교 입학지원금 지원",
+      "organization": "경기도 안양시 복지문화국 교육청소년과",
+      "summary": [
+        "초등학교 입학지원금 지원",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "경기도 안양시 복지문화국 교"
+      ],
+      "plain_desc": "'초등학교 입학지원금 지원' 서비스입니다. 지원 대상 및 신청 방법은 경기도 안양시 복지문화국 교육청소년과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "경기도"
+        ],
+        "districts": [
+          "안양시"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006028&wlfareInfoReldBztpCd=02",
+      "contact": "2458",
+      "support_type": "교육, 서민금융",
+      "support_cycle": "1회성",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:40:56.080099+09:00"
+    },
+    {
+      "id": "local_WLF00006027",
+      "source": "local",
+      "title": "초등학생 졸업앨범비 지원",
+      "organization": "전북특별자치도교육청 정책국 학교안전과",
+      "summary": [
+        "초등학생 졸업앨범비 지원",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "전북특별자치도교육청 정책국 "
+      ],
+      "plain_desc": "'초등학생 졸업앨범비 지원' 서비스입니다. 지원 대상 및 신청 방법은 전북특별자치도교육청 정책국 학교안전과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전북특별자치도"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006027&wlfareInfoReldBztpCd=02",
+      "contact": "1364",
+      "support_type": "교육",
+      "support_cycle": "년",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:41:17.462206+09:00"
+    },
+    {
+      "id": "local_WLF00006026",
+      "source": "local",
+      "title": "서울시 중소기업 워라밸 포인트제 서울형 출산휴가급여 지원",
+      "organization": "서울특별시 여성가족실 저출생담당관",
+      "summary": [
+        "서울시 중소기업 워라밸 포인",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "서울특별시 여성가족실 저출생"
+      ],
+      "plain_desc": "'서울시 중소기업 워라밸 포인트제 서울형 출산휴가급여 지원' 서비스입니다. 지원 대상 및 신청 방법은 서울특별시 여성가족실 저출생담당관에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "서울특별시"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006026&wlfareInfoReldBztpCd=02",
+      "contact": "1810",
+      "support_type": "일자리, 서민금융",
+      "support_cycle": "1회성",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:41:38.921125+09:00"
+    },
+    {
+      "id": "local_WLF00006025",
+      "source": "local",
+      "title": "서울시 중소기업 워라밸 포인트제 육아휴직 동료응원수당",
+      "organization": "서울특별시 여성가족실 저출생담당관",
+      "summary": [
+        "서울시 중소기업 워라밸 포인",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "서울특별시 여성가족실 저출생"
+      ],
+      "plain_desc": "'서울시 중소기업 워라밸 포인트제 육아휴직 동료응원수당' 서비스입니다. 지원 대상 및 신청 방법은 서울특별시 여성가족실 저출생담당관에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "서울특별시"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006025&wlfareInfoReldBztpCd=02",
+      "contact": "1380",
+      "support_type": "서민금융, 일자리",
+      "support_cycle": "월",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:42:00.349536+09:00"
+    },
+    {
+      "id": "local_WLF00006023",
+      "source": "local",
+      "title": "울주군 청년 면접비 지원사업",
+      "organization": "울산광역시 울주군 경제산업국 일자리지원과",
+      "summary": [
+        "울주군 청년 면접비 지원사업",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "울산광역시 울주군 경제산업국"
+      ],
+      "plain_desc": "'울주군 청년 면접비 지원사업' 서비스입니다. 지원 대상 및 신청 방법은 울산광역시 울주군 경제산업국 일자리지원과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "울산광역시"
+        ],
+        "districts": [
+          "울주군"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006023&wlfareInfoReldBztpCd=02",
+      "contact": "2614",
+      "support_type": "서민금융",
+      "support_cycle": "월",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:42:21.756150+09:00"
+    },
+    {
+      "id": "local_WLF00006022",
+      "source": "local",
+      "title": "밀양시 결혼장려금 지원",
+      "organization": "경상남도 밀양시 인구정책담당관",
+      "summary": [
+        "밀양시 결혼장려금 지원",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "경상남도 밀양시 인구정책담당"
+      ],
+      "plain_desc": "'밀양시 결혼장려금 지원' 서비스입니다. 지원 대상 및 신청 방법은 경상남도 밀양시 인구정책담당관에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "경상남도"
+        ],
+        "districts": [
+          "밀양시"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006022&wlfareInfoReldBztpCd=02",
+      "contact": "2481",
+      "support_type": "서민금융",
+      "support_cycle": "월",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:42:43.200834+09:00"
+    },
+    {
+      "id": "local_WLF00006020",
+      "source": "local",
+      "title": "어르신 품위유지비 지원",
+      "organization": "부산광역시 중구 주민복지국 가족행복과",
+      "summary": [
+        "어르신 품위유지비 지원",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "부산광역시 중구 주민복지국 "
+      ],
+      "plain_desc": "'어르신 품위유지비 지원' 서비스입니다. 지원 대상 및 신청 방법은 부산광역시 중구 주민복지국 가족행복과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "부산광역시"
+        ],
+        "districts": [
+          "중구"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006020&wlfareInfoReldBztpCd=02",
+      "contact": "1810",
+      "support_type": "",
+      "support_cycle": "분기",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:43:04.631230+09:00"
+    },
+    {
+      "id": "local_WLF00006019",
+      "source": "local",
+      "title": "사천시 어린이, 청소년 대중교통비 지원",
+      "organization": "경상남도 사천시 시민안전국 교통행정과",
+      "summary": [
+        "사천시 어린이, 청소년 대중",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "경상남도 사천시 시민안전국 "
+      ],
+      "plain_desc": "'사천시 어린이, 청소년 대중교통비 지원' 서비스입니다. 지원 대상 및 신청 방법은 경상남도 사천시 시민안전국 교통행정과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "경상남도"
+        ],
+        "districts": [
+          "사천시"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006019&wlfareInfoReldBztpCd=02",
+      "contact": "1711",
+      "support_type": "",
+      "support_cycle": "수시",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:43:26.014294+09:00"
+    },
+    {
+      "id": "local_WLF00006018",
+      "source": "local",
+      "title": "달서청년 자격증 응시료 지원사업",
+      "organization": "대구광역시 달서구 기획경제국 일자리지원과",
+      "summary": [
+        "달서청년 자격증 응시료 지원",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "대구광역시 달서구 기획경제국"
+      ],
+      "plain_desc": "'달서청년 자격증 응시료 지원사업' 서비스입니다. 지원 대상 및 신청 방법은 대구광역시 달서구 기획경제국 일자리지원과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "대구광역시"
+        ],
+        "districts": [
+          "달서구"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006018&wlfareInfoReldBztpCd=02",
+      "contact": "4652",
+      "support_type": "서민금융, 일자리",
+      "support_cycle": "년",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:43:47.425250+09:00"
+    },
+    {
+      "id": "local_WLF00006017",
+      "source": "local",
+      "title": "이천시 장애인가정 출산비 지원",
+      "organization": "경기도 이천시 복지국 노인장애인과",
+      "summary": [
+        "이천시 장애인가정 출산비 지",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "경기도 이천시 복지국 노인장"
+      ],
+      "plain_desc": "'이천시 장애인가정 출산비 지원' 서비스입니다. 지원 대상 및 신청 방법은 경기도 이천시 복지국 노인장애인과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "경기도"
+        ],
+        "districts": [
+          "이천시"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006017&wlfareInfoReldBztpCd=02",
+      "contact": "937",
+      "support_type": "서민금융",
+      "support_cycle": "수시",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:44:08.825016+09:00"
+    },
+    {
+      "id": "local_WLF00006016",
+      "source": "local",
+      "title": "무연고사망자 장례비 지원(본청)",
+      "organization": "경기도 평택시 복지국 사회복지과",
+      "summary": [
+        "무연고사망자 장례비 지원(본",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "경기도 평택시 복지국 사회복"
+      ],
+      "plain_desc": "'무연고사망자 장례비 지원(본청)' 서비스입니다. 지원 대상 및 신청 방법은 경기도 평택시 복지국 사회복지과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "경기도"
+        ],
+        "districts": [
+          "평택시"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006016&wlfareInfoReldBztpCd=02",
+      "contact": "1157",
+      "support_type": "안전·위기",
+      "support_cycle": "1회성",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:44:30.239022+09:00"
+    },
+    {
+      "id": "local_WLF00006014",
+      "source": "local",
+      "title": "어르신 등 교통비 지원사업",
+      "organization": "서울특별시 강남구 안전교통국 교통행정과",
+      "summary": [
+        "어르신 등 교통비 지원사업",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "서울특별시 강남구 안전교통국"
+      ],
+      "plain_desc": "'어르신 등 교통비 지원사업' 서비스입니다. 지원 대상 및 신청 방법은 서울특별시 강남구 안전교통국 교통행정과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "서울특별시"
+        ],
+        "districts": [
+          "강남구"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006014&wlfareInfoReldBztpCd=02",
+      "contact": "25937",
+      "support_type": "서민금융",
+      "support_cycle": "분기",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:44:51.649277+09:00"
+    },
+    {
+      "id": "local_WLF00006013",
+      "source": "local",
+      "title": "행려자 귀가여비 지원",
+      "organization": "경상남도 사천시 복지환경국 주민복지과",
+      "summary": [
+        "행려자 귀가여비 지원",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "경상남도 사천시 복지환경국 "
+      ],
+      "plain_desc": "'행려자 귀가여비 지원' 서비스입니다. 지원 대상 및 신청 방법은 경상남도 사천시 복지환경국 주민복지과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "경상남도"
+        ],
+        "districts": [
+          "사천시"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006013&wlfareInfoReldBztpCd=02",
+      "contact": "677",
+      "support_type": "서민금융",
+      "support_cycle": "1회성",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:45:13.086679+09:00"
+    },
+    {
+      "id": "local_WLF00006012",
+      "source": "local",
+      "title": "사천시 저소득주민 국민건강보험료 및 노인장기요양보험료 지원",
+      "organization": "경상남도 사천시 복지환경국 주민복지과",
+      "summary": [
+        "사천시 저소득주민 국민건강보",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "경상남도 사천시 복지환경국 "
+      ],
+      "plain_desc": "'사천시 저소득주민 국민건강보험료 및 노인장기요양보험료 지원' 서비스입니다. 지원 대상 및 신청 방법은 경상남도 사천시 복지환경국 주민복지과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "경상남도"
+        ],
+        "districts": [
+          "사천시"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006012&wlfareInfoReldBztpCd=02",
+      "contact": "955",
+      "support_type": "",
+      "support_cycle": "월",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:45:34.469062+09:00"
+    },
+    {
+      "id": "local_WLF00006011",
+      "source": "local",
+      "title": "무연고 사망자 장례비 지원",
+      "organization": "경상남도 사천시 복지환경국 주민복지과",
+      "summary": [
+        "무연고 사망자 장례비 지원",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "경상남도 사천시 복지환경국 "
+      ],
+      "plain_desc": "'무연고 사망자 장례비 지원' 서비스입니다. 지원 대상 및 신청 방법은 경상남도 사천시 복지환경국 주민복지과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "경상남도"
+        ],
+        "districts": [
+          "사천시"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006011&wlfareInfoReldBztpCd=02",
+      "contact": "1123",
+      "support_type": "서민금융",
+      "support_cycle": "1회성",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:45:55.888890+09:00"
+    },
+    {
+      "id": "local_WLF00006010",
+      "source": "local",
+      "title": "장수축하물품 지급",
+      "organization": "대구광역시 남구 복지환경국 복지지원과",
+      "summary": [
+        "장수축하물품 지급",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "대구광역시 남구 복지환경국 "
+      ],
+      "plain_desc": "'장수축하물품 지급' 서비스입니다. 지원 대상 및 신청 방법은 대구광역시 남구 복지환경국 복지지원과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "대구광역시"
+        ],
+        "districts": [
+          "남구"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006010&wlfareInfoReldBztpCd=02",
+      "contact": "1061",
+      "support_type": "",
+      "support_cycle": "1회성",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:46:17.276876+09:00"
+    },
+    {
+      "id": "local_WLF00006009",
+      "source": "local",
+      "title": "척척세종 생활민원 기동처리반 운영",
+      "organization": "세종특별자치시 시민안전실 민원과",
+      "summary": [
+        "척척세종 생활민원 기동처리반",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "세종특별자치시 시민안전실 민"
+      ],
+      "plain_desc": "'척척세종 생활민원 기동처리반 운영' 서비스입니다. 지원 대상 및 신청 방법은 세종특별자치시 시민안전실 민원과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "세종특별자치시"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006009&wlfareInfoReldBztpCd=02",
+      "contact": "1025",
+      "support_type": "",
+      "support_cycle": "수시",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:46:38.711235+09:00"
+    },
+    {
+      "id": "local_WLF00006008",
+      "source": "local",
+      "title": "용산구 청년 국가자격증 및 어학시험 응시료 지원",
+      "organization": "서울특별시 용산구 기획조정실 일자리정책담당관",
+      "summary": [
+        "용산구 청년 국가자격증 및 ",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "서울특별시 용산구 기획조정실"
+      ],
+      "plain_desc": "'용산구 청년 국가자격증 및 어학시험 응시료 지원' 서비스입니다. 지원 대상 및 신청 방법은 서울특별시 용산구 기획조정실 일자리정책담당관에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "서울특별시"
+        ],
+        "districts": [
+          "용산구"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006008&wlfareInfoReldBztpCd=02",
+      "contact": "2954",
+      "support_type": "서민금융, 일자리",
+      "support_cycle": "월",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:47:00.137599+09:00"
+    },
+    {
+      "id": "local_WLF00006007",
+      "source": "local",
+      "title": "1형 당뇨병 학생 지원 사업",
+      "organization": "충청남도교육청 교육국 체육건강과",
+      "summary": [
+        "1형 당뇨병 학생 지원 사업",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "충청남도교육청 교육국 체육건"
+      ],
+      "plain_desc": "'1형 당뇨병 학생 지원 사업' 서비스입니다. 지원 대상 및 신청 방법은 충청남도교육청 교육국 체육건강과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "충청남도"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006007&wlfareInfoReldBztpCd=02",
+      "contact": "1404",
+      "support_type": "서민금융, 교육, 신체건강",
+      "support_cycle": "년",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:47:21.553265+09:00"
+    },
+    {
+      "id": "local_WLF00006006",
+      "source": "local",
+      "title": "울주군 청년 주택 임차비용 지원",
+      "organization": "울산광역시 울주군 경제산업국 일자리지원과",
+      "summary": [
+        "울주군 청년 주택 임차비용 ",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "울산광역시 울주군 경제산업국"
+      ],
+      "plain_desc": "'울주군 청년 주택 임차비용 지원' 서비스입니다. 지원 대상 및 신청 방법은 울산광역시 울주군 경제산업국 일자리지원과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "울산광역시"
+        ],
+        "districts": [
+          "울주군"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006006&wlfareInfoReldBztpCd=02",
+      "contact": "9249",
+      "support_type": "서민금융",
+      "support_cycle": "분기",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:47:42.969578+09:00"
+    },
+    {
+      "id": "local_WLF00006005",
+      "source": "local",
+      "title": "김해시 장애인가정 출산지원금 지원",
+      "organization": "경상남도 김해시 복지국 복지정책과",
+      "summary": [
+        "김해시 장애인가정 출산지원금",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "경상남도 김해시 복지국 복지"
+      ],
+      "plain_desc": "'김해시 장애인가정 출산지원금 지원' 서비스입니다. 지원 대상 및 신청 방법은 경상남도 김해시 복지국 복지정책과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "경상남도"
+        ],
+        "districts": [
+          "김해시"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006005&wlfareInfoReldBztpCd=02",
+      "contact": "3360",
+      "support_type": "서민금융, 임신·출산",
+      "support_cycle": "1회성",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:48:04.392030+09:00"
+    },
+    {
+      "id": "local_WLF00006004",
+      "source": "local",
+      "title": "치매감별검사비 확대 지원",
+      "organization": "전라남도 무안군 보건소 건강증진과",
+      "summary": [
+        "치매감별검사비 확대 지원",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "전라남도 무안군 보건소 건강"
+      ],
+      "plain_desc": "'치매감별검사비 확대 지원' 서비스입니다. 지원 대상 및 신청 방법은 전라남도 무안군 보건소 건강증진과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전라남도"
+        ],
+        "districts": [
+          "무안군"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006004&wlfareInfoReldBztpCd=02",
+      "contact": "680",
+      "support_type": "서민금융",
+      "support_cycle": "월",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:48:25.774110+09:00"
+    },
+    {
+      "id": "local_WLF00006003",
+      "source": "local",
+      "title": "이사비 지원사업",
+      "organization": "서울특별시 용산구 생활지원국 사회복지과",
+      "summary": [
+        "이사비 지원사업",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "서울특별시 용산구 생활지원국"
+      ],
+      "plain_desc": "'이사비 지원사업' 서비스입니다. 지원 대상 및 신청 방법은 서울특별시 용산구 생활지원국 사회복지과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "서울특별시"
+        ],
+        "districts": [
+          "용산구"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006003&wlfareInfoReldBztpCd=02",
+      "contact": "4580",
+      "support_type": "서민금융",
+      "support_cycle": "1회성",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:48:47.151754+09:00"
+    },
+    {
+      "id": "local_WLF00006002",
+      "source": "local",
+      "title": "장애인가정 출산지원금 지원",
+      "organization": "부산광역시 북구 복지국 복지정책과",
+      "summary": [
+        "장애인가정 출산지원금 지원",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "부산광역시 북구 복지국 복지"
+      ],
+      "plain_desc": "'장애인가정 출산지원금 지원' 서비스입니다. 지원 대상 및 신청 방법은 부산광역시 북구 복지국 복지정책과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "부산광역시"
+        ],
+        "districts": [
+          "북구"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006002&wlfareInfoReldBztpCd=02",
+      "contact": "703",
+      "support_type": "서민금융",
+      "support_cycle": "1회성",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:49:08.596246+09:00"
+    },
+    {
+      "id": "local_WLF00005999",
+      "source": "local",
+      "title": "성주군 출산양육지원금 지원사업",
+      "organization": "경상북도 성주군 보건소",
+      "summary": [
+        "성주군 출산양육지원금 지원사",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "경상북도 성주군 보건소"
+      ],
+      "plain_desc": "'성주군 출산양육지원금 지원사업' 서비스입니다. 지원 대상 및 신청 방법은 경상북도 성주군 보건소에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "경상북도"
+        ],
+        "districts": [
+          "성주군"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005999&wlfareInfoReldBztpCd=02",
+      "contact": "1652",
+      "support_type": "서민금융, 임신·출산",
+      "support_cycle": "월",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:49:29.996096+09:00"
+    },
+    {
+      "id": "local_WLF00005998",
+      "source": "local",
+      "title": "무안군 노인 무릎인공관절치환술 수술비 지원 사업",
+      "organization": "전라남도 무안군 보건소 건강증진과",
+      "summary": [
+        "무안군 노인 무릎인공관절치환",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "전라남도 무안군 보건소 건강"
+      ],
+      "plain_desc": "'무안군 노인 무릎인공관절치환술 수술비 지원 사업' 서비스입니다. 지원 대상 및 신청 방법은 전라남도 무안군 보건소 건강증진과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전라남도"
+        ],
+        "districts": [
+          "무안군"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005998&wlfareInfoReldBztpCd=02",
+      "contact": "1031",
+      "support_type": "서민금융, 신체건강",
+      "support_cycle": "1회성",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:49:51.393975+09:00"
+    },
+    {
+      "id": "local_WLF00005997",
+      "source": "local",
+      "title": "가족체류형 농어촌유학 프로그램 운영 사업",
+      "organization": "인천광역시교육청 교육역량지원국 학교.마을협력과",
+      "summary": [
+        "가족체류형 농어촌유학 프로그",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "인천광역시교육청 교육역량지원"
+      ],
+      "plain_desc": "'가족체류형 농어촌유학 프로그램 운영 사업' 서비스입니다. 지원 대상 및 신청 방법은 인천광역시교육청 교육역량지원국 학교.마을협력과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "인천광역시"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005997&wlfareInfoReldBztpCd=02",
+      "contact": "1439",
+      "support_type": "서민금융",
+      "support_cycle": "월",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:50:12.834714+09:00"
+    },
+    {
+      "id": "local_WLF00005996",
+      "source": "local",
+      "title": "폐지 수집인 수거장려금 지원",
+      "organization": "인천광역시 동구 경제환경국 자원순환과",
+      "summary": [
+        "폐지 수집인 수거장려금 지원",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "인천광역시 동구 경제환경국 "
+      ],
+      "plain_desc": "'폐지 수집인 수거장려금 지원' 서비스입니다. 지원 대상 및 신청 방법은 인천광역시 동구 경제환경국 자원순환과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "인천광역시"
+        ],
+        "districts": [
+          "동구"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005996&wlfareInfoReldBztpCd=02",
+      "contact": "891",
+      "support_type": "서민금융",
+      "support_cycle": "월",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:50:34.269703+09:00"
+    },
+    {
+      "id": "local_WLF00005995",
+      "source": "local",
+      "title": "외국인 아동 보육료 지원",
+      "organization": "경상남도 복지여성국 보육정책과",
+      "summary": [
+        "외국인 아동 보육료 지원",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "경상남도 복지여성국 보육정책"
+      ],
+      "plain_desc": "'외국인 아동 보육료 지원' 서비스입니다. 지원 대상 및 신청 방법은 경상남도 복지여성국 보육정책과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "경상남도"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005995&wlfareInfoReldBztpCd=02",
+      "contact": "2188",
+      "support_type": "",
+      "support_cycle": "월",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:50:55.888612+09:00"
+    },
+    {
+      "id": "local_WLF00005993",
+      "source": "local",
+      "title": "신혼부부 주택구입 대출이자 지원사업",
+      "organization": "대구광역시 남구 인구정책국 인구총괄과",
+      "summary": [
+        "신혼부부 주택구입 대출이자 ",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "대구광역시 남구 인구정책국 "
+      ],
+      "plain_desc": "'신혼부부 주택구입 대출이자 지원사업' 서비스입니다. 지원 대상 및 신청 방법은 대구광역시 남구 인구정책국 인구총괄과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "대구광역시"
+        ],
+        "districts": [
+          "남구"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005993&wlfareInfoReldBztpCd=02",
+      "contact": "2989",
+      "support_type": "서민금융",
+      "support_cycle": "반기",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:51:17.295274+09:00"
+    },
+    {
+      "id": "local_WLF00005992",
+      "source": "local",
+      "title": "난임부부 원거리 교통비 지원사업",
+      "organization": "전라남도 무안군 보건소 건강증진과",
+      "summary": [
+        "난임부부 원거리 교통비 지원",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "전라남도 무안군 보건소 건강"
+      ],
+      "plain_desc": "'난임부부 원거리 교통비 지원사업' 서비스입니다. 지원 대상 및 신청 방법은 전라남도 무안군 보건소 건강증진과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전라남도"
+        ],
+        "districts": [
+          "무안군"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005992&wlfareInfoReldBztpCd=02",
+      "contact": "1476",
+      "support_type": "서민금융, 신체건강",
+      "support_cycle": "년",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:51:38.740577+09:00"
+    },
+    {
+      "id": "local_WLF00005991",
+      "source": "local",
+      "title": "여주시 어르신 시내버스 무상교통 지원사업",
+      "organization": "경기도 여주시 경제환경국 교통과",
+      "summary": [
+        "여주시 어르신 시내버스 무상",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "경기도 여주시 경제환경국 교"
+      ],
+      "plain_desc": "'여주시 어르신 시내버스 무상교통 지원사업' 서비스입니다. 지원 대상 및 신청 방법은 경기도 여주시 경제환경국 교통과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "경기도"
+        ],
+        "districts": [
+          "여주시"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005991&wlfareInfoReldBztpCd=02",
+      "contact": "1785",
+      "support_type": "서민금융",
+      "support_cycle": "분기",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:52:00.215140+09:00"
+    },
+    {
+      "id": "local_WLF00005990",
+      "source": "local",
+      "title": "청년근로자 지역정착 행복원룸사업",
+      "organization": "경상북도 구미시 미래교육돌봄국 인구청년과",
+      "summary": [
+        "청년근로자 지역정착 행복원룸",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "경상북도 구미시 미래교육돌봄"
+      ],
+      "plain_desc": "'청년근로자 지역정착 행복원룸사업' 서비스입니다. 지원 대상 및 신청 방법은 경상북도 구미시 미래교육돌봄국 인구청년과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "경상북도"
+        ],
+        "districts": [
+          "구미시"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005990&wlfareInfoReldBztpCd=02",
+      "contact": "1692",
+      "support_type": "서민금융",
+      "support_cycle": "월",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:52:21.604857+09:00"
+    },
+    {
+      "id": "local_WLF00005989",
+      "source": "local",
+      "title": "민간 산후조리비 지원",
+      "organization": "전라남도 장흥군 인구청년정책과",
+      "summary": [
+        "민간 산후조리비 지원",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "전라남도 장흥군 인구청년정책"
+      ],
+      "plain_desc": "'민간 산후조리비 지원' 서비스입니다. 지원 대상 및 신청 방법은 전라남도 장흥군 인구청년정책과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전라남도"
+        ],
+        "districts": [
+          "장흥군"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005989&wlfareInfoReldBztpCd=02",
+      "contact": "1403",
+      "support_type": "임신·출산, 서민금융",
+      "support_cycle": "1회성",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:52:43.011358+09:00"
+    },
+    {
+      "id": "local_WLF00005988",
+      "source": "local",
+      "title": "대구광역시 남구 미취업청년 자격증 응시료 지원사업",
+      "organization": "대구광역시 남구 인구정책국 인구총괄과",
+      "summary": [
+        "대구광역시 남구 미취업청년 ",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "대구광역시 남구 인구정책국 "
+      ],
+      "plain_desc": "'대구광역시 남구 미취업청년 자격증 응시료 지원사업' 서비스입니다. 지원 대상 및 신청 방법은 대구광역시 남구 인구정책국 인구총괄과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "대구광역시"
+        ],
+        "districts": [
+          "남구"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005988&wlfareInfoReldBztpCd=02",
+      "contact": "3609",
+      "support_type": "서민금융, 일자리",
+      "support_cycle": "년",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:53:04.427215+09:00"
+    },
+    {
+      "id": "local_WLF00005987",
+      "source": "local",
+      "title": "달빛어린이병원 등 장려금 지원",
+      "organization": "울산광역시 울주군 보건소 보건과",
+      "summary": [
+        "달빛어린이병원 등 장려금 지",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "울산광역시 울주군 보건소 보"
+      ],
+      "plain_desc": "'달빛어린이병원 등 장려금 지원' 서비스입니다. 지원 대상 및 신청 방법은 울산광역시 울주군 보건소 보건과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "울산광역시"
+        ],
+        "districts": [
+          "울주군"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005987&wlfareInfoReldBztpCd=02",
+      "contact": "950",
+      "support_type": "서민금융, 신체건강",
+      "support_cycle": "반기",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:53:25.838573+09:00"
+    },
+    {
+      "id": "local_WLF00005986",
+      "source": "local",
+      "title": "저소득구민 지원(기초생계,의료급여 수급자 명절 위문금 지원)원",
+      "organization": "서울특별시 강북구 복지생활국 생활보장과",
+      "summary": [
+        "저소득구민 지원(기초생계,의",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "서울특별시 강북구 복지생활국"
+      ],
+      "plain_desc": "'저소득구민 지원(기초생계,의료급여 수급자 명절 위문금 지원)원' 서비스입니다. 지원 대상 및 신청 방법은 서울특별시 강북구 복지생활국 생활보장과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "서울특별시"
+        ],
+        "districts": [
+          "강북구"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005986&wlfareInfoReldBztpCd=02",
+      "contact": "2663",
+      "support_type": "서민금융",
+      "support_cycle": "반기",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:53:47.220149+09:00"
+    },
+    {
+      "id": "local_WLF00005985",
+      "source": "local",
+      "title": "강북구 저소득 주민 국민건강보험료 등 지원",
+      "organization": "서울특별시 강북구 복지생활국 생활보장과",
+      "summary": [
+        "강북구 저소득 주민 국민건강",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "서울특별시 강북구 복지생활국"
+      ],
+      "plain_desc": "'강북구 저소득 주민 국민건강보험료 등 지원' 서비스입니다. 지원 대상 및 신청 방법은 서울특별시 강북구 복지생활국 생활보장과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "서울특별시"
+        ],
+        "districts": [
+          "강북구"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005985&wlfareInfoReldBztpCd=02",
+      "contact": "981",
+      "support_type": "",
+      "support_cycle": "월",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:54:08.598471+09:00"
+    },
+    {
+      "id": "local_WLF00005984",
+      "source": "local",
+      "title": "초등학교 입학지원금 지원",
+      "organization": "부산광역시 수영구 미래전략국 평생교육과",
+      "summary": [
+        "초등학교 입학지원금 지원",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "부산광역시 수영구 미래전략국"
+      ],
+      "plain_desc": "'초등학교 입학지원금 지원' 서비스입니다. 지원 대상 및 신청 방법은 부산광역시 수영구 미래전략국 평생교육과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "부산광역시"
+        ],
+        "districts": [
+          "수영구"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005984&wlfareInfoReldBztpCd=02",
+      "contact": "7073",
+      "support_type": "교육, 서민금융",
+      "support_cycle": "1회성",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:54:30.039040+09:00"
+    },
+    {
+      "id": "local_WLF00005983",
+      "source": "local",
+      "title": "입양아동 교육비 지원",
+      "organization": "경상남도 거창군 경제복지국 행복나눔과",
+      "summary": [
+        "입양아동 교육비 지원",
+        "자세한 내용은 해당 기관에 문의하세요",
+        "경상남도 거창군 경제복지국 "
+      ],
+      "plain_desc": "'입양아동 교육비 지원' 서비스입니다. 지원 대상 및 신청 방법은 경상남도 거창군 경제복지국 행복나눔과에 문의하세요.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "경상남도"
+        ],
+        "districts": [
+          "거창군"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005983&wlfareInfoReldBztpCd=02",
+      "contact": "828",
+      "support_type": "서민금융, 입양·위탁",
+      "support_cycle": "월",
+      "gemini_ok": false,
+      "updated_at": "2026-06-13T09:54:51.430714+09:00"
     }
   ]
 }
