@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "last_updated": "2026-06-17T08:17:16.146678+09:00",
-    "last_updated_kst": "2026년 06월 17일 08:17",
-    "total_count": 5012,
-    "total_fetched_from_api": 5012
+    "last_updated": "2026-06-18T08:11:21.669330+09:00",
+    "last_updated_kst": "2026년 06월 18일 08:11",
+    "total_count": 5016,
+    "total_fetched_from_api": 5016
   },
   "items": [
     {
@@ -196058,6 +196058,164 @@
       "support_cycle": "1회성",
       "gemini_ok": true,
       "updated_at": "2026-06-13T16:08:14.662742+09:00"
+    },
+    {
+      "id": "local_WLF00006322",
+      "source": "local",
+      "title": "전입학생 생활안정 장학금",
+      "organization": "전북특별자치도 완주군 행정자치국 인구정책과",
+      "summary": [
+        "전입학생 생활안정 장학금",
+        "완주군으로 전입한 전입학생에게 생활안",
+        "전북특별자치도 완주군 행정자"
+      ],
+      "plain_desc": "완주군으로 전입한 전입학생에게 생활안정 장학금을 지원하여 완주군에 안정적으로 정착하도록 돕고자 함.",
+      "categories": [
+        "교육·훈련"
+      ],
+      "age_groups": [
+        "청년(19-34세)"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전북특별자치도"
+        ],
+        "districts": [
+          "완주군"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006322&wlfareInfoReldBztpCd=02",
+      "contact": "11",
+      "support_type": "서민금융, 교육",
+      "support_cycle": "년",
+      "gemini_ok": true,
+      "updated_at": "2026-06-18T08:11:21.669012+09:00"
+    },
+    {
+      "id": "local_WLF00006323",
+      "source": "local",
+      "title": "뚝딱! 의령민생현장기동대",
+      "organization": "경상남도 의령군 행정복지국 사회복지과",
+      "summary": [
+        "뚝딱! 의령민생현장기동대",
+        "한부모·조손",
+        "경상남도 의령군 행정복지국 "
+      ],
+      "plain_desc": "○ 고령인구, 1인가구 증가 및 주택 노후 등으로 주거시설 소규모 수리가 필요하나, 설비 서비스 업체 부족으로 생활불편을 겪는 가구 많음 ○ 생활불편을 적기에 해결할 수 있는 주민생활밀착형 서비스 제공으로 군민 주거복지향상과 안전한 생활환경 조성",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "1인가구",
+        "한부모가구"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "경상남도"
+        ],
+        "districts": [
+          "의령군"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006323&wlfareInfoReldBztpCd=02",
+      "contact": "11",
+      "support_type": "",
+      "support_cycle": "수시",
+      "gemini_ok": true,
+      "updated_at": "2026-06-18T08:11:21.669131+09:00"
+    },
+    {
+      "id": "local_WLF00006321",
+      "source": "local",
+      "title": "운동으로 산후우울에 브레이크를! (출산 후 심신 건강회복 운동비 지원)",
+      "organization": "경상남도 함안군 보건소 건강증진과",
+      "summary": [
+        "운동으로 산후우울에 브레이크를! (출",
+        "-출산 후 산모의 신체적·정서적 회복",
+        "경상남도 함안군 보건소 건강"
+      ],
+      "plain_desc": "-출산 후 산모의 신체적·정서적 회복을 통해 산후우울을 예방하고 모자의 건강 증진 -저출산에 따른 인구감소에 대응하기 위한 출산장려책을 통해 인구증가 도모",
+      "categories": [
+        "의료·건강",
+        "임신·출산·육아"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "한부모가구"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "경상남도"
+        ],
+        "districts": [
+          "함안군"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006321&wlfareInfoReldBztpCd=02",
+      "contact": "11",
+      "support_type": "서민금융, 임신·출산",
+      "support_cycle": "1회성",
+      "gemini_ok": true,
+      "updated_at": "2026-06-18T08:11:21.669219+09:00"
+    },
+    {
+      "id": "local_WLF00006320",
+      "source": "local",
+      "title": "근로능력평가용 진단서 발급비용 지원(진단서 발급비 걱정 말go)",
+      "organization": "전라남도 해남군 복지정책과",
+      "summary": [
+        "근로능력평가용 진단서 발급비용 지원(",
+        "저소득",
+        "전라남도 해남군 복지정책과"
+      ],
+      "plain_desc": "근로능력 없는 자에 대한 보호와 근로능력자에 대한 조건부수급자 지정 등 의료급여 종별을 결정하기 위해 매년 근로능력평가를 실시하고 있으나 비용 문제로 제출기한을 넘기는 경우가 있어 진단서 발급비용을 지원해 수급자 부담을 경감하고 미제출로 인한 불이익을 방지하기 위함",
+      "categories": [
+        "의료·건강",
+        "임신·출산·육아",
+        "취업·창업",
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "청년(19-34세)",
+        "중장년(35-64세)"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "기초생활수급자"
+      ],
+      "regions": {
+        "sido": [
+          "전라남도"
+        ],
+        "districts": [
+          "해남군"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006320&wlfareInfoReldBztpCd=02",
+      "contact": "12",
+      "support_type": "임신·출산, 서민금융, 신체건강",
+      "support_cycle": "1회성",
+      "gemini_ok": true,
+      "updated_at": "2026-06-18T08:11:21.669313+09:00"
     }
   ]
 }
