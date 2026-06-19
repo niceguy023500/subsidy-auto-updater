@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "last_updated": "2026-06-18T08:11:23.259848+09:00",
-    "last_updated_kst": "2026년 06월 18일 08:11",
-    "total_count": 5016,
-    "total_fetched_from_api": 5016
+    "last_updated": "2026-06-19T09:15:51.589100+09:00",
+    "last_updated_kst": "2026년 06월 19일 09:15",
+    "total_count": 5021,
+    "total_fetched_from_api": 5021
   },
   "items": [
     {
@@ -95983,44 +95983,6 @@
       "support_cycle": "1회성",
       "gemini_ok": true,
       "updated_at": "2026-06-13T16:08:05.659154+09:00"
-    },
-    {
-      "id": "local_WLF00000347",
-      "source": "local",
-      "title": "삼척시 어르신 목욕비 지원 사업",
-      "organization": "강원특별자치도 삼척시 자치행정국 사회복지과",
-      "summary": [
-        "삼척시 어르신 목욕비 지원 사업",
-        "노인의 위생관리 및 건강증진을 위한 ",
-        "강원특별자치도 삼척시 자치행"
-      ],
-      "plain_desc": "노인의 위생관리 및 건강증진을 위한 목욕비 지원 75세이상 관내 거주 어르신 - 지원제외 : 노인장기요양 서비스 이용자 등 기타 사회복지목욕서비스 수혜자",
-      "categories": [
-        "노인돌봄"
-      ],
-      "age_groups": [
-        "전체"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "강원특별자치도"
-        ],
-        "districts": [
-          "삼척시"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000347&wlfareInfoReldBztpCd=02",
-      "contact": "1385",
-      "support_type": "",
-      "support_cycle": "반기",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:05.659250+09:00"
     },
     {
       "id": "local_WLF00002755",
@@ -196216,6 +196178,244 @@
       "support_cycle": "1회성",
       "gemini_ok": true,
       "updated_at": "2026-06-18T08:11:21.669313+09:00"
+    },
+    {
+      "id": "national_WLF00006309",
+      "source": "national",
+      "title": "법률구조",
+      "organization": "법무부 인권구조과",
+      "summary": [
+        "법률구조",
+        "저소득",
+        "법무부 인권구조과"
+      ],
+      "plain_desc": "경제적으로 어렵거나 법률 지식이 부족해 법의 보호를 충분히 받지 못하는 국민의 기본적 인권 옹호를 위해 법률상담, 소송 대리 및 형사변호 등 법률 서비스를 지원합니다.",
+      "categories": [
+        "임신·출산·육아",
+        "교육·훈련",
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "영유아(0-6세)",
+        "아동·청소년(7-18세)",
+        "청년(19-34세)",
+        "중장년(35-64세)"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006309&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "법률",
+      "support_cycle": "수시",
+      "gemini_ok": true,
+      "updated_at": "2026-06-19T09:15:51.588666+09:00"
+    },
+    {
+      "id": "local_WLF00006329",
+      "source": "local",
+      "title": "플랫폼 종사자 고용산재보험료 지원 사업",
+      "organization": "서울특별시 도봉구 기획재정국 지역경제과",
+      "summary": [
+        "플랫폼 종사자 고용산재보험료 지원 사",
+        "배달플랫폼 종사자의 고용산재보험 사각",
+        "서울특별시 도봉구 기획재정국"
+      ],
+      "plain_desc": "배달플랫폼 종사자의 고용산재보험 사각지대를 완화하여 고용 안정을 도모함으로써 사회안전망 강화에 기여하고자 함",
+      "categories": [
+        "취업·창업"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "서울특별시"
+        ],
+        "districts": [
+          "도봉구"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006329&wlfareInfoReldBztpCd=02",
+      "contact": "13",
+      "support_type": "서민금융",
+      "support_cycle": "년",
+      "gemini_ok": true,
+      "updated_at": "2026-06-19T09:15:51.588758+09:00"
+    },
+    {
+      "id": "local_WLF00006328",
+      "source": "local",
+      "title": "소아‧청소년 제1형 당뇨병 환자 지원사업",
+      "organization": "서울특별시 동대문구 보건소 보건행정과",
+      "summary": [
+        "소아‧청소년 제1형 당뇨병 환자 지원",
+        "소아‧청소년 당뇨병 환자가 당뇨병 관",
+        "서울특별시 동대문구 보건소 "
+      ],
+      "plain_desc": "소아‧청소년 당뇨병 환자가 당뇨병 관리기기를 통해 지속적인 혈당 측정 및 인슐린 주입 등 일상생활에서 꾸준한 질병관리를 할 수 있도록 요양비를 지원하여 환자와 가족의 경제적 부담 감소 및 삶의 질 향상",
+      "categories": [
+        "의료·건강",
+        "임신·출산·육아",
+        "교육·훈련"
+      ],
+      "age_groups": [
+        "영유아(0-6세)",
+        "아동·청소년(7-18세)"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "서울특별시"
+        ],
+        "districts": [
+          "동대문구"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006328&wlfareInfoReldBztpCd=02",
+      "contact": "4",
+      "support_type": "서민금융, 신체건강",
+      "support_cycle": "년",
+      "gemini_ok": true,
+      "updated_at": "2026-06-19T09:15:51.588857+09:00"
+    },
+    {
+      "id": "local_WLF00006327",
+      "source": "local",
+      "title": "어르신 장수축하물품 지원 사업",
+      "organization": "서울특별시 동대문구 주민복지국 어르신복지과",
+      "summary": [
+        "어르신 장수축하물품 지원 사업",
+        "100세 이상 장수노인들에 대한 존경",
+        "서울특별시 동대문구 주민복지"
+      ],
+      "plain_desc": "100세 이상 장수노인들에 대한 존경과 감사의 마음을 전함으로써 서울특별시 동대문구가 고령친화도시로 발돋움하기 위함",
+      "categories": [
+        "노인돌봄"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "서울특별시"
+        ],
+        "districts": [
+          "동대문구"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006327&wlfareInfoReldBztpCd=02",
+      "contact": "5",
+      "support_type": "",
+      "support_cycle": "1회성",
+      "gemini_ok": true,
+      "updated_at": "2026-06-19T09:15:51.588921+09:00"
+    },
+    {
+      "id": "local_WLF00006326",
+      "source": "local",
+      "title": "은평구 한방 난임 치료지원사업",
+      "organization": "서울특별시 은평구 보건소 예방관리과",
+      "summary": [
+        "은평구 한방 난임 치료지원사업",
+        "난임부부 및 개인을 대상으로 한의약적",
+        "서울특별시 은평구 보건소 예"
+      ],
+      "plain_desc": "난임부부 및 개인을 대상으로 한의약적 접근을 통해 월경불순, 배란장애 등 생식 기능 개선 뿐 아니라 체계적인 임신 준비로 건강한 임신, 출산에 기여하고자 함",
+      "categories": [
+        "의료·건강"
+      ],
+      "age_groups": [
+        "청년(19-34세)",
+        "중장년(35-64세)"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "서울특별시"
+        ],
+        "districts": [
+          "은평구"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006326&wlfareInfoReldBztpCd=02",
+      "contact": "12",
+      "support_type": "",
+      "support_cycle": "년",
+      "gemini_ok": true,
+      "updated_at": "2026-06-19T09:15:51.589015+09:00"
+    },
+    {
+      "id": "local_WLF00006325",
+      "source": "local",
+      "title": "강북구 배달플랫폼 종사자 고용보험료 지원 사업",
+      "organization": "서울특별시 강북구 기획경제국 일자리청년과",
+      "summary": [
+        "강북구 배달플랫폼 종사자 고용보험료 ",
+        "배달플랫폼 종사자의 고용보험 가입을 ",
+        "서울특별시 강북구 기획경제국"
+      ],
+      "plain_desc": "배달플랫폼 종사자의 고용보험 가입을 촉진하고 보험료 부담을 완화하여 고용 안정을 도모함으로써 사회안전망 강화에 기여하고자 함",
+      "categories": [
+        "취업·창업"
+      ],
+      "age_groups": [
+        "청년(19-34세)",
+        "중장년(35-64세)"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "서울특별시"
+        ],
+        "districts": [
+          "강북구"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006325&wlfareInfoReldBztpCd=02",
+      "contact": "12",
+      "support_type": "서민금융",
+      "support_cycle": "1회성",
+      "gemini_ok": true,
+      "updated_at": "2026-06-19T09:15:51.589084+09:00"
     }
   ]
 }
