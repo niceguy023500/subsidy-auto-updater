@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "last_updated": "2026-06-22T07:41:05.925218+09:00",
-    "last_updated_kst": "2026년 06월 22일 07:41",
-    "total_count": 5021,
-    "total_fetched_from_api": 5021
+    "last_updated": "2026-06-23T08:08:25.076311+09:00",
+    "last_updated_kst": "2026년 06월 23일 08:08",
+    "total_count": 5027,
+    "total_fetched_from_api": 5027
   },
   "items": [
     {
@@ -196416,6 +196416,249 @@
       "support_cycle": "1회성",
       "gemini_ok": true,
       "updated_at": "2026-06-19T09:15:51.589084+09:00"
+    },
+    {
+      "id": "national_WLF00003234",
+      "source": "national",
+      "title": "일자리창출사업",
+      "organization": "고용노동부 사회적기업과",
+      "summary": [
+        "일자리창출사업",
+        "사회적 기업에 인건비 등 재정지원을 ",
+        "고용노동부 사회적기업과"
+      ],
+      "plain_desc": "사회적 기업에 인건비 등 재정지원을 하여 기업을 육성하여 보다 많은 일자리를 창출하고 대국민 사회서비스를 확대합니다.",
+      "categories": [
+        "취업·창업"
+      ],
+      "age_groups": [
+        "청년(19-34세)",
+        "중장년(35-64세)"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00003234&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "일자리",
+      "support_cycle": "월",
+      "gemini_ok": true,
+      "updated_at": "2026-06-23T08:08:25.075918+09:00"
+    },
+    {
+      "id": "national_WLF00006335",
+      "source": "national",
+      "title": "유아 단계적 무상교육·보육 실현",
+      "organization": "교육부 영유아재정과",
+      "summary": [
+        "유아 단계적 무상교육·보육 실현",
+        "국가책임형 유아교육·보육 실현 및 학",
+        "교육부 영유아재정과"
+      ],
+      "plain_desc": "국가책임형 유아교육·보육 실현 및 학부모 양육비 부담 경감을 위해, ’25년 5세를 시작으로 ’27년 3~5세까지 단계적 무상교육·보육을 지원합니다.",
+      "categories": [
+        "임신·출산·육아",
+        "교육·훈련"
+      ],
+      "age_groups": [
+        "영유아(0-6세)"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006335&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "서민금융",
+      "support_cycle": "월",
+      "gemini_ok": true,
+      "updated_at": "2026-06-23T08:08:25.076014+09:00"
+    },
+    {
+      "id": "national_WLF00006334",
+      "source": "national",
+      "title": "장애인거주시설 이용",
+      "organization": "보건복지부 장애인권익지원과",
+      "summary": [
+        "장애인거주시설 이용",
+        "장애인",
+        "보건복지부 장애인권익지원과"
+      ],
+      "plain_desc": "장애인거주시설 등을 활용하여 일반가정에서 생활하기 어려운 장애인을 대상으로 24시간 거주, 요양, 지원 등의 서비스를 제공합니다.",
+      "categories": [
+        "주거·임대",
+        "의료·건강",
+        "장애인지원"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006334&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "신체건강,생활지원,안전·위기,보호·돌봄",
+      "support_cycle": "수시",
+      "gemini_ok": true,
+      "updated_at": "2026-06-23T08:08:25.076086+09:00"
+    },
+    {
+      "id": "national_WLF00006333",
+      "source": "national",
+      "title": "건강보험 산정특례",
+      "organization": "보건복지부 보험급여과",
+      "summary": [
+        "건강보험 산정특례",
+        "암 등 중증질환",
+        "보건복지부 보험급여과"
+      ],
+      "plain_desc": "암 등 중증질환, 희귀질환, 중증난치질환자의 의료비 부담을 완화하여 필수의료 보장을 강화합니다.",
+      "categories": [
+        "의료·건강",
+        "임신·출산·육아",
+        "교육·훈련"
+      ],
+      "age_groups": [
+        "영유아(0-6세)",
+        "아동·청소년(7-18세)",
+        "청년(19-34세)",
+        "중장년(35-64세)"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006333&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "신체건강,보호·돌봄",
+      "support_cycle": "수시",
+      "gemini_ok": true,
+      "updated_at": "2026-06-23T08:08:25.076146+09:00"
+    },
+    {
+      "id": "national_WLF00006332",
+      "source": "national",
+      "title": "아동 입원진료비 지원",
+      "organization": "보건복지부 보험급여과",
+      "summary": [
+        "아동 입원진료비 지원",
+        "만 15세 이하 아동 입원 진료비 본",
+        "보건복지부 보험급여과"
+      ],
+      "plain_desc": "만 15세 이하 아동 입원 진료비 본인부담금을 지원하는 국가책임제 및 건강보험 보장을 강화합니다.",
+      "categories": [
+        "의료·건강",
+        "임신·출산·육아"
+      ],
+      "age_groups": [
+        "아동·청소년(7-18세)"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006332&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "",
+      "support_cycle": "수시",
+      "gemini_ok": true,
+      "updated_at": "2026-06-23T08:08:25.076222+09:00"
+    },
+    {
+      "id": "national_WLF00006331",
+      "source": "national",
+      "title": "자살예방센터 운영",
+      "organization": "보건복지부 자살예방정책과",
+      "summary": [
+        "자살예방센터 운영",
+        "지역별 자살의 특성과 욕구에 적합한 ",
+        "보건복지부 자살예방정책과"
+      ],
+      "plain_desc": "지역별 자살의 특성과 욕구에 적합한 서비스가 제공될 수 있도록 지역 내 유관기관 간 연계, 서비스 체계 구축 마련, 고위험군 발굴·개입·사후관리 등을 통해 자살예방을 도모합니다.",
+      "categories": [
+        "의료·건강",
+        "임신·출산·육아",
+        "교육·훈련"
+      ],
+      "age_groups": [
+        "영유아(0-6세)",
+        "아동·청소년(7-18세)",
+        "청년(19-34세)",
+        "중장년(35-64세)"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006331&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "정신건강,안전·위기",
+      "support_cycle": "수시",
+      "gemini_ok": true,
+      "updated_at": "2026-06-23T08:08:25.076295+09:00"
     }
   ]
 }
