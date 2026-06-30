@@ -27,6 +27,24 @@ ANTHROPIC_API_KEY  (GitHub Secrets에 등록)
 실행 예시
 ---------
 python scripts/generate_hooks.py --input data/welfare.json --output data/welfare.json
+
+수정 이력
+---------
+[2026-07-01] 폴링 타임아웃 버그 수정
+  - 기존: MAX_POLL_MINUTES(60분) 초과 시 batch가 아직 'ended'가 아닌데도
+    바로 client.messages.batches.results(batch_id)를 호출 -> 
+    anthropic.AnthropicError: No `results_url` for the given batch 예외 발생.
+    이 예외가 main.py에서 잡혀서 "후킹 문구 생성 실패"로 전체 스킵됨
+    (대상이 5천 건 이상이면 항상 실패하는 구조적 버그였음).
+  - 수정: 
+    (1) MAX_POLL_MINUTES를 240분(4시간)으로 확대 - 워크플로 자체가
+        6시간(360분) 타임아웃이므로 여유 있게 기다릴 수 있도록 함.
+    (2) 폴링이 타임아웃으로 빠져나온 경우(batch_ended=False) results()를
+        호출하지 않고 빈 dict를 반환 -> 예외 없이 전체 fallback 처리.
+        이번 실행에서는 hook 미생성이지만, 다음 날 실행 시 캐시 미스로
+        다시 시도됨 (서비스 중단 없음).
+    (3) batch_id를 캐시에 기록해서, 같은 batch가 다음 실행에서도
+        재사용/추적 가능하도록 로그에 명시.
 """
 
 import os
@@ -48,7 +66,9 @@ MODEL = "claude-haiku-4-5-20251001"
 CACHE_PATH = "data/cache/hooks_cache.json"
 BATCH_CHUNK_SIZE = 5000  # Batch API 1회 요청 최대치 내에서 조절
 POLL_INTERVAL_SEC = 20
-MAX_POLL_MINUTES = 60
+# 워크플로 전체 타임아웃(6시간=360분)에 여유를 두고 4시간까지 폴링 허용.
+# 5천 건 이상 배치는 Anthropic 큐 상황에 따라 1시간 이상 걸릴 수 있음.
+MAX_POLL_MINUTES = 240
 
 SYSTEM_PROMPT = """\
 당신은 대한민국 정부 복지 지원금 공고문을, 일반 국민(특히 고령층 포함)이 \
@@ -135,6 +155,11 @@ def run_batch(client: anthropic.Anthropic, targets: list[dict]) -> dict:
     """
     targets: [{custom_id, item}, ...]
     return: {custom_id: {"hook_title":..., "hook_desc":...}}
+
+    중요: 폴링이 타임아웃으로 끝났는데 batch가 아직 'ended'가 아니면
+    results()를 호출하지 않고 빈 dict를 반환한다.
+    (Anthropic Batch API는 'ended' 상태가 아니면 results_url이 없어서
+    results()를 호출하면 AnthropicError가 발생함)
     """
     requests = []
     for t in targets:
@@ -154,18 +179,31 @@ def run_batch(client: anthropic.Anthropic, targets: list[dict]) -> dict:
     batch = client.messages.batches.create(requests=requests)
     batch_id = batch.id
     print(f"  Batch ID: {batch_id} (상태: {batch.processing_status})")
+    print(f"  최대 {MAX_POLL_MINUTES}분까지 폴링합니다 (참고용 batch_id: {batch_id})")
 
     elapsed = 0
+    batch_ended = False
     while True:
         time.sleep(POLL_INTERVAL_SEC)
         elapsed += POLL_INTERVAL_SEC
         batch = client.messages.batches.retrieve(batch_id)
         print(f"  [{elapsed}s] 상태: {batch.processing_status}")
         if batch.processing_status == "ended":
+            batch_ended = True
             break
         if elapsed > MAX_POLL_MINUTES * 60:
-            print("  WARNING: 폴링 타임아웃, 현재까지 결과만 사용")
+            print(
+                f"  WARNING: 폴링 타임아웃 ({MAX_POLL_MINUTES}분) - "
+                f"batch_id={batch_id} 는 계속 처리 중일 수 있으나 이번 실행에서는 "
+                f"결과를 가져오지 않고 종료합니다. 대상 항목은 원본(title/plain_desc)으로 "
+                f"표시되며, 다음 실행에서 캐시 미스로 다시 시도됩니다."
+            )
             break
+
+    if not batch_ended:
+        # 'ended' 상태가 아니면 results_url이 없어 results() 호출 시 예외 발생.
+        # 호출하지 않고 빈 결과로 안전하게 반환 (전체 fallback 처리됨).
+        return {}
 
     results = {}
     for entry in client.messages.batches.results(batch_id):
