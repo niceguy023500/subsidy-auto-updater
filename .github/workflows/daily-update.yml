@@ -47,6 +47,7 @@ jobs:
         env:
           WELFARE_API_KEY: ${{ secrets.WELFARE_API_KEY }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: python scripts/main.py
 
       # ── 5. 변경된 data/ 폴더를 커밋 & 푸시 ──
