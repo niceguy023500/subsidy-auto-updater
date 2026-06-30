@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "last_updated": "2026-06-30T07:21:46.837866+09:00",
-    "last_updated_kst": "2026년 06월 30일 07:21",
-    "total_count": 5056,
-    "total_fetched_from_api": 5056
+    "last_updated": "2026-06-30T14:54:39.483075+09:00",
+    "last_updated_kst": "2026년 06월 30일 14:54",
+    "total_count": 5057,
+    "total_fetched_from_api": 5057
   },
   "items": [
     {
@@ -197772,6 +197772,44 @@
       "support_cycle": "수시",
       "gemini_ok": true,
       "updated_at": "2026-06-30T07:21:45.188218+09:00"
+    },
+    {
+      "id": "national_WLF00006266",
+      "source": "national",
+      "title": "청년미래적금",
+      "organization": "금융위원회 청년정책과",
+      "summary": [
+        "청년미래적금",
+        "청년의 중장기 자산형성 지원을 위한 ",
+        "금융위원회 청년정책과"
+      ],
+      "plain_desc": "청년의 중장기 자산형성 지원을 위한 정책형 금융상품으로, 만기 3년 동안 매월 50만원 한도 내에서 자유롭게 납입 가능한 정부지원형 적금 상품입니다. 2026년 6월 예정",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "청년(19-34세)"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006266&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "생활지원,서민금융",
+      "support_cycle": "월",
+      "gemini_ok": true,
+      "updated_at": "2026-06-30T14:54:39.483043+09:00"
     }
   ]
 }
