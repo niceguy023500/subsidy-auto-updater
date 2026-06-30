@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "last_updated": "2026-06-30T14:54:41.264341+09:00",
-    "last_updated_kst": "2026년 06월 30일 14:54",
-    "total_count": 5057,
-    "total_fetched_from_api": 5057
+    "last_updated": "2026-07-01T01:20:18.657440+09:00",
+    "last_updated_kst": "2026년 07월 01일 01:20",
+    "total_count": 5059,
+    "total_fetched_from_api": 5059
   },
   "items": [
     {
@@ -119882,47 +119882,6 @@
       "updated_at": "2026-06-13T16:08:08.362795+09:00"
     },
     {
-      "id": "local_WLF00005389",
-      "source": "local",
-      "title": "장애인 교육-복지-고용연계서비스",
-      "organization": "서울특별시 은평구 주민복지국 장애인복지과",
-      "summary": [
-        "장애인 교육-복지-고용연계서비스",
-        "장애인",
-        "서울특별시 은평구 주민복지국"
-      ],
-      "plain_desc": "「장애인 교육-복지-고용연계서비스」 사업 추진을 통해 일자리 기관 간 네트워크를 구축하고, 장애학생 및 취업희망 장애인의 성공적인 취업지원 및 일자리 제공으로 자립생활 활성화에 기여하고자 함.",
-      "categories": [
-        "교육·훈련",
-        "취업·창업",
-        "장애인지원"
-      ],
-      "age_groups": [
-        "청년(19-34세)",
-        "중장년(35-64세)"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "서울특별시"
-        ],
-        "districts": [
-          "은평구"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005389&wlfareInfoReldBztpCd=02",
-      "contact": "1289",
-      "support_type": "일자리",
-      "support_cycle": "월",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:08.362869+09:00"
-    },
-    {
       "id": "local_WLF00005386",
       "source": "local",
       "title": "출생축하금 지원",
@@ -197810,6 +197769,120 @@
       "support_cycle": "월",
       "gemini_ok": true,
       "updated_at": "2026-06-30T14:54:39.483043+09:00"
+    },
+    {
+      "id": "local_WLF00006341",
+      "source": "local",
+      "title": "홍천군 결혼장려금",
+      "organization": "강원특별자치도 홍천군 행정복지국 행복나눔과",
+      "summary": [
+        "홍천군 결혼장려금",
+        "결혼을 장려하고 지원하여 결혼 친화적",
+        "강원특별자치도 홍천군 행정복"
+      ],
+      "plain_desc": "결혼을 장려하고 지원하여 결혼 친화적 환경 조성과 건강한 결혼문화 정착 및 안정적인 정주 환경 마련",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "청년(19-34세)"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "강원특별자치도"
+        ],
+        "districts": [
+          "홍천군"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006341&wlfareInfoReldBztpCd=02",
+      "contact": "0",
+      "support_type": "서민금융",
+      "support_cycle": "년",
+      "gemini_ok": true,
+      "updated_at": "2026-07-01T01:20:18.657217+09:00"
+    },
+    {
+      "id": "local_WLF00006259",
+      "source": "local",
+      "title": "일살생활돌봄(가사지원)",
+      "organization": "경상북도 영양군 행정복지국 주민복지과",
+      "summary": [
+        "일살생활돌봄(가사지원)",
+        "노쇠",
+        "경상북도 영양군 행정복지국 "
+      ],
+      "plain_desc": "노쇠, 장애, 질병, 사고 등으로 일상생활 수행에 어려움을 겪는 사람이 살던 곳에서 계속하여 건강한 생활을 영위할 수 있도록 의료ㆍ요양 등 돌봄 지원을 통합ㆍ연계하여 제공하며, 국민의 건강하고 인간다운 생활을 유지하고 증진하는 데에 이바지함을 목적으로 함",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "경상북도"
+        ],
+        "districts": [
+          "영양군"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006259&wlfareInfoReldBztpCd=02",
+      "contact": "7",
+      "support_type": "",
+      "support_cycle": "수시",
+      "gemini_ok": true,
+      "updated_at": "2026-07-01T01:20:18.657353+09:00"
+    },
+    {
+      "id": "local_WLF00006243",
+      "source": "local",
+      "title": "안동시 틈새방문요양",
+      "organization": "경상북도 안동시 평생복지국 노인장애인과",
+      "summary": [
+        "안동시 틈새방문요양",
+        "통합돌봄 대상자 방문요양 한시 서비스",
+        "경상북도 안동시 평생복지국 "
+      ],
+      "plain_desc": "통합돌봄 대상자 방문요양 한시 서비스를 제공하여 일상생활 지지",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "경상북도"
+        ],
+        "districts": [
+          "안동시"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006243&wlfareInfoReldBztpCd=02",
+      "contact": "8",
+      "support_type": "",
+      "support_cycle": "수시",
+      "gemini_ok": true,
+      "updated_at": "2026-07-01T01:20:18.657416+09:00"
     }
   ]
 }
