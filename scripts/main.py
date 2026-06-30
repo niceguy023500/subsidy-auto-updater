@@ -266,6 +266,39 @@ def main():
 
     save_welfare_json(final_items, len(all_raw_items))
     save_cache(processed_ids)
+  
+    # ──────────────────────────────────────────
+    # STEP 7: 후킹 문구 생성 (Claude API)
+    # ──────────────────────────────────────────
+    logger.info("")
+    logger.info("▶ STEP 7: 후킹 문구 생성 (Claude API)")
+
+    ANTHROPIC_API_KEY = os.environ.get("ANTHROPIC_API_KEY", "").strip()
+
+    if not ANTHROPIC_API_KEY:
+        logger.warning("  ANTHROPIC_API_KEY 없음 - 후킹 문구 생성 단계 스킵 (원본 제목/설명 그대로 사용)")
+    else:
+        try:
+            hooks_script = os.path.join(os.path.dirname(__file__), "generate_hooks.py")
+            result = subprocess.run(
+                [
+                    "python", hooks_script,
+                    "--input", os.path.join(REPO_ROOT, "data", "welfare.json"),
+                    "--output", os.path.join(REPO_ROOT, "data", "welfare.json"),
+                    "--cache", os.path.join(REPO_ROOT, "data", "cache", "hooks_cache.json"),
+                ],
+                check=True,
+                capture_output=True,
+                text=True,
+            )
+            logger.info(result.stdout)
+            if result.stderr:
+                logger.warning(result.stderr)
+            _git_checkpoint(
+                f"후킹 문구 업데이트 ({datetime.now(KST).strftime('%m/%d %H:%M KST')})"
+            )
+        except subprocess.CalledProcessError as e:
+            logger.warning(f"  후킹 문구 생성 실패 (원본 데이터로 계속 진행): {e.stderr}")
 
     # ──────────────────────────────────────────
     # 완료 요약
