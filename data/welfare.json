@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "last_updated": "2026-07-06T04:25:23.583823+09:00",
-    "last_updated_kst": "2026년 07월 06일 04:25",
-    "total_count": 5143,
-    "total_fetched_from_api": 5143
+    "last_updated": "2026-07-07T05:04:34.346419+09:00",
+    "last_updated_kst": "2026년 07월 07일 05:04",
+    "total_count": 5144,
+    "total_fetched_from_api": 5144
   },
   "items": [
     {
@@ -201116,6 +201116,51 @@
       "support_cycle": "수시",
       "gemini_ok": true,
       "updated_at": "2026-07-04T06:49:22.560483+09:00"
+    },
+    {
+      "id": "national_WLF00006315",
+      "source": "national",
+      "title": "가족전용상담전화",
+      "organization": "성평등가족부 가족정책과",
+      "summary": [
+        "가족전용상담전화",
+        "다문화·탈북민",
+        "성평등가족부 가족정책과"
+      ],
+      "plain_desc": "가족유형별, 특성별 생애주기 맞춤형 상담, 정보제공 등 수행, 종합적·전문적 가족정책 및 정보제공 상담으로 다양한 가족을 지원합니다.",
+      "categories": [
+        "의료·건강",
+        "임신·출산·육아",
+        "교육·훈련",
+        "문화·여가"
+      ],
+      "age_groups": [
+        "영유아(0-6세)",
+        "아동·청소년(7-18세)",
+        "청년(19-34세)",
+        "중장년(35-64세)"
+      ],
+      "household_types": [
+        "다자녀가구",
+        "다문화가구"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전국"
+        ],
+        "districts": [
+          "전국"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006315&wlfareInfoReldBztpCd=01",
+      "contact": "",
+      "support_type": "정신건강,생활지원,안전·위기,임신·출산,보육",
+      "support_cycle": "수시",
+      "gemini_ok": true,
+      "updated_at": "2026-07-07T05:04:34.346389+09:00"
     }
   ]
 }
