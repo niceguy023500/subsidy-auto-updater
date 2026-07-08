@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "last_updated": "2026-07-08T05:03:15.201471+09:00",
-    "last_updated_kst": "2026년 07월 08일 05:03",
-    "total_count": 5144,
-    "total_fetched_from_api": 5144
+    "last_updated": "2026-07-09T04:39:22.812436+09:00",
+    "last_updated_kst": "2026년 07월 09일 04:39",
+    "total_count": 5145,
+    "total_fetched_from_api": 5145
   },
   "items": [
     {
@@ -147250,44 +147250,6 @@
       "updated_at": "2026-06-13T16:08:09.859454+09:00"
     },
     {
-      "id": "local_WLF00004339",
-      "source": "local",
-      "title": "의왕청년든든 신용회복지원사업",
-      "organization": "경기도 의왕시 경제환경국 기업일자리과",
-      "summary": [
-        "의왕청년든든 신용회복지원사업",
-        "한국장학재단의 학자금대출로 신용유의자",
-        "경기도 의왕시 경제환경국 기"
-      ],
-      "plain_desc": "한국장학재단의 학자금대출로 신용유의자가 된 청년에게 신용회복지원 제도를 마련하여 사회 재진입 기회를 제공하고자 함.",
-      "categories": [
-        "생활비·소득"
-      ],
-      "age_groups": [
-        "청년(19-34세)"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "경기도"
-        ],
-        "districts": [
-          "의왕시"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00004339&wlfareInfoReldBztpCd=02",
-      "contact": "1119",
-      "support_type": "",
-      "support_cycle": "1회성",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:09.859514+09:00"
-    },
-    {
       "id": "local_WLF00004036",
       "source": "local",
       "title": "포천시 출산축하금 지원",
@@ -201161,6 +201123,83 @@
       "support_cycle": "수시",
       "gemini_ok": true,
       "updated_at": "2026-07-07T05:04:34.346389+09:00"
+    },
+    {
+      "id": "local_WLF00006551",
+      "source": "local",
+      "title": "평창군 저소득층 노인안질환(백내장) 수술비 지원",
+      "organization": "강원특별자치도 평창군 보건의료원 의료지원과",
+      "summary": [
+        "평창군 저소득층 노인안질환(백내장) ",
+        "노인안질환(백내장) 수술비 지원을 통",
+        "강원특별자치도 평창군 보건의"
+      ],
+      "plain_desc": "노인안질환(백내장) 수술비 지원을 통한 노인 및 가족의 의료비 부담 경감",
+      "categories": [
+        "노인돌봄",
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "강원특별자치도"
+        ],
+        "districts": [
+          "평창군"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006551&wlfareInfoReldBztpCd=02",
+      "contact": "1",
+      "support_type": "서민금융",
+      "support_cycle": "1회성",
+      "gemini_ok": true,
+      "updated_at": "2026-07-09T04:39:22.812320+09:00"
+    },
+    {
+      "id": "local_WLF00006550",
+      "source": "local",
+      "title": "고립 은둔 청년 지원 '세상 밖으로 한 걸음'",
+      "organization": "경상남도 교육청년국 청년정책과",
+      "summary": [
+        "고립 은둔 청년 지원 '세상 밖으로 ",
+        "정책 사각지대에 놓인 고립 은둔 청년",
+        "경상남도 교육청년국 청년정책"
+      ],
+      "plain_desc": "정책 사각지대에 놓인 고립 은둔 청년에 대한 선제적 개입을 통한 일상복귀 지원",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "청년(19-34세)"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "경상남도"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006550&wlfareInfoReldBztpCd=02",
+      "contact": "2",
+      "support_type": "",
+      "support_cycle": "수시",
+      "gemini_ok": true,
+      "updated_at": "2026-07-09T04:39:22.812416+09:00"
     }
   ]
 }
