@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "last_updated": "2026-07-09T04:39:24.402244+09:00",
-    "last_updated_kst": "2026년 07월 09일 04:39",
-    "total_count": 5145,
-    "total_fetched_from_api": 5145
+    "last_updated": "2026-07-10T04:52:38.101197+09:00",
+    "last_updated_kst": "2026년 07월 10일 04:52",
+    "total_count": 5148,
+    "total_fetched_from_api": 5148
   },
   "items": [
     {
@@ -103763,45 +103763,6 @@
       "updated_at": "2026-06-13T16:08:07.000213+09:00"
     },
     {
-      "id": "local_WLF00000653",
-      "source": "local",
-      "title": "결식아동 급식지원",
-      "organization": "강원특별자치도 동해시 행정복지국 가족과",
-      "summary": [
-        "결식아동 급식지원",
-        "한부모·조손",
-        "강원특별자치도 동해시 행정복"
-      ],
-      "plain_desc": "지역실정과 아동의 가정환경 및 욕구에 맞는 효율적인 급식 제공 및 급식이 필요한 아동에게 적극적으로 급식을 지원하기 위함",
-      "categories": [
-        "임신·출산·육아",
-        "생활비·소득"
-      ],
-      "age_groups": [
-        "아동·청소년(7-18세)"
-      ],
-      "household_types": [
-        "한부모가구"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "강원특별자치도"
-        ],
-        "districts": [
-          "동해시"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000653&wlfareInfoReldBztpCd=02",
-      "contact": "1310",
-      "support_type": "안전·위기",
-      "support_cycle": "월",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:07.000302+09:00"
-    },
-    {
       "id": "local_WLF00003666",
       "source": "local",
       "title": "가정위탁양육수당 지원",
@@ -177056,45 +177017,6 @@
       "updated_at": "2026-06-13T16:08:13.014096+09:00"
     },
     {
-      "id": "local_WLF00005675",
-      "source": "local",
-      "title": "노인급식지원사업",
-      "organization": "세종특별자치시 보건복지국 노인장애인과",
-      "summary": [
-        "노인급식지원사업",
-        "저소득",
-        "세종특별자치시 보건복지국 노"
-      ],
-      "plain_desc": "가정형편이 어렵거나 부득이한 사정으로 식사를 거를 우려가 있는 노인에게 무료급식을 제공하여 기본적 생계를 보장",
-      "categories": [
-        "노인돌봄",
-        "생활비·소득"
-      ],
-      "age_groups": [
-        "전체"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "세종특별자치시"
-        ],
-        "districts": [
-          "전체"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005675&wlfareInfoReldBztpCd=02",
-      "contact": "1329",
-      "support_type": "",
-      "support_cycle": "주",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:13.014157+09:00"
-    },
-    {
       "id": "local_WLF00003988",
       "source": "local",
       "title": "진주시 신혼부부 주택전세자금 대출이자 지원",
@@ -201200,6 +201122,198 @@
       "support_cycle": "수시",
       "gemini_ok": true,
       "updated_at": "2026-07-09T04:39:22.812416+09:00"
+    },
+    {
+      "id": "local_WLF00006557",
+      "source": "local",
+      "title": "어린이날 행사",
+      "organization": "충청북도 보건복지국 복지정책과",
+      "summary": [
+        "어린이날 행사",
+        "어린이날을 맞아 소년소녀가정 및 시설",
+        "충청북도 보건복지국 복지정책"
+      ],
+      "plain_desc": "어린이날을 맞아 소년소녀가정 및 시설아동 등에게 문화체험의 기회를 제공, 아동들의 사회성을 향상하고 건강하게 성장하는 계기 마련",
+      "categories": [
+        "임신·출산·육아"
+      ],
+      "age_groups": [
+        "아동·청소년(7-18세)"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "충청북도"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006557&wlfareInfoReldBztpCd=02",
+      "contact": "1",
+      "support_type": "",
+      "support_cycle": "1회성",
+      "gemini_ok": true,
+      "updated_at": "2026-07-10T04:52:38.100834+09:00"
+    },
+    {
+      "id": "local_WLF00006556",
+      "source": "local",
+      "title": "365일 24시간 돌봄어린이집",
+      "organization": "세종특별자치시 보건복지국 인구여성가족과",
+      "summary": [
+        "365일 24시간 돌봄어린이집",
+        "-보육시설 운영시간을 보완하여 출산과",
+        "세종특별자치시 보건복지국 인"
+      ],
+      "plain_desc": "-보육시설 운영시간을 보완하여 출산과 양육에 유리한 환경 조성 -부모의 금로시간과 다양한 가족형태 등을 감안하여 보육수요에 능동적 대응으로 수요자 중심의 맞춤형 서비스 제공 -긴급하게 돌봄이 필요한 영유아 대상으로 보육서비스를 제공함으로써 부모의 양육 부담 경감",
+      "categories": [
+        "임신·출산·육아"
+      ],
+      "age_groups": [
+        "영유아(0-6세)",
+        "아동·청소년(7-18세)"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "세종특별자치시"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006556&wlfareInfoReldBztpCd=02",
+      "contact": "1",
+      "support_type": "",
+      "support_cycle": "반기",
+      "gemini_ok": true,
+      "updated_at": "2026-07-10T04:52:38.100945+09:00"
+    },
+    {
+      "id": "local_WLF00006555",
+      "source": "local",
+      "title": "민간가정어린이집 차액보육료 지원",
+      "organization": "세종특별자치시 보건복지국 인구여성가족과",
+      "summary": [
+        "민간가정어린이집 차액보육료 지원",
+        "정부 미지원 어린이집(민간",
+        "세종특별자치시 보건복지국 인"
+      ],
+      "plain_desc": "정부 미지원 어린이집(민간, 가정)에 재원 중인 3~5세 영유아의 실질적인 무상보육을 위해 누리과정 차액보육료 지원",
+      "categories": [
+        "임신·출산·육아"
+      ],
+      "age_groups": [
+        "영유아(0-6세)"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "세종특별자치시"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006555&wlfareInfoReldBztpCd=02",
+      "contact": "1",
+      "support_type": "",
+      "support_cycle": "월",
+      "gemini_ok": true,
+      "updated_at": "2026-07-10T04:52:38.101009+09:00"
+    },
+    {
+      "id": "local_WLF00006554",
+      "source": "local",
+      "title": "3만원 주택",
+      "organization": "제주특별자치도 건설주택국 주택토지과",
+      "summary": [
+        "3만원 주택",
+        "- 저출생·청년인구 유출에 대응한 제",
+        "제주특별자치도 건설주택국 주"
+      ],
+      "plain_desc": "- 저출생·청년인구 유출에 대응한 제주도민 체감형 주거 정책 - 신혼부부유형 공공임대주택 입주가구에 임대료 지원을 통해 주거비 부담을 완화하여 결혼 및 출산으로 이어지는 선순환 구조 만들기 위함",
+      "categories": [
+        "주거·임대"
+      ],
+      "age_groups": [
+        "청년(19-34세)"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "제주특별자치도"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006554&wlfareInfoReldBztpCd=02",
+      "contact": "3",
+      "support_type": "서민금융",
+      "support_cycle": "분기",
+      "gemini_ok": true,
+      "updated_at": "2026-07-10T04:52:38.101079+09:00"
+    },
+    {
+      "id": "local_WLF00006553",
+      "source": "local",
+      "title": "제주공항 공항소음대책지역 초등학교 입학 축하금 지원사업",
+      "organization": "제주특별자치도 교통항공국 공항확충지원과",
+      "summary": [
+        "제주공항 공항소음대책지역 초등학교 입",
+        "- 항공기 소음 피해에 대한 책무성을",
+        "제주특별자치도 교통항공국 공"
+      ],
+      "plain_desc": "- 항공기 소음 피해에 대한 책무성을 강화하고, 기존 제주공항 공항소음지역 내 고등학교, 대학생 장학금 지원에 상응하여 초등학생의 교육복지 형평성을 고려한 차별없는 교육복지 실현 - 항공기 소음으로 인한 피해가 있지만 '아이 낳고, 키우기 좋은 지역, 살고 싶은 지역'인 제주도를 만들어 나가기 위한 항공기 소음 피해 학력아동 지원 혜택 강화",
+      "categories": [
+        "임신·출산·육아",
+        "교육·훈련"
+      ],
+      "age_groups": [
+        "아동·청소년(7-18세)"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "제주특별자치도"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006553&wlfareInfoReldBztpCd=02",
+      "contact": "1",
+      "support_type": "서민금융, 교육",
+      "support_cycle": "년",
+      "gemini_ok": true,
+      "updated_at": "2026-07-10T04:52:38.101178+09:00"
     }
   ]
 }
