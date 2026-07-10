@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "last_updated": "2026-07-10T04:52:40.191495+09:00",
-    "last_updated_kst": "2026년 07월 10일 04:52",
-    "total_count": 5148,
-    "total_fetched_from_api": 5148
+    "last_updated": "2026-07-11T04:39:28.306483+09:00",
+    "last_updated_kst": "2026년 07월 11일 04:39",
+    "total_count": 5072,
+    "total_fetched_from_api": 5072
   },
   "items": [
     {
@@ -20937,44 +20937,6 @@
       "updated_at": "2026-06-13T16:08:02.015303+09:00"
     },
     {
-      "id": "local_WLF00006197",
-      "source": "local",
-      "title": "치매검사비 지원사업(자체)",
-      "organization": "광주광역시 북구 보건소 치매정신건강과",
-      "summary": [
-        "치매검사비 지원사업(자체)",
-        "보건복지부 현행 치매정책사업 기준상 ",
-        "광주광역시 북구 보건소 치매"
-      ],
-      "plain_desc": "보건복지부 현행 치매정책사업 기준상 치매검사비 지원을 받지 못하는 기준중위소득 120%초과자에 대한 치매검사비 구비 지원",
-      "categories": [
-        "의료·건강"
-      ],
-      "age_groups": [
-        "전체"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "중위소득100%이하"
-      ],
-      "regions": {
-        "sido": [
-          "광주광역시"
-        ],
-        "districts": [
-          "북구"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006197&wlfareInfoReldBztpCd=02",
-      "contact": "1516",
-      "support_type": "신체건강",
-      "support_cycle": "1회성",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:02.015359+09:00"
-    },
-    {
       "id": "local_WLF00006184",
       "source": "local",
       "title": "출생축하용품 지원",
@@ -22166,162 +22128,6 @@
       "support_cycle": "1회성",
       "gemini_ok": true,
       "updated_at": "2026-06-13T16:08:02.017390+09:00"
-    },
-    {
-      "id": "local_WLF00006001",
-      "source": "local",
-      "title": "아이맘 교통비 지원사업",
-      "organization": "광주광역시 북구 청년미래정책관",
-      "summary": [
-        "아이맘 교통비 지원사업",
-        "◦ 광주 북구 합계출산율 지속적인 감",
-        "광주광역시 북구 청년미래정책"
-      ],
-      "plain_desc": "◦ 광주 북구 합계출산율 지속적인 감소에 따른 저출산 위기 극복을 위한 새로운 정책 필요 → 영아(24개월 미만) 동반 보호자의 교통이동 편의 제공을 통한 임신·출산 친화 환경 조성",
-      "categories": [
-        "생활비·소득"
-      ],
-      "age_groups": [
-        "영유아(0-6세)"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "광주광역시"
-        ],
-        "districts": [
-          "북구"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006001&wlfareInfoReldBztpCd=02",
-      "contact": "1949",
-      "support_type": "",
-      "support_cycle": "1회성",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:02.017459+09:00"
-    },
-    {
-      "id": "local_WLF00006000",
-      "source": "local",
-      "title": "아픈아이 병원동행 서비스",
-      "organization": "광주광역시 북구 청년미래정책관",
-      "summary": [
-        "아픈아이 병원동행 서비스",
-        "한부모·조손",
-        "광주광역시 북구 청년미래정책"
-      ],
-      "plain_desc": "◦ 광주 북구 합계출산율 지속적인 감소에 따른 저출산 위기 극복을 위한 신규 정책 필요 → 아픈아이 병원동행 서비스를 통한 맞벌이, 한부모 등 양육가정 돌봄공백 해소 및 양육하기 좋은 환경 조성",
-      "categories": [
-        "의료·건강",
-        "임신·출산·육아"
-      ],
-      "age_groups": [
-        "영유아(0-6세)",
-        "아동·청소년(7-18세)"
-      ],
-      "household_types": [
-        "한부모가구",
-        "다자녀가구"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "광주광역시"
-        ],
-        "districts": [
-          "북구"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006000&wlfareInfoReldBztpCd=02",
-      "contact": "1644",
-      "support_type": "",
-      "support_cycle": "수시",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:02.017539+09:00"
-    },
-    {
-      "id": "local_WLF00004115",
-      "source": "local",
-      "title": "둘째아 이상 출산축하금",
-      "organization": "광주광역시 북구 복지교육국 여성보육과",
-      "summary": [
-        "둘째아 이상 출산축하금",
-        "다자녀",
-        "광주광역시 북구 복지교육국 "
-      ],
-      "plain_desc": "출산에 따른 경제적 부담을 경감하고 아이 낳아 키우기 좋은 환경조성",
-      "categories": [
-        "임신·출산·육아"
-      ],
-      "age_groups": [
-        "영유아(0-6세)"
-      ],
-      "household_types": [
-        "다자녀가구"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "광주광역시"
-        ],
-        "districts": [
-          "북구"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00004115&wlfareInfoReldBztpCd=02",
-      "contact": "3796",
-      "support_type": "서민금융, 임신·출산",
-      "support_cycle": "1회성",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:02.017599+09:00"
-    },
-    {
-      "id": "local_WLF00004269",
-      "source": "local",
-      "title": "출산가정 종량제봉투 지원",
-      "organization": "광주광역시 북구 복지교육국 여성보육과",
-      "summary": [
-        "출산가정 종량제봉투 지원",
-        "저출생 극복을 위한 인식개선 및 결혼",
-        "광주광역시 북구 복지교육국 "
-      ],
-      "plain_desc": "저출생 극복을 위한 인식개선 및 결혼·출산·양육 친화 분위기 조성",
-      "categories": [
-        "임신·출산·육아"
-      ],
-      "age_groups": [
-        "영유아(0-6세)",
-        "아동·청소년(7-18세)"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "광주광역시"
-        ],
-        "districts": [
-          "북구"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00004269&wlfareInfoReldBztpCd=02",
-      "contact": "3708",
-      "support_type": "임신·출산",
-      "support_cycle": "1회성",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:02.017651+09:00"
     },
     {
       "id": "local_WLF00002614",
@@ -24293,44 +24099,6 @@
       "support_cycle": "수시",
       "gemini_ok": true,
       "updated_at": "2026-06-13T16:08:02.021110+09:00"
-    },
-    {
-      "id": "local_WLF00005092",
-      "source": "local",
-      "title": "손자녀가족돌보미 지원사업",
-      "organization": "광주광역시 여성가족교육국 여성가족과",
-      "summary": [
-        "손자녀가족돌보미 지원사업",
-        "맞벌이 또는 한부모 가정의 양육부담 ",
-        "광주광역시 여성가족교육국 여"
-      ],
-      "plain_desc": "맞벌이 또는 한부모 가정의 양육부담 경감 등",
-      "categories": [
-        "임신·출산·육아"
-      ],
-      "age_groups": [
-        "아동·청소년(7-18세)"
-      ],
-      "household_types": [
-        "한부모가구"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "광주광역시"
-        ],
-        "districts": [
-          "전체"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005092&wlfareInfoReldBztpCd=02",
-      "contact": "76359",
-      "support_type": "서민금융",
-      "support_cycle": "월",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:02.021158+09:00"
     },
     {
       "id": "local_WLF00004387",
@@ -30296,44 +30064,6 @@
       "updated_at": "2026-06-13T16:08:02.031293+09:00"
     },
     {
-      "id": "local_WLF00006162",
-      "source": "local",
-      "title": "광주형 대중교통비 지원(광주G-패스)",
-      "organization": "광주광역시 통합공항교통국 대중교통과",
-      "summary": [
-        "광주형 대중교통비 지원(광주G-패스)",
-        "광주광역시 시민을 대상으로 생애 주기",
-        "광주광역시 통합공항교통국 대"
-      ],
-      "plain_desc": "광주광역시 시민을 대상으로 생애 주기별 맞춤형 대중교통비 지원을 통해 시민들의 교통비 부담과 탄소배출은 줄이고, 대중교통 이용을 활성화하여 기후 위기에 대응하기 위한 정책입니다.",
-      "categories": [
-        "생활비·소득"
-      ],
-      "age_groups": [
-        "전체"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "광주광역시"
-        ],
-        "districts": [
-          "전체"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006162&wlfareInfoReldBztpCd=02",
-      "contact": "10407",
-      "support_type": "서민금융",
-      "support_cycle": "월",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:02.031384+09:00"
-    },
-    {
       "id": "local_WLF00005843",
       "source": "local",
       "title": "다자녀 상수도 요금감면",
@@ -31655,45 +31385,6 @@
       "support_cycle": "1회성",
       "gemini_ok": true,
       "updated_at": "2026-06-13T16:08:02.033677+09:00"
-    },
-    {
-      "id": "local_WLF00004081",
-      "source": "local",
-      "title": "아동치과주치의사업",
-      "organization": "광주광역시 동구 보건소 보건사업과",
-      "summary": [
-        "아동치과주치의사업",
-        "저소득",
-        "광주광역시 동구 보건소 보건"
-      ],
-      "plain_desc": "동구 내 저소득 아동(초등학생) 의료비를 지원하여 구강건강 수준 향상 및 구강건강 불평등 해소에 기여하기 위한 사업입니다.",
-      "categories": [
-        "임신·출산·육아",
-        "생활비·소득"
-      ],
-      "age_groups": [
-        "아동·청소년(7-18세)"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "광주광역시"
-        ],
-        "districts": [
-          "동구"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00004081&wlfareInfoReldBztpCd=02",
-      "contact": "2015",
-      "support_type": "",
-      "support_cycle": "수시",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:02.033736+09:00"
     },
     {
       "id": "local_WLF00004468",
@@ -33202,44 +32893,6 @@
       "support_cycle": "1회성",
       "gemini_ok": true,
       "updated_at": "2026-06-13T16:08:02.036152+09:00"
-    },
-    {
-      "id": "local_WLF00001948",
-      "source": "local",
-      "title": "행려자노숙인 지원",
-      "organization": "광주광역시 동구 주민복지국 복지정책과",
-      "summary": [
-        "행려자노숙인 지원",
-        "주거지가 아닌 타지방에서 숙식할 능력",
-        "광주광역시 동구 주민복지국 "
-      ],
-      "plain_desc": "주거지가 아닌 타지방에서 숙식할 능력이 없고 일정한 거소가 없는 자가 연고지로 귀향을 희망할 경우 귀향여비를 지급함으로써 위기에 처한 행려자(노숙인)를 안전하게 구호하는 것을 목적으로 함.",
-      "categories": [
-        "생활비·소득"
-      ],
-      "age_groups": [
-        "전체"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "광주광역시"
-        ],
-        "districts": [
-          "동구"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001948&wlfareInfoReldBztpCd=02",
-      "contact": "968",
-      "support_type": "",
-      "support_cycle": "수시",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:02.036236+09:00"
     },
     {
       "id": "local_WLF00001312",
@@ -36865,44 +36518,6 @@
       "updated_at": "2026-06-13T16:08:02.042188+09:00"
     },
     {
-      "id": "local_WLF00001256",
-      "source": "local",
-      "title": "공영장례 서비스 지원",
-      "organization": "광주광역시 동구 주민복지국 복지정책과",
-      "summary": [
-        "공영장례 서비스 지원",
-        "저소득",
-        "광주광역시 동구 주민복지국 "
-      ],
-      "plain_desc": "무연고자나 연고자가 미성년자 또는 장애인만으로만 구성되어 있어 장례처리 능력이 없는 일반인(광주광역시 동구 거주자), 차상위계층, 국민기초생활수급자 경우 공영장례추진위원회에서 장례처리하여 고인의 존엄성 유지와 평안한 영면",
-      "categories": [
-        "생활비·소득"
-      ],
-      "age_groups": [
-        "전체"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "기초생활수급자"
-      ],
-      "regions": {
-        "sido": [
-          "광주광역시"
-        ],
-        "districts": [
-          "동구"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001256&wlfareInfoReldBztpCd=02",
-      "contact": "3252",
-      "support_type": "서민금융",
-      "support_cycle": "수시",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:02.042277+09:00"
-    },
-    {
       "id": "local_WLF00003958",
       "source": "local",
       "title": "통영시 노인 목욕비 및 이·미용비 지원 사업",
@@ -37333,44 +36948,6 @@
       "support_cycle": "1회성",
       "gemini_ok": true,
       "updated_at": "2026-06-13T16:08:02.042899+09:00"
-    },
-    {
-      "id": "local_WLF00000824",
-      "source": "local",
-      "title": "어린이집 교재교구비",
-      "organization": "광주광역시 여성가족국 여성가족과",
-      "summary": [
-        "어린이집 교재교구비",
-        "□ 사업개요 ❍ 지원대상 - '25",
-        "광주광역시 여성가족국 여성가"
-      ],
-      "plain_desc": "□ 사업개요 ❍ 지원대상 - '25.5월말 기준 설치 및 운영중인 현원 2인 이상 어린이집 ❍ 지원기준 - 현원별 차등 지급(연 1회) (2~10인-1,000천원, 11~50인-1,080천원, 51인이상-1,200천원) ❍ 지원제외 -직장어린이집 중 공공기관 및 고용보험기금에서 운영비를 지원받는 어린이집 -영유아보육법 위반으로 행정처분 중인 어린이집 -영유아보육법 제30조제4항에 따른 평가제 재평가 대상 어린이집 -아동 현원 미충족(1인 이하) 어린이집 □ 예 산 액 : 200백만원(시비 50%, 구비 50%)",
-      "categories": [
-        "임신·출산·육아"
-      ],
-      "age_groups": [
-        "영유아(0-6세)"
-      ],
-      "household_types": [
-        "1인가구"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "광주광역시"
-        ],
-        "districts": [
-          "전체"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000824&wlfareInfoReldBztpCd=02",
-      "contact": "3052",
-      "support_type": "서민금융",
-      "support_cycle": "1회성",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:02.043027+09:00"
     },
     {
       "id": "local_WLF00003778",
@@ -40428,83 +40005,6 @@
       "updated_at": "2026-06-13T16:08:03.205410+09:00"
     },
     {
-      "id": "local_WLF00001277",
-      "source": "local",
-      "title": "영유아 건강수당",
-      "organization": "광주광역시 동구 인문문화국 인구청년정책과",
-      "summary": [
-        "영유아 건강수당",
-        "저소득",
-        "광주광역시 동구 인문문화국 "
-      ],
-      "plain_desc": "출산장려정책의 하나로 국민기초생활보장법 및 같은법 시행령에서 정한 생계.의료.주거급여 가정의 6세 미만 영유아에게 건강수당을 지원함으로써 출산율 제고",
-      "categories": [
-        "의료·건강",
-        "생활비·소득"
-      ],
-      "age_groups": [
-        "영유아(0-6세)"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "기초생활수급자"
-      ],
-      "regions": {
-        "sido": [
-          "광주광역시"
-        ],
-        "districts": [
-          "동구"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001277&wlfareInfoReldBztpCd=02",
-      "contact": "1893",
-      "support_type": "서민금융",
-      "support_cycle": "월",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:03.205475+09:00"
-    },
-    {
-      "id": "local_WLF00001279",
-      "source": "local",
-      "title": "출산 장려금 지원",
-      "organization": "광주광역시 동구 인문문화국 인구청년정책과",
-      "summary": [
-        "출산 장려금 지원",
-        "출산축하금 지원으로 자녀 양육부담을 ",
-        "광주광역시 동구 인문문화국 "
-      ],
-      "plain_desc": "출산축하금 지원으로 자녀 양육부담을 경감하여 지역사회 출산장려 분위기 조성 및 아이낳기 좋은 환경 마련",
-      "categories": [
-        "임신·출산·육아"
-      ],
-      "age_groups": [
-        "영유아(0-6세)"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "광주광역시"
-        ],
-        "districts": [
-          "동구"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001279&wlfareInfoReldBztpCd=02",
-      "contact": "2563",
-      "support_type": "서민금융",
-      "support_cycle": "월",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:03.205530+09:00"
-    },
-    {
       "id": "local_WLF00002978",
       "source": "local",
       "title": "장애인활동지원(경상남도 통영시추가지원사업)",
@@ -41014,123 +40514,6 @@
       "support_cycle": "월",
       "gemini_ok": true,
       "updated_at": "2026-06-13T16:08:03.207000+09:00"
-    },
-    {
-      "id": "local_WLF00006158",
-      "source": "local",
-      "title": "권리중심 중증장애인 일자리사업",
-      "organization": "광주광역시 복지건강국 장애인복지과",
-      "summary": [
-        "권리중심 중증장애인 일자리사업",
-        "장애인",
-        "광주광역시 복지건강국 장애인"
-      ],
-      "plain_desc": "노동참여가 제한된 중증장애인에게 일자리 제공을 통한 자존감 고취 및 사회참여 기회 제공",
-      "categories": [
-        "취업·창업",
-        "장애인지원"
-      ],
-      "age_groups": [
-        "전체"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "광주광역시"
-        ],
-        "districts": [
-          "전체"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006158&wlfareInfoReldBztpCd=02",
-      "contact": "2532",
-      "support_type": "서민금융",
-      "support_cycle": "월",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:03.207060+09:00"
-    },
-    {
-      "id": "local_WLF00006156",
-      "source": "local",
-      "title": "광주형 산후조리비 지원",
-      "organization": "광주광역시 복지건강국 건강위생과",
-      "summary": [
-        "광주형 산후조리비 지원",
-        "저소득",
-        "광주광역시 복지건강국 건강위"
-      ],
-      "plain_desc": "저소득층(기초생활수급권, 차상위계층, 한부모, 장애인)의 건강한 산후 회복을 위해 산후조리비를 지원하는 사업입니다.",
-      "categories": [
-        "임신·출산·육아",
-        "장애인지원",
-        "생활비·소득"
-      ],
-      "age_groups": [
-        "청년(19-34세)"
-      ],
-      "household_types": [
-        "한부모가구"
-      ],
-      "income_levels": [
-        "기초생활수급자"
-      ],
-      "regions": {
-        "sido": [
-          "광주광역시"
-        ],
-        "districts": [
-          "전체"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006156&wlfareInfoReldBztpCd=02",
-      "contact": "4719",
-      "support_type": "",
-      "support_cycle": "1회성",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:03.207123+09:00"
-    },
-    {
-      "id": "local_WLF00006024",
-      "source": "local",
-      "title": "광주광역시 치매치료관리비 지원",
-      "organization": "광주광역시 복지건강국 건강위생과",
-      "summary": [
-        "광주광역시 치매치료관리비 지원",
-        "치매를 조기에",
-        "광주광역시 복지건강국 건강위"
-      ],
-      "plain_desc": "치매를 조기에, 지속적으로 치료 관리함으로써 효과적으로 치매증상을 호전시키거나 증상 심화를 방지하여 노후 삶의 질 제고 및 사회경제적 비용 절감에 기여",
-      "categories": [
-        "의료·건강"
-      ],
-      "age_groups": [
-        "중장년(35-64세)"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "광주광역시"
-        ],
-        "districts": [
-          "전체"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006024&wlfareInfoReldBztpCd=02",
-      "contact": "1010",
-      "support_type": "서민금융",
-      "support_cycle": "월",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:03.207189+09:00"
     },
     {
       "id": "local_WLF00005918",
@@ -41833,44 +41216,6 @@
       "updated_at": "2026-06-13T16:08:03.208447+09:00"
     },
     {
-      "id": "local_WLF00005171",
-      "source": "local",
-      "title": "광주청년구직활동지원사업",
-      "organization": "광주광역시 교육청년국 청년정책과",
-      "summary": [
-        "광주청년구직활동지원사업",
-        "지역 미취업 청년들의 다양한 구직활동",
-        "광주광역시 교육청년국 청년정"
-      ],
-      "plain_desc": "지역 미취업 청년들의 다양한 구직활동에 필요한 비용을 지원하여 청년의 지역사회 진입과 자립을 촉진 (기존사업명 광주청년드림수당 및 활동지원으로, 2025년도부터 사업명 변경)",
-      "categories": [
-        "취업·창업"
-      ],
-      "age_groups": [
-        "청년(19-34세)"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "광주광역시"
-        ],
-        "districts": [
-          "전체"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005171&wlfareInfoReldBztpCd=02",
-      "contact": "13405",
-      "support_type": "일자리",
-      "support_cycle": "월",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:03.208511+09:00"
-    },
-    {
       "id": "local_WLF00005157",
       "source": "local",
       "title": "초중고 입학축하금",
@@ -42331,44 +41676,6 @@
       "support_cycle": "1회성",
       "gemini_ok": true,
       "updated_at": "2026-06-13T16:08:03.209241+09:00"
-    },
-    {
-      "id": "local_WLF00004226",
-      "source": "local",
-      "title": "난임시술비 추가지원",
-      "organization": "광주광역시 복지건강국 건강위생과",
-      "summary": [
-        "난임시술비 추가지원",
-        "고액의 난임시술비 부담 경감",
-        "광주광역시 복지건강국 건강위"
-      ],
-      "plain_desc": "고액의 난임시술비 부담 경감",
-      "categories": [
-        "임신·출산·육아"
-      ],
-      "age_groups": [
-        "청년(19-34세)"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "광주광역시"
-        ],
-        "districts": [
-          "전체"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00004226&wlfareInfoReldBztpCd=02",
-      "contact": "2961",
-      "support_type": "임신·출산, 서민금융",
-      "support_cycle": "1회성",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:03.209296+09:00"
     },
     {
       "id": "local_WLF00004147",
@@ -42952,48 +42259,6 @@
       "updated_at": "2026-06-13T16:08:03.210359+09:00"
     },
     {
-      "id": "local_WLF00004469",
-      "source": "local",
-      "title": "아동급식지원, 토·공휴일결식아동급식",
-      "organization": "광주광역시 여성가족교육국 아동청소년과",
-      "summary": [
-        "아동급식지원, 토·공휴일결식아동급식",
-        "저소득",
-        "광주광역시 여성가족교육국 아"
-      ],
-      "plain_desc": "저소득 가정의 아동이 건강하게 자랄 수 있도록 급식지원 등을 통해 결식예방 및 영양개선",
-      "categories": [
-        "주거·임대",
-        "임신·출산·육아",
-        "교육·훈련",
-        "생활비·소득"
-      ],
-      "age_groups": [
-        "영유아(0-6세)",
-        "아동·청소년(7-18세)"
-      ],
-      "household_types": [
-        "한부모가구"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "광주광역시"
-        ],
-        "districts": [
-          "전체"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00004469&wlfareInfoReldBztpCd=02",
-      "contact": "3311",
-      "support_type": "안전·위기, 주거, 보호·돌봄",
-      "support_cycle": "월",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:03.210424+09:00"
-    },
-    {
       "id": "local_WLF00002797",
       "source": "local",
       "title": "금천구 입양축하금 지원",
@@ -43498,85 +42763,6 @@
       "support_cycle": "1회성",
       "gemini_ok": true,
       "updated_at": "2026-06-13T16:08:03.211257+09:00"
-    },
-    {
-      "id": "local_WLF00001519",
-      "source": "local",
-      "title": "아동복지업무추진(가정위탁양육지원)",
-      "organization": "광주광역시 여성가족국 아동청소년과",
-      "summary": [
-        "아동복지업무추진(가정위탁양육지원)",
-        "저소득",
-        "광주광역시 여성가족국 아동청"
-      ],
-      "plain_desc": "요보호아동을 보호·양육하여 가정적인 분위기에서 건전한 사회인으로 자랄 수 있도록 지원",
-      "categories": [
-        "임신·출산·육아",
-        "교육·훈련",
-        "생활비·소득"
-      ],
-      "age_groups": [
-        "영유아(0-6세)",
-        "아동·청소년(7-18세)"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "광주광역시"
-        ],
-        "districts": [
-          "전체"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001519&wlfareInfoReldBztpCd=02",
-      "contact": "1294",
-      "support_type": "서민금융, 입양·위탁",
-      "support_cycle": "월",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:03.211323+09:00"
-    },
-    {
-      "id": "local_WLF00004104",
-      "source": "local",
-      "title": "어린이집차액보육료지원",
-      "organization": "광주광역시 여성가족국 여성가족과",
-      "summary": [
-        "어린이집차액보육료지원",
-        "□ 사업개요 ❍ 지원대상: 민간·가정",
-        "광주광역시 여성가족국 여성가"
-      ],
-      "plain_desc": "□ 사업개요 ❍ 지원대상: 민간·가정 등 정부 미지원 시설 이용 만3~5세 아동 - (제외) 외국인 국적 아동 ❍ 지 원 액: 정부지원보육료와 각 시설별 수납한도액 단가의 차액 ※ 유형별·연령별 지원액은 보육정책위원회에서 각 시설별 수납한도액 결정 (‘23. 1월말 경) 후 별도 통보(예정) ❍ 지급기준일: 매월 1일 ❍ 지원절차: 아이행복카드사업 적용(보건복지부) - 생성일: 매월 1일, 24시 기준(바우처) - 지급방법: 입·퇴소일 기준으로 일할 계산 ❍ 보건복지부 보육사업안내의 보육료 지원기준 준용 - 어린이집: 보육료 결제(",
-      "categories": [
-        "임신·출산·육아"
-      ],
-      "age_groups": [
-        "영유아(0-6세)"
-      ],
-      "household_types": [
-        "다문화가구"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "광주광역시"
-        ],
-        "districts": [
-          "전체"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00004104&wlfareInfoReldBztpCd=02",
-      "contact": "16718",
-      "support_type": "입양·위탁",
-      "support_cycle": "월",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:03.211497+09:00"
     },
     {
       "id": "local_WLF00002382",
@@ -44895,45 +44081,6 @@
       "updated_at": "2026-06-13T16:08:03.213549+09:00"
     },
     {
-      "id": "local_WLF00001007",
-      "source": "local",
-      "title": "다문화가족 지원",
-      "organization": "광주광역시 동구 주민복지국 양성평등아동과",
-      "summary": [
-        "다문화가족 지원",
-        "다문화·탈북민",
-        "광주광역시 동구 주민복지국 "
-      ],
-      "plain_desc": "관내 다문화 가족의 건강한 가족생활 유지와 한국사회에 안정적으로 정착할 수 있는 환경을 조성함으로써 지역사회 다문화 공동체 형성",
-      "categories": [
-        "문화·여가"
-      ],
-      "age_groups": [
-        "전체"
-      ],
-      "household_types": [
-        "다자녀가구",
-        "다문화가구"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "광주광역시"
-        ],
-        "districts": [
-          "동구"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001007&wlfareInfoReldBztpCd=02",
-      "contact": "1562",
-      "support_type": "",
-      "support_cycle": "년",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:03.213608+09:00"
-    },
-    {
       "id": "local_WLF00001289",
       "source": "local",
       "title": "공공근로사업",
@@ -45845,45 +44992,6 @@
       "updated_at": "2026-06-13T16:08:03.215512+09:00"
     },
     {
-      "id": "local_WLF00005231",
-      "source": "local",
-      "title": "한방난임치료비 지원",
-      "organization": "광주광역시 복지건강국 건강위생과",
-      "summary": [
-        "한방난임치료비 지원",
-        "출산율 저하의 원인 중 하나인 난임에",
-        "광주광역시 복지건강국 건강위"
-      ],
-      "plain_desc": "출산율 저하의 원인 중 하나인 난임에 대한 한방치료비를 지원하여 행복한 임신과 건강한 출산을 통한 출산율 증가에 기여",
-      "categories": [
-        "의료·건강",
-        "임신·출산·육아"
-      ],
-      "age_groups": [
-        "청년(19-34세)"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "광주광역시"
-        ],
-        "districts": [
-          "전체"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005231&wlfareInfoReldBztpCd=02",
-      "contact": "1489",
-      "support_type": "서민금융, 임신·출산",
-      "support_cycle": "1회성",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:03.215571+09:00"
-    },
-    {
       "id": "local_WLF00005208",
       "source": "local",
       "title": "「무연고자 및 저소득층 공영장례 지원」사업",
@@ -46114,44 +45222,6 @@
       "support_cycle": "월",
       "gemini_ok": true,
       "updated_at": "2026-06-13T16:08:03.215933+09:00"
-    },
-    {
-      "id": "local_WLF00005038",
-      "source": "local",
-      "title": "청년13(일+삶)통장 지원 사업",
-      "organization": "광주광역시 교육청년국 청년정책과",
-      "summary": [
-        "청년13(일+삶)통장 지원 사업",
-        "광주 근로정년의 소액단기 저축지원 및",
-        "광주광역시 교육청년국 청년정"
-      ],
-      "plain_desc": "광주 근로정년의 소액단기 저축지원 및 금융역량강화를 통한 청년의 경제적 자립과 생활안정 지원 등",
-      "categories": [
-        "생활비·소득"
-      ],
-      "age_groups": [
-        "청년(19-34세)"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "광주광역시"
-        ],
-        "districts": [
-          "전체"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005038&wlfareInfoReldBztpCd=02",
-      "contact": "14021",
-      "support_type": "서민금융",
-      "support_cycle": "1회성",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:03.215985+09:00"
     },
     {
       "id": "local_WLF00005007",
@@ -47196,44 +46266,6 @@
       "support_cycle": "수시",
       "gemini_ok": true,
       "updated_at": "2026-06-13T16:08:03.217824+09:00"
-    },
-    {
-      "id": "local_WLF00000802",
-      "source": "local",
-      "title": "성매매피해자자립지원",
-      "organization": "광주광역시 여성가족국 여성가족과",
-      "summary": [
-        "성매매피해자자립지원",
-        "❍ 추진목적 : 성매매피해자 여성 및",
-        "광주광역시 여성가족국 여성가"
-      ],
-      "plain_desc": "❍ 추진목적 : 성매매피해자 여성 및 성매매피해자지원시설 퇴소자에 대한 자립지원으로 성매매 재유입 방지를 위한 자립기반 마련 ❍ 추진근거 : 성매매방지 및 피해자보호 등에 관한 법률 ❍ 지원대상 : 성매매피해자지원시설 퇴소자 및 탈성매매 여성 ❍ 지원내용 ① 자립정착금 : 1인 1회 5,000천원 / 지원시설 1년 이상 입소후 퇴소자 지급 ② 자립지원금 : 1인 1회 20,000천원 / 성매매피해 구조자로 자립의지가 강한자",
-      "categories": [
-        "생활비·소득"
-      ],
-      "age_groups": [
-        "전체"
-      ],
-      "household_types": [
-        "1인가구"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "광주광역시"
-        ],
-        "districts": [
-          "전체"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000802&wlfareInfoReldBztpCd=02",
-      "contact": "5512",
-      "support_type": "서민금융",
-      "support_cycle": "월",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:03.217928+09:00"
     },
     {
       "id": "local_WLF00000646",
@@ -48648,44 +47680,6 @@
       "updated_at": "2026-06-13T16:08:03.220094+09:00"
     },
     {
-      "id": "local_WLF00003807",
-      "source": "local",
-      "title": "저소득보험료지원",
-      "organization": "광주광역시 복지건강국 복지정책과",
-      "summary": [
-        "저소득보험료지원",
-        "저소득 시민의 건강보호와 복지증진을 ",
-        "광주광역시 복지건강국 복지정"
-      ],
-      "plain_desc": "저소득 시민의 건강보호와 복지증진을 위한 국민건강보험료 및 장기요양보험료 지원",
-      "categories": [
-        "생활비·소득"
-      ],
-      "age_groups": [
-        "전체"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "광주광역시"
-        ],
-        "districts": [
-          "전체"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00003807&wlfareInfoReldBztpCd=02",
-      "contact": "1231",
-      "support_type": "서민금융",
-      "support_cycle": "월",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:03.220139+09:00"
-    },
-    {
       "id": "local_WLF00001488",
       "source": "local",
       "title": "장애인복지신문 보급",
@@ -49365,48 +48359,6 @@
       "support_cycle": "수시",
       "gemini_ok": true,
       "updated_at": "2026-06-13T16:08:03.221217+09:00"
-    },
-    {
-      "id": "local_WLF00001518",
-      "source": "local",
-      "title": "사회보장적 수혜금",
-      "organization": "광주광역시 복지건강국 돌봄정책과",
-      "summary": [
-        "사회보장적 수혜금",
-        "- 선정기준 선정기준",
-        "광주광역시 복지건강국 돌봄정"
-      ],
-      "plain_desc": "- 선정기준 선정기준, 지원기간, 지원 수준등 구체적인 사항은 시장이 정함 공동모금회 지원과 연계하여 중복되지 않도록 지급 - 지원내용 사회복지시설 기초생활보장법에 따른 차상위 계층 등",
-      "categories": [
-        "임신·출산·육아",
-        "교육·훈련"
-      ],
-      "age_groups": [
-        "영유아(0-6세)",
-        "아동·청소년(7-18세)",
-        "청년(19-34세)",
-        "중장년(35-64세)"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "기초생활수급자"
-      ],
-      "regions": {
-        "sido": [
-          "광주광역시"
-        ],
-        "districts": [
-          "전체"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001518&wlfareInfoReldBztpCd=02",
-      "contact": "3697",
-      "support_type": "서민금융",
-      "support_cycle": "1회성",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:03.221298+09:00"
     },
     {
       "id": "local_WLF00002025",
@@ -52065,82 +51017,6 @@
       "updated_at": "2026-06-13T16:08:03.225850+09:00"
     },
     {
-      "id": "local_WLF00004128",
-      "source": "local",
-      "title": "광주형 기초보장제도",
-      "organization": "광주광역시 복지건강국 돌봄정책과",
-      "summary": [
-        "광주형 기초보장제도",
-        "생활수준은 어려우나",
-        "광주광역시 복지건강국 돌봄정"
-      ],
-      "plain_desc": "생활수준은 어려우나, 기초생활보장사업 선정 기준에 맞지않아 지원받지 못하는 취약계층을 지역 자체적으로 발굴 및 지원함으로써 복지사각지대 해소 및 저소득층 생활안정 지원",
-      "categories": [
-        "생활비·소득"
-      ],
-      "age_groups": [
-        "전체"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "기초생활수급자"
-      ],
-      "regions": {
-        "sido": [
-          "광주광역시"
-        ],
-        "districts": [
-          "전체"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00004128&wlfareInfoReldBztpCd=02",
-      "contact": "5654",
-      "support_type": "서민금융",
-      "support_cycle": "월",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:03.225907+09:00"
-    },
-    {
-      "id": "local_WLF00001551",
-      "source": "local",
-      "title": "모바일안심돌봄서비스",
-      "organization": "광주광역시 복지건강국 돌봄정책과",
-      "summary": [
-        "모바일안심돌봄서비스",
-        "저소득",
-        "광주광역시 복지건강국 돌봄정"
-      ],
-      "plain_desc": "사회적 고립가구의 고독사 등 사회적 문제를 사전에 예방하고 위기가구를 신속하게 발굴하여 복지사각지대 해소에 기여",
-      "categories": [
-        "생활비·소득"
-      ],
-      "age_groups": [
-        "전체"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "광주광역시"
-        ],
-        "districts": [
-          "전체"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001551&wlfareInfoReldBztpCd=02",
-      "contact": "2173",
-      "support_type": "",
-      "support_cycle": "수시",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:03.225965+09:00"
-    },
-    {
       "id": "local_WLF00001745",
       "source": "local",
       "title": "장애인복지",
@@ -53770,48 +52646,6 @@
       "updated_at": "2026-06-13T16:08:03.228413+09:00"
     },
     {
-      "id": "local_WLF00005597",
-      "source": "local",
-      "title": "2024년 난자 동결 시술비 지원사업",
-      "organization": "광주광역시 여성가족국 여성가족과",
-      "summary": [
-        "2024년 난자 동결 시술비 지원사업",
-        "한부모·조손",
-        "광주광역시 여성가족국 여성가"
-      ],
-      "plain_desc": "난자를 동결하여 가임력 보존을 원하는 여성에게 시술 비용을 지원하여 장래의 출산율 제고에 기여",
-      "categories": [
-        "의료·건강",
-        "문화·여가"
-      ],
-      "age_groups": [
-        "청년(19-34세)",
-        "중장년(35-64세)"
-      ],
-      "household_types": [
-        "한부모가구",
-        "다자녀가구",
-        "다문화가구"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "광주광역시"
-        ],
-        "districts": [
-          "전체"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005597&wlfareInfoReldBztpCd=02",
-      "contact": "1742",
-      "support_type": "서민금융, 신체건강",
-      "support_cycle": "1회성",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:03.228484+09:00"
-    },
-    {
       "id": "local_WLF00005571",
       "source": "local",
       "title": "뇌병변장애인 위생용품 구입비 지원",
@@ -54082,44 +52916,6 @@
       "updated_at": "2026-06-13T16:08:03.228917+09:00"
     },
     {
-      "id": "local_WLF00004697",
-      "source": "local",
-      "title": "신혼부부 전세자금 대출이자 지원",
-      "organization": "광주광역시 여성가족국 여성가족과",
-      "summary": [
-        "신혼부부 전세자금 대출이자 지원",
-        "주거비 마련 부담때문에 결혼을 고민하",
-        "광주광역시 여성가족국 여성가"
-      ],
-      "plain_desc": "주거비 마련 부담때문에 결혼을 고민하는 청년층과 아이낳이 키우기 좋은 환경에서 아이를 키우고 싶은 신혼부부의 주거안정을 위해 전세자금 대출이자를 지원.",
-      "categories": [
-        "주거·임대"
-      ],
-      "age_groups": [
-        "전체"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "광주광역시"
-        ],
-        "districts": [
-          "전체"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00004697&wlfareInfoReldBztpCd=02",
-      "contact": "10417",
-      "support_type": "서민금융",
-      "support_cycle": "반기",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:03.228976+09:00"
-    },
-    {
       "id": "local_WLF00004966",
       "source": "local",
       "title": "신혼부부 주택자금 대출이자 지원사업",
@@ -54274,44 +53070,6 @@
       "updated_at": "2026-06-13T16:08:03.229221+09:00"
     },
     {
-      "id": "local_WLF00000351",
-      "source": "local",
-      "title": "다태아출생축하금  지원",
-      "organization": "광주광역시 여성가족국 여성가족과",
-      "summary": [
-        "다태아출생축하금 지원",
-        "출산양육세대의 양육 부담 경감",
-        "광주광역시 여성가족국 여성가"
-      ],
-      "plain_desc": "출산양육세대의 양육 부담 경감",
-      "categories": [
-        "생활비·소득"
-      ],
-      "age_groups": [
-        "전체"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "광주광역시"
-        ],
-        "districts": [
-          "전체"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000351&wlfareInfoReldBztpCd=02",
-      "contact": "3147",
-      "support_type": "서민금융",
-      "support_cycle": "월",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:03.229261+09:00"
-    },
-    {
       "id": "local_WLF00001853",
       "source": "local",
       "title": "익산시 신혼부부 청년 주택 전세보증금 대출이자 지원사업",
@@ -54386,46 +53144,6 @@
       "support_cycle": "년",
       "gemini_ok": true,
       "updated_at": "2026-06-13T16:08:03.229388+09:00"
-    },
-    {
-      "id": "local_WLF00002870",
-      "source": "local",
-      "title": "입원아동돌봄서비스지원",
-      "organization": "광주광역시 여성가족국 여성가족과",
-      "summary": [
-        "입원아동돌봄서비스지원",
-        "한부모·조손",
-        "광주광역시 여성가족국 여성가"
-      ],
-      "plain_desc": "아이돌봄서비스(만12세 이하 아동 대상)가 제공되지 않는 입원아동에 대해 틈새돌봄서비스를 제공하여 부모의 양육부담 경감 및 돌봄 일자리 창출",
-      "categories": [
-        "임신·출산·육아",
-        "생활비·소득"
-      ],
-      "age_groups": [
-        "영유아(0-6세)",
-        "아동·청소년(7-18세)"
-      ],
-      "household_types": [
-        "한부모가구"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "광주광역시"
-        ],
-        "districts": [
-          "전체"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00002870&wlfareInfoReldBztpCd=02",
-      "contact": "4008",
-      "support_type": "",
-      "support_cycle": "수시",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:03.229458+09:00"
     },
     {
       "id": "local_WLF00004331",
@@ -55316,44 +54034,6 @@
       "updated_at": "2026-06-13T16:08:03.231038+09:00"
     },
     {
-      "id": "local_WLF00003806",
-      "source": "local",
-      "title": "5.18민주유공자 생활지원금 지원",
-      "organization": "광주광역시 민주인권평화국 5·18민주과",
-      "summary": [
-        "5.18민주유공자 생활지원금 지원",
-        "보훈대상자",
-        "광주광역시 민주인권평화국 5"
-      ],
-      "plain_desc": "광주광역시 거주 5.18민주유공자와 유가족에 대한 생활안정지원",
-      "categories": [
-        "생활비·소득"
-      ],
-      "age_groups": [
-        "전체"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "광주광역시"
-        ],
-        "districts": [
-          "전체"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00003806&wlfareInfoReldBztpCd=02",
-      "contact": "6413",
-      "support_type": "서민금융",
-      "support_cycle": "월",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:03.231089+09:00"
-    },
-    {
       "id": "local_WLF00002804",
       "source": "local",
       "title": "저소득노인생활지원",
@@ -55935,49 +54615,6 @@
       "support_cycle": "주",
       "gemini_ok": true,
       "updated_at": "2026-06-13T16:08:03.232052+09:00"
-    },
-    {
-      "id": "local_WLF00003644",
-      "source": "local",
-      "title": "상당구 장애인복지 증진(중증장애인 세상나들이)",
-      "organization": "충청북도 청주시 상당구 주민복지과",
-      "summary": [
-        "상당구 장애인복지 증진(중증장애인 세",
-        "장애인",
-        "충청북도 청주시 상당구 주민"
-      ],
-      "plain_desc": "중증장애인 세상나들이)중증장애인 및 가족(보호자)에게 나들이를 통해 다양한 경험을 제공",
-      "categories": [
-        "임신·출산·육아",
-        "교육·훈련",
-        "장애인지원"
-      ],
-      "age_groups": [
-        "영유아(0-6세)",
-        "아동·청소년(7-18세)",
-        "청년(19-34세)",
-        "중장년(35-64세)"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "충청북도"
-        ],
-        "districts": [
-          "청주시"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00003644&wlfareInfoReldBztpCd=02",
-      "contact": "1299",
-      "support_type": "",
-      "support_cycle": "1회성",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:03.232116+09:00"
     },
     {
       "id": "local_WLF00002044",
@@ -57582,45 +56219,6 @@
       "updated_at": "2026-06-13T16:08:03.234611+09:00"
     },
     {
-      "id": "local_WLF00004580",
-      "source": "local",
-      "title": "취약계층 인플루엔자 예방접종 지원사업",
-      "organization": "광주광역시 복지건강국 공공보건의료과",
-      "summary": [
-        "취약계층 인플루엔자 예방접종 지원사업",
-        "보훈대상자",
-        "광주광역시 복지건강국 공공보"
-      ],
-      "plain_desc": "50~64세* 중 의료급여수급권자, 장애인, 국가유공자 인플루엔자 3가 백신 예방접종(1회) - 취약계층 인플루엔자 예방접종 실시 및 민간의료기관 접종비용 전액 지원 - 인플루엔자 백신 수급관리 및 예방접종 후 이상반응 발생 시 신속조치 등",
-      "categories": [
-        "장애인지원",
-        "생활비·소득"
-      ],
-      "age_groups": [
-        "전체"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "기초생활수급자"
-      ],
-      "regions": {
-        "sido": [
-          "광주광역시"
-        ],
-        "districts": [
-          "전체"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00004580&wlfareInfoReldBztpCd=02",
-      "contact": "1985",
-      "support_type": "",
-      "support_cycle": "년",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:03.234697+09:00"
-    },
-    {
       "id": "local_WLF00004237",
       "source": "local",
       "title": "곡성군 아이돌봄서비스 본인부담금 지원",
@@ -58963,44 +57561,6 @@
       "updated_at": "2026-06-13T16:08:04.403748+09:00"
     },
     {
-      "id": "local_WLF00001257",
-      "source": "local",
-      "title": "동구 효출동대 사업",
-      "organization": "광주광역시 동구 복지환경국 노인장애인복지과",
-      "summary": [
-        "동구 효출동대 사업",
-        "저소득",
-        "광주광역시 동구 복지환경국 "
-      ],
-      "plain_desc": "1. 대상 : 65세이상 동구 주민 2. 내용 : 소규모 도배, 장판, 주방 등 집수리 서비스 3. 신청 : 동구노인종합복지관 방문 및 전화 (062-232-4950)",
-      "categories": [
-        "생활비·소득"
-      ],
-      "age_groups": [
-        "전체"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "광주광역시"
-        ],
-        "districts": [
-          "동구"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001257&wlfareInfoReldBztpCd=02",
-      "contact": "1779",
-      "support_type": "",
-      "support_cycle": "수시",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:04.403824+09:00"
-    },
-    {
       "id": "local_WLF00000174",
       "source": "local",
       "title": "청소년국제교류",
@@ -59314,45 +57874,6 @@
       "support_cycle": "월",
       "gemini_ok": true,
       "updated_at": "2026-06-13T16:08:04.404296+09:00"
-    },
-    {
-      "id": "local_WLF00001278",
-      "source": "local",
-      "title": "장애인차량 무상점검 및 수리서비스사업",
-      "organization": "광주광역시 동구 복지환경국 노인장애인복지과",
-      "summary": [
-        "장애인차량 무상점검 및 수리서비스사업",
-        "장애인",
-        "광주광역시 동구 복지환경국 "
-      ],
-      "plain_desc": "저소득장애인자동차 무상점검수리서비스를 통한 장애인사회참여활동지원및경제적부담경감지원",
-      "categories": [
-        "장애인지원"
-      ],
-      "age_groups": [
-        "청년(19-34세)",
-        "중장년(35-64세)"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "광주광역시"
-        ],
-        "districts": [
-          "동구"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001278&wlfareInfoReldBztpCd=02",
-      "contact": "2723",
-      "support_type": "",
-      "support_cycle": "1회성",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:04.404355+09:00"
     },
     {
       "id": "local_WLF00003334",
@@ -85460,45 +83981,6 @@
       "updated_at": "2026-06-13T16:08:05.643332+09:00"
     },
     {
-      "id": "local_WLF00005111",
-      "source": "local",
-      "title": "광주광역시 농민공익수당 지원",
-      "organization": "광주광역시 경제창업국 농업동물정책과",
-      "summary": [
-        "광주광역시 농민공익수당 지원",
-        "농업의 공익적 기능 유지․증진을 통해",
-        "광주광역시 경제창업국 농업동"
-      ],
-      "plain_desc": "농업의 공익적 기능 유지․증진을 통해 지속 가능한 농업환경 조성 및 농민의 삶의 질 향상 도모",
-      "categories": [
-        "생활비·소득"
-      ],
-      "age_groups": [
-        "청년(19-34세)",
-        "중장년(35-64세)"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "광주광역시"
-        ],
-        "districts": [
-          "전체"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005111&wlfareInfoReldBztpCd=02",
-      "contact": "5468",
-      "support_type": "서민금융",
-      "support_cycle": "년",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:05.643392+09:00"
-    },
-    {
       "id": "local_WLF00004715",
       "source": "local",
       "title": "장애학생 교내활동지원 사업",
@@ -91956,44 +90438,6 @@
       "updated_at": "2026-06-13T16:08:05.654367+09:00"
     },
     {
-      "id": "local_WLF00006078",
-      "source": "local",
-      "title": "영유아 발달 컨설팅",
-      "organization": "광주광역시 여성가족국 여성가족과",
-      "summary": [
-        "영유아 발달 컨설팅",
-        "발달지연 등 경계선 유아 조기선별",
-        "광주광역시 여성가족국 여성가"
-      ],
-      "plain_desc": "발달지연 등 경계선 유아 조기선별, 상담·치료 연계로 건강한 성장발달 지원",
-      "categories": [
-        "교육·훈련"
-      ],
-      "age_groups": [
-        "영유아(0-6세)"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "광주광역시"
-        ],
-        "districts": [
-          "전체"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006078&wlfareInfoReldBztpCd=02",
-      "contact": "1289",
-      "support_type": "교육",
-      "support_cycle": "년",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:05.654417+09:00"
-    },
-    {
       "id": "local_WLF00006077",
       "source": "local",
       "title": "하영드림 주택마련 지원",
@@ -92766,44 +91210,6 @@
       "support_cycle": "월",
       "gemini_ok": true,
       "updated_at": "2026-06-13T16:08:05.655934+09:00"
-    },
-    {
-      "id": "local_WLF00005465",
-      "source": "local",
-      "title": "치매검사비 본인부담금 지원",
-      "organization": "광주광역시 남구 보건소 건강증진과",
-      "summary": [
-        "치매검사비 본인부담금 지원",
-        "보건복지부 현행 치매정책사업 기준 상",
-        "광주광역시 남구 보건소 건강"
-      ],
-      "plain_desc": "보건복지부 현행 치매정책사업 기준 상 치매검사비 지원을 받지 못하는 기준중위소득 120% 초과자에 대한 치매검사비 구비 지원",
-      "categories": [
-        "생활비·소득"
-      ],
-      "age_groups": [
-        "전체"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "중위소득100%이하"
-      ],
-      "regions": {
-        "sido": [
-          "광주광역시"
-        ],
-        "districts": [
-          "남구"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005465&wlfareInfoReldBztpCd=02",
-      "contact": "1188",
-      "support_type": "",
-      "support_cycle": "수시",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:05.655997+09:00"
     },
     {
       "id": "local_WLF00005404",
@@ -94470,47 +92876,6 @@
       "updated_at": "2026-06-13T16:08:05.658857+09:00"
     },
     {
-      "id": "local_WLF00000777",
-      "source": "local",
-      "title": "다문화가정 교육프로그램",
-      "organization": "광주광역시 남구 희망복지국 여성가족과",
-      "summary": [
-        "다문화가정 교육프로그램",
-        "다문화·탈북민",
-        "광주광역시 남구 희망복지국 "
-      ],
-      "plain_desc": "결혼이민자 운전면허 취득 지원으로 역량을 개발하여 취업 및 사회참여를 확대하고 경제적 자립기반을 구축하여 안정적인 가정생활을 영위 할 수 있도록 지원",
-      "categories": [
-        "교육·훈련",
-        "문화·여가"
-      ],
-      "age_groups": [
-        "청년(19-34세)",
-        "중장년(35-64세)"
-      ],
-      "household_types": [
-        "다자녀가구",
-        "다문화가구"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "광주광역시"
-        ],
-        "districts": [
-          "남구"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000777&wlfareInfoReldBztpCd=02",
-      "contact": "1450",
-      "support_type": "서민금융",
-      "support_cycle": "1회성",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:05.658924+09:00"
-    },
-    {
       "id": "local_WLF00004323",
       "source": "local",
       "title": "당뇨합병증 검사비 지원",
@@ -95796,45 +94161,6 @@
       "updated_at": "2026-06-13T16:08:05.660992+09:00"
     },
     {
-      "id": "local_WLF00004601",
-      "source": "local",
-      "title": "노인급식사업지원(보조)",
-      "organization": "광주광역시 남구 희망복지국 고령정책과",
-      "summary": [
-        "노인급식사업지원(보조)",
-        "저소득",
-        "광주광역시 남구 희망복지국 "
-      ],
-      "plain_desc": "가정형편이 어렵거나 부득이한 사정으로 식사를 거를 우려가 있는 노인들(기초수급자 노인 및 차상위계층 노인, 저소득 독거노인)에게 무료로 식사를 제공함으로써 노인급식 지원 수준 제고",
-      "categories": [
-        "노인돌봄",
-        "생활비·소득"
-      ],
-      "age_groups": [
-        "전체"
-      ],
-      "household_types": [
-        "1인가구"
-      ],
-      "income_levels": [
-        "기초생활수급자"
-      ],
-      "regions": {
-        "sido": [
-          "광주광역시"
-        ],
-        "districts": [
-          "남구"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00004601&wlfareInfoReldBztpCd=02",
-      "contact": "3143",
-      "support_type": "안전·위기",
-      "support_cycle": "주",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:05.661061+09:00"
-    },
-    {
       "id": "local_WLF00000439",
       "source": "local",
       "title": "노숙인 구호",
@@ -96377,44 +94703,6 @@
       "support_cycle": "월",
       "gemini_ok": true,
       "updated_at": "2026-06-13T16:08:06.987810+09:00"
-    },
-    {
-      "id": "local_WLF00001616",
-      "source": "local",
-      "title": "노숙인 귀향여비 지급",
-      "organization": "광주광역시 남구 희망복지국 복지정책과",
-      "summary": [
-        "노숙인 귀향여비 지급",
-        "노숙인 등 에게 귀향여비를 지급하여 ",
-        "광주광역시 남구 희망복지국 "
-      ],
-      "plain_desc": "노숙인 등 에게 귀향여비를 지급하여 안전한 귀가를 지원 노숙위기자에게 1회 숙박 지원 하여 임시보호 조치",
-      "categories": [
-        "생활비·소득"
-      ],
-      "age_groups": [
-        "전체"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "광주광역시"
-        ],
-        "districts": [
-          "남구"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001616&wlfareInfoReldBztpCd=02",
-      "contact": "1707",
-      "support_type": "",
-      "support_cycle": "1회성",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:06.987927+09:00"
     },
     {
       "id": "local_WLF00002745",
@@ -104916,51 +103204,6 @@
       "updated_at": "2026-06-13T16:08:07.002399+09:00"
     },
     {
-      "id": "local_WLF00006044",
-      "source": "local",
-      "title": "광주광역시 서구 아동주거빈곤해소사업",
-      "organization": "광주광역시 서구 통합돌봄국 돌봄정책과",
-      "summary": [
-        "광주광역시 서구 아동주거빈곤해소사업",
-        "저소득",
-        "광주광역시 서구 통합돌봄국 "
-      ],
-      "plain_desc": "□ 아동 주거빈곤 해소를 위한 지원을 함으로써 아동의 주거권 보장 □ 아동이 쾌적하고 안정된 삶을 영위하는데 이바지하기 위함",
-      "categories": [
-        "주거·임대",
-        "임신·출산·육아",
-        "교육·훈련",
-        "장애인지원",
-        "문화·여가",
-        "생활비·소득"
-      ],
-      "age_groups": [
-        "아동·청소년(7-18세)"
-      ],
-      "household_types": [
-        "한부모가구",
-        "다자녀가구",
-        "다문화가구"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "광주광역시"
-        ],
-        "districts": [
-          "서구"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006044&wlfareInfoReldBztpCd=02",
-      "contact": "1706",
-      "support_type": "입양·위탁",
-      "support_cycle": "년",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:07.002476+09:00"
-    },
-    {
       "id": "local_WLF00006043",
       "source": "local",
       "title": "장애인 보장구 수리비 지원사업",
@@ -105157,45 +103400,6 @@
       "support_cycle": "1회성",
       "gemini_ok": true,
       "updated_at": "2026-06-13T16:08:07.002786+09:00"
-    },
-    {
-      "id": "local_WLF00006038",
-      "source": "local",
-      "title": "안전지팡이 지원",
-      "organization": "광주광역시 서구 통합돌봄국 저출산고령사회정책과",
-      "summary": [
-        "안전지팡이 지원",
-        "저소득",
-        "광주광역시 서구 통합돌봄국 "
-      ],
-      "plain_desc": "장기요양등급 판정자는 복지용구 급여를 통해 지팡이를 지원 받고 있으나, 등급외 A,B 판정자 및 거동 불편자는 지원을 받지 못하여 복지 사각지대 발생 ☞ 사각지대 저소득층 어르신에게 안전지팡이 구입비를 지원하여 보행 편의 제공 ※ 사회보장제도 변경 협의 완료('25.1.8.)됨에 따라 자격기준 완화",
-      "categories": [
-        "의료·건강",
-        "생활비·소득"
-      ],
-      "age_groups": [
-        "전체"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "광주광역시"
-        ],
-        "districts": [
-          "서구"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006038&wlfareInfoReldBztpCd=02",
-      "contact": "1634",
-      "support_type": "서민금융, 신체건강",
-      "support_cycle": "수시",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:07.002883+09:00"
     },
     {
       "id": "local_WLF00006037",
@@ -108219,44 +106423,6 @@
       "support_cycle": "월",
       "gemini_ok": true,
       "updated_at": "2026-06-13T16:08:07.008441+09:00"
-    },
-    {
-      "id": "local_WLF00004550",
-      "source": "local",
-      "title": "효드림수당",
-      "organization": "광주광역시 서구 통합돌봄국 저출산고령사회정책과",
-      "summary": [
-        "효드림수당",
-        "아름다운 전통문화 유산인 「효」를 장",
-        "광주광역시 서구 통합돌봄국 "
-      ],
-      "plain_desc": "아름다운 전통문화 유산인 「효」를 장려하고 실천할 수 있는 사회적 분위기를 고양시켜 경로효친의 건전한 가족제도 정착 및 지역사회의 효 문화 확산 기여",
-      "categories": [
-        "생활비·소득"
-      ],
-      "age_groups": [
-        "전체"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "광주광역시"
-        ],
-        "districts": [
-          "서구"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00004550&wlfareInfoReldBztpCd=02",
-      "contact": "2276",
-      "support_type": "서민금융",
-      "support_cycle": "월",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:07.008498+09:00"
     },
     {
       "id": "local_WLF00003882",
@@ -116269,45 +114435,6 @@
       "updated_at": "2026-06-13T16:08:08.358918+09:00"
     },
     {
-      "id": "local_WLF00005967",
-      "source": "local",
-      "title": "광주 북구 아빠 육아휴직 장려금 지원",
-      "organization": "광주광역시 북구 청년미래정책관",
-      "summary": [
-        "광주 북구 아빠 육아휴직 장려금 지원",
-        "남성노동자의 육아참여 확산 및 일가정",
-        "광주광역시 북구 청년미래정책"
-      ],
-      "plain_desc": "남성노동자의 육아참여 확산 및 일가정 양립 사회분위기 조성하기 위한 사업입니다",
-      "categories": [
-        "임신·출산·육아"
-      ],
-      "age_groups": [
-        "청년(19-34세)",
-        "중장년(35-64세)"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "광주광역시"
-        ],
-        "districts": [
-          "북구"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005967&wlfareInfoReldBztpCd=02",
-      "contact": "1773",
-      "support_type": "서민금융",
-      "support_cycle": "월",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:08.358975+09:00"
-    },
-    {
       "id": "local_WLF00005966",
       "source": "local",
       "title": "기장군 다자녀 가정 양육 바우처 지원",
@@ -117593,44 +115720,6 @@
       "updated_at": "2026-06-13T16:08:08.361540+09:00"
     },
     {
-      "id": "local_WLF00005536",
-      "source": "local",
-      "title": "에너지이용취약계층 등유바우처 지원사업",
-      "organization": "광주광역시 남구 문화환경국 탄소중립과",
-      "summary": [
-        "에너지이용취약계층 등유바우처 지원사업",
-        "저소득",
-        "광주광역시 남구 문화환경국 "
-      ],
-      "plain_desc": "- 등유 가격의 급격한 인상에 따른 등유 사용가구의 연료비 부담 가중 - 정부와 시에서 추진하는 난방연료 지원사업과 별개로 우리구에서 등유 부족분을 추가로 지원하는 보편적 에너지공급으로 에너지 복지 향상에 기여코자 함.",
-      "categories": [
-        "생활비·소득"
-      ],
-      "age_groups": [
-        "전체"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "광주광역시"
-        ],
-        "districts": [
-          "남구"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005536&wlfareInfoReldBztpCd=02",
-      "contact": "10090",
-      "support_type": "",
-      "support_cycle": "년",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:08.361616+09:00"
-    },
-    {
       "id": "local_WLF00005532",
       "source": "local",
       "title": "거창형 청년수당",
@@ -117824,44 +115913,6 @@
       "support_cycle": "1회성",
       "gemini_ok": true,
       "updated_at": "2026-06-13T16:08:08.361936+09:00"
-    },
-    {
-      "id": "local_WLF00005500",
-      "source": "local",
-      "title": "광주 서구형 기초생활보장사업",
-      "organization": "광주광역시 서구 통합복지국 복지급여과",
-      "summary": [
-        "광주 서구형 기초생활보장사업",
-        "부양의무자 등으로 인하여 정부지원을 ",
-        "광주광역시 서구 통합복지국 "
-      ],
-      "plain_desc": "부양의무자 등으로 인하여 정부지원을 받지 못하는 근로능력이 없는 비수급 빈곤층 발굴 및 지원하여 한 차원 높은 촘촘한 복지안전망을 구축하기 위한 사업입니다.",
-      "categories": [
-        "생활비·소득"
-      ],
-      "age_groups": [
-        "전체"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "광주광역시"
-        ],
-        "districts": [
-          "서구"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005500&wlfareInfoReldBztpCd=02",
-      "contact": "3320",
-      "support_type": "서민금융",
-      "support_cycle": "월",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:08.361997+09:00"
     },
     {
       "id": "local_WLF00005481",
@@ -122575,45 +120626,6 @@
       "updated_at": "2026-06-13T16:08:08.369836+09:00"
     },
     {
-      "id": "local_WLF00000029",
-      "source": "local",
-      "title": "희망아이출생 산모산후관리비지원",
-      "organization": "광주광역시 서구 보건소 건강증진과",
-      "summary": [
-        "희망아이출생 산모산후관리비지원",
-        "한부모·조손",
-        "광주광역시 서구 보건소 건강"
-      ],
-      "plain_desc": "산모와 신생아의 건강보호와 양육에 필요한 서비스 이용 및 물품 구입 등에 필요한 비용 지원",
-      "categories": [
-        "임신·출산·육아",
-        "생활비·소득"
-      ],
-      "age_groups": [
-        "청년(19-34세)"
-      ],
-      "household_types": [
-        "한부모가구"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "광주광역시"
-        ],
-        "districts": [
-          "서구"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000029&wlfareInfoReldBztpCd=02",
-      "contact": "2566",
-      "support_type": "임신·출산, 서민금융",
-      "support_cycle": "1회성",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:08.369904+09:00"
-    },
-    {
       "id": "local_WLF00004150",
       "source": "local",
       "title": "교복구입비 지원",
@@ -123543,45 +121555,6 @@
       "updated_at": "2026-06-13T16:08:08.371863+09:00"
     },
     {
-      "id": "local_WLF00003362",
-      "source": "local",
-      "title": "임신출산축하용품 지원",
-      "organization": "광주광역시 서구 보건소 건강증진과",
-      "summary": [
-        "임신출산축하용품 지원",
-        "임신출산용품 지원을 통해 경제적 비용",
-        "광주광역시 서구 보건소 건강"
-      ],
-      "plain_desc": "임신출산용품 지원을 통해 경제적 비용 경감 및 새로운 가족 형성에 대한 긍정적 인식 제고 기여",
-      "categories": [
-        "임신·출산·육아"
-      ],
-      "age_groups": [
-        "청년(19-34세)",
-        "중장년(35-64세)"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "광주광역시"
-        ],
-        "districts": [
-          "서구"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00003362&wlfareInfoReldBztpCd=02",
-      "contact": "4455",
-      "support_type": "임신·출산",
-      "support_cycle": "1회성",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:08.371921+09:00"
-    },
-    {
       "id": "local_WLF00001365",
       "source": "local",
       "title": "초등학교 입학축하금 지원",
@@ -124320,49 +122293,6 @@
       "support_cycle": "분기",
       "gemini_ok": true,
       "updated_at": "2026-06-13T16:08:08.373079+09:00"
-    },
-    {
-      "id": "local_WLF00001425",
-      "source": "local",
-      "title": "24시간 장애인활동지원 사업",
-      "organization": "광주광역시 복지건강국 장애인복지과",
-      "summary": [
-        "24시간 장애인활동지원 사업",
-        "장애인",
-        "광주광역시 복지건강국 장애인"
-      ],
-      "plain_desc": "장애인의 사회참여 증진 등을 위하여 국비지원 부족시간을 시 추가 지원",
-      "categories": [
-        "의료·건강",
-        "임신·출산·육아",
-        "교육·훈련",
-        "장애인지원"
-      ],
-      "age_groups": [
-        "아동·청소년(7-18세)",
-        "청년(19-34세)",
-        "중장년(35-64세)"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "광주광역시"
-        ],
-        "districts": [
-          "전체"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001425&wlfareInfoReldBztpCd=02",
-      "contact": "4886",
-      "support_type": "신체건강",
-      "support_cycle": "월",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:08.373137+09:00"
     },
     {
       "id": "local_WLF00003905",
@@ -126351,44 +124281,6 @@
       "updated_at": "2026-06-13T16:08:08.376346+09:00"
     },
     {
-      "id": "local_WLF00001320",
-      "source": "local",
-      "title": "참전유공자명예수당",
-      "organization": "광주광역시 북구 복지교육국 복지정책과",
-      "summary": [
-        "참전유공자명예수당",
-        "보훈대상자",
-        "광주광역시 북구 복지교육국 "
-      ],
-      "plain_desc": "국가에 헌신,공헌한 광주 북구 참전유공자들의 명예를 선양하여 구민의 안보의식 및 나라사랑 정신 함양(사망위로금)",
-      "categories": [
-        "생활비·소득"
-      ],
-      "age_groups": [
-        "전체"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "광주광역시"
-        ],
-        "districts": [
-          "북구"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001320&wlfareInfoReldBztpCd=02",
-      "contact": "1372",
-      "support_type": "서민금융",
-      "support_cycle": "분기",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:08.376406+09:00"
-    },
-    {
       "id": "local_WLF00003986",
       "source": "local",
       "title": "산모신생아 건강관리 지원사업(추가형)",
@@ -128161,44 +126053,6 @@
       "updated_at": "2026-06-13T16:08:08.379544+09:00"
     },
     {
-      "id": "local_WLF00001296",
-      "source": "local",
-      "title": "소외계층장례지원",
-      "organization": "광주광역시 북구 복지교육국 복지정책과",
-      "summary": [
-        "소외계층장례지원",
-        "한부모·조손",
-        "광주광역시 북구 복지교육국 "
-      ],
-      "plain_desc": "무연고, 저소득 주민을 위한 장례지원서비스",
-      "categories": [
-        "생활비·소득"
-      ],
-      "age_groups": [
-        "전체"
-      ],
-      "household_types": [
-        "한부모가구"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "광주광역시"
-        ],
-        "districts": [
-          "북구"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001296&wlfareInfoReldBztpCd=02",
-      "contact": "2065",
-      "support_type": "서민금융, 안전·위기",
-      "support_cycle": "1회성",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:08.379595+09:00"
-    },
-    {
       "id": "local_WLF00002739",
       "source": "local",
       "title": "서구 복지박람회",
@@ -128476,45 +126330,6 @@
       "updated_at": "2026-06-13T16:08:08.380029+09:00"
     },
     {
-      "id": "local_WLF00001521",
-      "source": "local",
-      "title": "장애인생활지원금",
-      "organization": "광주광역시 복지건강국 장애인복지과",
-      "summary": [
-        "장애인생활지원금",
-        "저소득",
-        "광주광역시 복지건강국 장애인"
-      ],
-      "plain_desc": "장애로 인한 추가비용의 발생과 경제활동의 제한으로 인한 소득의 감소로 생활이 어려운 저소득 장애인 가구에게 일정한 생활지원금을 지급함으로써 최소한의 생활안정과 복지증진에 기여",
-      "categories": [
-        "장애인지원",
-        "생활비·소득"
-      ],
-      "age_groups": [
-        "전체"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "광주광역시"
-        ],
-        "districts": [
-          "전체"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001521&wlfareInfoReldBztpCd=02",
-      "contact": "5835",
-      "support_type": "서민금융",
-      "support_cycle": "월",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:08.380096+09:00"
-    },
-    {
       "id": "local_WLF00000003",
       "source": "local",
       "title": "장애인활동지원 시추가지원사업",
@@ -128752,45 +126567,6 @@
       "support_cycle": "1회성",
       "gemini_ok": true,
       "updated_at": "2026-06-13T16:08:08.380580+09:00"
-    },
-    {
-      "id": "local_WLF00001426",
-      "source": "local",
-      "title": "결식우려노인 무료급식 지원",
-      "organization": "광주광역시 복지건강국 고령사회정책과",
-      "summary": [
-        "결식우려노인 무료급식 지원",
-        "저소득",
-        "광주광역시 복지건강국 고령사"
-      ],
-      "plain_desc": "가정형편이 어렵거나 부득이한 사정으로 식사를 거를 우려가 있는 노인들(기초수급자 노인 및 차상위계층 노인, 저소득 독거노인)에게는 무료로 식사를 제공하고 그 이상의 일정한 경제적 능력을 갖춘 노인들에게는 실비로 식사를 제공할 수 있도록 함으로써 노인급식 지원 수준 제고",
-      "categories": [
-        "노인돌봄",
-        "생활비·소득"
-      ],
-      "age_groups": [
-        "전체"
-      ],
-      "household_types": [
-        "1인가구"
-      ],
-      "income_levels": [
-        "기초생활수급자"
-      ],
-      "regions": {
-        "sido": [
-          "광주광역시"
-        ],
-        "districts": [
-          "전체"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001426&wlfareInfoReldBztpCd=02",
-      "contact": "1878",
-      "support_type": "안전·위기",
-      "support_cycle": "년",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:08.380724+09:00"
     },
     {
       "id": "local_WLF00000869",
@@ -129471,88 +127247,6 @@
       "updated_at": "2026-06-13T16:08:08.381789+09:00"
     },
     {
-      "id": "local_WLF00003808",
-      "source": "local",
-      "title": "장애인활동지원사업 시자체사업",
-      "organization": "광주광역시 복지건강국 장애인복지과",
-      "summary": [
-        "장애인활동지원사업 시자체사업",
-        "장애인",
-        "광주광역시 복지건강국 장애인"
-      ],
-      "plain_desc": "○ 중증장애인들이 일상생활을 영위하는데 필요한 서비스를 적절하게 제공 함으로써 기본적인 생활보장 및 사회참여를 제고하고 가족기능 회복에 기여",
-      "categories": [
-        "임신·출산·육아",
-        "교육·훈련",
-        "장애인지원"
-      ],
-      "age_groups": [
-        "아동·청소년(7-18세)",
-        "청년(19-34세)",
-        "중장년(35-64세)"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "광주광역시"
-        ],
-        "districts": [
-          "전체"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00003808&wlfareInfoReldBztpCd=02",
-      "contact": "3100",
-      "support_type": "",
-      "support_cycle": "월",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:08.381859+09:00"
-    },
-    {
-      "id": "local_WLF00001246",
-      "source": "local",
-      "title": "탈시설장애인자립지원금 지원",
-      "organization": "광주광역시 복지건강국 장애인복지과",
-      "summary": [
-        "탈시설장애인자립지원금 지원",
-        "장애인",
-        "광주광역시 복지건강국 장애인"
-      ],
-      "plain_desc": "중증장애인의 자립의욕 고취를 위해 장애인거주시설에서 퇴소(예정)자에게 자립지원금을 지원하고자 함.",
-      "categories": [
-        "장애인지원",
-        "생활비·소득"
-      ],
-      "age_groups": [
-        "청년(19-34세)",
-        "중장년(35-64세)"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "광주광역시"
-        ],
-        "districts": [
-          "전체"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001246&wlfareInfoReldBztpCd=02",
-      "contact": "2563",
-      "support_type": "서민금융",
-      "support_cycle": "1회성",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:08.381918+09:00"
-    },
-    {
       "id": "local_WLF00001241",
       "source": "local",
       "title": "가정폭력, 성폭력 피해자 지원",
@@ -129860,49 +127554,6 @@
       "support_cycle": "1회성",
       "gemini_ok": true,
       "updated_at": "2026-06-13T16:08:08.382388+09:00"
-    },
-    {
-      "id": "local_WLF00001245",
-      "source": "local",
-      "title": "청각장애인인공달팽이관수술지원",
-      "organization": "광주광역시 복지건강국 장애인복지과",
-      "summary": [
-        "청각장애인인공달팽이관수술지원",
-        "장애인",
-        "광주광역시 복지건강국 장애인"
-      ],
-      "plain_desc": "인공달팽이관 이식 및 재활에 필요한 지원을 통하여 저소득 청각장애인의 정상적 언어생활과 가정생활안정을 도모",
-      "categories": [
-        "임신·출산·육아",
-        "교육·훈련",
-        "장애인지원"
-      ],
-      "age_groups": [
-        "영유아(0-6세)",
-        "아동·청소년(7-18세)",
-        "청년(19-34세)",
-        "중장년(35-64세)"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "광주광역시"
-        ],
-        "districts": [
-          "전체"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001245&wlfareInfoReldBztpCd=02",
-      "contact": "1735",
-      "support_type": "",
-      "support_cycle": "1회성",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:08.382449+09:00"
     },
     {
       "id": "local_WLF00000956",
@@ -130405,44 +128056,6 @@
       "support_cycle": "1회성",
       "gemini_ok": true,
       "updated_at": "2026-06-13T16:08:08.383242+09:00"
-    },
-    {
-      "id": "local_WLF00001614",
-      "source": "local",
-      "title": "장수축하금 및 장수효도수당 지급",
-      "organization": "광주광역시 남구 희망복지국 으뜸효정책과",
-      "summary": [
-        "장수축하금 및 장수효도수당 지급",
-        "한부모·조손",
-        "광주광역시 남구 희망복지국 "
-      ],
-      "plain_desc": "아름다운 전통문화유산인 효를 장려하고 실천할 수 있는 사회적 분위기를 고양시켜 지역사회 효행문화 발전에 이바지함을 목표로함",
-      "categories": [
-        "생활비·소득"
-      ],
-      "age_groups": [
-        "전체"
-      ],
-      "household_types": [
-        "한부모가구"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "광주광역시"
-        ],
-        "districts": [
-          "남구"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001614&wlfareInfoReldBztpCd=02",
-      "contact": "6677",
-      "support_type": "서민금융",
-      "support_cycle": "1회성",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:08.383307+09:00"
     },
     {
       "id": "local_WLF00002753",
@@ -131437,48 +129050,6 @@
       "support_cycle": "수시",
       "gemini_ok": true,
       "updated_at": "2026-06-13T16:08:08.384911+09:00"
-    },
-    {
-      "id": "local_WLF00001319",
-      "source": "local",
-      "title": "재해이재민응급구호",
-      "organization": "광주광역시 북구 복지교육국 복지정책과",
-      "summary": [
-        "재해이재민응급구호",
-        "각종 재해시 신속한 응급 물자 제공",
-        "광주광역시 북구 복지교육국 "
-      ],
-      "plain_desc": "각종 재해시 신속한 응급 물자 제공",
-      "categories": [
-        "임신·출산·육아",
-        "교육·훈련"
-      ],
-      "age_groups": [
-        "영유아(0-6세)",
-        "아동·청소년(7-18세)",
-        "청년(19-34세)",
-        "중장년(35-64세)"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "광주광역시"
-        ],
-        "districts": [
-          "북구"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001319&wlfareInfoReldBztpCd=02",
-      "contact": "1030",
-      "support_type": "서민금융",
-      "support_cycle": "1회성",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:08.384964+09:00"
     },
     {
       "id": "local_WLF00003710",
@@ -133769,49 +131340,6 @@
       "updated_at": "2026-06-13T16:08:08.388570+09:00"
     },
     {
-      "id": "local_WLF00001615",
-      "source": "local",
-      "title": "장애아동지원",
-      "organization": "광주광역시 남구 희망복지국 장애인복지과",
-      "summary": [
-        "장애아동지원",
-        "한부모·조손",
-        "광주광역시 남구 희망복지국 "
-      ],
-      "plain_desc": "성장기에 있는 저소득 장애아동에게 건강음료 및 학습 지도비를 제공하여 건강한 사회일원으로 성장하는데 기여",
-      "categories": [
-        "임신·출산·육아",
-        "장애인지원",
-        "문화·여가",
-        "생활비·소득"
-      ],
-      "age_groups": [
-        "아동·청소년(7-18세)"
-      ],
-      "household_types": [
-        "한부모가구",
-        "다자녀가구",
-        "다문화가구"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "광주광역시"
-        ],
-        "districts": [
-          "남구"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001615&wlfareInfoReldBztpCd=02",
-      "contact": "1811",
-      "support_type": "입양·위탁",
-      "support_cycle": "월",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:08.388638+09:00"
-    },
-    {
       "id": "local_WLF00002290",
       "source": "local",
       "title": "효도수당 지원",
@@ -133848,46 +131376,6 @@
       "support_cycle": "월",
       "gemini_ok": true,
       "updated_at": "2026-06-13T16:08:08.388693+09:00"
-    },
-    {
-      "id": "local_WLF00000776",
-      "source": "local",
-      "title": "장애인가정 출산지원금 지급",
-      "organization": "광주광역시 서구 통합복지국 장애인희망복지과",
-      "summary": [
-        "장애인가정 출산지원금 지급",
-        "장애인",
-        "광주광역시 서구 통합복지국 "
-      ],
-      "plain_desc": "장애인가정에 출산지원금을 지급함으로써 저출산 시대의 사회적 문제 해소와 장애인가정의 생활안정 및 사회적 통합에 기여하기 위함",
-      "categories": [
-        "임신·출산·육아",
-        "장애인지원",
-        "생활비·소득"
-      ],
-      "age_groups": [
-        "전체"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "광주광역시"
-        ],
-        "districts": [
-          "서구"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000776&wlfareInfoReldBztpCd=02",
-      "contact": "1541",
-      "support_type": "서민금융",
-      "support_cycle": "수시",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:08.388753+09:00"
     },
     {
       "id": "local_WLF00003704",
@@ -136834,44 +134322,6 @@
       "updated_at": "2026-06-13T16:08:09.840808+09:00"
     },
     {
-      "id": "local_WLF00000798",
-      "source": "local",
-      "title": "무연고 사망",
-      "organization": "광주광역시 북구 복지교육국 복지정책과",
-      "summary": [
-        "무연고 사망",
-        "무연고 행려사망자 장제를 지내기 위함",
-        "광주광역시 북구 복지교육국 "
-      ],
-      "plain_desc": "무연고 행려사망자 장제를 지내기 위함",
-      "categories": [
-        "생활비·소득"
-      ],
-      "age_groups": [
-        "전체"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "광주광역시"
-        ],
-        "districts": [
-          "북구"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000798&wlfareInfoReldBztpCd=02",
-      "contact": "1041",
-      "support_type": "",
-      "support_cycle": "1회성",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:09.840848+09:00"
-    },
-    {
       "id": "local_WLF00000795",
       "source": "local",
       "title": "찾아가는 복지 방문 강화 사업",
@@ -136951,47 +134401,6 @@
       "support_cycle": "반기",
       "gemini_ok": true,
       "updated_at": "2026-06-13T16:08:09.840963+09:00"
-    },
-    {
-      "id": "local_WLF00001318",
-      "source": "local",
-      "title": "가정위탁아동 자립적립금 지원",
-      "organization": "광주광역시 북구 복지교육국 아동청소년과",
-      "summary": [
-        "가정위탁아동 자립적립금 지원",
-        "가정위탁 아동에게 매월 2만원 자립적",
-        "광주광역시 북구 복지교육국 "
-      ],
-      "plain_desc": "가정위탁 아동에게 매월 2만원 자립적립금을 예산 지원하고 대상자 아동이 성인이 되어 보호종료된 이후 자립을 하는데 필요한 자립적립금을 지급하여 건강한 사회인으로 자립할 수 있도록 하기 위함.",
-      "categories": [
-        "임신·출산·육아",
-        "교육·훈련"
-      ],
-      "age_groups": [
-        "영유아(0-6세)",
-        "아동·청소년(7-18세)",
-        "청년(19-34세)"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "광주광역시"
-        ],
-        "districts": [
-          "북구"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001318&wlfareInfoReldBztpCd=02",
-      "contact": "1303",
-      "support_type": "입양·위탁, 서민금융",
-      "support_cycle": "1회성",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:09.841040+09:00"
     },
     {
       "id": "local_WLF00002651",
@@ -138439,44 +135848,6 @@
       "updated_at": "2026-06-13T16:08:09.843584+09:00"
     },
     {
-      "id": "local_WLF00001280",
-      "source": "local",
-      "title": "무연고, 저소득주민을 위한 '공영장례지원'",
-      "organization": "광주광역시 서구 통합복지국 복지정책과",
-      "summary": [
-        "무연고, 저소득주민을 위한 '공영장례",
-        "저소득",
-        "광주광역시 서구 통합복지국 "
-      ],
-      "plain_desc": "가족해체와 빈곤으로 사망에 따른 장례절차를 처리할 수 없는 계층에 대한 공영장례지원 신청 및 비용지급 등 지원 절차와 장례추진위원회에 관한 사항을 효율적으로 추진하기 위함",
-      "categories": [
-        "생활비·소득"
-      ],
-      "age_groups": [
-        "전체"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "광주광역시"
-        ],
-        "districts": [
-          "서구"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001280&wlfareInfoReldBztpCd=02",
-      "contact": "3088",
-      "support_type": "",
-      "support_cycle": "1회성",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:09.843656+09:00"
-    },
-    {
       "id": "local_WLF00004330",
       "source": "local",
       "title": "저소득층 자녀 장학금 지원 사업",
@@ -138671,44 +136042,6 @@
       "support_cycle": "수시",
       "gemini_ok": true,
       "updated_at": "2026-06-13T16:08:09.844072+09:00"
-    },
-    {
-      "id": "local_WLF00001591",
-      "source": "local",
-      "title": "서민생활도우미제",
-      "organization": "광주광역시 서구 통합복지국 복지정책과",
-      "summary": [
-        "서민생활도우미제",
-        "저소득",
-        "광주광역시 서구 통합복지국 "
-      ],
-      "plain_desc": "저소득 주민의 생활 안정을 지원하고, 생활밀착형 서비스 제공을 통해 주민의 삶의 질 향상은 물론 지속가능한 서구 복지 네트워크를 구축하고자 함",
-      "categories": [
-        "생활비·소득"
-      ],
-      "age_groups": [
-        "전체"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "광주광역시"
-        ],
-        "districts": [
-          "서구"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001591&wlfareInfoReldBztpCd=02",
-      "contact": "2944",
-      "support_type": "",
-      "support_cycle": "수시",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:09.844215+09:00"
     },
     {
       "id": "local_WLF00001403",
@@ -144130,44 +141463,6 @@
       "updated_at": "2026-06-13T16:08:09.854182+09:00"
     },
     {
-      "id": "local_WLF00000797",
-      "source": "local",
-      "title": "둘째아 이상 출생축하금 지원",
-      "organization": "광주광역시 남구 인구가족담당관",
-      "summary": [
-        "둘째아 이상 출생축하금 지원",
-        "둘째아 이상 출생가정 출산장려금 지급",
-        "광주광역시 남구 인구가족담당"
-      ],
-      "plain_desc": "둘째아 이상 출생가정 출산장려금 지급",
-      "categories": [
-        "임신·출산·육아"
-      ],
-      "age_groups": [
-        "영유아(0-6세)"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "광주광역시"
-        ],
-        "districts": [
-          "남구"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000797&wlfareInfoReldBztpCd=02",
-      "contact": "2490",
-      "support_type": "서민금융, 임신·출산",
-      "support_cycle": "1회성",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:09.854268+09:00"
-    },
-    {
       "id": "local_WLF00004070",
       "source": "local",
       "title": "도비 장애수당",
@@ -145220,45 +142515,6 @@
       "updated_at": "2026-06-13T16:08:09.855929+09:00"
     },
     {
-      "id": "local_WLF00001722",
-      "source": "local",
-      "title": "행복충전전문동아리",
-      "organization": "광주광역시 북구 복지교육국 여성보육과",
-      "summary": [
-        "행복충전전문동아리",
-        "고급 유휴여성 인력의 잠재능력을 개발",
-        "광주광역시 북구 복지교육국 "
-      ],
-      "plain_desc": "고급 유휴여성 인력의 잠재능력을 개발하여 삶의 질을 향상하고 전문적이고 체계적인 교육으로 자기역량강화 및 자아성취감을 고취시켜 여성사회참여 기회 확대",
-      "categories": [
-        "생활비·소득"
-      ],
-      "age_groups": [
-        "청년(19-34세)",
-        "중장년(35-64세)"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "광주광역시"
-        ],
-        "districts": [
-          "북구"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001722&wlfareInfoReldBztpCd=02",
-      "contact": "1094",
-      "support_type": "서민금융",
-      "support_cycle": "1회성",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:09.855990+09:00"
-    },
-    {
       "id": "local_WLF00000535",
       "source": "local",
       "title": "행려자 귀가 구호비 및 무연고 사망자 공영장례 지원",
@@ -145934,44 +143190,6 @@
       "support_cycle": "1회성",
       "gemini_ok": true,
       "updated_at": "2026-06-13T16:08:09.857150+09:00"
-    },
-    {
-      "id": "local_WLF00005927",
-      "source": "local",
-      "title": "장수축하물품지급사업",
-      "organization": "광주광역시 북구 통합돌봄국 노인복지과",
-      "summary": [
-        "장수축하물품지급사업",
-        "100세 장수노인에 대한 축하 물품 ",
-        "광주광역시 북구 통합돌봄국 "
-      ],
-      "plain_desc": "100세 장수노인에 대한 축하 물품 지원으로 노인복지 만족도 제고",
-      "categories": [
-        "생활비·소득"
-      ],
-      "age_groups": [
-        "전체"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "광주광역시"
-        ],
-        "districts": [
-          "북구"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005927&wlfareInfoReldBztpCd=02",
-      "contact": "1399",
-      "support_type": "",
-      "support_cycle": "1회성",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:09.857228+09:00"
     },
     {
       "id": "local_WLF00005925",
@@ -160695,44 +157913,6 @@
       "updated_at": "2026-06-13T16:08:11.393450+09:00"
     },
     {
-      "id": "local_WLF00004698",
-      "source": "local",
-      "title": "빛고을50+일자리사업",
-      "organization": "광주광역시 복지건강국 고령사회정책과",
-      "summary": [
-        "빛고을50+일자리사업",
-        "전문성과 경력을 갖춘 장년층 퇴직자 ",
-        "광주광역시 복지건강국 고령사"
-      ],
-      "plain_desc": "전문성과 경력을 갖춘 장년층 퇴직자 등이 사회적으로 유용한 서비스를 제공하고, 향후 (재)취업, 제3섹터 창업, 사회봉사 등 성공적인 인생 3막을 설계할 수 있도록 지원하고자 함. (빛고을50+일자리 : 사회봉사적 성격이 강한 사회공헌형 일자리)",
-      "categories": [
-        "취업·창업"
-      ],
-      "age_groups": [
-        "중장년(35-64세)"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "광주광역시"
-        ],
-        "districts": [
-          "전체"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00004698&wlfareInfoReldBztpCd=02",
-      "contact": "1973",
-      "support_type": "서민금융, 일자리",
-      "support_cycle": "월",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:11.393525+09:00"
-    },
-    {
       "id": "local_WLF00004717",
       "source": "local",
       "title": "인천형 청년월세 지원사업",
@@ -166639,49 +163819,6 @@
       "updated_at": "2026-06-13T16:08:11.403511+09:00"
     },
     {
-      "id": "local_WLF00001247",
-      "source": "local",
-      "title": "행복한 목수 주택 리모델링 사업",
-      "organization": "광주광역시 도시공간국 주택정책과",
-      "summary": [
-        "행복한 목수 주택 리모델링 사업",
-        "장애인",
-        "광주광역시 도시공간국 주택정"
-      ],
-      "plain_desc": "노인, 장애인 등 사회취약계층의 노후불량주택을 개보수하여 주거환경 개선 및 삶의 질 향상 도모  사업기간 : ’25. 1. ~ 12.  지원대상 : 장애인, 독거노인 등 사회취약계층의 노후주택으로 자치구 및 단체 추천받은 세대  사업내용 : 도배·장판 교체, 지붕 개보수, 화장실·주방 수리, 내부 천정 보수, 옥상 방수, 낡은 담장, 수도계량기 및 수도관 보수 교체 등 주거환경 개선  사업예산 : 135백만원(시비 100%) *`24년 24세대 완료  목표물량 : 27세대 ※사업 진행 중 물량변경 가능",
-      "categories": [
-        "주거·임대",
-        "임신·출산·육아",
-        "교육·훈련",
-        "장애인지원"
-      ],
-      "age_groups": [
-        "아동·청소년(7-18세)",
-        "청년(19-34세)",
-        "중장년(35-64세)"
-      ],
-      "household_types": [
-        "1인가구"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "광주광역시"
-        ],
-        "districts": [
-          "전체"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001247&wlfareInfoReldBztpCd=02",
-      "contact": "5434",
-      "support_type": "",
-      "support_cycle": "1회성",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:11.403648+09:00"
-    },
-    {
       "id": "local_WLF00002885",
       "source": "local",
       "title": "사천시 기초생활보장수급자 장학금 및 장학보조금 지급",
@@ -167105,44 +164242,6 @@
       "support_cycle": "월",
       "gemini_ok": true,
       "updated_at": "2026-06-13T16:08:11.404355+09:00"
-    },
-    {
-      "id": "local_WLF00001597",
-      "source": "local",
-      "title": "참전명예수당 및 보훈명예수당",
-      "organization": "광주광역시 민주인권평화국 민주보훈과",
-      "summary": [
-        "참전명예수당 및 보훈명예수당",
-        "국가를 위해 희생",
-        "광주광역시 민주인권평화국 민"
-      ],
-      "plain_desc": "국가를 위해 희생, 헌신한 고령의 국가보훈대상자와 유족에 대한 예우 강화",
-      "categories": [
-        "생활비·소득"
-      ],
-      "age_groups": [
-        "전체"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "광주광역시"
-        ],
-        "districts": [
-          "전체"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001597&wlfareInfoReldBztpCd=02",
-      "contact": "5337",
-      "support_type": "서민금융",
-      "support_cycle": "월",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:11.404402+09:00"
     },
     {
       "id": "local_WLF00001604",
@@ -167651,45 +164750,6 @@
       "support_cycle": "1회성",
       "gemini_ok": true,
       "updated_at": "2026-06-13T16:08:11.405224+09:00"
-    },
-    {
-      "id": "local_WLF00004023",
-      "source": "local",
-      "title": "공공근로사업",
-      "organization": "대구광역시 경제국 고용노동정책과",
-      "summary": [
-        "공공근로사업",
-        "취약계층",
-        "대구광역시 경제국 고용노동정"
-      ],
-      "plain_desc": "취약계층, 저소득층 실직자에게 단기일자리 제공을 통한 생계 지원 및 청년층의 직장경력 형성을 통해 민간취업시장 진출 기여",
-      "categories": [
-        "취업·창업"
-      ],
-      "age_groups": [
-        "청년(19-34세)",
-        "중장년(35-64세)"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "대구광역시"
-        ],
-        "districts": [
-          "전체"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00004023&wlfareInfoReldBztpCd=02",
-      "contact": "4010",
-      "support_type": "일자리, 서민금융",
-      "support_cycle": "월",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:11.405281+09:00"
     },
     {
       "id": "local_WLF00000155",
@@ -169714,44 +166774,6 @@
       "support_cycle": "1회성",
       "gemini_ok": true,
       "updated_at": "2026-06-13T16:08:11.408528+09:00"
-    },
-    {
-      "id": "local_WLF00001428",
-      "source": "local",
-      "title": "독립유공자의료비지원",
-      "organization": "광주광역시 민주인권평화국 민주보훈과",
-      "summary": [
-        "독립유공자의료비지원",
-        "보훈대상자",
-        "광주광역시 민주인권평화국 민"
-      ],
-      "plain_desc": "조국의 자주독립을 위하여 희생한 독립유공자와 그 유족에게 의료비를 지원함으로써 독립유공자 예우와 생활안정에 기여",
-      "categories": [
-        "의료·건강"
-      ],
-      "age_groups": [
-        "전체"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "광주광역시"
-        ],
-        "districts": [
-          "전체"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001428&wlfareInfoReldBztpCd=02",
-      "contact": "1460",
-      "support_type": "서민금융",
-      "support_cycle": "년",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:11.408589+09:00"
     },
     {
       "id": "local_WLF00001607",
@@ -173926,44 +170948,6 @@
       "support_cycle": "월",
       "gemini_ok": true,
       "updated_at": "2026-06-13T16:08:13.008591+09:00"
-    },
-    {
-      "id": "local_WLF00000801",
-      "source": "local",
-      "title": "복지사각지대 해소를 위한 노랑호루라기 지원",
-      "organization": "광주광역시 복지건강국 돌봄정책과",
-      "summary": [
-        "복지사각지대 해소를 위한 노랑호루라기",
-        "법·제도내에서 지원받지 못하는 복지사",
-        "광주광역시 복지건강국 돌봄정"
-      ],
-      "plain_desc": "법·제도내에서 지원받지 못하는 복지사각지대 위기가구에 대한 지원",
-      "categories": [
-        "생활비·소득"
-      ],
-      "age_groups": [
-        "전체"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "광주광역시"
-        ],
-        "districts": [
-          "전체"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000801&wlfareInfoReldBztpCd=02",
-      "contact": "4580",
-      "support_type": "서민금융",
-      "support_cycle": "월",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:13.008637+09:00"
     },
     {
       "id": "local_WLF00000859",
@@ -178569,82 +175553,6 @@
       "support_cycle": "월",
       "gemini_ok": true,
       "updated_at": "2026-06-13T16:08:13.016693+09:00"
-    },
-    {
-      "id": "local_WLF00005102",
-      "source": "local",
-      "title": "광주다움 통합돌봄",
-      "organization": "광주광역시 복지건강국 돌봄정책과",
-      "summary": [
-        "광주다움 통합돌봄",
-        "빈틈없는 전 생애주기 지역사회 통합돌",
-        "광주광역시 복지건강국 돌봄정"
-      ],
-      "plain_desc": "빈틈없는 전 생애주기 지역사회 통합돌봄 서비스망 구축하여, 돌봄이 필요한 시민 누구나 필요할 때 원스톱으로 집에서 돌봄 서비스(광주+ 7대 돌봄, 긴급돌봄)를 받을 수 있는 사업입니다.",
-      "categories": [
-        "생활비·소득"
-      ],
-      "age_groups": [
-        "전체"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "광주광역시"
-        ],
-        "districts": [
-          "전체"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005102&wlfareInfoReldBztpCd=02",
-      "contact": "11101",
-      "support_type": "",
-      "support_cycle": "년",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:13.016755+09:00"
-    },
-    {
-      "id": "local_WLF00005189",
-      "source": "local",
-      "title": "소득기준 제한없이 치매감별검사비 지원",
-      "organization": "광주광역시 서구 보건소 치매안심센터",
-      "summary": [
-        "소득기준 제한없이 치매감별검사비 지원",
-        "○어르신 맞춤형 치매감별검사비 지원으",
-        "광주광역시 서구 보건소 치매"
-      ],
-      "plain_desc": "○어르신 맞춤형 치매감별검사비 지원으로 사람중심 복지도시 구현 ○치매를 조기에 발견하여 치료할 경우 중증 상태로의 진행억제 및 증상개선 가능 ○비용부담으로 치매검진을 미루는 주민이 없도록 소득기준 제한없는 치매감별검사비 지원체계 마련",
-      "categories": [
-        "생활비·소득"
-      ],
-      "age_groups": [
-        "중장년(35-64세)"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "광주광역시"
-        ],
-        "districts": [
-          "서구"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005189&wlfareInfoReldBztpCd=02",
-      "contact": "1411",
-      "support_type": "",
-      "support_cycle": "1회성",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:13.016830+09:00"
     },
     {
       "id": "local_WLF00000644",
@@ -201314,6 +198222,126 @@
       "support_cycle": "년",
       "gemini_ok": true,
       "updated_at": "2026-07-10T04:52:38.101178+09:00"
+    },
+    {
+      "id": "local_WLF00006560",
+      "source": "local",
+      "title": "임신출산 가정 가사돌봄 지원",
+      "organization": "충청북도 단양군 행정복지국 미래전략과",
+      "summary": [
+        "임신출산 가정 가사돌봄 지원",
+        "지역에 활력을 증진하고 인구감소와 지",
+        "충청북도 단양군 행정복지국 "
+      ],
+      "plain_desc": "지역에 활력을 증진하고 인구감소와 지방소멸에 대응 저출산고령사회 기본법 제10조에 따라 저출생 대응 신규 정책 추진 임신, 출산가정에 가사도우미를 지원하여 가사부담 완화",
+      "categories": [
+        "임신·출산·육아"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "충청북도"
+        ],
+        "districts": [
+          "단양군"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006560&wlfareInfoReldBztpCd=02",
+      "contact": "1",
+      "support_type": "",
+      "support_cycle": "년",
+      "gemini_ok": true,
+      "updated_at": "2026-07-11T04:39:28.306276+09:00"
+    },
+    {
+      "id": "local_WLF00006559",
+      "source": "local",
+      "title": "영동군 아이돌봄서비스 본인부담금 지원",
+      "organization": "충청북도 영동군 행정관광복지국 가족행복과",
+      "summary": [
+        "영동군 아이돌봄서비스 본인부담금 지원",
+        "다문화·탈북민",
+        "충청북도 영동군 행정관광복지"
+      ],
+      "plain_desc": "아이돌봄서비스 본인부담금 지원을 통해 서비스 이용률을 제고하고, 가정의 경제적 부담 경감하며, 안전한 돌봄 환경 조성을 통해 돌봄의 공공성 강화 도모",
+      "categories": [
+        "임신·출산·육아",
+        "문화·여가"
+      ],
+      "age_groups": [
+        "영유아(0-6세)",
+        "아동·청소년(7-18세)"
+      ],
+      "household_types": [
+        "한부모가구",
+        "다자녀가구",
+        "다문화가구"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "충청북도"
+        ],
+        "districts": [
+          "영동군"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006559&wlfareInfoReldBztpCd=02",
+      "contact": "1",
+      "support_type": "서민금융, 입양·위탁",
+      "support_cycle": "월",
+      "gemini_ok": true,
+      "updated_at": "2026-07-11T04:39:28.306391+09:00"
+    },
+    {
+      "id": "local_WLF00006558",
+      "source": "local",
+      "title": "초 다자녀 가정 지원 사업",
+      "organization": "충청북도 기획조정실 인구청년정책담당관",
+      "summary": [
+        "초 다자녀 가정 지원 사업",
+        "다자녀",
+        "충청북도 기획조정실 인구청년"
+      ],
+      "plain_desc": "다자녀 가정의 경제적 부담 경감 및 출산, 양육 친화적인 사회적 분위기 조성",
+      "categories": [
+        "임신·출산·육아",
+        "교육·훈련"
+      ],
+      "age_groups": [
+        "영유아(0-6세)",
+        "아동·청소년(7-18세)"
+      ],
+      "household_types": [
+        "다자녀가구"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "충청북도"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006558&wlfareInfoReldBztpCd=02",
+      "contact": "1",
+      "support_type": "서민금융",
+      "support_cycle": "분기",
+      "gemini_ok": true,
+      "updated_at": "2026-07-11T04:39:28.306461+09:00"
     }
   ]
 }
