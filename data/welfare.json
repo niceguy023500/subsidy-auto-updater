@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "last_updated": "2026-07-14T04:28:42.961078+09:00",
-    "last_updated_kst": "2026년 07월 14일 04:28",
-    "total_count": 5007,
-    "total_fetched_from_api": 5007
+    "last_updated": "2026-07-15T04:26:17.628900+09:00",
+    "last_updated_kst": "2026년 07월 15일 04:26",
+    "total_count": 5008,
+    "total_fetched_from_api": 5008
   },
   "items": [
     {
@@ -69706,44 +69706,6 @@
       "updated_at": "2026-06-13T16:08:04.425312+09:00"
     },
     {
-      "id": "local_WLF00005562",
-      "source": "local",
-      "title": "출생아 가정 쓰레기 종량제 규격봉투 지원",
-      "organization": "전북특별자치도 전주시 인구청년정책국 인구정책과",
-      "summary": [
-        "출생아 가정 쓰레기 종량제 규격봉투 ",
-        "저출생 문제가 국가적 문제로 대두됨에",
-        "전북특별자치도 전주시 인구청"
-      ],
-      "plain_desc": "저출생 문제가 국가적 문제로 대두됨에 따라 이를 해결하기 위해 종량제 봉투를 지급하여 출산·양육친화적 환경 조성과 출산율 제고를 도모함.",
-      "categories": [
-        "생활비·소득"
-      ],
-      "age_groups": [
-        "영유아(0-6세)"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "전북특별자치도"
-        ],
-        "districts": [
-          "전주시"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005562&wlfareInfoReldBztpCd=02",
-      "contact": "1759",
-      "support_type": "",
-      "support_cycle": "1회성",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:04.425374+09:00"
-    },
-    {
       "id": "local_WLF00005561",
       "source": "local",
       "title": "전주시 출생축하금 지원사업",
@@ -83093,44 +83055,6 @@
       "support_cycle": "년",
       "gemini_ok": true,
       "updated_at": "2026-06-13T16:08:05.642403+09:00"
-    },
-    {
-      "id": "local_WLF00005728",
-      "source": "local",
-      "title": "난임 진단검사비 지원",
-      "organization": "전북특별자치도 복지여성보건국 건강증진과",
-      "summary": [
-        "난임 진단검사비 지원",
-        "난임부부에게 난임 진단에 비용을 지원",
-        "전북특별자치도 복지여성보건국"
-      ],
-      "plain_desc": "난임부부에게 난임 진단에 비용을 지원하여 경제적 부담 경감 및 조기 진단을 통한 도내 출산율 제고",
-      "categories": [
-        "생활비·소득"
-      ],
-      "age_groups": [
-        "청년(19-34세)"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "전북특별자치도"
-        ],
-        "districts": [
-          "전체"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005728&wlfareInfoReldBztpCd=02",
-      "contact": "1846",
-      "support_type": "서민금융",
-      "support_cycle": "수시",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:05.642622+09:00"
     },
     {
       "id": "local_WLF00005703",
@@ -195805,6 +195729,121 @@
       "support_cycle": "1회성",
       "gemini_ok": true,
       "updated_at": "2026-07-14T04:28:41.227376+09:00"
+    },
+    {
+      "id": "local_WLF00006569",
+      "source": "local",
+      "title": "장애인통합복지카드 발급수수료 지원 사업",
+      "organization": "대전광역시 서구 주민복지국 노인장애인과",
+      "summary": [
+        "장애인통합복지카드 발급수수료 지원 사",
+        "장애인",
+        "대전광역시 서구 주민복지국 "
+      ],
+      "plain_desc": "모바일 장애인등록증 도입과 관련하여 IC등록증 및 장애인 통합복지카드 발급수수료를 지원 함으로써 장애인의 경제적 부담 경감 및 발급자간 형평성 문제 해소등 장애인의 편의증진 도모 및 행정절차의 간소화",
+      "categories": [
+        "장애인지원"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "대전광역시"
+        ],
+        "districts": [
+          "서구"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006569&wlfareInfoReldBztpCd=02",
+      "contact": "5",
+      "support_type": "",
+      "support_cycle": "월",
+      "gemini_ok": true,
+      "updated_at": "2026-07-15T04:26:17.628695+09:00"
+    },
+    {
+      "id": "local_WLF00006567",
+      "source": "local",
+      "title": "1인 자영업자 등 출산급여 지원",
+      "organization": "경기도 이천시 보건소 건강증진과",
+      "summary": [
+        "1인 자영업자 등 출산급여 지원",
+        "1인 자영업자",
+        "경기도 이천시 보건소 건강증"
+      ],
+      "plain_desc": "1인 자영업자, 프리랜서, 특수형태근로자, 농업인 등 소득활동을 하나 고용보험 출산휴가급여를 받을 수 없는 출산여성에게 출산급여 지원",
+      "categories": [
+        "임신·출산·육아",
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "청년(19-34세)"
+      ],
+      "household_types": [
+        "1인가구"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "경기도"
+        ],
+        "districts": [
+          "이천시"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006567&wlfareInfoReldBztpCd=02",
+      "contact": "5",
+      "support_type": "임신·출산, 서민금융",
+      "support_cycle": "1회성",
+      "gemini_ok": true,
+      "updated_at": "2026-07-15T04:26:17.628798+09:00"
+    },
+    {
+      "id": "local_WLF00006568",
+      "source": "local",
+      "title": "헌혈 장려금 지원 확대",
+      "organization": "충청북도 충주시 보건소 보건과",
+      "summary": [
+        "헌혈 장려금 지원 확대",
+        "혈액관리법 제4조의3에 따라 시민의 ",
+        "충청북도 충주시 보건소 보건"
+      ],
+      "plain_desc": "혈액관리법 제4조의3에 따라 시민의 생명과 건강을 보호하기 위한 자발적인 헌혈활동 증진을 위하여 관내 헌혈자에게 상품권을 지급하여 헌혈을 활성화 시키고자 함",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "충청북도"
+        ],
+        "districts": [
+          "충주시"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006568&wlfareInfoReldBztpCd=02",
+      "contact": "2",
+      "support_type": "",
+      "support_cycle": "1회성",
+      "gemini_ok": true,
+      "updated_at": "2026-07-15T04:26:17.628872+09:00"
     }
   ]
 }
