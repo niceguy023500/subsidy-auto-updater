@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-07-21T04:49:27.784719+09:00",
-    "last_updated_kst": "2026년 07월 21일 04:49",
+    "last_updated": "2026-07-22T04:30:58.546435+09:00",
+    "last_updated_kst": "2026년 07월 22일 04:30",
     "total_count": 5020,
     "total_fetched_from_api": 5020
   },
@@ -66533,44 +66533,6 @@
       "support_cycle": "1회성",
       "gemini_ok": true,
       "updated_at": "2026-06-13T16:08:04.420054+09:00"
-    },
-    {
-      "id": "local_WLF00004967",
-      "source": "local",
-      "title": "임산부 튼살크림 지원",
-      "organization": "전라남도 담양군 보건소 보건행정과",
-      "summary": [
-        "임산부 튼살크림 지원",
-        "임신 전 과정에서 필요한 튼살크림을 ",
-        "전라남도 담양군 보건소 보건"
-      ],
-      "plain_desc": "임신 전 과정에서 필요한 튼살크림을 지원함으로써 안전하고 건강한 분만을 유도하고 태아와 모성의 건강증진 도모 및 출산율 제고",
-      "categories": [
-        "생활비·소득"
-      ],
-      "age_groups": [
-        "전체"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "전라남도"
-        ],
-        "districts": [
-          "담양군"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00004967&wlfareInfoReldBztpCd=02",
-      "contact": "1510",
-      "support_type": "",
-      "support_cycle": "1회성",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:04.420111+09:00"
     },
     {
       "id": "local_WLF00004926",
@@ -196289,6 +196251,44 @@
       "support_cycle": "1회성",
       "gemini_ok": true,
       "updated_at": "2026-07-17T04:18:17.150633+09:00"
+    },
+    {
+      "id": "local_WLF00006620",
+      "source": "local",
+      "title": "외국국적 유아학비 추가 지원",
+      "organization": "서울특별시교육청 교육정책국 유아교육과",
+      "summary": [
+        "외국국적 유아학비 추가 지원",
+        "서울지역 유치원에 재원 중인 외국국적",
+        "서울특별시교육청 교육정책국 "
+      ],
+      "plain_desc": "서울지역 유치원에 재원 중인 외국국적 3~5세 유아 대상에 대한 유아학비 추가 지원으로 외국인 가정의 육아 부담 감소 및 차별없는 교육기회 제공",
+      "categories": [
+        "교육·훈련"
+      ],
+      "age_groups": [
+        "영유아(0-6세)"
+      ],
+      "household_types": [
+        "다문화가구"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "서울특별시"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006620&wlfareInfoReldBztpCd=02",
+      "contact": "5",
+      "support_type": "교육, 서민금융",
+      "support_cycle": "분기",
+      "gemini_ok": true,
+      "updated_at": "2026-07-22T04:30:58.546405+09:00"
     }
   ]
 }
