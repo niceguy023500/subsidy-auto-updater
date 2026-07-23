@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "last_updated": "2026-07-23T04:27:42.539412+09:00",
-    "last_updated_kst": "2026년 07월 23일 04:27",
-    "total_count": 4955,
-    "total_fetched_from_api": 4955
+    "last_updated": "2026-07-24T04:25:08.695243+09:00",
+    "last_updated_kst": "2026년 07월 24일 04:25",
+    "total_count": 4954,
+    "total_fetched_from_api": 4954
   },
   "items": [
     {
@@ -75975,48 +75975,6 @@
       "updated_at": "2026-06-13T16:08:05.633647+09:00"
     },
     {
-      "id": "local_WLF00000200",
-      "source": "local",
-      "title": "한부모가족 복지 증진(명절 제수비)",
-      "organization": "전라남도 영광군 가정행복과",
-      "summary": [
-        "한부모가족 복지 증진(명절 제수비)",
-        "한부모·조손",
-        "전라남도 영광군 가정행복과"
-      ],
-      "plain_desc": "한부모가족의 생활안정과 복지증진 이바지",
-      "categories": [
-        "임신·출산·육아",
-        "교육·훈련"
-      ],
-      "age_groups": [
-        "영유아(0-6세)",
-        "아동·청소년(7-18세)",
-        "청년(19-34세)",
-        "중장년(35-64세)"
-      ],
-      "household_types": [
-        "한부모가구"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "전라남도"
-        ],
-        "districts": [
-          "영광군"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000200&wlfareInfoReldBztpCd=02",
-      "contact": "1093",
-      "support_type": "서민금융, 안전·위기",
-      "support_cycle": "반기",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:05.633706+09:00"
-    },
-    {
       "id": "local_WLF00002509",
       "source": "local",
       "title": "효도수당 지급",
@@ -105175,46 +105133,6 @@
       "support_cycle": "1회성",
       "gemini_ok": true,
       "updated_at": "2026-06-13T16:08:07.013394+09:00"
-    },
-    {
-      "id": "local_WLF00002408",
-      "source": "local",
-      "title": "저소득층 노인세대 건강보험료 지원",
-      "organization": "전라남도 광양시 시민복지국 주민복지과",
-      "summary": [
-        "저소득층 노인세대 건강보험료 지원",
-        "광양시 저소득층 노인세대(최저보험료 ",
-        "전라남도 광양시 시민복지국 "
-      ],
-      "plain_desc": "광양시 저소득층 노인세대(최저보험료 이하 부과자) 건강보험료 지원으로 보험금 부담완화",
-      "categories": [
-        "의료·건강",
-        "노인돌봄",
-        "생활비·소득"
-      ],
-      "age_groups": [
-        "전체"
-      ],
-      "household_types": [
-        "노인가구"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "전라남도"
-        ],
-        "districts": [
-          "광양시"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00002408&wlfareInfoReldBztpCd=02",
-      "contact": "1314",
-      "support_type": "서민금융",
-      "support_cycle": "월",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:07.013446+09:00"
     },
     {
       "id": "local_WLF00004313",
@@ -193760,6 +193678,45 @@
       "support_cycle": "주",
       "gemini_ok": true,
       "updated_at": "2026-07-23T04:27:40.496414+09:00"
+    },
+    {
+      "id": "local_WLF00006688",
+      "source": "local",
+      "title": "강동구 고등학생 교육 이용료 지원",
+      "organization": "서울특별시 강동구 복지가족국 아동청소년과",
+      "summary": [
+        "강동구 고등학생 교육 이용료 지원",
+        "저소득",
+        "서울특별시 강동구 복지가족국"
+      ],
+      "plain_desc": "학습의지가 있는 강동구 취약계층 고등학생을 대상으로 독서실 및 스터디카페 이용료를 지원하여 경제적 부담 경감 및 학업성취도 향상에 기여하고자 함",
+      "categories": [
+        "교육·훈련",
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "아동·청소년(7-18세)"
+      ],
+      "household_types": [
+        "한부모가구"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "서울특별시"
+        ],
+        "districts": [
+          "강동구"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006688&wlfareInfoReldBztpCd=02",
+      "contact": "7",
+      "support_type": "서민금융, 교육",
+      "support_cycle": "월",
+      "gemini_ok": true,
+      "updated_at": "2026-07-24T04:25:08.695214+09:00"
     }
   ]
 }
