@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "last_updated": "2026-07-29T04:38:49.012540+09:00",
-    "last_updated_kst": "2026년 07월 29일 04:38",
-    "total_count": 4742,
-    "total_fetched_from_api": 4742
+    "last_updated": "2026-07-30T04:24:35.570510+09:00",
+    "last_updated_kst": "2026년 07월 30일 04:24",
+    "total_count": 4743,
+    "total_fetched_from_api": 4743
   },
   "items": [
     {
@@ -38207,45 +38207,6 @@
       "updated_at": "2026-06-13T16:08:03.203728+09:00"
     },
     {
-      "id": "local_WLF00002833",
-      "source": "local",
-      "title": "저소득 장애인세대 위문품 지원",
-      "organization": "울산광역시 남구 복지교육국 노인장애인과",
-      "summary": [
-        "저소득 장애인세대 위문품 지원",
-        "장애인",
-        "울산광역시 남구 복지교육국 "
-      ],
-      "plain_desc": "설, 추석을 맞이하여 관내 저소득 장애인에게 위문품 지원으로 훈훈한 명절 분위기를 조성하고자 함(동 행정복지센터 담당자의 추천으로 대상자 선정)",
-      "categories": [
-        "장애인지원",
-        "생활비·소득"
-      ],
-      "age_groups": [
-        "전체"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "울산광역시"
-        ],
-        "districts": [
-          "남구"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00002833&wlfareInfoReldBztpCd=02",
-      "contact": "980",
-      "support_type": "서민금융",
-      "support_cycle": "반기",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:03.203797+09:00"
-    },
-    {
       "id": "local_WLF00003122",
       "source": "local",
       "title": "가정위탁아동 양육보조금 지원",
@@ -57695,44 +57656,6 @@
       "support_cycle": "년",
       "gemini_ok": true,
       "updated_at": "2026-06-13T16:08:04.406066+09:00"
-    },
-    {
-      "id": "local_WLF00005393",
-      "source": "local",
-      "title": "2024년 하남시 자동차 무상 안전점검 사업 지원",
-      "organization": "경기도 하남시 교통건설국 차량등록과",
-      "summary": [
-        "2024년 하남시 자동차 무상 안전점",
-        "장애인",
-        "경기도 하남시 교통건설국 차"
-      ],
-      "plain_desc": "○ 하남시 등록 장애인 및 자원봉사자의 자동차 안전점검을 통한 시민 안전 및 편의 제공 -하남시 장애인 연합회를 통한 대상자 모집 -봉사 점수 100점이상인 자원봉사자",
-      "categories": [
-        "장애인지원"
-      ],
-      "age_groups": [
-        "전체"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "경기도"
-        ],
-        "districts": [
-          "하남시"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005393&wlfareInfoReldBztpCd=02",
-      "contact": "936",
-      "support_type": "",
-      "support_cycle": "년",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:04.406141+09:00"
     },
     {
       "id": "local_WLF00005269",
@@ -104638,45 +104561,6 @@
       "updated_at": "2026-06-13T16:08:08.360025+09:00"
     },
     {
-      "id": "local_WLF00005672",
-      "source": "local",
-      "title": "졸업앨범비 지원",
-      "organization": "경기도 안양시 복지문화국 교육청소년과",
-      "summary": [
-        "졸업앨범비 지원",
-        "▢ 학생들이 차별없이 기회를 보장받을",
-        "경기도 안양시 복지문화국 교"
-      ],
-      "plain_desc": "▢ 학생들이 차별없이 기회를 보장받을 수 있도록 교육에 대한 아낌없는 지원으로 교육하기 좋은 환경 조성 ▢ 교육의 공공성 강화와 학부모 교육비 경감 등 보편적 교육복지 실현",
-      "categories": [
-        "임신·출산·육아",
-        "교육·훈련"
-      ],
-      "age_groups": [
-        "아동·청소년(7-18세)"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "경기도"
-        ],
-        "districts": [
-          "안양시"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005672&wlfareInfoReldBztpCd=02",
-      "contact": "1591",
-      "support_type": "서민금융, 교육",
-      "support_cycle": "1회성",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:08.360095+09:00"
-    },
-    {
       "id": "local_WLF00005692",
       "source": "local",
       "title": "난임부부 지원사업",
@@ -114637,45 +114521,6 @@
       "support_cycle": "월",
       "gemini_ok": true,
       "updated_at": "2026-06-13T16:08:08.380170+09:00"
-    },
-    {
-      "id": "local_WLF00004008",
-      "source": "local",
-      "title": "아동복지시설 운영지원",
-      "organization": "대구광역시 청년여성교육국 교육청소년과",
-      "summary": [
-        "아동복지시설 운영지원",
-        "○ 아동복지시설 운영비 및 종사자 인",
-        "대구광역시 청년여성교육국 교"
-      ],
-      "plain_desc": "○ 아동복지시설 운영비 및 종사자 인건비 지원으로 시설 입소아동의 건전한 양육환경 제공",
-      "categories": [
-        "주거·임대",
-        "임신·출산·육아"
-      ],
-      "age_groups": [
-        "아동·청소년(7-18세)"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "대구광역시"
-        ],
-        "districts": [
-          "전체"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00004008&wlfareInfoReldBztpCd=02",
-      "contact": "2319",
-      "support_type": "보호·돌봄, 주거, 서민금융, 안전·위기",
-      "support_cycle": "분기",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:08.380289+09:00"
     },
     {
       "id": "local_WLF00000112",
@@ -169657,44 +169502,6 @@
       "updated_at": "2026-06-13T16:08:13.036638+09:00"
     },
     {
-      "id": "local_WLF00000708",
-      "source": "local",
-      "title": "실버비지니스사업단운영",
-      "organization": "경기도 성남시 복지국 노인복지과",
-      "summary": [
-        "실버비지니스사업단운영",
-        "민간사회활동지원사업 및 취업창업형 노",
-        "경기도 성남시 복지국 노인복"
-      ],
-      "plain_desc": "민간사회활동지원사업 및 취업창업형 노인사회활동지원사업 수행",
-      "categories": [
-        "생활비·소득"
-      ],
-      "age_groups": [
-        "전체"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "경기도"
-        ],
-        "districts": [
-          "성남시"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000708&wlfareInfoReldBztpCd=02",
-      "contact": "1151",
-      "support_type": "",
-      "support_cycle": "월",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:13.036734+09:00"
-    },
-    {
       "id": "local_WLF00000667",
       "source": "local",
       "title": "경로우대이용업소지원",
@@ -185443,6 +185250,237 @@
       "support_cycle": "수시",
       "gemini_ok": true,
       "updated_at": "2026-07-29T04:38:46.890177+09:00"
+    },
+    {
+      "id": "local_WLF00006703",
+      "source": "local",
+      "title": "서울 경력단절여성등 재취업 지원사업",
+      "organization": "서울특별시 여성가족실 양성평등담당관",
+      "summary": [
+        "서울 경력단절여성등 재취업 지원사업",
+        "3050 여성의 취·창업 준비에 필요",
+        "서울특별시 여성가족실 양성평"
+      ],
+      "plain_desc": "3050 여성의 취·창업 준비에 필요한 커리업 3종세트(구직지원금, 인턴십, 고용장려금) 지원으로 경제활동 참여를 촉진하고 지속적인 고용 유지를 도모하고자 함",
+      "categories": [
+        "취업·창업"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "서울특별시"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006703&wlfareInfoReldBztpCd=02",
+      "contact": "8",
+      "support_type": "일자리",
+      "support_cycle": "1회성",
+      "gemini_ok": true,
+      "updated_at": "2026-07-30T04:24:35.570111+09:00"
+    },
+    {
+      "id": "local_WLF00006702",
+      "source": "local",
+      "title": "중증장애인 스마트 음성스위치 설치지원",
+      "organization": "서울특별시 복지실 복지기획관 장애인복지과",
+      "summary": [
+        "중증장애인 스마트 음성스위치 설치지원",
+        "ㅇ 장애인 생활편의 증진 및 안전사고",
+        "서울특별시 복지실 복지기획관"
+      ],
+      "plain_desc": "ㅇ 장애인 생활편의 증진 및 안전사고 예방을 위한 음성인식 조명제어 기기 보급 - 중증장애인은 일상생활 수행에 제약이 있어 간단한 스위치 조작도 곤란 - 생활환경 제어 기기 지원은 상대적으로 부족하여 공공지원 필요",
+      "categories": [
+        "장애인지원"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "서울특별시"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006702&wlfareInfoReldBztpCd=02",
+      "contact": "3",
+      "support_type": "",
+      "support_cycle": "1회성",
+      "gemini_ok": true,
+      "updated_at": "2026-07-30T04:24:35.570217+09:00"
+    },
+    {
+      "id": "local_WLF00006701",
+      "source": "local",
+      "title": "장애인 수동휠체어 동력보조장치 지원",
+      "organization": "서울특별시 복지실 복지기획관 장애인복지과",
+      "summary": [
+        "장애인 수동휠체어 동력보조장치 지원",
+        "장애인",
+        "서울특별시 복지실 복지기획관"
+      ],
+      "plain_desc": "수동휠체어 동력보조장치는 기존 수동휠체어에 장착하여 적은 힘으로 이동이 가능하게 해 주는 장치로, 수동휠체어 동력보조장치 지원을 통해 수동휠체어 사용자의 독립적이고 효율적인 이동을 지원하고자 함",
+      "categories": [
+        "장애인지원"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "서울특별시"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006701&wlfareInfoReldBztpCd=02",
+      "contact": "3",
+      "support_type": "서민금융",
+      "support_cycle": "년",
+      "gemini_ok": true,
+      "updated_at": "2026-07-30T04:24:35.570293+09:00"
+    },
+    {
+      "id": "local_WLF00006700",
+      "source": "local",
+      "title": "뇌병변장애인 맞춤형 보조기기 지원",
+      "organization": "서울특별시 복지실 복지기획관 장애인복지과",
+      "summary": [
+        "뇌병변장애인 맞춤형 보조기기 지원",
+        "◆ 뇌병변 장애인의 생애주기별 활동에",
+        "서울특별시 복지실 복지기획관"
+      ],
+      "plain_desc": "◆ 뇌병변 장애인의 생애주기별 활동에 필요한 보조기기 대여를 통해 제약을 최소화하고 독립적인 일상생활을 지원하고자 함.",
+      "categories": [
+        "장애인지원"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "서울특별시"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006700&wlfareInfoReldBztpCd=02",
+      "contact": "3",
+      "support_type": "서민금융",
+      "support_cycle": "기타",
+      "gemini_ok": true,
+      "updated_at": "2026-07-30T04:24:35.570351+09:00"
+    },
+    {
+      "id": "local_WLF00006699",
+      "source": "local",
+      "title": "안성맞춤 주택바우처",
+      "organization": "경기도 안성시 주거환경국 주택과",
+      "summary": [
+        "안성맞춤 주택바우처",
+        "기초생활수급자 탈락 주거취약계층의 주",
+        "경기도 안성시 주거환경국 주"
+      ],
+      "plain_desc": "기초생활수급자 탈락 주거취약계층의 주거비 부담을 경감하고 주거의 안정과 주거수준 향상을 도모하고자 한시적 임차료 지원",
+      "categories": [
+        "주거·임대"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "기초생활수급자"
+      ],
+      "regions": {
+        "sido": [
+          "경기도"
+        ],
+        "districts": [
+          "안성시"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006699&wlfareInfoReldBztpCd=02",
+      "contact": "8",
+      "support_type": "서민금융",
+      "support_cycle": "월",
+      "gemini_ok": true,
+      "updated_at": "2026-07-30T04:24:35.570412+09:00"
+    },
+    {
+      "id": "local_WLF00006697",
+      "source": "local",
+      "title": "서울 난자동결 시술비용 지원",
+      "organization": "서울특별시 시민건강국 건강관리과",
+      "summary": [
+        "서울 난자동결 시술비용 지원",
+        "한부모·조손",
+        "서울특별시 시민건강국 건강관"
+      ],
+      "plain_desc": "서울시 6개월 이상 거주 20~49세 여성의 가임력을 보존하고 장래 임신을 위한 지원으로 난자동결 시술비용의 50%, 최대 200만원, 생애 1회 지원",
+      "categories": [
+        "문화·여가"
+      ],
+      "age_groups": [
+        "청년(19-34세)",
+        "중장년(35-64세)"
+      ],
+      "household_types": [
+        "한부모가구",
+        "다자녀가구",
+        "다문화가구"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "서울특별시"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006697&wlfareInfoReldBztpCd=02",
+      "contact": "8",
+      "support_type": "서민금융",
+      "support_cycle": "1회성",
+      "gemini_ok": true,
+      "updated_at": "2026-07-30T04:24:35.570492+09:00"
     }
   ]
 }
