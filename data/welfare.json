@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "last_updated": "2026-07-30T04:24:37.233845+09:00",
-    "last_updated_kst": "2026년 07월 30일 04:24",
-    "total_count": 4743,
-    "total_fetched_from_api": 4743
+    "last_updated": "2026-07-31T04:39:13.273347+09:00",
+    "last_updated_kst": "2026년 07월 31일 04:39",
+    "total_count": 4750,
+    "total_fetched_from_api": 4750
   },
   "items": [
     {
@@ -112011,44 +112011,6 @@
       "updated_at": "2026-06-13T16:08:08.375237+09:00"
     },
     {
-      "id": "local_WLF00001018",
-      "source": "local",
-      "title": "경기도 청년기본소득 지원사업",
-      "organization": "경기도 오산시 경제문화국 지역경제과",
-      "summary": [
-        "경기도 청년기본소득 지원사업",
-        "청년의 복지 향상",
-        "경기도 오산시 경제문화국 지"
-      ],
-      "plain_desc": "'경기도 청년기본소득 지원사업' 서비스입니다. 자세한 내용은 경기도 오산시 경제문화국 지역경제과에 문의하세요.",
-      "categories": [
-        "생활비·소득"
-      ],
-      "age_groups": [
-        "청년(19-34세)"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "경기도"
-        ],
-        "districts": [
-          "오산시"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001018&wlfareInfoReldBztpCd=02",
-      "contact": "4484",
-      "support_type": "서민금융",
-      "support_cycle": "분기",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:08.375288+09:00"
-    },
-    {
       "id": "local_WLF00000950",
       "source": "local",
       "title": "중·고등학교 신입생 교복구입비 지원",
@@ -185481,6 +185443,315 @@
       "support_cycle": "1회성",
       "gemini_ok": true,
       "updated_at": "2026-07-30T04:24:35.570492+09:00"
+    },
+    {
+      "id": "local_WLF00006709",
+      "source": "local",
+      "title": "읍면지역 1,000원 통학택시",
+      "organization": "세종특별자치시교육청 행정국 재무행정과",
+      "summary": [
+        "읍면지역 1,000원 통학택시",
+        "읍면 통학환경 개선 및 통학권 보장",
+        "세종특별자치시교육청 행정국 "
+      ],
+      "plain_desc": "읍면 통학환경 개선 및 통학권 보장",
+      "categories": [
+        "교육·훈련"
+      ],
+      "age_groups": [
+        "아동·청소년(7-18세)"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "세종특별자치시"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006709&wlfareInfoReldBztpCd=02",
+      "contact": "6",
+      "support_type": "서민금융, 교육",
+      "support_cycle": "월",
+      "gemini_ok": true,
+      "updated_at": "2026-07-31T04:39:13.272805+09:00"
+    },
+    {
+      "id": "local_WLF00006708",
+      "source": "local",
+      "title": "서울 영테크",
+      "organization": "서울특별시 미래청년기획관 청년사업담당관",
+      "summary": [
+        "서울 영테크",
+        "청년들에게 맞춤형 재무상담 및 금융교",
+        "서울특별시 미래청년기획관 청"
+      ],
+      "plain_desc": "청년들에게 맞춤형 재무상담 및 금융교육을 제공하여 건강한 자산습관을 형성하고 안정적으로 자립할 수 있도록 지원하고자 함",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "청년(19-34세)"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "서울특별시"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006708&wlfareInfoReldBztpCd=02",
+      "contact": "6",
+      "support_type": "",
+      "support_cycle": "년",
+      "gemini_ok": true,
+      "updated_at": "2026-07-31T04:39:13.272891+09:00"
+    },
+    {
+      "id": "local_WLF00006707",
+      "source": "local",
+      "title": "철원군 자녀키움수당 지원사업",
+      "organization": "강원특별자치도 철원군 인구정책과",
+      "summary": [
+        "철원군 자녀키움수당 지원사업",
+        "○ 철원군 학령기 아동청소년 양육가정",
+        "강원특별자치도 철원군 인구정"
+      ],
+      "plain_desc": "○ 철원군 학령기 아동청소년 양육가정의 경제적 부담 완화 및 아동돌봄의 사회적 책임강화 - 아동수당 대상자가 2030년까지 13세로 점차 확대, 아동수당과 자녀키움수당 중복지급 불가함에 따라 매년 대상연령 변경 (자녀키움수당 대상자: 2026년 10~18세/ 2027년 11세~18세/ 2028년 12세~18세/ 2029년 13~18세/ 2030년 14세~18세)",
+      "categories": [
+        "임신·출산·육아",
+        "교육·훈련",
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "아동·청소년(7-18세)"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "강원특별자치도"
+        ],
+        "districts": [
+          "철원군"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006707&wlfareInfoReldBztpCd=02",
+      "contact": "6",
+      "support_type": "서민금융",
+      "support_cycle": "월",
+      "gemini_ok": true,
+      "updated_at": "2026-07-31T04:39:13.273001+09:00"
+    },
+    {
+      "id": "local_WLF00006706",
+      "source": "local",
+      "title": "횡성군 청소년 희망채움 바우처 지원사업",
+      "organization": "강원특별자치도 횡성군 행정복지국 가족복지과",
+      "summary": [
+        "횡성군 청소년 희망채움 바우처 지원사",
+        "청소년의 교육",
+        "강원특별자치도 횡성군 행정복"
+      ],
+      "plain_desc": "청소년의 교육, 문화 격차 해소와 건전한 성장을 지원",
+      "categories": [
+        "교육·훈련"
+      ],
+      "age_groups": [
+        "아동·청소년(7-18세)"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "강원특별자치도"
+        ],
+        "districts": [
+          "횡성군"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006706&wlfareInfoReldBztpCd=02",
+      "contact": "6",
+      "support_type": "",
+      "support_cycle": "월",
+      "gemini_ok": true,
+      "updated_at": "2026-07-31T04:39:13.273059+09:00"
+    },
+    {
+      "id": "local_WLF00006705",
+      "source": "local",
+      "title": "아이돌봄서비스이용자 본인부담금 지원",
+      "organization": "강원특별자치도 양구군 행정복지국 평생교육과",
+      "summary": [
+        "아이돌봄서비스이용자 본인부담금 지원",
+        "- 양육부담 경감 및 일·가정 양립을",
+        "강원특별자치도 양구군 행정복"
+      ],
+      "plain_desc": "- 양육부담 경감 및 일·가정 양립을 지원 - 가족구성원의 삶의 질 향상 및 양육 친화적인 사회환경 조성",
+      "categories": [
+        "임신·출산·육아"
+      ],
+      "age_groups": [
+        "영유아(0-6세)",
+        "아동·청소년(7-18세)"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "강원특별자치도"
+        ],
+        "districts": [
+          "양구군"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006705&wlfareInfoReldBztpCd=02",
+      "contact": "6",
+      "support_type": "서민금융",
+      "support_cycle": "월",
+      "gemini_ok": true,
+      "updated_at": "2026-07-31T04:39:13.273127+09:00"
+    },
+    {
+      "id": "local_WLF00006704",
+      "source": "local",
+      "title": "인제군 취약 노인 목욕비 지원",
+      "organization": "강원특별자치도 인제군 행정복지국 주민복지과",
+      "summary": [
+        "인제군 취약 노인 목욕비 지원",
+        "저소득",
+        "강원특별자치도 인제군 행정복"
+      ],
+      "plain_desc": "취약계층의 어르신들에게 목욕비를 지원하여 위생청결한 생활을 유지하도록 독려하고, 건강한 노후생활을 지원하고자 함.",
+      "categories": [
+        "노인돌봄",
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "강원특별자치도"
+        ],
+        "districts": [
+          "인제군"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006704&wlfareInfoReldBztpCd=02",
+      "contact": "6",
+      "support_type": "서민금융",
+      "support_cycle": "분기",
+      "gemini_ok": true,
+      "updated_at": "2026-07-31T04:39:13.273193+09:00"
+    },
+    {
+      "id": "local_WLF00004994",
+      "source": "local",
+      "title": "임신축하지원금",
+      "organization": "충청북도 영동군 보건소 건강증진과",
+      "summary": [
+        "임신축하지원금",
+        "=임산부 가정에 임시능 축하하고 임신",
+        "충청북도 영동군 보건소 건강"
+      ],
+      "plain_desc": "=임산부 가정에 임시능 축하하고 임신부의 건강관리 및 출산준비를 위하여 지원하며, 관내에서 이용할 수 있는 레인보우 영동페이 사용으로 지역경제 활성화 도모",
+      "categories": [
+        "임신·출산·육아",
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "청년(19-34세)"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "충청북도"
+        ],
+        "districts": [
+          "영동군"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00004994&wlfareInfoReldBztpCd=02",
+      "contact": "3597",
+      "support_type": "서민금융, 임신·출산, 입양·위탁",
+      "support_cycle": "1회성",
+      "gemini_ok": true,
+      "updated_at": "2026-07-31T04:39:13.273263+09:00"
+    },
+    {
+      "id": "local_WLF00000913",
+      "source": "local",
+      "title": "안성시 무연고 사망자 관리(장제인건비)",
+      "organization": "경기도 복지국 노인복지과",
+      "summary": [
+        "안성시 무연고 사망자 관리(장제인건비",
+        "무연고 사망자 장례를 원활히 수행하기",
+        "경기도 복지국 노인복지과"
+      ],
+      "plain_desc": "무연고 사망자 장례를 원활히 수행하기 위해 장제 인건비를 지급",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "경기도"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000913&wlfareInfoReldBztpCd=02",
+      "contact": "110",
+      "support_type": "서민금융",
+      "support_cycle": "1회성",
+      "gemini_ok": true,
+      "updated_at": "2026-07-31T04:39:13.273326+09:00"
     }
   ]
 }
