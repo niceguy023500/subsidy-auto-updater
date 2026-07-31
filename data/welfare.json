@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "last_updated": "2026-07-31T04:39:15.060440+09:00",
-    "last_updated_kst": "2026년 07월 31일 04:39",
-    "total_count": 4750,
-    "total_fetched_from_api": 4750
+    "last_updated": "2026-08-01T04:41:27.908193+09:00",
+    "last_updated_kst": "2026년 08월 01일 04:41",
+    "total_count": 4749,
+    "total_fetched_from_api": 4749
   },
   "items": [
     {
@@ -27555,44 +27555,6 @@
       "updated_at": "2026-06-13T16:08:02.028298+09:00"
     },
     {
-      "id": "local_WLF00001685",
-      "source": "local",
-      "title": "출생축하용품지원",
-      "organization": "충청남도 천안시 복지문화국 여성가족과",
-      "summary": [
-        "출생축하용품지원",
-        "출산장려분위기 조성과 출산을 축하하기",
-        "충청남도 천안시 복지문화국 "
-      ],
-      "plain_desc": "출산장려분위기 조성과 출산을 축하하기 위하여 지원하는 일정물품",
-      "categories": [
-        "생활비·소득"
-      ],
-      "age_groups": [
-        "영유아(0-6세)"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "충청남도"
-        ],
-        "districts": [
-          "천안시"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001685&wlfareInfoReldBztpCd=02",
-      "contact": "1672",
-      "support_type": "",
-      "support_cycle": "1회성",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:02.028344+09:00"
-    },
-    {
       "id": "local_WLF00003383",
       "source": "local",
       "title": "최중증장애인 24시간 활동보조 사업",
@@ -31698,46 +31660,6 @@
       "updated_at": "2026-06-13T16:08:02.035392+09:00"
     },
     {
-      "id": "local_WLF00003461",
-      "source": "local",
-      "title": "방문건강관리사업",
-      "organization": "강원특별자치도 태백시 보건소",
-      "summary": [
-        "방문건강관리사업",
-        "장애인",
-        "강원특별자치도 태백시 보건소"
-      ],
-      "plain_desc": "취약계층의 건강형평성제고 , 취약계층의 건강증진 및 자가관리능력 향상 , 건강생활형태개선 등",
-      "categories": [
-        "의료·건강",
-        "장애인지원",
-        "생활비·소득"
-      ],
-      "age_groups": [
-        "중장년(35-64세)"
-      ],
-      "household_types": [
-        "한부모가구"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "강원특별자치도"
-        ],
-        "districts": [
-          "태백시"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00003461&wlfareInfoReldBztpCd=02",
-      "contact": "2369",
-      "support_type": "",
-      "support_cycle": "반기",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:02.035453+09:00"
-    },
-    {
       "id": "local_WLF00001313",
       "source": "local",
       "title": "노인 목욕비 및 이미용비 지원",
@@ -35432,47 +35354,6 @@
       "support_cycle": "분기",
       "gemini_ok": true,
       "updated_at": "2026-06-13T16:08:02.041550+09:00"
-    },
-    {
-      "id": "local_WLF00001646",
-      "source": "local",
-      "title": "조손가정 학습지원사업",
-      "organization": "제주특별자치도 서귀포시 복지위생국 여성가족과",
-      "summary": [
-        "조손가정 학습지원사업",
-        "저소득",
-        "제주특별자치도 서귀포시 복지"
-      ],
-      "plain_desc": "조손가족 손자녀에 대한 학습 및 정서적 지원 확대 등 조손가족 지원강화",
-      "categories": [
-        "임신·출산·육아",
-        "교육·훈련",
-        "취업·창업",
-        "생활비·소득"
-      ],
-      "age_groups": [
-        "아동·청소년(7-18세)"
-      ],
-      "household_types": [
-        "한부모가구"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "제주특별자치도"
-        ],
-        "districts": [
-          "서귀포시"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001646&wlfareInfoReldBztpCd=02",
-      "contact": "1658",
-      "support_type": "일자리, 입양·위탁",
-      "support_cycle": "수시",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:02.041610+09:00"
     },
     {
       "id": "local_WLF00002332",
@@ -72121,46 +72002,6 @@
       "support_cycle": "1회성",
       "gemini_ok": true,
       "updated_at": "2026-06-13T16:08:05.633899+09:00"
-    },
-    {
-      "id": "local_WLF00002225",
-      "source": "local",
-      "title": "저소득층 대학생 교육비 지원사업",
-      "organization": "서울특별시 강남구 복지생활국 복지정책과",
-      "summary": [
-        "저소득층 대학생 교육비 지원사업",
-        "기초생활수급자 및 비수급저소득층 대학",
-        "서울특별시 강남구 복지생활국"
-      ],
-      "plain_desc": "기초생활수급자 및 비수급저소득층 대학생의 경제적 어려움으로 인한 학업 중단사례를 예방하고자 함",
-      "categories": [
-        "교육·훈련",
-        "생활비·소득"
-      ],
-      "age_groups": [
-        "청년(19-34세)",
-        "중장년(35-64세)"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "기초생활수급자"
-      ],
-      "regions": {
-        "sido": [
-          "서울특별시"
-        ],
-        "districts": [
-          "강남구"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00002225&wlfareInfoReldBztpCd=02",
-      "contact": "9401",
-      "support_type": "서민금융, 교육",
-      "support_cycle": "반기",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:05.633954+09:00"
     },
     {
       "id": "local_WLF00002496",
@@ -111735,44 +111576,6 @@
       "updated_at": "2026-06-13T16:08:08.374744+09:00"
     },
     {
-      "id": "local_WLF00002742",
-      "source": "local",
-      "title": "취약계층 안심확인 서비스(안부알리미)",
-      "organization": "부산광역시 서구 주민복지국 생활지원과",
-      "summary": [
-        "취약계층 안심확인 서비스(안부알리미)",
-        "독거 수급자 고독사 예방을 위한 케이",
-        "부산광역시 서구 주민복지국 "
-      ],
-      "plain_desc": "독거 수급자 고독사 예방을 위한 케이블 TV를 통한 위험군 감지 서비스",
-      "categories": [
-        "생활비·소득"
-      ],
-      "age_groups": [
-        "중장년(35-64세)"
-      ],
-      "household_types": [
-        "1인가구"
-      ],
-      "income_levels": [
-        "기초생활수급자"
-      ],
-      "regions": {
-        "sido": [
-          "부산광역시"
-        ],
-        "districts": [
-          "서구"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00002742&wlfareInfoReldBztpCd=02",
-      "contact": "1447",
-      "support_type": "",
-      "support_cycle": "월",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:08.374794+09:00"
-    },
-    {
       "id": "local_WLF00004243",
       "source": "local",
       "title": "산모신생아 건강관리 지원",
@@ -133218,44 +133021,6 @@
       "support_cycle": "1회성",
       "gemini_ok": true,
       "updated_at": "2026-06-13T16:08:09.864879+09:00"
-    },
-    {
-      "id": "local_WLF00005904",
-      "source": "local",
-      "title": "취약계측 주건환경개선서비스 지원사업",
-      "organization": "충청북도 영동군 행정관광복지국 주민복지과",
-      "summary": [
-        "취약계측 주건환경개선서비스 지원사업",
-        "저소득",
-        "충청북도 영동군 행정관광복지"
-      ],
-      "plain_desc": "- 주거 내외부 안전 환보 및 쾌적한 환경개선 - 도배 장판 교체, 창호, 샷시, 싱크대, 화장실 및 욕실 보수등 주건환경 전반 - 열악한 주거환경에서 생활하는 취약계층 가구의 주거환경개선으로 쾌적한 환경에서의 생활안정과 삶의 질 향상",
-      "categories": [
-        "생활비·소득"
-      ],
-      "age_groups": [
-        "전체"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "충청북도"
-        ],
-        "districts": [
-          "영동군"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005904&wlfareInfoReldBztpCd=02",
-      "contact": "950",
-      "support_type": "서민금융",
-      "support_cycle": "수시",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:09.864963+09:00"
     },
     {
       "id": "local_WLF00005902",
@@ -165647,45 +165412,6 @@
       "updated_at": "2026-06-13T16:08:13.029697+09:00"
     },
     {
-      "id": "local_WLF00004626",
-      "source": "local",
-      "title": "친환경 무상급식비 및 친환경 쌀 구매 차액 지원",
-      "organization": "서울특별시 성북구 복지교육국 교육지원과",
-      "summary": [
-        "친환경 무상급식비 및 친환경 쌀 구매",
-        "안전하고 질 높은 친환경 무상급식 및",
-        "서울특별시 성북구 복지교육국"
-      ],
-      "plain_desc": "안전하고 질 높은 친환경 무상급식 및 친환경 쌀 차액 지원을 통해 성장기 학생들의 건전한 심신 발달을 도모하고 보편적 교육복지 구현",
-      "categories": [
-        "임신·출산·육아",
-        "교육·훈련"
-      ],
-      "age_groups": [
-        "아동·청소년(7-18세)"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "서울특별시"
-        ],
-        "districts": [
-          "성북구"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00004626&wlfareInfoReldBztpCd=02",
-      "contact": "5849",
-      "support_type": "입양·위탁, 교육, 서민금융",
-      "support_cycle": "반기",
-      "gemini_ok": true,
-      "updated_at": "2026-06-13T16:08:13.029767+09:00"
-    },
-    {
       "id": "local_WLF00003846",
       "source": "local",
       "title": "누리과정 차액보육료 지원",
@@ -176944,45 +176670,6 @@
       "updated_at": "2026-07-03T06:56:19.222394+09:00"
     },
     {
-      "id": "local_WLF00006377",
-      "source": "local",
-      "title": "쿨한복지, 에어컨 케어 해드림",
-      "organization": "부산광역시 부산진구 주민복지국 복지정책과",
-      "summary": [
-        "쿨한복지, 에어컨 케어 해드림",
-        "장애인",
-        "부산광역시 부산진구 주민복지"
-      ],
-      "plain_desc": "관내 취약계층과 경로당 내 에어컨 필터 청소를 실시하여 생활환경을 개선하고, 자활근로자에게 일자리를 제공합니다.",
-      "categories": [
-        "장애인지원",
-        "생활비·소득"
-      ],
-      "age_groups": [
-        "전체"
-      ],
-      "household_types": [
-        "한부모가구"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "부산광역시"
-        ],
-        "districts": [
-          "부산진구"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006377&wlfareInfoReldBztpCd=02",
-      "contact": "5",
-      "support_type": "",
-      "support_cycle": "년",
-      "gemini_ok": true,
-      "updated_at": "2026-07-03T06:56:19.222480+09:00"
-    },
-    {
       "id": "local_WLF00006376",
       "source": "local",
       "title": "안동 청년두배드림통장 사업",
@@ -185752,6 +185439,274 @@
       "support_cycle": "1회성",
       "gemini_ok": true,
       "updated_at": "2026-07-31T04:39:13.273326+09:00"
+    },
+    {
+      "id": "local_WLF00006713",
+      "source": "local",
+      "title": "홍천군 청년주인수당",
+      "organization": "강원특별자치도 홍천군 경제진흥국 경제진흥과",
+      "summary": [
+        "홍천군 청년주인수당",
+        "홍천군 관내 업체에서 근로하거나 사업",
+        "강원특별자치도 홍천군 경제진"
+      ],
+      "plain_desc": "홍천군 관내 업체에서 근로하거나 사업체를 운영하는 청년을 대상으로 안정적인 보수 지원을 통해 장기근속 및 지역정착을 유도하고, 근로청년들의 더 나은 삶의 질을 보장하기 위함",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "청년(19-34세)"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "강원특별자치도"
+        ],
+        "districts": [
+          "홍천군"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006713&wlfareInfoReldBztpCd=02",
+      "contact": "5",
+      "support_type": "서민금융",
+      "support_cycle": "분기",
+      "gemini_ok": true,
+      "updated_at": "2026-08-01T04:41:27.907493+09:00"
+    },
+    {
+      "id": "local_WLF00006711",
+      "source": "local",
+      "title": "차상위계층 산후조리경비 지원사업",
+      "organization": "강원특별자치도 삼척시 자치행정국 복지정책과",
+      "summary": [
+        "차상위계층 산후조리경비 지원사업",
+        "저소득",
+        "강원특별자치도 삼척시 자치행"
+      ],
+      "plain_desc": "차상위계층 산모의 출산 후 건강회복을 지원하여 차상위 출산가정의 경제적 부담을 완화하고, 출산 친화적 분위기를 조성함.",
+      "categories": [
+        "임신·출산·육아",
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "청년(19-34세)",
+        "중장년(35-64세)"
+      ],
+      "household_types": [
+        "한부모가구"
+      ],
+      "income_levels": [
+        "차상위계층"
+      ],
+      "regions": {
+        "sido": [
+          "강원특별자치도"
+        ],
+        "districts": [
+          "삼척시"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006711&wlfareInfoReldBztpCd=02",
+      "contact": "5",
+      "support_type": "서민금융, 임신·출산",
+      "support_cycle": "1회성",
+      "gemini_ok": true,
+      "updated_at": "2026-08-01T04:41:27.907598+09:00"
+    },
+    {
+      "id": "local_WLF00006710",
+      "source": "local",
+      "title": "The 경기패스 어르신 지원 확대 시범사업",
+      "organization": "경기도 교통국 광역교통정책과",
+      "summary": [
+        "The 경기패스 어르신 지원 확대 시",
+        "어르신 교통비 부담 완화",
+        "경기도 교통국 광역교통정책과"
+      ],
+      "plain_desc": "어르신 교통비 부담 완화, 대중교통 이용 촉진을 위한 교통비 지원 확대",
+      "categories": [
+        "노인돌봄"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "경기도"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006710&wlfareInfoReldBztpCd=02",
+      "contact": "9",
+      "support_type": "서민금융",
+      "support_cycle": "분기",
+      "gemini_ok": true,
+      "updated_at": "2026-08-01T04:41:27.907663+09:00"
+    },
+    {
+      "id": "local_WLF00000889",
+      "source": "local",
+      "title": "행려자 귀가여비",
+      "organization": "경기도 파주시 복지정책국 복지정책과",
+      "summary": [
+        "행려자 귀가여비",
+        "행려자 귀가여비 지급",
+        "경기도 파주시 복지정책국 복"
+      ],
+      "plain_desc": "행려자 귀가여비 지급",
+      "categories": [
+        "취업·창업"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "경기도"
+        ],
+        "districts": [
+          "파주시"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000889&wlfareInfoReldBztpCd=02",
+      "contact": "454",
+      "support_type": "일자리, 서민금융",
+      "support_cycle": "1회성",
+      "gemini_ok": true,
+      "updated_at": "2026-08-01T04:41:27.907711+09:00"
+    },
+    {
+      "id": "local_WLF00006607",
+      "source": "local",
+      "title": "난임 진단 검사비 지원",
+      "organization": "충청남도 논산시 보건소 건강증진과",
+      "summary": [
+        "난임 진단 검사비 지원",
+        "- 난임 사실의 조기 인식을 통해 난",
+        "충청남도 논산시 보건소 건강"
+      ],
+      "plain_desc": "- 난임 사실의 조기 인식을 통해 난임 극복 시기를 앞당기고 아기 낳기를 희망하는 가정에 경제적 부담 경감 및 출산율 제고",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "청년(19-34세)"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "충청남도"
+        ],
+        "districts": [
+          "논산시"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006607&wlfareInfoReldBztpCd=02",
+      "contact": "7",
+      "support_type": "서민금융",
+      "support_cycle": "수시",
+      "gemini_ok": true,
+      "updated_at": "2026-08-01T04:41:27.908041+09:00"
+    },
+    {
+      "id": "local_WLF00006423",
+      "source": "local",
+      "title": "용인청년 중개보수 및 이사비 지원사업",
+      "organization": "경기도 용인시 교육청년여성국 청년정책과",
+      "summary": [
+        "용인청년 중개보수 및 이사비 지원사업",
+        "용인시 청년층의 주거비 부담 경강 및",
+        "경기도 용인시 교육청년여성국"
+      ],
+      "plain_desc": "용인시 청년층의 주거비 부담 경강 및 안정적인 주거생활 보장",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "청년(19-34세)"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "경기도"
+        ],
+        "districts": [
+          "용인시"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006423&wlfareInfoReldBztpCd=02",
+      "contact": "18",
+      "support_type": "서민금융",
+      "support_cycle": "1회성",
+      "gemini_ok": true,
+      "updated_at": "2026-08-01T04:41:27.908103+09:00"
+    },
+    {
+      "id": "local_WLF00006338",
+      "source": "local",
+      "title": "태백시 주거취약계층 주거환경개선 지원사업",
+      "organization": "강원특별자치도 태백시 건설국 건축과",
+      "summary": [
+        "태백시 주거취약계층 주거환경개선 지원",
+        "주거복지 공적지원을 받지 못하는 주거",
+        "강원특별자치도 태백시 건설국"
+      ],
+      "plain_desc": "주거복지 공적지원을 받지 못하는 주거취약계층에 대한 집수리 지원으로 안전하고 행복한 거주여건 마련을 통한 주거수준 향상 및 주거복지 사각지대 해소",
+      "categories": [
+        "주거·임대"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "강원특별자치도"
+        ],
+        "districts": [
+          "태백시"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006338&wlfareInfoReldBztpCd=02",
+      "contact": "10",
+      "support_type": "서민금융",
+      "support_cycle": "1회성",
+      "gemini_ok": true,
+      "updated_at": "2026-08-01T04:41:27.908174+09:00"
     }
   ]
 }
