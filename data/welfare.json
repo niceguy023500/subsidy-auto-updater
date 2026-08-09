@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "last_updated": "2026-08-07T09:06:24.919312+09:00",
-    "last_updated_kst": "2026년 08월 07일 09:06",
-    "total_count": 4744,
-    "total_fetched_from_api": 4744
+    "last_updated": "2026-08-10T03:46:17.470199+09:00",
+    "last_updated_kst": "2026년 08월 10일 03:46",
+    "total_count": 4743,
+    "total_fetched_from_api": 4743
   },
   "items": [
     {
@@ -155109,44 +155109,6 @@
       "updated_at": "2026-08-07T09:06:20.444002+09:00"
     },
     {
-      "id": "local_WLF00001342",
-      "source": "local",
-      "title": "결혼이민자 취업역량 강화 지원",
-      "organization": "강원특별자치도 춘천시 복지국 여성가족과",
-      "summary": [
-        "결혼이민자 취업역량 강화 지원",
-        "취업 및 창업할 수 있는 자격증 취득",
-        "강원특별자치도 춘천시 복지국"
-      ],
-      "plain_desc": "취업 및 창업할 수 있는 자격증 취득을 위한 학원비 지원을 통해 생활안정 도모",
-      "categories": [
-        "취업·창업"
-      ],
-      "age_groups": [
-        "전체"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "강원특별자치도"
-        ],
-        "districts": [
-          "춘천시"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001342&wlfareInfoReldBztpCd=02",
-      "contact": "2405",
-      "support_type": "일자리",
-      "support_cycle": "년",
-      "gemini_ok": true,
-      "updated_at": "2026-08-07T09:06:20.444060+09:00"
-    },
-    {
       "id": "local_WLF00004481",
       "source": "local",
       "title": "취약계층 인플루엔자 예방접종 지원사업",
@@ -182242,44 +182204,6 @@
       "updated_at": "2026-08-07T09:06:22.497118+09:00"
     },
     {
-      "id": "local_WLF00003391",
-      "source": "local",
-      "title": "지역정착지원형 교통비 지원",
-      "organization": "강원특별자치도 영월군 일자리청년사업단",
-      "summary": [
-        "지역정착지원형 교통비 지원",
-        "지역청년 정착 및 취업유도",
-        "강원특별자치도 영월군 일자리"
-      ],
-      "plain_desc": "지역청년 정착 및 취업유도",
-      "categories": [
-        "취업·창업"
-      ],
-      "age_groups": [
-        "청년(19-34세)"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "강원특별자치도"
-        ],
-        "districts": [
-          "영월군"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00003391&wlfareInfoReldBztpCd=02",
-      "contact": "2279",
-      "support_type": "서민금융, 일자리",
-      "support_cycle": "월",
-      "gemini_ok": true,
-      "updated_at": "2026-08-07T09:06:22.497256+09:00"
-    },
-    {
       "id": "local_WLF00003575",
       "source": "local",
       "title": "경기도 의약품 안전사용 환경조성 사업",
@@ -185475,6 +185399,44 @@
       "support_cycle": "수시",
       "gemini_ok": true,
       "updated_at": "2026-08-07T09:06:22.501630+09:00"
+    },
+    {
+      "id": "local_WLF00006134",
+      "source": "local",
+      "title": "군위군 산모신생아 본인부담금 지원",
+      "organization": "대구광역시 군위군 보건소 건강증진과",
+      "summary": [
+        "군위군 산모신생아 본인부담금 지원",
+        "산모와 신생아의 건강관리를 도모하고 ",
+        "대구광역시 군위군 보건소 건"
+      ],
+      "plain_desc": "산모와 신생아의 건강관리를 도모하고 출산가정의 경제적 부담 경감 등 출산장려 분위기 확산을 위하여 산모·신생아 건강관리 지원에 필요한 사항을 규정함을 목적으로 한다.",
+      "categories": [
+        "임신·출산·육아"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "대구광역시"
+        ],
+        "districts": [
+          "군위군"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006134&wlfareInfoReldBztpCd=02",
+      "contact": "201",
+      "support_type": "임신·출산, 서민금융",
+      "support_cycle": "수시",
+      "gemini_ok": true,
+      "updated_at": "2026-08-10T03:46:17.470164+09:00"
     }
   ]
 }
