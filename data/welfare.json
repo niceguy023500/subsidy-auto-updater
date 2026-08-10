@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "last_updated": "2026-08-10T03:46:19.242389+09:00",
-    "last_updated_kst": "2026년 08월 10일 03:46",
-    "total_count": 4743,
-    "total_fetched_from_api": 4743
+    "last_updated": "2026-08-11T04:02:14.858310+09:00",
+    "last_updated_kst": "2026년 08월 11일 04:02",
+    "total_count": 4751,
+    "total_fetched_from_api": 4751
   },
   "items": [
     {
@@ -152423,46 +152423,6 @@
       "updated_at": "2026-08-07T09:06:18.400294+09:00"
     },
     {
-      "id": "local_WLF00003078",
-      "source": "local",
-      "title": "셋째아 이상 학습비 지원",
-      "organization": "강원특별자치도 횡성군 복지정책과",
-      "summary": [
-        "셋째아 이상 학습비 지원",
-        "다자녀",
-        "강원특별자치도 횡성군 복지정"
-      ],
-      "plain_desc": "다자녀 가정에 경제적 지원을 통한 출산장려의 사회적 기반조성 및 아동양육 및 가족부양 등에 대한 책임을 사회적으로 분담 할 수 있는 가족친화 사회환경 조성",
-      "categories": [
-        "임신·출산·육아",
-        "교육·훈련"
-      ],
-      "age_groups": [
-        "영유아(0-6세)",
-        "아동·청소년(7-18세)"
-      ],
-      "household_types": [
-        "다자녀가구"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "강원특별자치도"
-        ],
-        "districts": [
-          "횡성군"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00003078&wlfareInfoReldBztpCd=02",
-      "contact": "3965",
-      "support_type": "서민금융",
-      "support_cycle": "반기",
-      "gemini_ok": true,
-      "updated_at": "2026-08-07T09:06:18.400358+09:00"
-    },
-    {
       "id": "local_WLF00000133",
       "source": "local",
       "title": "행려자 보호",
@@ -154215,46 +154175,6 @@
       "support_cycle": "월",
       "gemini_ok": true,
       "updated_at": "2026-08-07T09:06:18.402937+09:00"
-    },
-    {
-      "id": "local_WLF00000719",
-      "source": "local",
-      "title": "저소득층 매입임대주택 임대보증금 지원사업",
-      "organization": "경기도 도시주택실 주택정책과",
-      "summary": [
-        "저소득층 매입임대주택 임대보증금 지원",
-        "장애인",
-        "경기도 도시주택실 주택정책과"
-      ],
-      "plain_desc": "저소득층 매입임대주택 신규입주자의 임대보증금 지원을 통한 주거상향 및 주거안정 유도",
-      "categories": [
-        "주거·임대",
-        "장애인지원",
-        "생활비·소득"
-      ],
-      "age_groups": [
-        "전체"
-      ],
-      "household_types": [
-        "한부모가구"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "경기도"
-        ],
-        "districts": [
-          "전체"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000719&wlfareInfoReldBztpCd=02",
-      "contact": "4351",
-      "support_type": "",
-      "support_cycle": "1회성",
-      "gemini_ok": true,
-      "updated_at": "2026-08-07T09:06:18.402990+09:00"
     },
     {
       "id": "local_WLF00003139",
@@ -165525,44 +165445,6 @@
       "support_cycle": "월",
       "gemini_ok": true,
       "updated_at": "2026-08-07T09:06:20.461850+09:00"
-    },
-    {
-      "id": "local_WLF00004699",
-      "source": "local",
-      "title": "청양군 청년수당 지급",
-      "organization": "충청남도 청양군 미래전략과",
-      "summary": [
-        "청양군 청년수당 지급",
-        "청년의 자립능력 향상과 안정적인 생활",
-        "충청남도 청양군 미래전략과"
-      ],
-      "plain_desc": "청년의 자립능력 향상과 안정적인 생활기반을 도모",
-      "categories": [
-        "생활비·소득"
-      ],
-      "age_groups": [
-        "청년(19-34세)"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "충청남도"
-        ],
-        "districts": [
-          "청양군"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00004699&wlfareInfoReldBztpCd=02",
-      "contact": "2101",
-      "support_type": "서민금융",
-      "support_cycle": "반기",
-      "gemini_ok": true,
-      "updated_at": "2026-08-07T09:06:20.461891+09:00"
     },
     {
       "id": "local_WLF00004802",
@@ -185437,6 +185319,437 @@
       "support_cycle": "수시",
       "gemini_ok": true,
       "updated_at": "2026-08-10T03:46:17.470164+09:00"
+    },
+    {
+      "id": "local_WLF00006730",
+      "source": "local",
+      "title": "출산가정 산후조리 비용 지원",
+      "organization": "충청남도 보령시 보건소 건강증진과",
+      "summary": [
+        "출산가정 산후조리 비용 지원",
+        "출산가정의 경제적 부담 경감 및 산모",
+        "충청남도 보령시 보건소 건강"
+      ],
+      "plain_desc": "출산가정의 경제적 부담 경감 및 산모와 신생아의 건강증진 도모",
+      "categories": [
+        "임신·출산·육아"
+      ],
+      "age_groups": [
+        "청년(19-34세)"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "충청남도"
+        ],
+        "districts": [
+          "보령시"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006730&wlfareInfoReldBztpCd=02",
+      "contact": "14",
+      "support_type": "서민금융",
+      "support_cycle": "1회성",
+      "gemini_ok": true,
+      "updated_at": "2026-08-11T04:02:14.857642+09:00"
+    },
+    {
+      "id": "local_WLF00006729",
+      "source": "local",
+      "title": "산모 산후조리비 지원",
+      "organization": "경상남도 남해군 보건소 건강증진과",
+      "summary": [
+        "산모 산후조리비 지원",
+        "농·어촌지역 특성상 임신·출산 인프라",
+        "경상남도 남해군 보건소 건강"
+      ],
+      "plain_desc": "농·어촌지역 특성상 임신·출산 인프라 부족 및 양육부담 해소를 위하여 산후조리비원 지원을 통해 경제적 부담완화",
+      "categories": [
+        "임신·출산·육아"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "경상남도"
+        ],
+        "districts": [
+          "남해군"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006729&wlfareInfoReldBztpCd=02",
+      "contact": "10",
+      "support_type": "",
+      "support_cycle": "1회성",
+      "gemini_ok": true,
+      "updated_at": "2026-08-11T04:02:14.857727+09:00"
+    },
+    {
+      "id": "local_WLF00006728",
+      "source": "local",
+      "title": "난임부부 교통비지원 사업",
+      "organization": "경상남도 남해군 보건소 건강증진과",
+      "summary": [
+        "난임부부 교통비지원 사업",
+        "남해군의 출산장려 활성화 계획에 따라",
+        "경상남도 남해군 보건소 건강"
+      ],
+      "plain_desc": "남해군의 출산장려 활성화 계획에 따라 난임시술을 위한 원거리 이동가정에 대한 교통비지원으로 경제적부담감 경감과 출산장려문화 확산",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "경상남도"
+        ],
+        "districts": [
+          "남해군"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006728&wlfareInfoReldBztpCd=02",
+      "contact": "10",
+      "support_type": "서민금융",
+      "support_cycle": "1회성",
+      "gemini_ok": true,
+      "updated_at": "2026-08-11T04:02:14.857791+09:00"
+    },
+    {
+      "id": "local_WLF00006727",
+      "source": "local",
+      "title": "경상남도 교육지원바우처 사업",
+      "organization": "경상남도 함안군 행정국 관광교육과",
+      "summary": [
+        "경상남도 교육지원바우처 사업",
+        "한부모·조손",
+        "경상남도 함안군 행정국 관광"
+      ],
+      "plain_desc": "서민자녀들의 학력 향상과 동등한 교육기회 제공을 위한 교육경비 지원",
+      "categories": [
+        "임신·출산·육아",
+        "교육·훈련",
+        "취업·창업",
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "아동·청소년(7-18세)"
+      ],
+      "household_types": [
+        "한부모가구"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "경상남도"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006727&wlfareInfoReldBztpCd=02",
+      "contact": "10",
+      "support_type": "일자리, 교육",
+      "support_cycle": "년",
+      "gemini_ok": true,
+      "updated_at": "2026-08-11T04:02:14.857854+09:00"
+    },
+    {
+      "id": "local_WLF00006726",
+      "source": "local",
+      "title": "주택 보금자리 지원",
+      "organization": "경상남도 함양군 경제복지국 인구정책과",
+      "summary": [
+        "주택 보금자리 지원",
+        "신혼부부 및 출산가정의 주택구입(전세",
+        "경상남도 함양군 경제복지국 "
+      ],
+      "plain_desc": "신혼부부 및 출산가정의 주택구입(전세) 대출자금의 이자비용 지원으로 안정적 지역정착 및 인구유입 촉진을 위해 지원하는 사업입니다.",
+      "categories": [
+        "주거·임대",
+        "임신·출산·육아"
+      ],
+      "age_groups": [
+        "청년(19-34세)"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "경상남도"
+        ],
+        "districts": [
+          "함양군"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006726&wlfareInfoReldBztpCd=02",
+      "contact": "10",
+      "support_type": "서민금융, 임신·출산",
+      "support_cycle": "년",
+      "gemini_ok": true,
+      "updated_at": "2026-08-11T04:02:14.857919+09:00"
+    },
+    {
+      "id": "local_WLF00006725",
+      "source": "local",
+      "title": "신혼부부 결혼자금 지원",
+      "organization": "경상남도 함양군 경제복지국 인구정책과",
+      "summary": [
+        "신혼부부 결혼자금 지원",
+        "청년들의 결혼비용 부담을 경감하여 안",
+        "경상남도 함양군 경제복지국 "
+      ],
+      "plain_desc": "청년들의 결혼비용 부담을 경감하여 안정적 정주인구 유지와 인구 유입 촉진을 위해 추진하는 사업입니다.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "청년(19-34세)"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "경상남도"
+        ],
+        "districts": [
+          "함양군"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006725&wlfareInfoReldBztpCd=02",
+      "contact": "9",
+      "support_type": "서민금융",
+      "support_cycle": "년",
+      "gemini_ok": true,
+      "updated_at": "2026-08-11T04:02:14.857975+09:00"
+    },
+    {
+      "id": "local_WLF00006724",
+      "source": "local",
+      "title": "통영형 청소년(한)부모 자녀양육비 지원 사업",
+      "organization": "경상남도 통영시 문화경제복지국 여성가족과",
+      "summary": [
+        "통영형 청소년(한)부모 자녀양육비 지",
+        "청소년(한)부모가 안정적인 양육과 자",
+        "경상남도 통영시 문화경제복지"
+      ],
+      "plain_desc": "청소년(한)부모가 안정적인 양육과 자기개발 지원으로 생활안정 및 자립기반 조성과 복지증진에 기여",
+      "categories": [
+        "임신·출산·육아",
+        "교육·훈련"
+      ],
+      "age_groups": [
+        "영유아(0-6세)",
+        "아동·청소년(7-18세)"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "경상남도"
+        ],
+        "districts": [
+          "통영시"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006724&wlfareInfoReldBztpCd=02",
+      "contact": "8",
+      "support_type": "서민금융",
+      "support_cycle": "월",
+      "gemini_ok": true,
+      "updated_at": "2026-08-11T04:02:14.858036+09:00"
+    },
+    {
+      "id": "local_WLF00006723",
+      "source": "local",
+      "title": "산청군 학생 야간 통학택시비 지원사업",
+      "organization": "경상남도 산청군 미래전략담당관",
+      "summary": [
+        "산청군 학생 야간 통학택시비 지원사업",
+        "학생들의 야간 학습 기회 및 안전귀가",
+        "경상남도 산청군 미래전략담당"
+      ],
+      "plain_desc": "학생들의 야간 학습 기회 및 안전귀가 보장, 학부모 통학부담 경감 등",
+      "categories": [
+        "교육·훈련"
+      ],
+      "age_groups": [
+        "아동·청소년(7-18세)"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "경상남도"
+        ],
+        "districts": [
+          "산청군"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006723&wlfareInfoReldBztpCd=02",
+      "contact": "10",
+      "support_type": "서민금융, 교육",
+      "support_cycle": "분기",
+      "gemini_ok": true,
+      "updated_at": "2026-08-11T04:02:14.858122+09:00"
+    },
+    {
+      "id": "local_WLF00006722",
+      "source": "local",
+      "title": "진폐의증환자 수당 지원",
+      "organization": "강원특별자치도 복지보건국 장애인복지과",
+      "summary": [
+        "진폐의증환자 수당 지원",
+        "진폐보상연금 수급대상에서 제외된 진폐",
+        "강원특별자치도 복지보건국 장"
+      ],
+      "plain_desc": "진폐보상연금 수급대상에서 제외된 진폐의증환자의 복지증진 및 삶의 질 향상 도모",
+      "categories": [
+        "의료·건강",
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "중장년(35-64세)"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "강원특별자치도"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006722&wlfareInfoReldBztpCd=02",
+      "contact": "8",
+      "support_type": "서민금융, 신체건강",
+      "support_cycle": "분기",
+      "gemini_ok": true,
+      "updated_at": "2026-08-11T04:02:14.858181+09:00"
+    },
+    {
+      "id": "local_WLF00001843",
+      "source": "local",
+      "title": "다문화가족 자녀 방문학습지 지원",
+      "organization": "강원특별자치도 복지보건국 여성청소년가족과",
+      "summary": [
+        "다문화가족 자녀 방문학습지 지원",
+        "다문화·탈북민",
+        "강원특별자치도 복지보건국 여"
+      ],
+      "plain_desc": "다문화가정의 한글습득기 자녀들에게 한글 교육을 지원함으로써 한글 학습 능력 향상",
+      "categories": [
+        "임신·출산·육아",
+        "교육·훈련",
+        "문화·여가"
+      ],
+      "age_groups": [
+        "아동·청소년(7-18세)"
+      ],
+      "household_types": [
+        "다자녀가구",
+        "다문화가구"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "강원특별자치도"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001843&wlfareInfoReldBztpCd=02",
+      "contact": "646",
+      "support_type": "",
+      "support_cycle": "월",
+      "gemini_ok": true,
+      "updated_at": "2026-08-11T04:02:14.858241+09:00"
+    },
+    {
+      "id": "local_WLF00001819",
+      "source": "local",
+      "title": "강원도 다문화복지신문 구독 지원",
+      "organization": "강원특별자치도 복지보건국 여성청소년가족과",
+      "summary": [
+        "강원도 다문화복지신문 구독 지원",
+        "도내 가정의 건강한 생화 영위를 위해",
+        "강원특별자치도 복지보건국 여"
+      ],
+      "plain_desc": "도내 가정의 건강한 생화 영위를 위해 가족의 유대감 강화를 위한 다양하고 깊이있는 정보제공",
+      "categories": [
+        "교육·훈련",
+        "문화·여가"
+      ],
+      "age_groups": [
+        "아동·청소년(7-18세)",
+        "청년(19-34세)",
+        "중장년(35-64세)"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "강원특별자치도"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001819&wlfareInfoReldBztpCd=02",
+      "contact": "582",
+      "support_type": "",
+      "support_cycle": "월",
+      "gemini_ok": true,
+      "updated_at": "2026-08-11T04:02:14.858293+09:00"
     }
   ]
 }
