@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "last_updated": "2026-08-14T04:12:45.079636+09:00",
-    "last_updated_kst": "2026년 08월 14일 04:12",
-    "total_count": 5243,
-    "total_fetched_from_api": 5243
+    "last_updated": "2026-08-15T04:02:32.571291+09:00",
+    "last_updated_kst": "2026년 08월 15일 04:02",
+    "total_count": 5239,
+    "total_fetched_from_api": 5239
   },
   "items": [
     {
@@ -144513,44 +144513,6 @@
       "updated_at": "2026-08-07T09:06:18.391637+09:00"
     },
     {
-      "id": "local_WLF00003428",
-      "source": "local",
-      "title": "노인 성인용 보행기 지원 사업",
-      "organization": "충청북도 옥천군 행정복지국 주민복지과",
-      "summary": [
-        "노인 성인용 보행기 지원 사업",
-        "장기요양 급여 사각지대에 있는 어르신",
-        "충청북도 옥천군 행정복지국 "
-      ],
-      "plain_desc": "장기요양 급여 사각지대에 있는 어르신들을 위한 불편해소 및 안전하고 편리한 이동편의 증진",
-      "categories": [
-        "노인돌봄"
-      ],
-      "age_groups": [
-        "전체"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "충청북도"
-        ],
-        "districts": [
-          "옥천군"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00003428&wlfareInfoReldBztpCd=02",
-      "contact": "1682",
-      "support_type": "서민금융",
-      "support_cycle": "1회성",
-      "gemini_ok": true,
-      "updated_at": "2026-08-07T09:06:18.391717+09:00"
-    },
-    {
       "id": "local_WLF00000356",
       "source": "local",
       "title": "화장장려금 지원",
@@ -144702,45 +144664,6 @@
       "support_cycle": "월",
       "gemini_ok": true,
       "updated_at": "2026-08-07T09:06:18.391903+09:00"
-    },
-    {
-      "id": "local_WLF00005795",
-      "source": "local",
-      "title": "학교우유급식(바우처) 지원사업",
-      "organization": "전북특별자치도 군산시 농업기술센터 동물정책과",
-      "summary": [
-        "학교우유급식(바우처) 지원사업",
-        "세 자녀 이상 가정에 우유바우처 카드",
-        "전북특별자치도 군산시 농업기"
-      ],
-      "plain_desc": "세 자녀 이상 가정에 우유바우처 카드 지원을 통해 경제적 부담 완화 및 유제품 소비기반 확대로 낙농산업의 안정적 발전 도모",
-      "categories": [
-        "임신·출산·육아",
-        "교육·훈련"
-      ],
-      "age_groups": [
-        "아동·청소년(7-18세)"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "전북특별자치도"
-        ],
-        "districts": [
-          "전체"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005795&wlfareInfoReldBztpCd=02",
-      "contact": "2333",
-      "support_type": "",
-      "support_cycle": "월",
-      "gemini_ok": true,
-      "updated_at": "2026-08-07T09:06:18.391955+09:00"
     },
     {
       "id": "local_WLF00001853",
@@ -145921,44 +145844,6 @@
       "support_cycle": "월",
       "gemini_ok": true,
       "updated_at": "2026-08-07T09:06:18.393871+09:00"
-    },
-    {
-      "id": "local_WLF00001695",
-      "source": "local",
-      "title": "학교 밖 청소년 교통카드 지원",
-      "organization": "전북특별자치도 특별자치교육협력국 교육협력과",
-      "summary": [
-        "학교 밖 청소년 교통카드 지원",
-        "학교 밖 청소년에 대한 교통비 지원을",
-        "전북특별자치도 특별자치교육협"
-      ],
-      "plain_desc": "학교 밖 청소년에 대한 교통비 지원을 통해 학습과 자립기회 제공으로 건강한 사회구성원으로 성장할 수 있도록 지원",
-      "categories": [
-        "교육·훈련"
-      ],
-      "age_groups": [
-        "아동·청소년(7-18세)"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "전북특별자치도"
-        ],
-        "districts": [
-          "전체"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001695&wlfareInfoReldBztpCd=02",
-      "contact": "3206",
-      "support_type": "",
-      "support_cycle": "월",
-      "gemini_ok": true,
-      "updated_at": "2026-08-07T09:06:18.393928+09:00"
     },
     {
       "id": "local_WLF00002849",
@@ -153631,49 +153516,6 @@
       "support_cycle": "1회성",
       "gemini_ok": true,
       "updated_at": "2026-08-07T09:06:20.446079+09:00"
-    },
-    {
-      "id": "local_WLF00005242",
-      "source": "local",
-      "title": "장수군 취약계층 목욕비 지원사업",
-      "organization": "전북특별자치도 장수군 행정복지국 주민복지과",
-      "summary": [
-        "장수군 취약계층 목욕비 지원사업",
-        "장애인",
-        "전북특별자치도 장수군 행정복"
-      ],
-      "plain_desc": "취약계층(65세이상 노인, 장애인, 기초생활수급자)의 위생을 제고하여 건강하고 행복한 삶을 영위하도록 지원",
-      "categories": [
-        "임신·출산·육아",
-        "교육·훈련",
-        "장애인지원",
-        "생활비·소득"
-      ],
-      "age_groups": [
-        "아동·청소년(7-18세)",
-        "청년(19-34세)",
-        "중장년(35-64세)"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "기초생활수급자"
-      ],
-      "regions": {
-        "sido": [
-          "전북특별자치도"
-        ],
-        "districts": [
-          "장수군"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005242&wlfareInfoReldBztpCd=02",
-      "contact": "1231",
-      "support_type": "",
-      "support_cycle": "반기",
-      "gemini_ok": true,
-      "updated_at": "2026-08-07T09:06:20.446153+09:00"
     },
     {
       "id": "local_WLF00005313",
@@ -197179,44 +197021,6 @@
       "updated_at": "2026-08-14T04:12:40.581741+09:00"
     },
     {
-      "id": "local_WLF00001950",
-      "source": "local",
-      "title": "영암군 농어민 공익수당",
-      "organization": "전남광주통합특별시 영암군 농업경제국 농업정책과",
-      "summary": [
-        "영암군 농어민 공익수당",
-        "농업·농촌 및 어업·어촌의 공익적 기",
-        "전남광주통합특별시 영암군 농"
-      ],
-      "plain_desc": "농업·농촌 및 어업·어촌의 공익적 기능의 증진을 위하고 영암군에 거주하는 농민과 어민의 삶의 질 향상과 지역경제 활성화",
-      "categories": [
-        "생활비·소득"
-      ],
-      "age_groups": [
-        "전체"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "광주광역시"
-        ],
-        "districts": [
-          "전체"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001950&wlfareInfoReldBztpCd=02",
-      "contact": "2550",
-      "support_type": "서민금융",
-      "support_cycle": "년",
-      "gemini_ok": true,
-      "updated_at": "2026-08-14T04:12:40.581809+09:00"
-    },
-    {
       "id": "local_WLF00002870",
       "source": "local",
       "title": "입원아동돌봄서비스지원",
@@ -204905,6 +204709,44 @@
       "support_cycle": "수시",
       "gemini_ok": true,
       "updated_at": "2026-08-14T04:12:42.929111+09:00"
+    },
+    {
+      "id": "local_WLF00000325",
+      "source": "local",
+      "title": "청원구 휠체어 무료대여서비스",
+      "organization": "충청북도 청주시 청원구 주민복지과",
+      "summary": [
+        "청원구 휠체어 무료대여서비스",
+        "장애인",
+        "충청북도 청주시 청원구 주민"
+      ],
+      "plain_desc": "질병, 부상 등으로 인하여 단기간 휠체어 사용이 필요한 시민에게 각 읍면동 주민센터에서 보유 중인 휠체어를 단기간 무료로 대여하는 서비스로 시민 이동편의 증진 목적",
+      "categories": [
+        "장애인지원"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "충청북도"
+        ],
+        "districts": [
+          "청주시"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000325&wlfareInfoReldBztpCd=02",
+      "contact": "5015",
+      "support_type": "서민금융",
+      "support_cycle": "수시",
+      "gemini_ok": true,
+      "updated_at": "2026-08-15T04:02:32.571261+09:00"
     }
   ]
 }
