@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "last_updated": "2026-08-17T03:34:52.946667+09:00",
-    "last_updated_kst": "2026년 08월 17일 03:34",
-    "total_count": 5239,
-    "total_fetched_from_api": 5239
+    "last_updated": "2026-08-19T03:44:35.494732+09:00",
+    "last_updated_kst": "2026년 08월 19일 03:44",
+    "total_count": 5237,
+    "total_fetched_from_api": 5237
   },
   "items": [
     {
@@ -141575,45 +141575,6 @@
       "updated_at": "2026-08-07T09:06:18.387446+09:00"
     },
     {
-      "id": "local_WLF00002643",
-      "source": "local",
-      "title": "발달장애인 주간활동서비스(구비지원)",
-      "organization": "서울특별시 광진구 복지국 사회복지장애인과",
-      "summary": [
-        "발달장애인 주간활동서비스(구비지원)",
-        "장애인",
-        "서울특별시 광진구 복지국 사"
-      ],
-      "plain_desc": "성인발달장애인(지적·자폐성 장애인)에게 평일 낮 시간(09~18시)에 취미·학습·체육·직업 등 다양한 분야의 활동기회를 제공함으로써, 발달장애인의 자립생활을 지원하고 사회참여를 증진하기 위함",
-      "categories": [
-        "장애인지원"
-      ],
-      "age_groups": [
-        "청년(19-34세)",
-        "중장년(35-64세)"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "서울특별시"
-        ],
-        "districts": [
-          "광진구"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00002643&wlfareInfoReldBztpCd=02",
-      "contact": "4768",
-      "support_type": "",
-      "support_cycle": "년",
-      "gemini_ok": true,
-      "updated_at": "2026-08-07T09:06:18.387519+09:00"
-    },
-    {
       "id": "local_WLF00003290",
       "source": "local",
       "title": "초 중 고 학생 통학교통비 지원",
@@ -156671,45 +156632,6 @@
       "updated_at": "2026-08-07T09:06:20.451468+09:00"
     },
     {
-      "id": "local_WLF00006058",
-      "source": "local",
-      "title": "어르신공경봉양수당",
-      "organization": "강원특별자치도 속초시 시민복지국 경로장애인과",
-      "summary": [
-        "어르신공경봉양수당",
-        "80세 이상 어르신을 사실상 모시는 ",
-        "강원특별자치도 속초시 시민복"
-      ],
-      "plain_desc": "80세 이상 어르신을 사실상 모시는 봉양자에 대한 지원",
-      "categories": [
-        "노인돌봄",
-        "생활비·소득"
-      ],
-      "age_groups": [
-        "전체"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "강원특별자치도"
-        ],
-        "districts": [
-          "속초시"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006058&wlfareInfoReldBztpCd=02",
-      "contact": "1250",
-      "support_type": "서민금융",
-      "support_cycle": "월",
-      "gemini_ok": true,
-      "updated_at": "2026-08-07T09:06:20.451511+09:00"
-    },
-    {
       "id": "local_WLF00006057",
       "source": "local",
       "title": "화천군 저소득 가구 성인용 기저귀 지원사업",
@@ -170428,44 +170350,6 @@
       "updated_at": "2026-08-07T09:06:20.472694+09:00"
     },
     {
-      "id": "local_WLF00005875",
-      "source": "local",
-      "title": "행려자 귀가여비",
-      "organization": "경기도 파주시 복지정책국 복지정책과",
-      "summary": [
-        "행려자 귀가여비",
-        "행려자 귀가여비 지급",
-        "경기도 파주시 복지정책국 복"
-      ],
-      "plain_desc": "행려자 귀가여비 지급",
-      "categories": [
-        "생활비·소득"
-      ],
-      "age_groups": [
-        "전체"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "경기도"
-        ],
-        "districts": [
-          "파주시"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005875&wlfareInfoReldBztpCd=02",
-      "contact": "1139",
-      "support_type": "서민금융",
-      "support_cycle": "1회성",
-      "gemini_ok": true,
-      "updated_at": "2026-08-07T09:06:20.472729+09:00"
-    },
-    {
       "id": "local_WLF00005874",
       "source": "local",
       "title": "도봉형 어르신 일자리사업",
@@ -172043,44 +171927,6 @@
       "updated_at": "2026-08-07T09:06:22.485205+09:00"
     },
     {
-      "id": "local_WLF00004333",
-      "source": "local",
-      "title": "청년 창업지원카드 사업",
-      "organization": "대전광역시 복지국 청년정책과",
-      "summary": [
-        "청년 창업지원카드 사업",
-        "경제적 부담으로 기업생존에 어려움을 ",
-        "대전광역시 복지국 청년정책과"
-      ],
-      "plain_desc": "경제적 부담으로 기업생존에 어려움을 겪고 있는 초기(창업 후 3년 이내) 청년 창업가의 생존율 제고를 위한 재정적 지원",
-      "categories": [
-        "취업·창업"
-      ],
-      "age_groups": [
-        "청년(19-34세)"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "대전광역시"
-        ],
-        "districts": [
-          "전체"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00004333&wlfareInfoReldBztpCd=02",
-      "contact": "9490",
-      "support_type": "일자리",
-      "support_cycle": "월",
-      "gemini_ok": true,
-      "updated_at": "2026-08-07T09:06:22.485273+09:00"
-    },
-    {
       "id": "local_WLF00001332",
       "source": "local",
       "title": "어르신 대상포진 무료예방접종사업",
@@ -172816,45 +172662,6 @@
       "support_cycle": "1회성",
       "gemini_ok": true,
       "updated_at": "2026-08-07T09:06:22.486607+09:00"
-    },
-    {
-      "id": "local_WLF00000765",
-      "source": "local",
-      "title": "한부모가족문화체험행사",
-      "organization": "서울특별시 구로구 복지지원국 가족보육과",
-      "summary": [
-        "한부모가족문화체험행사",
-        "한부모·조손",
-        "서울특별시 구로구 복지지원국"
-      ],
-      "plain_desc": "경제적 여건 등으로 문화 및 여가생활의 기회가 적은 저소득 한부모가족 자녀에게 다양한 체험활동의 기회를 제공함으로써 가족 간의 유대 강화",
-      "categories": [
-        "임신·출산·육아",
-        "문화·여가"
-      ],
-      "age_groups": [
-        "아동·청소년(7-18세)"
-      ],
-      "household_types": [
-        "한부모가구"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "서울특별시"
-        ],
-        "districts": [
-          "구로구"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000765&wlfareInfoReldBztpCd=02",
-      "contact": "2225",
-      "support_type": "",
-      "support_cycle": "1회성",
-      "gemini_ok": true,
-      "updated_at": "2026-08-07T09:06:22.486701+09:00"
     },
     {
       "id": "local_WLF00002885",
@@ -204747,6 +204554,123 @@
       "support_cycle": "수시",
       "gemini_ok": true,
       "updated_at": "2026-08-15T04:02:32.571261+09:00"
+    },
+    {
+      "id": "local_WLF00004135",
+      "source": "local",
+      "title": "강릉시 보훈명예수당 지원",
+      "organization": "강원특별자치도 강릉시 복지민원국 복지정책과",
+      "summary": [
+        "강릉시 보훈명예수당 지원",
+        "보훈대상자",
+        "강원특별자치도 강릉시 복지민"
+      ],
+      "plain_desc": "국가보훈대상자 생활안정지원",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "청년(19-34세)",
+        "중장년(35-64세)"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "강원특별자치도"
+        ],
+        "districts": [
+          "강릉시"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00004135&wlfareInfoReldBztpCd=02",
+      "contact": "367",
+      "support_type": "서민금융",
+      "support_cycle": "월",
+      "gemini_ok": true,
+      "updated_at": "2026-08-19T03:44:35.494587+09:00"
+    },
+    {
+      "id": "local_WLF00002073",
+      "source": "local",
+      "title": "장애인가정출산지원금 지원",
+      "organization": "전북특별자치도 군산시 복지환경국 경로장애인과",
+      "summary": [
+        "장애인가정출산지원금 지원",
+        "장애인",
+        "전북특별자치도 군산시 복지환"
+      ],
+      "plain_desc": "장애인가정 신생아 출산시 산모와 신생아의 건강과 장애인 가정의 생활안정을 도모",
+      "categories": [
+        "임신·출산·육아",
+        "장애인지원",
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전북특별자치도"
+        ],
+        "districts": [
+          "군산시"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00002073&wlfareInfoReldBztpCd=02",
+      "contact": "155",
+      "support_type": "서민금융",
+      "support_cycle": "1회성",
+      "gemini_ok": true,
+      "updated_at": "2026-08-19T03:44:35.494652+09:00"
+    },
+    {
+      "id": "local_WLF00001816",
+      "source": "local",
+      "title": "무연고 사망자 장제비",
+      "organization": "강원특별자치도 양양군 복지정책과",
+      "summary": [
+        "무연고 사망자 장제비",
+        "무연고 사망자에 대한 장제비 지원",
+        "강원특별자치도 양양군 복지정"
+      ],
+      "plain_desc": "무연고 사망자에 대한 장제비 지원",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "강원특별자치도"
+        ],
+        "districts": [
+          "양양군"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001816&wlfareInfoReldBztpCd=02",
+      "contact": "171",
+      "support_type": "안전·위기",
+      "support_cycle": "1회성",
+      "gemini_ok": true,
+      "updated_at": "2026-08-19T03:44:35.494708+09:00"
     }
   ]
 }
