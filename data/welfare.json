@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "last_updated": "2026-08-20T03:41:49.597963+09:00",
-    "last_updated_kst": "2026년 08월 20일 03:41",
-    "total_count": 5241,
-    "total_fetched_from_api": 5241
+    "last_updated": "2026-08-21T03:47:07.851437+09:00",
+    "last_updated_kst": "2026년 08월 21일 03:47",
+    "total_count": 5231,
+    "total_fetched_from_api": 5231
   },
   "items": [
     {
@@ -156087,44 +156087,6 @@
       "updated_at": "2026-08-07T09:06:20.450834+09:00"
     },
     {
-      "id": "local_WLF00002223",
-      "source": "local",
-      "title": "보훈명예수당",
-      "organization": "경상북도 영주시 문화복지국 복지정책과",
-      "summary": [
-        "보훈명예수당",
-        "보훈대상자",
-        "경상북도 영주시 문화복지국 "
-      ],
-      "plain_desc": "국가를 위해 헌신한 보훈대상자에 대한 합당한 예우를 통해 명예선양 및 애국정신 계승 발전",
-      "categories": [
-        "생활비·소득"
-      ],
-      "age_groups": [
-        "전체"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "경상북도"
-        ],
-        "districts": [
-          "영주시"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00002223&wlfareInfoReldBztpCd=02",
-      "contact": "1755",
-      "support_type": "서민금융",
-      "support_cycle": "월",
-      "gemini_ok": true,
-      "updated_at": "2026-08-07T09:06:20.450902+09:00"
-    },
-    {
       "id": "local_WLF00000440",
       "source": "local",
       "title": "행려자 및 무연고 사망자 지원",
@@ -156322,44 +156284,6 @@
       "support_cycle": "1회성",
       "gemini_ok": true,
       "updated_at": "2026-08-07T09:06:20.451235+09:00"
-    },
-    {
-      "id": "local_WLF00002246",
-      "source": "local",
-      "title": "저소득주민생활안정자금지원사업",
-      "organization": "경상북도 영주시 문화복지국 복지정책과",
-      "summary": [
-        "저소득주민생활안정자금지원사업",
-        "저소득",
-        "경상북도 영주시 문화복지국 "
-      ],
-      "plain_desc": "저소득 주민의 소득향상과 자립기반 조성을 위한 생활안정자금 융자 지원",
-      "categories": [
-        "생활비·소득"
-      ],
-      "age_groups": [
-        "전체"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "경상북도"
-        ],
-        "districts": [
-          "영주시"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00002246&wlfareInfoReldBztpCd=02",
-      "contact": "8894",
-      "support_type": "",
-      "support_cycle": "1회성",
-      "gemini_ok": true,
-      "updated_at": "2026-08-07T09:06:20.451283+09:00"
     },
     {
       "id": "local_WLF00002247",
@@ -163064,45 +162988,6 @@
       "updated_at": "2026-08-07T09:06:20.462450+09:00"
     },
     {
-      "id": "local_WLF00003372",
-      "source": "local",
-      "title": "고독사 예방 사업",
-      "organization": "인천광역시 연수구 복지환경국 복지정책과",
-      "summary": [
-        "고독사 예방 사업",
-        "- 최근 1인가구 증가가 신사회적문제",
-        "인천광역시 연수구 복지환경국"
-      ],
-      "plain_desc": "- 최근 1인가구 증가가 신사회적문제로 대두되고 있는 가운데 홀로 인생을 마감하는 고독사도 함께 증가 추세 - 이에 지역사회 보호체계 구축 및 체계적, 종합적인 고독사 예방 사업을 추진함으로써 사회적 고립가구의 고독사를 근원적으로 예방코자 함",
-      "categories": [
-        "생활비·소득"
-      ],
-      "age_groups": [
-        "청년(19-34세)",
-        "중장년(35-64세)"
-      ],
-      "household_types": [
-        "1인가구"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "인천광역시"
-        ],
-        "districts": [
-          "연수구"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00003372&wlfareInfoReldBztpCd=02",
-      "contact": "5536",
-      "support_type": "",
-      "support_cycle": "수시",
-      "gemini_ok": true,
-      "updated_at": "2026-08-07T09:06:20.462520+09:00"
-    },
-    {
       "id": "local_WLF00002926",
       "source": "local",
       "title": "태안군 결혼장려금",
@@ -165766,45 +165651,6 @@
       "support_cycle": "월",
       "gemini_ok": true,
       "updated_at": "2026-08-07T09:06:20.466498+09:00"
-    },
-    {
-      "id": "local_WLF00001403",
-      "source": "local",
-      "title": "여성장애인 출산비용 지원(시 추가지원)",
-      "organization": "경기도 의정부시 복지국 장애인복지과",
-      "summary": [
-        "여성장애인 출산비용 지원(시 추가지원",
-        "장애인",
-        "경기도 의정부시 복지국 장애"
-      ],
-      "plain_desc": "여성장애인 출산비 지원함으로써 생활안정 도모",
-      "categories": [
-        "임신·출산·육아",
-        "장애인지원"
-      ],
-      "age_groups": [
-        "전체"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "경기도"
-        ],
-        "districts": [
-          "의정부시"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001403&wlfareInfoReldBztpCd=02",
-      "contact": "1756",
-      "support_type": "서민금융",
-      "support_cycle": "1회성",
-      "gemini_ok": true,
-      "updated_at": "2026-08-07T09:06:20.466547+09:00"
     },
     {
       "id": "local_WLF00004239",
@@ -170524,44 +170370,6 @@
       "updated_at": "2026-08-07T09:06:20.473298+09:00"
     },
     {
-      "id": "local_WLF00005637",
-      "source": "local",
-      "title": "임산부 친환경농산물 지원사업",
-      "organization": "충청북도 농정국 스마트농산과",
-      "summary": [
-        "임산부 친환경농산물 지원사업",
-        "ㅇ 친환경농산물의 중장기적인 고정 소",
-        "충청북도 농정국 스마트농산과"
-      ],
-      "plain_desc": "ㅇ 친환경농산물의 중장기적인 고정 소비층 확보에 따른 안정적인 소비체계 확립 및 친환경 농업을 통한 환경 보전 등 사회적 가치 구현 ㅇ 임산부에게 친환경농산물 공급을 통한 건강한 임신ㆍ출산 환경 조성 및 건강한 먹거리 인식제고",
-      "categories": [
-        "생활비·소득"
-      ],
-      "age_groups": [
-        "전체"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "충청북도"
-        ],
-        "districts": [
-          "전체"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005637&wlfareInfoReldBztpCd=02",
-      "contact": "24248",
-      "support_type": "",
-      "support_cycle": "수시",
-      "gemini_ok": true,
-      "updated_at": "2026-08-07T09:06:20.473362+09:00"
-    },
-    {
       "id": "local_WLF00005630",
       "source": "local",
       "title": "모든 임산부 임신축하금 지원",
@@ -174502,44 +174310,6 @@
       "updated_at": "2026-08-07T09:06:22.490359+09:00"
     },
     {
-      "id": "local_WLF00005788",
-      "source": "local",
-      "title": "우유바우처 확대지원사업",
-      "organization": "전북특별자치도 진안군 농산촌미래국 농축산유통과",
-      "summary": [
-        "우유바우처 확대지원사업",
-        "다자녀",
-        "전북특별자치도 진안군 농산촌"
-      ],
-      "plain_desc": "다자녀 가정에 우유바우처 카드 지원을 통해 경제적 부담 완화 및 유제품 소비기반 확대로 낙농산업의 안정적 발전 도모",
-      "categories": [
-        "교육·훈련"
-      ],
-      "age_groups": [
-        "아동·청소년(7-18세)"
-      ],
-      "household_types": [
-        "다자녀가구"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "전북특별자치도"
-        ],
-        "districts": [
-          "전체"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005788&wlfareInfoReldBztpCd=02",
-      "contact": "7752",
-      "support_type": "",
-      "support_cycle": "월",
-      "gemini_ok": true,
-      "updated_at": "2026-08-07T09:06:22.490431+09:00"
-    },
-    {
       "id": "local_WLF00005785",
       "source": "local",
       "title": "상수도 사용량 감면",
@@ -175425,45 +175195,6 @@
       "support_cycle": "월",
       "gemini_ok": true,
       "updated_at": "2026-08-07T09:06:22.491890+09:00"
-    },
-    {
-      "id": "local_WLF00005677",
-      "source": "local",
-      "title": "어린이집 필요경비(현장학습비 및 특별활동비) 지원 사업",
-      "organization": "부산광역시 서구 주민복지국 가족행복과",
-      "summary": [
-        "어린이집 필요경비(현장학습비 및 특별",
-        "어린이집 아동 보호자의 경제적 양육부",
-        "부산광역시 서구 주민복지국 "
-      ],
-      "plain_desc": "어린이집 아동 보호자의 경제적 양육부담 경감 및 차별없는 양질의 보육서비스 제공으로 아이 키우기 좋은 환경 조성",
-      "categories": [
-        "임신·출산·육아",
-        "교육·훈련"
-      ],
-      "age_groups": [
-        "영유아(0-6세)"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "부산광역시"
-        ],
-        "districts": [
-          "전체"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005677&wlfareInfoReldBztpCd=02",
-      "contact": "3418",
-      "support_type": "서민금융",
-      "support_cycle": "월",
-      "gemini_ok": true,
-      "updated_at": "2026-08-07T09:06:22.491945+09:00"
     },
     {
       "id": "local_WLF00003988",
@@ -194090,45 +193821,6 @@
       "updated_at": "2026-08-14T04:12:40.577337+09:00"
     },
     {
-      "id": "local_WLF00006147",
-      "source": "local",
-      "title": "산모신생아 건강관리지원사업(자쳬)",
-      "organization": "전남광주통합특별시 강진군 보건소 보건사업과",
-      "summary": [
-        "산모신생아 건강관리지원사업(자쳬)",
-        "산모신생아 건강관리사에게 교통비 지원",
-        "전남광주통합특별시 강진군 보"
-      ],
-      "plain_desc": "산모신생아 건강관리사에게 교통비 지원으로 산모 신생아 건강관리사 이용률 확대 및 출산율 향상에 도모하고자함.",
-      "categories": [
-        "의료·건강",
-        "임신·출산·육아"
-      ],
-      "age_groups": [
-        "전체"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "광주광역시"
-        ],
-        "districts": [
-          "전체"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006147&wlfareInfoReldBztpCd=02",
-      "contact": "1413",
-      "support_type": "서민금융",
-      "support_cycle": "수시",
-      "gemini_ok": true,
-      "updated_at": "2026-08-14T04:12:40.577395+09:00"
-    },
-    {
       "id": "local_WLF00006088",
       "source": "local",
       "title": "홀로사는 노인 안부살피기 사업",
@@ -195196,46 +194888,6 @@
       "updated_at": "2026-08-14T04:12:40.579496+09:00"
     },
     {
-      "id": "local_WLF00005375",
-      "source": "local",
-      "title": "구례군 유치원 및 어린이집 방과후 특별활동비 지원사업",
-      "organization": "전남광주통합특별시 구례군 평생교육과",
-      "summary": [
-        "구례군 유치원 및 어린이집 방과후 특",
-        "특별활동비 지원을 통한 수준 높은 보",
-        "전남광주통합특별시 구례군 평"
-      ],
-      "plain_desc": "특별활동비 지원을 통한 수준 높은 보육서비스 제공 및 학부모 보육 비용 부담 경감",
-      "categories": [
-        "임신·출산·육아",
-        "교육·훈련"
-      ],
-      "age_groups": [
-        "영유아(0-6세)",
-        "아동·청소년(7-18세)"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "광주광역시"
-        ],
-        "districts": [
-          "전체"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005375&wlfareInfoReldBztpCd=02",
-      "contact": "1352",
-      "support_type": "서민금융, 교육",
-      "support_cycle": "월",
-      "gemini_ok": true,
-      "updated_at": "2026-08-14T04:12:40.579556+09:00"
-    },
-    {
       "id": "local_WLF00005248",
       "source": "local",
       "title": "다둥이가정 병원비 지원",
@@ -195657,45 +195309,6 @@
       "support_cycle": "분기",
       "gemini_ok": true,
       "updated_at": "2026-08-14T04:12:40.580226+09:00"
-    },
-    {
-      "id": "local_WLF00004920",
-      "source": "local",
-      "title": "산모신생아 건강관리지원사업(자체)",
-      "organization": "전남광주통합특별시 강진군 보건소",
-      "summary": [
-        "산모신생아 건강관리지원사업(자체)",
-        "산모신생아 건강관리사에게 교통비 지원",
-        "전남광주통합특별시 강진군 보"
-      ],
-      "plain_desc": "산모신생아 건강관리사에게 교통비 지원으로 산모·신생아 건강관리사 이용률 확대 및 출산율 향상에 도모하고자 함.",
-      "categories": [
-        "의료·건강",
-        "임신·출산·육아"
-      ],
-      "age_groups": [
-        "전체"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "광주광역시"
-        ],
-        "districts": [
-          "전체"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00004920&wlfareInfoReldBztpCd=02",
-      "contact": "7705",
-      "support_type": "서민금융",
-      "support_cycle": "수시",
-      "gemini_ok": true,
-      "updated_at": "2026-08-14T04:12:40.580278+09:00"
     },
     {
       "id": "local_WLF00004917",
@@ -197204,45 +196817,6 @@
       "support_cycle": "월",
       "gemini_ok": true,
       "updated_at": "2026-08-14T04:12:40.582688+09:00"
-    },
-    {
-      "id": "local_WLF00000199",
-      "source": "local",
-      "title": "청년 취업활동수당 지원사업",
-      "organization": "전남광주통합특별시 영광군 인구교육정책실",
-      "summary": [
-        "청년 취업활동수당 지원사업",
-        "취업 준비에 필요한 활동비를 지원하여",
-        "전남광주통합특별시 영광군 인"
-      ],
-      "plain_desc": "취업 준비에 필요한 활동비를 지원하여 자립할 수 있는 기반 마련",
-      "categories": [
-        "취업·창업",
-        "생활비·소득"
-      ],
-      "age_groups": [
-        "청년(19-34세)"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "광주광역시"
-        ],
-        "districts": [
-          "전체"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000199&wlfareInfoReldBztpCd=02",
-      "contact": "3136",
-      "support_type": "서민금융, 일자리",
-      "support_cycle": "월",
-      "gemini_ok": true,
-      "updated_at": "2026-08-14T04:12:40.582738+09:00"
     },
     {
       "id": "local_WLF00002425",
@@ -204811,6 +204385,46 @@
       "support_cycle": "수시",
       "gemini_ok": true,
       "updated_at": "2026-08-20T03:41:47.488466+09:00"
+    },
+    {
+      "id": "local_WLF00001200",
+      "source": "local",
+      "title": "저소득층 국민건강보험료 지원",
+      "organization": "부산광역시 강서구 복지교육국 생활지원과",
+      "summary": [
+        "저소득층 국민건강보험료 지원",
+        "장애인",
+        "부산광역시 강서구 복지교육국"
+      ],
+      "plain_desc": "신체적 장애나 한부모가족 환경 등의 이유로 국민건강보험료와 장기요양보험료를 납부하는 데 어려움을 겪는 저소득계층에게 보험료를 지원",
+      "categories": [
+        "의료·건강",
+        "장애인지원",
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "한부모가구"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "부산광역시"
+        ],
+        "districts": [
+          "강서구"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001200&wlfareInfoReldBztpCd=02",
+      "contact": "2916",
+      "support_type": "신체건강",
+      "support_cycle": "월",
+      "gemini_ok": true,
+      "updated_at": "2026-08-21T03:47:07.851407+09:00"
     }
   ]
 }
