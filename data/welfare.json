@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "last_updated": "2026-08-21T03:47:09.944912+09:00",
-    "last_updated_kst": "2026년 08월 21일 03:47",
-    "total_count": 5231,
-    "total_fetched_from_api": 5231
+    "last_updated": "2026-08-23T03:38:30.988133+09:00",
+    "last_updated_kst": "2026년 08월 23일 03:38",
+    "total_count": 5226,
+    "total_fetched_from_api": 5226
   },
   "items": [
     {
@@ -101861,50 +101861,6 @@
       "updated_at": "2026-08-07T09:06:14.838294+09:00"
     },
     {
-      "id": "local_WLF00002107",
-      "source": "local",
-      "title": "다문화가족 모국방문지원사업",
-      "organization": "전북특별자치도 순창군 행정복지국 주민복지과",
-      "summary": [
-        "다문화가족 모국방문지원사업",
-        "다문화·탈북민",
-        "전북특별자치도 순창군 행정복"
-      ],
-      "plain_desc": "경제적인 사정등으로 모국을 방문하지 못하는 다문화가정에 모국방문의 기회를 제공하여 다문화가족의 안정적인 정착지원",
-      "categories": [
-        "임신·출산·육아",
-        "교육·훈련",
-        "문화·여가"
-      ],
-      "age_groups": [
-        "영유아(0-6세)",
-        "아동·청소년(7-18세)",
-        "청년(19-34세)",
-        "중장년(35-64세)"
-      ],
-      "household_types": [
-        "다자녀가구",
-        "다문화가구"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "전북특별자치도"
-        ],
-        "districts": [
-          "순창군"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00002107&wlfareInfoReldBztpCd=02",
-      "contact": "2400",
-      "support_type": "서민금융, 입양·위탁",
-      "support_cycle": "1회성",
-      "gemini_ok": true,
-      "updated_at": "2026-08-07T09:06:14.838355+09:00"
-    },
-    {
       "id": "local_WLF00000695",
       "source": "local",
       "title": "여성취(창)업지원사업",
@@ -149772,49 +149728,6 @@
       "updated_at": "2026-08-07T09:06:18.400137+09:00"
     },
     {
-      "id": "local_WLF00003313",
-      "source": "local",
-      "title": "주민소득지원 및 주민생활안정자금 지원",
-      "organization": "경상북도 봉화군 주민복지과",
-      "summary": [
-        "주민소득지원 및 주민생활안정자금 지원",
-        "저소득",
-        "경상북도 봉화군 주민복지과"
-      ],
-      "plain_desc": "저소득층 주민에게 적정한 생활안정자금 대출로 자립기반을 조성하고 안정적인 생활을 도모하고자 함",
-      "categories": [
-        "임신·출산·육아",
-        "교육·훈련",
-        "생활비·소득"
-      ],
-      "age_groups": [
-        "영유아(0-6세)",
-        "아동·청소년(7-18세)",
-        "청년(19-34세)",
-        "중장년(35-64세)"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "경상북도"
-        ],
-        "districts": [
-          "봉화군"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00003313&wlfareInfoReldBztpCd=02",
-      "contact": "65290",
-      "support_type": "",
-      "support_cycle": "1회성",
-      "gemini_ok": true,
-      "updated_at": "2026-08-07T09:06:18.400194+09:00"
-    },
-    {
       "id": "local_WLF00003382",
       "source": "local",
       "title": "참전유공자 및 전몰군경 유족 수당",
@@ -152651,92 +152564,6 @@
       "updated_at": "2026-08-07T09:06:20.444318+09:00"
     },
     {
-      "id": "local_WLF00002858",
-      "source": "local",
-      "title": "가정위탁아동 자립지원(자립정착금)",
-      "organization": "강원특별자치도 홍천군 행정복지국 복지과",
-      "summary": [
-        "가정위탁아동 자립지원(자립정착금)",
-        "가정위탁 종료",
-        "강원특별자치도 홍천군 행정복"
-      ],
-      "plain_desc": "가정위탁 종료, 보호연장 종료 등 아동들에게 자립정착금을 지원하여 안정적인 생활 도모",
-      "categories": [
-        "주거·임대",
-        "임신·출산·육아",
-        "교육·훈련"
-      ],
-      "age_groups": [
-        "아동·청소년(7-18세)"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "강원특별자치도"
-        ],
-        "districts": [
-          "홍천군"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00002858&wlfareInfoReldBztpCd=02",
-      "contact": "1811",
-      "support_type": "서민금융, 보호·돌봄, 입양·위탁, 주거",
-      "support_cycle": "월",
-      "gemini_ok": true,
-      "updated_at": "2026-08-07T09:06:20.444389+09:00"
-    },
-    {
-      "id": "local_WLF00003160",
-      "source": "local",
-      "title": "저소득층 결혼이민자 모국방문 지원",
-      "organization": "강원특별자치도 강릉시 복지민원국 인구가족과",
-      "summary": [
-        "저소득층 결혼이민자 모국방문 지원",
-        "저소득",
-        "강원특별자치도 강릉시 복지민"
-      ],
-      "plain_desc": "다문화가정의 복지 지원",
-      "categories": [
-        "임신·출산·육아",
-        "교육·훈련",
-        "문화·여가",
-        "생활비·소득"
-      ],
-      "age_groups": [
-        "영유아(0-6세)",
-        "아동·청소년(7-18세)",
-        "청년(19-34세)",
-        "중장년(35-64세)"
-      ],
-      "household_types": [
-        "한부모가구",
-        "다자녀가구",
-        "다문화가구"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "강원특별자치도"
-        ],
-        "districts": [
-          "강릉시"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00003160&wlfareInfoReldBztpCd=02",
-      "contact": "2763",
-      "support_type": "입양·위탁, 서민금융",
-      "support_cycle": "1회성",
-      "gemini_ok": true,
-      "updated_at": "2026-08-07T09:06:20.444462+09:00"
-    },
-    {
       "id": "local_WLF00000809",
       "source": "local",
       "title": "유기 및 위기아동지원",
@@ -152892,45 +152719,6 @@
       "support_cycle": "1회성",
       "gemini_ok": true,
       "updated_at": "2026-08-07T09:06:20.444755+09:00"
-    },
-    {
-      "id": "local_WLF00003159",
-      "source": "local",
-      "title": "저소득 재가노인 식사 배달",
-      "organization": "강원특별자치도 강릉시 복지민원국 경로장애인과",
-      "summary": [
-        "저소득 재가노인 식사 배달",
-        "저소득",
-        "강원특별자치도 강릉시 복지민"
-      ],
-      "plain_desc": "생활이 어려운 저소득 노인에 대한 식사 배달로 노후 생활 보장",
-      "categories": [
-        "노인돌봄",
-        "생활비·소득"
-      ],
-      "age_groups": [
-        "전체"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "강원특별자치도"
-        ],
-        "districts": [
-          "강릉시"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00003159&wlfareInfoReldBztpCd=02",
-      "contact": "1930",
-      "support_type": "",
-      "support_cycle": "년",
-      "gemini_ok": true,
-      "updated_at": "2026-08-07T09:06:20.444817+09:00"
     },
     {
       "id": "local_WLF00001262",
@@ -163981,47 +163769,6 @@
       "updated_at": "2026-08-07T09:06:20.464098+09:00"
     },
     {
-      "id": "local_WLF00000181",
-      "source": "local",
-      "title": "시각장애인 점자, 컴퓨터 교육 지원",
-      "organization": "충청북도 음성군 행정복지국 복지정책과",
-      "summary": [
-        "시각장애인 점자, 컴퓨터 교육 지원",
-        "장애인",
-        "충청북도 음성군 행정복지국 "
-      ],
-      "plain_desc": "* 시각장애인에게 점자교육을 지원하여 지식과 기술을 습득할 수 있는 기회를 제공하고, 컴퓨터 활용을 통한 정보화 접근 및 재활의지 향상을 통한 사회참여 기회 확대",
-      "categories": [
-        "교육·훈련",
-        "장애인지원"
-      ],
-      "age_groups": [
-        "아동·청소년(7-18세)",
-        "청년(19-34세)",
-        "중장년(35-64세)"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "충청북도"
-        ],
-        "districts": [
-          "음성군"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000181&wlfareInfoReldBztpCd=02",
-      "contact": "2460",
-      "support_type": "",
-      "support_cycle": "주",
-      "gemini_ok": true,
-      "updated_at": "2026-08-07T09:06:20.464172+09:00"
-    },
-    {
       "id": "local_WLF00000559",
       "source": "local",
       "title": "청양군노인장기요양보험 본인일부부담금 지원",
@@ -172032,44 +171779,6 @@
       "updated_at": "2026-08-07T09:06:22.486240+09:00"
     },
     {
-      "id": "local_WLF00000478",
-      "source": "local",
-      "title": "헌혈 장려금 지원 확대",
-      "organization": "충청북도 충주시 보건소 보건과",
-      "summary": [
-        "헌혈 장려금 지원 확대",
-        "혈액관리법 제4조의3에 따라 시민의 ",
-        "충청북도 충주시 보건소 보건"
-      ],
-      "plain_desc": "혈액관리법 제4조의3에 따라 시민의 생명과 건강을 보호하기 위한 자발적인 헌혈활동 증진을 위하여 관내 헌혈자에게 상품권을 지급하여 헌혈을 활성화 시키고자 함",
-      "categories": [
-        "생활비·소득"
-      ],
-      "age_groups": [
-        "전체"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "충청북도"
-        ],
-        "districts": [
-          "충주시"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000478&wlfareInfoReldBztpCd=02",
-      "contact": "1723",
-      "support_type": "",
-      "support_cycle": "1회성",
-      "gemini_ok": true,
-      "updated_at": "2026-08-07T09:06:22.486308+09:00"
-    },
-    {
       "id": "local_WLF00001448",
       "source": "local",
       "title": "광명시 저소득층 아동 치과주치의 의료지원사업",
@@ -174153,46 +173862,6 @@
       "support_cycle": "월",
       "gemini_ok": true,
       "updated_at": "2026-08-07T09:06:22.490147+09:00"
-    },
-    {
-      "id": "local_WLF00005845",
-      "source": "local",
-      "title": "시설보호아동 마음건강돌봄사업",
-      "organization": "경기도 여성가족국 아동돌봄과",
-      "summary": [
-        "시설보호아동 마음건강돌봄사업",
-        "시설보호아동의 심리정서지원",
-        "경기도 여성가족국 아동돌봄과"
-      ],
-      "plain_desc": "시설보호아동의 심리정서지원",
-      "categories": [
-        "주거·임대",
-        "의료·건강",
-        "임신·출산·육아"
-      ],
-      "age_groups": [
-        "아동·청소년(7-18세)"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "경기도"
-        ],
-        "districts": [
-          "전체"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005845&wlfareInfoReldBztpCd=02",
-      "contact": "2217",
-      "support_type": "보호·돌봄, 주거",
-      "support_cycle": "반기",
-      "gemini_ok": true,
-      "updated_at": "2026-08-07T09:06:22.490194+09:00"
     },
     {
       "id": "local_WLF00005841",
@@ -178569,86 +178238,6 @@
       "updated_at": "2026-08-07T09:06:22.496860+09:00"
     },
     {
-      "id": "local_WLF00000721",
-      "source": "local",
-      "title": "차상위이하 아동 방과후 보육료",
-      "organization": "경기도 여성가족국 보육정책과",
-      "summary": [
-        "차상위이하 아동 방과후 보육료",
-        "장애인",
-        "경기도 여성가족국 보육정책과"
-      ],
-      "plain_desc": "방과 후 어린이집을 이용하는 만12세 이하 초등학교 취학아동[차상위 이하(법정저소득층 포함) 밎 장애아동] 보육료 지원으로 저소득 가정의 양육부담 경감 및 부모의 사회활동 지원",
-      "categories": [
-        "임신·출산·육아",
-        "장애인지원",
-        "생활비·소득"
-      ],
-      "age_groups": [
-        "아동·청소년(7-18세)"
-      ],
-      "household_types": [
-        "한부모가구"
-      ],
-      "income_levels": [
-        "차상위계층"
-      ],
-      "regions": {
-        "sido": [
-          "경기도"
-        ],
-        "districts": [
-          "전체"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000721&wlfareInfoReldBztpCd=02",
-      "contact": "2098",
-      "support_type": "",
-      "support_cycle": "월",
-      "gemini_ok": true,
-      "updated_at": "2026-08-07T09:06:22.496924+09:00"
-    },
-    {
-      "id": "local_WLF00004078",
-      "source": "local",
-      "title": "저소득 장애인 의료비",
-      "organization": "경기도 복지국 장애인복지과",
-      "summary": [
-        "저소득 장애인 의료비",
-        "저소득",
-        "경기도 복지국 장애인복지과"
-      ],
-      "plain_desc": "저소득 장애인의 의료비 부담 경감 및 건강 증진 도모",
-      "categories": [
-        "의료·건강",
-        "장애인지원",
-        "생활비·소득"
-      ],
-      "age_groups": [
-        "전체"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "경기도"
-        ],
-        "districts": [
-          "전체"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00004078&wlfareInfoReldBztpCd=02",
-      "contact": "4354",
-      "support_type": "서민금융",
-      "support_cycle": "년",
-      "gemini_ok": true,
-      "updated_at": "2026-08-07T09:06:22.496975+09:00"
-    },
-    {
       "id": "local_WLF00004868",
       "source": "local",
       "title": "동작구 입학준비금 지원사업",
@@ -180351,44 +179940,6 @@
       "updated_at": "2026-08-07T09:06:22.499704+09:00"
     },
     {
-      "id": "local_WLF00004116",
-      "source": "local",
-      "title": "활기찬 노후생활 지원",
-      "organization": "울산광역시 남구 복지교육국 노인장애인과",
-      "summary": [
-        "활기찬 노후생활 지원",
-        "노인 여가문화 활성화 ※전년도 집행금",
-        "울산광역시 남구 복지교육국 "
-      ],
-      "plain_desc": "노인 여가문화 활성화 ※전년도 집행금액 : 0원 -코로나19로 인한 사업 미진행 (사업관리 항목 0원으로 입력하니 계속 금액을 입력하라는 메시지가 떠서 부득이하게 1원으로 입력, 시스템문제로 개선필요)",
-      "categories": [
-        "생활비·소득"
-      ],
-      "age_groups": [
-        "전체"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "울산광역시"
-        ],
-        "districts": [
-          "남구"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00004116&wlfareInfoReldBztpCd=02",
-      "contact": "1741",
-      "support_type": "",
-      "support_cycle": "1회성",
-      "gemini_ok": true,
-      "updated_at": "2026-08-07T09:06:22.499773+09:00"
-    },
-    {
       "id": "local_WLF00000914",
       "source": "local",
       "title": "무연고사망자(무연고사망자 장례비)",
@@ -180501,46 +180052,6 @@
       "support_cycle": "수시",
       "gemini_ok": true,
       "updated_at": "2026-08-07T09:06:22.499901+09:00"
-    },
-    {
-      "id": "local_WLF00002437",
-      "source": "local",
-      "title": "결혼이민자 한국어능력향상 마일리지 제도 운영",
-      "organization": "전북특별자치도 순창군 행정복지국 주민복지과",
-      "summary": [
-        "결혼이민자 한국어능력향상 마일리지 제",
-        "다문화·탈북민",
-        "전북특별자치도 순창군 행정복"
-      ],
-      "plain_desc": "한국어수업 참여율을 높이고 상대적으로 형편이 어려운 다문화가정의 환경을 개선함으로써 엄마와 자녀의 학습 분위기 조성 도모",
-      "categories": [
-        "문화·여가"
-      ],
-      "age_groups": [
-        "청년(19-34세)",
-        "중장년(35-64세)"
-      ],
-      "household_types": [
-        "다자녀가구",
-        "다문화가구"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "전북특별자치도"
-        ],
-        "districts": [
-          "순창군"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00002437&wlfareInfoReldBztpCd=02",
-      "contact": "1799",
-      "support_type": "서민금융",
-      "support_cycle": "1회성",
-      "gemini_ok": true,
-      "updated_at": "2026-08-07T09:06:22.499962+09:00"
     },
     {
       "id": "local_WLF00004527",
@@ -204425,6 +203936,275 @@
       "support_cycle": "월",
       "gemini_ok": true,
       "updated_at": "2026-08-21T03:47:07.851407+09:00"
+    },
+    {
+      "id": "local_WLF00006757",
+      "source": "local",
+      "title": "희귀질환자 교통비 지원",
+      "organization": "충청남도 보령시 보건소 건강증진과",
+      "summary": [
+        "희귀질환자 교통비 지원",
+        "희귀질환자의 치료 접근성을 높이고 경",
+        "충청남도 보령시 보건소 건강"
+      ],
+      "plain_desc": "희귀질환자의 치료 접근성을 높이고 경제적 부담을 완화하여 환자 및 가족의 사회경제적·심리적 안정 도모",
+      "categories": [
+        "의료·건강"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "충청남도"
+        ],
+        "districts": [
+          "보령시"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006757&wlfareInfoReldBztpCd=02",
+      "contact": "172",
+      "support_type": "서민금융, 신체건강",
+      "support_cycle": "수시",
+      "gemini_ok": true,
+      "updated_at": "2026-08-23T03:38:30.987720+09:00"
+    },
+    {
+      "id": "local_WLF00006756",
+      "source": "local",
+      "title": "웨딩엔 정읍 지원사업",
+      "organization": "전북특별자치도 정읍시 복지환경국 여성가족과",
+      "summary": [
+        "웨딩엔 정읍 지원사업",
+        "예비부부의 결혼 초기 경제적 부담을 ",
+        "전북특별자치도 정읍시 복지환"
+      ],
+      "plain_desc": "예비부부의 결혼 초기 경제적 부담을 완화하고 지역경제를 활성화하기 위하여 예산의 범위에서 결혼예식 비용을 지원",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "청년(19-34세)"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전북특별자치도"
+        ],
+        "districts": [
+          "정읍시"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006756&wlfareInfoReldBztpCd=02",
+      "contact": "135",
+      "support_type": "서민금융",
+      "support_cycle": "1회성",
+      "gemini_ok": true,
+      "updated_at": "2026-08-23T03:38:30.987803+09:00"
+    },
+    {
+      "id": "local_WLF00006755",
+      "source": "local",
+      "title": "긴급아이돌봄 서비스 추진",
+      "organization": "강원특별자치도 정선군 행정국 가족행복과",
+      "summary": [
+        "긴급아이돌봄 서비스 추진",
+        "❍ 정선군 내에 거주하고 있는 맞벌이",
+        "강원특별자치도 정선군 행정국"
+      ],
+      "plain_desc": "❍ 정선군 내에 거주하고 있는 맞벌이·한부모·조손가정 증가로 돌봄 공백 발생 사례가 지속적으로 증가하고 질병 및 긴급근무등 긴급돌봄 서비스 수요 증가. ❍ 긴급 상황 발생시 신속하게 돌봄서비스를 제공하고 이용에 따른 일부비용을 지원함으로써 아동의 안전을 확보하고 보호자의 경제적·양육적부담을 완화",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "영유아(0-6세)"
+      ],
+      "household_types": [
+        "한부모가구"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "강원특별자치도"
+        ],
+        "districts": [
+          "정선군"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006755&wlfareInfoReldBztpCd=02",
+      "contact": "125",
+      "support_type": "서민금융",
+      "support_cycle": "1회성",
+      "gemini_ok": true,
+      "updated_at": "2026-08-23T03:38:30.987888+09:00"
+    },
+    {
+      "id": "local_WLF00006754",
+      "source": "local",
+      "title": "독거어르신 제철과일(광명 과일 바구니) 지원사업",
+      "organization": "경기도 광명시 돌봄복지국 노인장애인과",
+      "summary": [
+        "독거어르신 제철과일(광명 과일 바구니",
+        "저소득",
+        "경기도 광명시 돌봄복지국 노"
+      ],
+      "plain_desc": "독거어르신 고독사 예방 및 균형 잡힌 영양 섭취를 통한 건강 증진 도모",
+      "categories": [
+        "노인돌봄",
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "1인가구"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "경기도"
+        ],
+        "districts": [
+          "광명시"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006754&wlfareInfoReldBztpCd=02",
+      "contact": "129",
+      "support_type": "",
+      "support_cycle": "1회성",
+      "gemini_ok": true,
+      "updated_at": "2026-08-23T03:38:30.987942+09:00"
+    },
+    {
+      "id": "local_WLF00006751",
+      "source": "local",
+      "title": "책꾸러미 배부사업",
+      "organization": "강원특별자치도 삼척시 평생학습센터",
+      "summary": [
+        "책꾸러미 배부사업",
+        "생애 초기 책꾸러미 지원을 통해 아이",
+        "강원특별자치도 삼척시 평생학"
+      ],
+      "plain_desc": "생애 초기 책꾸러미 지원을 통해 아이 키우기 좋은 도시 환경 조성 및 삼척형 인재를 육성하고자 함.",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "영유아(0-6세)"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "강원특별자치도"
+        ],
+        "districts": [
+          "삼척시"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006751&wlfareInfoReldBztpCd=02",
+      "contact": "134",
+      "support_type": "",
+      "support_cycle": "년",
+      "gemini_ok": true,
+      "updated_at": "2026-08-23T03:38:30.987992+09:00"
+    },
+    {
+      "id": "local_WLF00006750",
+      "source": "local",
+      "title": "완주군 다자녀가정 양육비",
+      "organization": "전북특별자치도 완주군 문화관광복지국 사회복지과",
+      "summary": [
+        "완주군 다자녀가정 양육비",
+        "다자녀",
+        "전북특별자치도 완주군 문화관"
+      ],
+      "plain_desc": "출산율 저하에 따른 사회문제에 적극 대처하고 출산·양육에 유리한 사회 환경을 조성하기 위하여 「저출산·고령사회기본법」제10조에 따라 셋째이상 자녀를 출산한 다자녀가정에 대한 경제적 지원",
+      "categories": [
+        "임신·출산·육아"
+      ],
+      "age_groups": [
+        "아동·청소년(7-18세)"
+      ],
+      "household_types": [
+        "다자녀가구"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전북특별자치도"
+        ],
+        "districts": [
+          "완주군"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006750&wlfareInfoReldBztpCd=02",
+      "contact": "115",
+      "support_type": "서민금융",
+      "support_cycle": "월",
+      "gemini_ok": true,
+      "updated_at": "2026-08-23T03:38:30.988057+09:00"
+    },
+    {
+      "id": "local_WLF00000587",
+      "source": "local",
+      "title": "학기중토.일.공휴일급식지원(교육청사업)",
+      "organization": "강원특별자치도 홍천군 행정복지국 복지과",
+      "summary": [
+        "학기중토.일.공휴일급식지원(교육청사업",
+        "저소득",
+        "강원특별자치도 홍천군 행정복"
+      ],
+      "plain_desc": "학기중 토·일·공휴일 아동급식 지원 교육청사업으로 지자체 자체사업이 아님",
+      "categories": [
+        "임신·출산·육아",
+        "교육·훈련",
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "아동·청소년(7-18세)"
+      ],
+      "household_types": [
+        "한부모가구"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "강원특별자치도"
+        ],
+        "districts": [
+          "홍천군"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000587&wlfareInfoReldBztpCd=02",
+      "contact": "379",
+      "support_type": "안전·위기, 교육",
+      "support_cycle": "월",
+      "gemini_ok": true,
+      "updated_at": "2026-08-23T03:38:30.988112+09:00"
     }
   ]
 }
