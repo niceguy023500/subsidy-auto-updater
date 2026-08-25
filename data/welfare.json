@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "last_updated": "2026-08-24T03:41:59.074941+09:00",
-    "last_updated_kst": "2026년 08월 24일 03:41",
-    "total_count": 5226,
-    "total_fetched_from_api": 5226
+    "last_updated": "2026-08-26T03:51:02.682850+09:00",
+    "last_updated_kst": "2026년 08월 26일 03:51",
+    "total_count": 5229,
+    "total_fetched_from_api": 5229
   },
   "items": [
     {
@@ -175453,44 +175453,6 @@
       "updated_at": "2026-08-07T09:06:22.492780+09:00"
     },
     {
-      "id": "local_WLF00005572",
-      "source": "local",
-      "title": "도봉형 청년 전세보증금반환보증 보증료 지원 사업",
-      "organization": "서울특별시 도봉구 미래환경국 청년미래과",
-      "summary": [
-        "도봉형 청년 전세보증금반환보증 보증료",
-        "국토교통부 전세보증금반환보증 사업의 ",
-        "서울특별시 도봉구 미래환경국"
-      ],
-      "plain_desc": "국토교통부 전세보증금반환보증 사업의 청년 대상 연령을 보완하여 도봉구 40~45세 청년에게 보증료를 지원하고자 함",
-      "categories": [
-        "주거·임대"
-      ],
-      "age_groups": [
-        "청년(19-34세)"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "서울특별시"
-        ],
-        "districts": [
-          "도봉구"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005572&wlfareInfoReldBztpCd=02",
-      "contact": "2459",
-      "support_type": "서민금융",
-      "support_cycle": "년",
-      "gemini_ok": true,
-      "updated_at": "2026-08-07T09:06:22.492836+09:00"
-    },
-    {
       "id": "local_WLF00005570",
       "source": "local",
       "title": "충청남도 취업자격증 취득지원 사업",
@@ -204205,6 +204167,159 @@
       "support_cycle": "월",
       "gemini_ok": true,
       "updated_at": "2026-08-23T03:38:30.988112+09:00"
+    },
+    {
+      "id": "local_WLF00006762",
+      "source": "local",
+      "title": "원주시 정착 청년 4배 통장",
+      "organization": "강원특별자치도 원주시 경제국 기업지원일자리과",
+      "summary": [
+        "원주시 정착 청년 4배 통장",
+        "관내 기업에 재직 중인 근로자의 실질",
+        "강원특별자치도 원주시 경제국"
+      ],
+      "plain_desc": "관내 기업에 재직 중인 근로자의 실질 임금 수준을 개선하고 장기 재직을 유도하여 양질의 일자리 제공 및 기업경쟁력의 강화 도모 (관내 학교 졸업자의 관내 정착 유도 및 지역인재 유출 방지, 유치기업과 함께 원주로 이주하는 근로자의 안정적 조기정착 지원)",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "청년(19-34세)"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "강원특별자치도"
+        ],
+        "districts": [
+          "원주시"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006762&wlfareInfoReldBztpCd=02",
+      "contact": "72",
+      "support_type": "서민금융",
+      "support_cycle": "년",
+      "gemini_ok": true,
+      "updated_at": "2026-08-26T03:51:02.682506+09:00"
+    },
+    {
+      "id": "local_WLF00006761",
+      "source": "local",
+      "title": "청년 자격증 응시료 지원사업",
+      "organization": "전남광주통합특별시 고흥군 인구정책실",
+      "summary": [
+        "청년 자격증 응시료 지원사업",
+        "고흥군에 주민등록을 두고 있는 청년들",
+        "전남광주통합특별시 고흥군 인"
+      ],
+      "plain_desc": "고흥군에 주민등록을 두고 있는 청년들에게 취업에 필요한 자격증 시험 응시료를 지원하여 구직활동의 경제적 부담을 완화하고 취업능력 개발의 기회 제공코자 함",
+      "categories": [
+        "취업·창업"
+      ],
+      "age_groups": [
+        "청년(19-34세)"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "광주광역시"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006761&wlfareInfoReldBztpCd=02",
+      "contact": "51",
+      "support_type": "서민금융, 일자리",
+      "support_cycle": "년",
+      "gemini_ok": true,
+      "updated_at": "2026-08-26T03:51:02.682620+09:00"
+    },
+    {
+      "id": "local_WLF00006759",
+      "source": "local",
+      "title": "전남 청년 희망일자리 지원사업",
+      "organization": "전남광주통합특별시 인구청년이민국 청년희망과",
+      "summary": [
+        "전남 청년 희망일자리 지원사업",
+        "◦ 지역 청년유출 등으로 인한 지방소",
+        "전남광주통합특별시 인구청년이"
+      ],
+      "plain_desc": "◦ 지역 청년유출 등으로 인한 지방소멸위기에 대응하고, 지역 청년정착 지원을 통한 고용창출로 지역 민생경제 활력 제고 ◦ 정부의 지역주도형 일자리사업 축소로, 열악한 지역 소기업, 사회적경제기업 등의 어려움이 가중되고 일자리약자인 (미취업) 청년의 일자리 불안 가중 ◦ 지역 정착을 희망하는 청년에게 직무경험 기회를 제공하고, 근무기간 중 역량강화를 통해 양질의 지역 민간기업 취업 및 정규직 전환 지원",
+      "categories": [
+        "취업·창업"
+      ],
+      "age_groups": [
+        "청년(19-34세)"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "광주광역시"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006759&wlfareInfoReldBztpCd=02",
+      "contact": "52",
+      "support_type": "일자리, 서민금융",
+      "support_cycle": "월",
+      "gemini_ok": true,
+      "updated_at": "2026-08-26T03:51:02.682750+09:00"
+    },
+    {
+      "id": "local_WLF00006758",
+      "source": "local",
+      "title": "산모·신생아 건강관리 서비스 본인부담금 지원",
+      "organization": "강원특별자치도 인제군 보건소 건강증진과",
+      "summary": [
+        "산모·신생아 건강관리 서비스 본인부담",
+        "건강관리 서비스 이용 후 지원금을 지",
+        "강원특별자치도 인제군 보건소"
+      ],
+      "plain_desc": "건강관리 서비스 이용 후 지원금을 지원하여 양육 부담을 경감하고 신생아의 건강한 성장을 도모하고자 함.",
+      "categories": [
+        "의료·건강",
+        "임신·출산·육아"
+      ],
+      "age_groups": [
+        "영유아(0-6세)"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "강원특별자치도"
+        ],
+        "districts": [
+          "인제군"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006758&wlfareInfoReldBztpCd=02",
+      "contact": "27",
+      "support_type": "서민금융, 임신·출산",
+      "support_cycle": "1회성",
+      "gemini_ok": true,
+      "updated_at": "2026-08-26T03:51:02.682832+09:00"
     }
   ]
 }
