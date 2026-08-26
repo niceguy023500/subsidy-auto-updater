@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-08-26T03:51:04.841092+09:00",
-    "last_updated_kst": "2026년 08월 26일 03:51",
+    "last_updated": "2026-08-27T04:53:31.616043+09:00",
+    "last_updated_kst": "2026년 08월 27일 04:53",
     "total_count": 5229,
     "total_fetched_from_api": 5229
   },
@@ -38723,45 +38723,6 @@
       "updated_at": "2026-08-07T09:06:09.962418+09:00"
     },
     {
-      "id": "local_WLF00006691",
-      "source": "local",
-      "title": "청양군노인장기요양보험 본인일부부담금 지원",
-      "organization": "충청남도 청양군 통합돌봄과",
-      "summary": [
-        "청양군노인장기요양보험 본인일부부담금 ",
-        "노인장기요양보험 서비스를 이용하는 어",
-        "충청남도 청양군 통합돌봄과"
-      ],
-      "plain_desc": "노인장기요양보험 서비스를 이용하는 어르신들의 경제적 부담 완화(대상자 없을 경우 단계적 사업 폐지예정)",
-      "categories": [
-        "의료·건강",
-        "노인돌봄"
-      ],
-      "age_groups": [
-        "전체"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "충청남도"
-        ],
-        "districts": [
-          "청양군"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006691&wlfareInfoReldBztpCd=02",
-      "contact": "190",
-      "support_type": "서민금융, 신체건강",
-      "support_cycle": "월",
-      "gemini_ok": true,
-      "updated_at": "2026-08-07T09:06:09.962645+09:00"
-    },
-    {
       "id": "local_WLF00006690",
       "source": "local",
       "title": "제주 콘텐츠 청년 일자리 빌드업 지원사업",
@@ -61368,45 +61329,6 @@
       "support_cycle": "수시",
       "gemini_ok": true,
       "updated_at": "2026-08-07T09:06:11.431082+09:00"
-    },
-    {
-      "id": "local_WLF00001189",
-      "source": "local",
-      "title": "다자녀사랑 안심보험",
-      "organization": "경기도 성남시 복지국 여성가족과",
-      "summary": [
-        "다자녀사랑 안심보험",
-        "셋째자녀 이상 출생아에게 상해 및 질",
-        "경기도 성남시 복지국 여성가"
-      ],
-      "plain_desc": "셋째자녀 이상 출생아에게 상해 및 질병 등에 대비하기 위한 안심보험을 가입하여 영유아의 건전한 성장 도모",
-      "categories": [
-        "임신·출산·육아"
-      ],
-      "age_groups": [
-        "영유아(0-6세)",
-        "아동·청소년(7-18세)"
-      ],
-      "household_types": [
-        "다자녀가구"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "경기도"
-        ],
-        "districts": [
-          "성남시"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001189&wlfareInfoReldBztpCd=02",
-      "contact": "3288",
-      "support_type": "",
-      "support_cycle": "수시",
-      "gemini_ok": true,
-      "updated_at": "2026-08-07T09:06:11.431135+09:00"
     },
     {
       "id": "local_WLF00001568",
@@ -150045,50 +149967,6 @@
       "updated_at": "2026-08-07T09:06:18.400697+09:00"
     },
     {
-      "id": "local_WLF00003764",
-      "source": "local",
-      "title": "저소득층 생활안정기금융자",
-      "organization": "경상북도 영양군 행정복지국 주민복지과",
-      "summary": [
-        "저소득층 생활안정기금융자",
-        "저소득",
-        "경상북도 영양군 행정복지국 "
-      ],
-      "plain_desc": "농촌지역 주민의 소득수준 향상과 생계자금이 부족한 저소득 주민의 생활안정 추구",
-      "categories": [
-        "임신·출산·육아",
-        "교육·훈련",
-        "취업·창업",
-        "생활비·소득"
-      ],
-      "age_groups": [
-        "영유아(0-6세)",
-        "아동·청소년(7-18세)",
-        "청년(19-34세)",
-        "중장년(35-64세)"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "경상북도"
-        ],
-        "districts": [
-          "영양군"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00003764&wlfareInfoReldBztpCd=02",
-      "contact": "3432",
-      "support_type": "일자리, 안전·위기, 교육",
-      "support_cycle": "1회성",
-      "gemini_ok": true,
-      "updated_at": "2026-08-07T09:06:18.400755+09:00"
-    },
-    {
       "id": "local_WLF00003765",
       "source": "local",
       "title": "참전유공자 사망위로금",
@@ -198865,49 +198743,6 @@
       "updated_at": "2026-08-14T04:12:40.586996+09:00"
     },
     {
-      "id": "local_WLF00003542",
-      "source": "local",
-      "title": "신안군 저소득층 희망나눔",
-      "organization": "전남광주통합특별시 신안군 문화예술관광국 주민복지과",
-      "summary": [
-        "신안군 저소득층 희망나눔",
-        "읍면 민관협력 체계",
-        "전남광주통합특별시 신안군 문"
-      ],
-      "plain_desc": "읍면 민관협력 체계, 인적안정망 등을 활용하여 저소득층 취약계층을 발굴？지원하고, 복지사각지대 해소에 기여",
-      "categories": [
-        "임신·출산·육아",
-        "교육·훈련",
-        "생활비·소득"
-      ],
-      "age_groups": [
-        "영유아(0-6세)",
-        "아동·청소년(7-18세)",
-        "청년(19-34세)",
-        "중장년(35-64세)"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "광주광역시"
-        ],
-        "districts": [
-          "전체"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00003542&wlfareInfoReldBztpCd=02",
-      "contact": "2757",
-      "support_type": "서민금융",
-      "support_cycle": "수시",
-      "gemini_ok": true,
-      "updated_at": "2026-08-14T04:12:40.587056+09:00"
-    },
-    {
       "id": "local_WLF00004698",
       "source": "local",
       "title": "빛고을50+일자리사업",
@@ -204320,6 +204155,160 @@
       "support_cycle": "1회성",
       "gemini_ok": true,
       "updated_at": "2026-08-26T03:51:02.682832+09:00"
+    },
+    {
+      "id": "local_WLF00006767",
+      "source": "local",
+      "title": "충남형 가족돌봄 지원사업",
+      "organization": "충청남도 인구전략국 여성가족정책과",
+      "summary": [
+        "충남형 가족돌봄 지원사업",
+        "다자녀",
+        "충청남도 인구전략국 여성가족"
+      ],
+      "plain_desc": "양육 공백 가정에서 조부모(4촌 이내 친족 포함)가 손자녀를 돌볼 경우, 돌봄수당을 지원하여 안정적인 가정 양육 환경을 조성하고 아동의 정서 발달 도모",
+      "categories": [
+        "문화·여가"
+      ],
+      "age_groups": [
+        "영유아(0-6세)"
+      ],
+      "household_types": [
+        "한부모가구",
+        "다자녀가구",
+        "다문화가구"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "충청남도"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006767&wlfareInfoReldBztpCd=02",
+      "contact": "6",
+      "support_type": "서민금융",
+      "support_cycle": "월",
+      "gemini_ok": true,
+      "updated_at": "2026-08-27T04:53:31.615746+09:00"
+    },
+    {
+      "id": "local_WLF00006766",
+      "source": "local",
+      "title": "외국인 자녀 보육료 지원",
+      "organization": "전북특별자치도 복지여성보건국 사회복지정책과",
+      "summary": [
+        "외국인 자녀 보육료 지원",
+        "어린이집 외국인 재원 아동에 대한 보",
+        "전북특별자치도 복지여성보건국"
+      ],
+      "plain_desc": "어린이집 외국인 재원 아동에 대한 보육료 지원으로 영유아의 차별받지 않는 보육환경 조성 및 안정적 보육서비스 제공",
+      "categories": [
+        "임신·출산·육아"
+      ],
+      "age_groups": [
+        "영유아(0-6세)"
+      ],
+      "household_types": [
+        "다문화가구"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전북특별자치도"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006766&wlfareInfoReldBztpCd=02",
+      "contact": "2",
+      "support_type": "",
+      "support_cycle": "월",
+      "gemini_ok": true,
+      "updated_at": "2026-08-27T04:53:31.615858+09:00"
+    },
+    {
+      "id": "local_WLF00006765",
+      "source": "local",
+      "title": "GPS형 배회감지기 단말기 구입비 지원",
+      "organization": "충청남도 천안시 서북구보건소 건강관리과",
+      "summary": [
+        "GPS형 배회감지기 단말기 구입비 지",
+        "배회 경험이 있거나 실종 우려가 있는",
+        "충청남도 천안시 서북구보건소"
+      ],
+      "plain_desc": "배회 경험이 있거나 실종 우려가 있는 치매환자에게 배회감지기(GPS) 구입 비용을 지원하여, 실종사고를 예방하고 신속한 발견 및 안전한 귀가를 도모함",
+      "categories": [
+        "의료·건강"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "충청남도"
+        ],
+        "districts": [
+          "천안시"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006765&wlfareInfoReldBztpCd=02",
+      "contact": "2",
+      "support_type": "서민금융, 신체건강",
+      "support_cycle": "1회성",
+      "gemini_ok": true,
+      "updated_at": "2026-08-27T04:53:31.615940+09:00"
+    },
+    {
+      "id": "local_WLF00006764",
+      "source": "local",
+      "title": "조손이 함께하는 놀이방 운영",
+      "organization": "전남광주통합특별시 고흥군 가족행복과",
+      "summary": [
+        "조손이 함께하는 놀이방 운영",
+        "-손자녀의 건전한 심리·정서·사회적 ",
+        "전남광주통합특별시 고흥군 가"
+      ],
+      "plain_desc": "-손자녀의 건전한 심리·정서·사회적 발달을 도모하고 조부모의 심리·정서적 지지 및 양육에 따른 스트레스를 경감 -조부모와 손자녀와의 소통을 도와 가족관계 증진 및 가족기능 강화",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "광주광역시"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006764&wlfareInfoReldBztpCd=02",
+      "contact": "5",
+      "support_type": "",
+      "support_cycle": "년",
+      "gemini_ok": true,
+      "updated_at": "2026-08-27T04:53:31.616024+09:00"
     }
   ]
 }
