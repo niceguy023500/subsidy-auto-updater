@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "last_updated": "2026-08-27T04:53:33.889991+09:00",
-    "last_updated_kst": "2026년 08월 27일 04:53",
-    "total_count": 5229,
-    "total_fetched_from_api": 5229
+    "last_updated": "2026-08-29T10:39:37.764533+09:00",
+    "last_updated_kst": "2026년 08월 29일 10:39",
+    "total_count": 5219,
+    "total_fetched_from_api": 5219
   },
   "items": [
     {
@@ -36088,45 +36088,6 @@
       "updated_at": "2026-08-07T09:06:08.358983+09:00"
     },
     {
-      "id": "local_WLF00006463",
-      "source": "local",
-      "title": "저소득층(생계·의료급여 수급자) 명절 위문 사업",
-      "organization": "경기도 의왕시 복지문화국 복지정책과",
-      "summary": [
-        "저소득층(생계·의료급여 수급자) 명절",
-        "저소득",
-        "경기도 의왕시 복지문화국 복"
-      ],
-      "plain_desc": "기초생계·의료급여 수급자의 최저생활 수준 충족을 위하여 법정급여 외 명절위문금를 지원하여 훈훈한 명절 분위기 조성 및 저소득 시민의 생활안정을 도모하고자 함",
-      "categories": [
-        "의료·건강",
-        "생활비·소득"
-      ],
-      "age_groups": [
-        "전체"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "기초생활수급자"
-      ],
-      "regions": {
-        "sido": [
-          "경기도"
-        ],
-        "districts": [
-          "의왕시"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006463&wlfareInfoReldBztpCd=02",
-      "contact": "315",
-      "support_type": "서민금융",
-      "support_cycle": "1회성",
-      "gemini_ok": true,
-      "updated_at": "2026-08-07T09:06:08.359045+09:00"
-    },
-    {
       "id": "local_WLF00006696",
       "source": "local",
       "title": "저소득장애인 의료비 지원",
@@ -42302,44 +42263,6 @@
       "support_cycle": "분기",
       "gemini_ok": true,
       "updated_at": "2026-08-07T09:06:09.971487+09:00"
-    },
-    {
-      "id": "local_WLF00006636",
-      "source": "local",
-      "title": "국가보훈대상자 지원 (보훈명예수당, 참전명예수당 등)",
-      "organization": "경기도 양평군 문화복지국 노인복지과",
-      "summary": [
-        "국가보훈대상자 지원 (보훈명예수당, ",
-        "보훈대상자",
-        "경기도 양평군 문화복지국 노"
-      ],
-      "plain_desc": "국가유공자에게 보훈명예수당, 참전명예수당, 6.25전몰군경유자녀복지수당, 사망한 참전유공자 배우자 복지수당, 사망위로금 등을 지급하여 국가유공자 및 그 가족을 예우하기 위함",
-      "categories": [
-        "생활비·소득"
-      ],
-      "age_groups": [
-        "전체"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "경기도"
-        ],
-        "districts": [
-          "양평군"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006636&wlfareInfoReldBztpCd=02",
-      "contact": "129",
-      "support_type": "서민금융",
-      "support_cycle": "월",
-      "gemini_ok": true,
-      "updated_at": "2026-08-07T09:06:09.971555+09:00"
     },
     {
       "id": "local_WLF00006635",
@@ -86376,46 +86299,6 @@
       "support_cycle": "1회성",
       "gemini_ok": true,
       "updated_at": "2026-08-07T09:06:13.022054+09:00"
-    },
-    {
-      "id": "local_WLF00000761",
-      "source": "local",
-      "title": "장애인일자리 지원(장애인전용 주차구역 단속 일자리)",
-      "organization": "인천광역시 중구 행정복지국 어르신장애인과",
-      "summary": [
-        "장애인일자리 지원(장애인전용 주차구역",
-        "장애인",
-        "인천광역시 중구 행정복지국 "
-      ],
-      "plain_desc": "취업과 직업선택이 어려운 미취업 장애인에게 일자리 제공을 통하여 사회참여 및 소득보장 도모",
-      "categories": [
-        "취업·창업",
-        "장애인지원"
-      ],
-      "age_groups": [
-        "청년(19-34세)",
-        "중장년(35-64세)"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "인천광역시"
-        ],
-        "districts": [
-          "중구"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000761&wlfareInfoReldBztpCd=02",
-      "contact": "2472",
-      "support_type": "서민금융",
-      "support_cycle": "월",
-      "gemini_ok": true,
-      "updated_at": "2026-08-07T09:06:13.022117+09:00"
     },
     {
       "id": "local_WLF00004607",
@@ -162893,47 +162776,6 @@
       "updated_at": "2026-08-07T09:06:20.462866+09:00"
     },
     {
-      "id": "local_WLF00004243",
-      "source": "local",
-      "title": "산모신생아 건강관리 지원",
-      "organization": "인천광역시 남동구 보건소 건강증진과",
-      "summary": [
-        "산모신생아 건강관리 지원",
-        "다문화·탈북민",
-        "인천광역시 남동구 보건소 건"
-      ],
-      "plain_desc": "산모신생아 건강관리사가 출산가정을 방문하여 산모의 건강회복을 돕고, 신생아를 보살펴 출산 가정의 경제적 부담을 덜어줍니다.",
-      "categories": [
-        "의료·건강",
-        "임신·출산·육아",
-        "문화·여가"
-      ],
-      "age_groups": [
-        "영유아(0-6세)"
-      ],
-      "household_types": [
-        "다자녀가구",
-        "다문화가구"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "인천광역시"
-        ],
-        "districts": [
-          "남동구"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00004243&wlfareInfoReldBztpCd=02",
-      "contact": "9873",
-      "support_type": "임신·출산",
-      "support_cycle": "1회성",
-      "gemini_ok": true,
-      "updated_at": "2026-08-07T09:06:20.462924+09:00"
-    },
-    {
       "id": "local_WLF00001041",
       "source": "local",
       "title": "신혼부부 주택 매입·전세자금 대출이자 지원",
@@ -169536,44 +169378,6 @@
       "updated_at": "2026-08-07T09:06:20.472579+09:00"
     },
     {
-      "id": "local_WLF00005881",
-      "source": "local",
-      "title": "청년근로자 결혼장려금 지원사업",
-      "organization": "경상북도 구미시 경제국 노동복지과",
-      "summary": [
-        "청년근로자 결혼장려금 지원사업",
-        "매년 급감하는 출생아수로 인하여 인구",
-        "경상북도 구미시 경제국 노동"
-      ],
-      "plain_desc": "매년 급감하는 출생아수로 인하여 인구감소 문제가 현실화되면서 장기적인 출산정책이 필요하여, 구미시 청년 근로자에게 결혼 축하금을 지원하여 청년들의 경제적 부담을 완화하고 혼인 장려에 기여하고자 함.",
-      "categories": [
-        "취업·창업"
-      ],
-      "age_groups": [
-        "청년(19-34세)"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "경상북도"
-        ],
-        "districts": [
-          "구미시"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005881&wlfareInfoReldBztpCd=02",
-      "contact": "4257",
-      "support_type": "서민금융",
-      "support_cycle": "1회성",
-      "gemini_ok": true,
-      "updated_at": "2026-08-07T09:06:20.472640+09:00"
-    },
-    {
       "id": "local_WLF00005880",
       "source": "local",
       "title": "더드림 신혼부부 주거비 지원사업",
@@ -175370,46 +175174,6 @@
       "updated_at": "2026-08-07T09:06:22.492891+09:00"
     },
     {
-      "id": "local_WLF00002540",
-      "source": "local",
-      "title": "발달장애인 직장적응체험훈련",
-      "organization": "서울특별시 동작구 복지국 장애인사회보장과",
-      "summary": [
-        "발달장애인 직장적응체험훈련",
-        "장애인",
-        "서울특별시 동작구 복지국 장"
-      ],
-      "plain_desc": "취업취약계층인 관내 청년발달장애인을 위한 직장적응체험훈련을 운영하여 취업하고자하는 발달장애인이 지역사회 내에서 직무수행능력, 근태, 직장 내 관계 등 현장에서의 직업을 직접 경험할 수 있도록 기회 제공",
-      "categories": [
-        "교육·훈련",
-        "취업·창업",
-        "장애인지원"
-      ],
-      "age_groups": [
-        "청년(19-34세)"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "서울특별시"
-        ],
-        "districts": [
-          "동작구"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00002540&wlfareInfoReldBztpCd=02",
-      "contact": "1983",
-      "support_type": "일자리, 서민금융",
-      "support_cycle": "월",
-      "gemini_ok": true,
-      "updated_at": "2026-08-07T09:06:22.492959+09:00"
-    },
-    {
       "id": "local_WLF00000644",
       "source": "local",
       "title": "광명 발달장애인 현장실습형 직업전환 사업",
@@ -177809,45 +177573,6 @@
       "updated_at": "2026-08-07T09:06:22.496428+09:00"
     },
     {
-      "id": "local_WLF00004780",
-      "source": "local",
-      "title": "부여군 초등학생 입학 준비금 지원사업",
-      "organization": "충청남도 부여군 행정복지국 자치행정과",
-      "summary": [
-        "부여군 초등학생 입학 준비금 지원사업",
-        "저출산으로 인한 학령인구가 감소하고 ",
-        "충청남도 부여군 행정복지국 "
-      ],
-      "plain_desc": "저출산으로 인한 학령인구가 감소하고 있는 사회적 문제에 대한 인구증가 정책과 더불어 농촌지역인 부여의 지역적 한계로 나타나는 교육사각지대를 극복 교육복지를 보편화 하고자 함",
-      "categories": [
-        "임신·출산·육아",
-        "교육·훈련"
-      ],
-      "age_groups": [
-        "아동·청소년(7-18세)"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "충청남도"
-        ],
-        "districts": [
-          "부여군"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00004780&wlfareInfoReldBztpCd=02",
-      "contact": "1694",
-      "support_type": "서민금융, 입양·위탁, 교육",
-      "support_cycle": "1회성",
-      "gemini_ok": true,
-      "updated_at": "2026-08-07T09:06:22.496488+09:00"
-    },
-    {
       "id": "local_WLF00003640",
       "source": "local",
       "title": "시간제보육 보육료(야간휴일포함) 지원",
@@ -177961,44 +177686,6 @@
       "support_cycle": "월",
       "gemini_ok": true,
       "updated_at": "2026-08-07T09:06:22.496667+09:00"
-    },
-    {
-      "id": "local_WLF00004077",
-      "source": "local",
-      "title": "일하는 가정 주거공간개선(정리수납) 지원 사업",
-      "organization": "경기도 여성가족국 고용평등과",
-      "summary": [
-        "일하는 가정 주거공간개선(정리수납) ",
-        "일하는 가정의 가사부담을 완화하고 중",
-        "경기도 여성가족국 고용평등과"
-      ],
-      "plain_desc": "일하는 가정의 가사부담을 완화하고 중장년 여성들의 일자리 연계를 통한 고용복지 증진",
-      "categories": [
-        "주거·임대"
-      ],
-      "age_groups": [
-        "중장년(35-64세)"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "경기도"
-        ],
-        "districts": [
-          "전체"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00004077&wlfareInfoReldBztpCd=02",
-      "contact": "3189",
-      "support_type": "",
-      "support_cycle": "수시",
-      "gemini_ok": true,
-      "updated_at": "2026-08-07T09:06:22.496766+09:00"
     },
     {
       "id": "local_WLF00000886",
@@ -179894,44 +179581,6 @@
       "updated_at": "2026-08-07T09:06:22.499901+09:00"
     },
     {
-      "id": "local_WLF00004527",
-      "source": "local",
-      "title": "재해구호",
-      "organization": "경상남도 산청군 복지민원국 주민복지과",
-      "summary": [
-        "재해구호",
-        "자연재난 발생시 이재민에 대한 재해구",
-        "경상남도 산청군 복지민원국 "
-      ],
-      "plain_desc": "자연재난 발생시 이재민에 대한 재해구호물품 등 위문품을 지원함으로써 재활기반 마련",
-      "categories": [
-        "생활비·소득"
-      ],
-      "age_groups": [
-        "전체"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "경상남도"
-        ],
-        "districts": [
-          "산청군"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00004527&wlfareInfoReldBztpCd=02",
-      "contact": "1598",
-      "support_type": "",
-      "support_cycle": "1회성",
-      "gemini_ok": true,
-      "updated_at": "2026-08-07T09:06:22.500006+09:00"
-    },
-    {
       "id": "local_WLF00003676",
       "source": "local",
       "title": "경기도 초등학생 치과주치의사업",
@@ -180286,46 +179935,6 @@
       "support_cycle": "월",
       "gemini_ok": true,
       "updated_at": "2026-08-07T09:06:22.500522+09:00"
-    },
-    {
-      "id": "local_WLF00004624",
-      "source": "local",
-      "title": "부산광역시교육청 현장체험학습비 지원 사업",
-      "organization": "부산광역시교육청 재정과",
-      "summary": [
-        "부산광역시교육청 현장체험학습비 지원 ",
-        "저소득",
-        "부산광역시교육청 재정과"
-      ],
-      "plain_desc": "부산광역시 초·중·고·특수학교 학생 수학여행비 및 저소득층자녀 숙박형 현장체험학습비 지원",
-      "categories": [
-        "임신·출산·육아",
-        "교육·훈련",
-        "생활비·소득"
-      ],
-      "age_groups": [
-        "아동·청소년(7-18세)"
-      ],
-      "household_types": [
-        "한부모가구"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "부산광역시"
-        ],
-        "districts": [
-          "전체"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00004624&wlfareInfoReldBztpCd=02",
-      "contact": "3694",
-      "support_type": "서민금융, 교육",
-      "support_cycle": "년",
-      "gemini_ok": true,
-      "updated_at": "2026-08-07T09:06:22.500579+09:00"
     },
     {
       "id": "local_WLF00002016",
