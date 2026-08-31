@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "last_updated": "2026-08-31T05:50:42.346186+09:00",
-    "last_updated_kst": "2026년 08월 31일 05:50",
-    "total_count": 5219,
-    "total_fetched_from_api": 5219
+    "last_updated": "2026-09-01T07:43:46.362546+09:00",
+    "last_updated_kst": "2026년 09월 01일 07:43",
+    "total_count": 5221,
+    "total_fetched_from_api": 5221
   },
   "items": [
     {
@@ -203918,6 +203918,86 @@
       "support_cycle": "년",
       "gemini_ok": true,
       "updated_at": "2026-08-27T04:53:31.616024+09:00"
+    },
+    {
+      "id": "local_WLF00006566",
+      "source": "local",
+      "title": "강화군 대학생 주거비 지원사업",
+      "organization": "인천광역시 강화군 행정국 자치교육과",
+      "summary": [
+        "강화군 대학생 주거비 지원사업",
+        "강화군 출신 대학생에게 주거비를 지원",
+        "인천광역시 강화군 행정국 자"
+      ],
+      "plain_desc": "강화군 출신 대학생에게 주거비를 지원하여 대학생의 학비 부담을 경감하고 안정적인 교육여건 조성",
+      "categories": [
+        "주거·임대",
+        "교육·훈련",
+        "취업·창업"
+      ],
+      "age_groups": [
+        "청년(19-34세)"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "인천광역시"
+        ],
+        "districts": [
+          "강화군"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006566&wlfareInfoReldBztpCd=02",
+      "contact": "22",
+      "support_type": "서민금융, 교육, 일자리",
+      "support_cycle": "년",
+      "gemini_ok": true,
+      "updated_at": "2026-09-01T07:43:46.362395+09:00"
+    },
+    {
+      "id": "local_WLF00006330",
+      "source": "local",
+      "title": "제1형 당뇨병 학생 의료물품 구입비 지원 사업",
+      "organization": "경기도교육청 지역교육국 체육건강교육과",
+      "summary": [
+        "제1형 당뇨병 학생 의료물품 구입비 ",
+        "제1형 당뇨병은 완치가 어렵고 평생 ",
+        "경기도교육청 지역교육국 체육"
+      ],
+      "plain_desc": "제1형 당뇨병은 완치가 어렵고 평생 치료, 관리하는 난치병으로 주기적인 혈당 체크 및 인슐린 주입이 필요함. 장기적인 치료비 발생으로 인하여 가정 내 경제적 부담 가중 및 학생의 건강권 침해 예방 및 안정적인 학교 생활을 도모하기 위함.",
+      "categories": [
+        "의료·건강",
+        "임신·출산·육아",
+        "교육·훈련"
+      ],
+      "age_groups": [
+        "아동·청소년(7-18세)"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "경기도"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006330&wlfareInfoReldBztpCd=02",
+      "contact": "24",
+      "support_type": "서민금융, 교육, 신체건강",
+      "support_cycle": "년",
+      "gemini_ok": true,
+      "updated_at": "2026-09-01T07:43:46.362527+09:00"
     }
   ]
 }
