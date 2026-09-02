@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "last_updated": "2026-09-01T07:43:48.694557+09:00",
-    "last_updated_kst": "2026년 09월 01일 07:43",
-    "total_count": 5221,
-    "total_fetched_from_api": 5221
+    "last_updated": "2026-09-03T05:48:14.334435+09:00",
+    "last_updated_kst": "2026년 09월 03일 05:48",
+    "total_count": 5219,
+    "total_fetched_from_api": 5219
   },
   "items": [
     {
@@ -147424,44 +147424,6 @@
       "updated_at": "2026-08-07T09:06:18.396706+09:00"
     },
     {
-      "id": "local_WLF00006148",
-      "source": "local",
-      "title": "우유바우처 확대 지원사업",
-      "organization": "전북특별자치도 농생명축산산업국 축산과",
-      "summary": [
-        "우유바우처 확대 지원사업",
-        "다자녀",
-        "전북특별자치도 농생명축산산업"
-      ],
-      "plain_desc": "우유경쟁력 강화 및 청소년 영양발전 증진",
-      "categories": [
-        "교육·훈련"
-      ],
-      "age_groups": [
-        "아동·청소년(7-18세)"
-      ],
-      "household_types": [
-        "다자녀가구"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "전북특별자치도"
-        ],
-        "districts": [
-          "전체"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006148&wlfareInfoReldBztpCd=02",
-      "contact": "2264",
-      "support_type": "",
-      "support_cycle": "월",
-      "gemini_ok": true,
-      "updated_at": "2026-08-07T09:06:18.396752+09:00"
-    },
-    {
       "id": "local_WLF00005799",
       "source": "local",
       "title": "소룡동 어린이 장난감도서관 운영",
@@ -179007,44 +178969,6 @@
       "support_cycle": "1회성",
       "gemini_ok": true,
       "updated_at": "2026-08-07T09:06:22.499088+09:00"
-    },
-    {
-      "id": "local_WLF00003794",
-      "source": "local",
-      "title": "노인 이미용비 지원 사업",
-      "organization": "전북특별자치도 진안군 행정복지국 여성가족과",
-      "summary": [
-        "노인 이미용비 지원 사업",
-        "진안군에 거주하는 노인에게 이미용비를",
-        "전북특별자치도 진안군 행정복"
-      ],
-      "plain_desc": "진안군에 거주하는 노인에게 이미용비를 지원함으로써 노인의 보건 및 복지 증진에 기여",
-      "categories": [
-        "노인돌봄"
-      ],
-      "age_groups": [
-        "전체"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "전북특별자치도"
-        ],
-        "districts": [
-          "진안군"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00003794&wlfareInfoReldBztpCd=02",
-      "contact": "1760",
-      "support_type": "",
-      "support_cycle": "반기",
-      "gemini_ok": true,
-      "updated_at": "2026-08-07T09:06:22.499136+09:00"
     },
     {
       "id": "local_WLF00000942",
