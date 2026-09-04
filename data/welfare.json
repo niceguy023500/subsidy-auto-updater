@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "last_updated": "2026-09-04T05:51:27.877002+09:00",
-    "last_updated_kst": "2026년 09월 04일 05:51",
-    "total_count": 5219,
-    "total_fetched_from_api": 5219
+    "last_updated": "2026-09-05T05:35:33.449074+09:00",
+    "last_updated_kst": "2026년 09월 05일 05:35",
+    "total_count": 5222,
+    "total_fetched_from_api": 5222
   },
   "items": [
     {
@@ -203922,6 +203922,122 @@
       "support_cycle": "년",
       "gemini_ok": true,
       "updated_at": "2026-09-01T07:43:46.362527+09:00"
+    },
+    {
+      "id": "local_WLF00006774",
+      "source": "local",
+      "title": "양산시 청년 면접 준비비용 지원사업",
+      "organization": "경상남도 양산시 경제국 민생경제과",
+      "summary": [
+        "양산시 청년 면접 준비비용 지원사업",
+        "◯ 양산시 거주 19~39세 미취업 ",
+        "경상남도 양산시 경제국 민생"
+      ],
+      "plain_desc": "◯ 양산시 거주 19~39세 미취업 청년의 구직활동에 수반되는 비용 지원을 통해 경제적 부담을 경감하고 구직의욕 고취 ◯ 1회당 5만원, 연 2회(최대 10만원) 이내 범위에서 면접 준비비용 지원",
+      "categories": [
+        "취업·창업"
+      ],
+      "age_groups": [
+        "청년(19-34세)"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "경상남도"
+        ],
+        "districts": [
+          "양산시"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006774&wlfareInfoReldBztpCd=02",
+      "contact": "18",
+      "support_type": "서민금융, 일자리",
+      "support_cycle": "기타",
+      "gemini_ok": true,
+      "updated_at": "2026-09-05T05:35:33.448494+09:00"
+    },
+    {
+      "id": "local_WLF00006773",
+      "source": "local",
+      "title": "미등록 이주배경아동 보육지원금(어린이집 직접지원)",
+      "organization": "경기도 이민사회국 이민사회지원과",
+      "summary": [
+        "미등록 이주배경아동 보육지원금(어린이",
+        "출생 이후 돌봄의 공백 속에 방치되는",
+        "경기도 이민사회국 이민사회지"
+      ],
+      "plain_desc": "출생 이후 돌봄의 공백 속에 방치되는 미등록 이주배경 아동의 기본권 보장",
+      "categories": [
+        "임신·출산·육아",
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "영유아(0-6세)"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "경기도"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006773&wlfareInfoReldBztpCd=02",
+      "contact": "18",
+      "support_type": "",
+      "support_cycle": "기타(월)",
+      "gemini_ok": true,
+      "updated_at": "2026-09-05T05:35:33.448581+09:00"
+    },
+    {
+      "id": "local_WLF00006772",
+      "source": "local",
+      "title": "하동형 육아수당 지원사업",
+      "organization": "경상남도 하동군 지역활력추진단",
+      "summary": [
+        "하동형 육아수당 지원사업",
+        "ㅇ 저출생 대응 현금성 지원정책을 통",
+        "경상남도 하동군 지역활력추진"
+      ],
+      "plain_desc": "ㅇ 저출생 대응 현금성 지원정책을 통한 출산율 제고 및 양육부담 완화로 인구 4만 붕괴 대비 ㅇ 기존 출산정책 통·폐합 및 단일화로 양육가정 지출 선택권 보장 및 정책효과 배가",
+      "categories": [
+        "임신·출산·육아",
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "영유아(0-6세)"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "경상남도"
+        ],
+        "districts": [
+          "하동군"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006772&wlfareInfoReldBztpCd=02",
+      "contact": "18",
+      "support_type": "서민금융",
+      "support_cycle": "월",
+      "gemini_ok": true,
+      "updated_at": "2026-09-05T05:35:33.449056+09:00"
     }
   ]
 }
