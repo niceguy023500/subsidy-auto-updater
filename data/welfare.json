@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "last_updated": "2026-09-07T05:13:48.271650+09:00",
-    "last_updated_kst": "2026년 09월 07일 05:13",
-    "total_count": 5222,
-    "total_fetched_from_api": 5222
+    "last_updated": "2026-09-08T06:20:02.001800+09:00",
+    "last_updated_kst": "2026년 09월 08일 06:20",
+    "total_count": 5224,
+    "total_fetched_from_api": 5224
   },
   "items": [
     {
@@ -204038,6 +204038,82 @@
       "support_cycle": "월",
       "gemini_ok": true,
       "updated_at": "2026-09-05T05:35:33.449056+09:00"
+    },
+    {
+      "id": "local_WLF00006776",
+      "source": "local",
+      "title": "관악구 청년 주거환경개선비 지원 사업",
+      "organization": "서울특별시 관악구 청년문화국 청년정책과",
+      "summary": [
+        "관악구 청년 주거환경개선비 지원 사업",
+        "청년들의 노후되고 열악한 주거환경을 ",
+        "서울특별시 관악구 청년문화국"
+      ],
+      "plain_desc": "청년들의 노후되고 열악한 주거환경을 개선하여 쾌적하게 생활할 수 있도록 지원함으로써 쳥넌들의 삶의 질 향상에 기여하고자 함",
+      "categories": [
+        "주거·임대"
+      ],
+      "age_groups": [
+        "청년(19-34세)"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "서울특별시"
+        ],
+        "districts": [
+          "관악구"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006776&wlfareInfoReldBztpCd=02",
+      "contact": "20",
+      "support_type": "서민금융",
+      "support_cycle": "1회성",
+      "gemini_ok": true,
+      "updated_at": "2026-09-08T06:20:02.001672+09:00"
+    },
+    {
+      "id": "local_WLF00006775",
+      "source": "local",
+      "title": "관악구 청년 월세 지원사업",
+      "organization": "서울특별시 관악구 청년문화국 청년정책과",
+      "summary": [
+        "관악구 청년 월세 지원사업",
+        "청년들의 소득 대비 높은 주거비 지출",
+        "서울특별시 관악구 청년문화국"
+      ],
+      "plain_desc": "청년들의 소득 대비 높은 주거비 지출로 인한 경제적 부담이 완화될 수 있도록 지원하여 청년들의 삶의 질 향상에 기여하고자 함.",
+      "categories": [
+        "주거·임대"
+      ],
+      "age_groups": [
+        "청년(19-34세)"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "서울특별시"
+        ],
+        "districts": [
+          "관악구"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006775&wlfareInfoReldBztpCd=02",
+      "contact": "19",
+      "support_type": "서민금융",
+      "support_cycle": "분기",
+      "gemini_ok": true,
+      "updated_at": "2026-09-08T06:20:02.001781+09:00"
     }
   ]
 }
