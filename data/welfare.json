@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "last_updated": "2026-09-08T06:20:04.230472+09:00",
-    "last_updated_kst": "2026년 09월 08일 06:20",
-    "total_count": 5224,
-    "total_fetched_from_api": 5224
+    "last_updated": "2026-09-09T05:57:55.590821+09:00",
+    "last_updated_kst": "2026년 09월 09일 05:57",
+    "total_count": 5225,
+    "total_fetched_from_api": 5225
   },
   "items": [
     {
@@ -165356,44 +165356,6 @@
       "updated_at": "2026-08-07T09:06:20.466969+09:00"
     },
     {
-      "id": "local_WLF00000341",
-      "source": "local",
-      "title": "사회취약계층 앰뷸런스 지원사업",
-      "organization": "경상남도 밀양시 문화복지국 주민복지과",
-      "summary": [
-        "사회취약계층 앰뷸런스 지원사업",
-        "저소득",
-        "경상남도 밀양시 문화복지국 "
-      ],
-      "plain_desc": "사회취약계층의 앰뷸런스 비용 지원을 통한 위기사유 해소 및 복지체감도 향상",
-      "categories": [
-        "생활비·소득"
-      ],
-      "age_groups": [
-        "전체"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "경상남도"
-        ],
-        "districts": [
-          "밀양시"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000341&wlfareInfoReldBztpCd=02",
-      "contact": "2902",
-      "support_type": "서민금융",
-      "support_cycle": "1회성",
-      "gemini_ok": true,
-      "updated_at": "2026-08-07T09:06:20.467018+09:00"
-    },
-    {
       "id": "local_WLF00002477",
       "source": "local",
       "title": "어린이집 입학준비금 지원",
@@ -204114,6 +204076,88 @@
       "support_cycle": "분기",
       "gemini_ok": true,
       "updated_at": "2026-09-08T06:20:02.001781+09:00"
+    },
+    {
+      "id": "local_WLF00006778",
+      "source": "local",
+      "title": "저소득층 치과진료비 지원사업",
+      "organization": "경상남도 밀양시 문화복지국 주민복지과",
+      "summary": [
+        "저소득층 치과진료비 지원사업",
+        "저소득",
+        "경상남도 밀양시 문화복지국 "
+      ],
+      "plain_desc": "저소득층의 치과진료비 지원을 통하여 치아 기능을 향상 시키고 복지사각지대에 놓인 대상자의 경제적 부담을 완화 하고자 함.",
+      "categories": [
+        "의료·건강",
+        "임신·출산·육아",
+        "교육·훈련",
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "영유아(0-6세)",
+        "아동·청소년(7-18세)",
+        "청년(19-34세)",
+        "중장년(35-64세)"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "경상남도"
+        ],
+        "districts": [
+          "밀양시"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006778&wlfareInfoReldBztpCd=02",
+      "contact": "39",
+      "support_type": "서민금융",
+      "support_cycle": "년",
+      "gemini_ok": true,
+      "updated_at": "2026-09-09T05:57:55.590703+09:00"
+    },
+    {
+      "id": "local_WLF00006777",
+      "source": "local",
+      "title": "청년 구직자 자격증 응시료 지원사업",
+      "organization": "경상남도 창녕군 건설산업국 일자리경제과",
+      "summary": [
+        "청년 구직자 자격증 응시료 지원사업",
+        "청년들에게 국가자격시험",
+        "경상남도 창녕군 건설산업국 "
+      ],
+      "plain_desc": "청년들에게 국가자격시험, 어학시험, 한국사 등의 응시료를 지원하여 능력개발 및 구직활동을 촉진하고 경제적 자립기반 마련에 도움",
+      "categories": [
+        "취업·창업"
+      ],
+      "age_groups": [
+        "청년(19-34세)"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "경상남도"
+        ],
+        "districts": [
+          "창녕군"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006777&wlfareInfoReldBztpCd=02",
+      "contact": "20",
+      "support_type": "서민금융, 일자리",
+      "support_cycle": "수시",
+      "gemini_ok": true,
+      "updated_at": "2026-09-09T05:57:55.590801+09:00"
     }
   ]
 }
