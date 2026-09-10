@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "last_updated": "2026-09-09T05:57:58.109575+09:00",
-    "last_updated_kst": "2026년 09월 09일 05:57",
-    "total_count": 5225,
-    "total_fetched_from_api": 5225
+    "last_updated": "2026-09-11T05:37:08.120258+09:00",
+    "last_updated_kst": "2026년 09월 11일 05:37",
+    "total_count": 5279,
+    "total_fetched_from_api": 5279
   },
   "items": [
     {
@@ -204158,6 +204158,2112 @@
       "support_cycle": "수시",
       "gemini_ok": true,
       "updated_at": "2026-09-09T05:57:55.590801+09:00"
+    },
+    {
+      "id": "local_WLF00001583",
+      "source": "local",
+      "title": "결식아동급식지원",
+      "organization": "세종특별자치시 보건복지국 아동청소년과",
+      "summary": [
+        "결식아동급식지원",
+        "저소득",
+        "세종특별자치시 보건복지국 아"
+      ],
+      "plain_desc": "취약계층 등 결식우려아동 급식지원으로 아동의 건강한 성장 도모",
+      "categories": [
+        "주거·임대",
+        "임신·출산·육아",
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "아동·청소년(7-18세)"
+      ],
+      "household_types": [
+        "한부모가구"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "세종특별자치시"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001583&wlfareInfoReldBztpCd=02",
+      "contact": "8575",
+      "support_type": "안전·위기, 보호·돌봄, 입양·위탁, 주거",
+      "support_cycle": "월",
+      "gemini_ok": true,
+      "updated_at": "2026-09-11T05:37:08.116697+09:00"
+    },
+    {
+      "id": "local_WLF00005297",
+      "source": "local",
+      "title": "입양아동 상해보험료 지원",
+      "organization": "세종특별자치시 보건복지국 아동청소년과",
+      "summary": [
+        "입양아동 상해보험료 지원",
+        "입양아동 상해보험료 가입 지원",
+        "세종특별자치시 보건복지국 아"
+      ],
+      "plain_desc": "입양아동 상해보험료 가입 지원",
+      "categories": [
+        "임신·출산·육아",
+        "교육·훈련"
+      ],
+      "age_groups": [
+        "영유아(0-6세)",
+        "아동·청소년(7-18세)"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "세종특별자치시"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005297&wlfareInfoReldBztpCd=02",
+      "contact": "1538",
+      "support_type": "입양·위탁",
+      "support_cycle": "수시",
+      "gemini_ok": true,
+      "updated_at": "2026-09-11T05:37:08.116781+09:00"
+    },
+    {
+      "id": "local_WLF00005296",
+      "source": "local",
+      "title": "입양아동 입학준비금 지원",
+      "organization": "세종특별자치시 보건복지국 아동청소년과",
+      "summary": [
+        "입양아동 입학준비금 지원",
+        "건전한 입양문화 조성 및 입양아동의 ",
+        "세종특별자치시 보건복지국 아"
+      ],
+      "plain_desc": "건전한 입양문화 조성 및 입양아동의 권익과 복지 증진",
+      "categories": [
+        "임신·출산·육아",
+        "교육·훈련"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "세종특별자치시"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005296&wlfareInfoReldBztpCd=02",
+      "contact": "1736",
+      "support_type": "서민금융, 입양·위탁, 교육",
+      "support_cycle": "1회성",
+      "gemini_ok": true,
+      "updated_at": "2026-09-11T05:37:08.116835+09:00"
+    },
+    {
+      "id": "local_WLF00005362",
+      "source": "local",
+      "title": "공공실버주택(신흥사랑주택) 일반관리비 지원 사업",
+      "organization": "세종특별자치시 건설교통국 주택과",
+      "summary": [
+        "공공실버주택(신흥사랑주택) 일반관리비",
+        "저소득",
+        "세종특별자치시 건설교통국 주"
+      ],
+      "plain_desc": "신흥사랑주택 입주자 중 저소득층(기초생활수급자, 차상위계층)의 주거 안정",
+      "categories": [
+        "주거·임대",
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "기초생활수급자"
+      ],
+      "regions": {
+        "sido": [
+          "세종특별자치시"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005362&wlfareInfoReldBztpCd=02",
+      "contact": "2166",
+      "support_type": "서민금융",
+      "support_cycle": "월",
+      "gemini_ok": true,
+      "updated_at": "2026-09-11T05:37:08.116898+09:00"
+    },
+    {
+      "id": "local_WLF00005301",
+      "source": "local",
+      "title": "구직활동비 지원사업",
+      "organization": "세종특별자치시 경제산업국 기업지원과",
+      "summary": [
+        "구직활동비 지원사업",
+        "취업 준비 청년의 경제적 부담 경감 ",
+        "세종특별자치시 경제산업국 기"
+      ],
+      "plain_desc": "취업 준비 청년의 경제적 부담 경감 지원",
+      "categories": [
+        "취업·창업"
+      ],
+      "age_groups": [
+        "청년(19-34세)"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "세종특별자치시"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005301&wlfareInfoReldBztpCd=02",
+      "contact": "3753",
+      "support_type": "서민금융, 일자리",
+      "support_cycle": "월",
+      "gemini_ok": true,
+      "updated_at": "2026-09-11T05:37:08.116949+09:00"
+    },
+    {
+      "id": "local_WLF00005299",
+      "source": "local",
+      "title": "면접스타일링 지원사업",
+      "organization": "세종특별자치시 경제산업국 기업지원과",
+      "summary": [
+        "면접스타일링 지원사업",
+        "청년 면접자의 경제적 부담 경감을 위",
+        "세종특별자치시 경제산업국 기"
+      ],
+      "plain_desc": "청년 면접자의 경제적 부담 경감을 위한 정장대여 지원",
+      "categories": [
+        "취업·창업"
+      ],
+      "age_groups": [
+        "청년(19-34세)"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "세종특별자치시"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005299&wlfareInfoReldBztpCd=02",
+      "contact": "2105",
+      "support_type": "일자리, 서민금융",
+      "support_cycle": "수시",
+      "gemini_ok": true,
+      "updated_at": "2026-09-11T05:37:08.116998+09:00"
+    },
+    {
+      "id": "local_WLF00005298",
+      "source": "local",
+      "title": "세종 청년 미래적금",
+      "organization": "세종특별자치시 경제산업국 기업지원과",
+      "summary": [
+        "세종 청년 미래적금",
+        "관내 근로 청년의 저축을 장려하고",
+        "세종특별자치시 경제산업국 기"
+      ],
+      "plain_desc": "관내 근로 청년의 저축을 장려하고, 자산 형성 기회를 제공해 장기근속 유도 및 지역사회로의 안정적 정착 지원",
+      "categories": [
+        "취업·창업"
+      ],
+      "age_groups": [
+        "청년(19-34세)"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "세종특별자치시"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005298&wlfareInfoReldBztpCd=02",
+      "contact": "86326",
+      "support_type": "서민금융, 일자리",
+      "support_cycle": "월",
+      "gemini_ok": true,
+      "updated_at": "2026-09-11T05:37:08.117093+09:00"
+    },
+    {
+      "id": "local_WLF00006709",
+      "source": "local",
+      "title": "읍면지역 1,000원 통학택시",
+      "organization": "세종특별자치시교육청 행정국 재무행정과",
+      "summary": [
+        "읍면지역 1,000원 통학택시",
+        "읍면 통학환경 개선 및 통학권 보장",
+        "세종특별자치시교육청 행정국 "
+      ],
+      "plain_desc": "읍면 통학환경 개선 및 통학권 보장",
+      "categories": [
+        "교육·훈련"
+      ],
+      "age_groups": [
+        "아동·청소년(7-18세)"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "세종특별자치시"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006709&wlfareInfoReldBztpCd=02",
+      "contact": "462",
+      "support_type": "서민금융, 교육",
+      "support_cycle": "월",
+      "gemini_ok": true,
+      "updated_at": "2026-09-11T05:37:08.117196+09:00"
+    },
+    {
+      "id": "local_WLF00004939",
+      "source": "local",
+      "title": "파랑새기금",
+      "organization": "세종특별자치시 보건복지국 복지정책과",
+      "summary": [
+        "파랑새기금",
+        "공적급여 제도권 밖의 사각지대 대상자",
+        "세종특별자치시 보건복지국 복"
+      ],
+      "plain_desc": "공적급여 제도권 밖의 사각지대 대상자에게 복지지원(생계, 의료, 주거비 등)",
+      "categories": [
+        "취업·창업"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "세종특별자치시"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00004939&wlfareInfoReldBztpCd=02",
+      "contact": "2653",
+      "support_type": "서민금융, 일자리",
+      "support_cycle": "1회성",
+      "gemini_ok": true,
+      "updated_at": "2026-09-11T05:37:08.117254+09:00"
+    },
+    {
+      "id": "local_WLF00001923",
+      "source": "local",
+      "title": "행려자 및 부랑인 지원",
+      "organization": "세종특별자치시 보건복지국 복지정책과",
+      "summary": [
+        "행려자 및 부랑인 지원",
+        "취업",
+        "세종특별자치시 보건복지국 복"
+      ],
+      "plain_desc": "취업, 친지방문, 기타 목적으로 주거지가 아닌 타지방을 여행하던 중 숙식할 능력이 행려자 및 부랑인 보호 지원",
+      "categories": [
+        "교육·훈련"
+      ],
+      "age_groups": [
+        "아동·청소년(7-18세)",
+        "청년(19-34세)",
+        "중장년(35-64세)"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "세종특별자치시"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001923&wlfareInfoReldBztpCd=02",
+      "contact": "2420",
+      "support_type": "서민금융",
+      "support_cycle": "1회성",
+      "gemini_ok": true,
+      "updated_at": "2026-09-11T05:37:08.117321+09:00"
+    },
+    {
+      "id": "local_WLF00006605",
+      "source": "local",
+      "title": "보령시 청년 결혼장려금 지원",
+      "organization": "충청남도 보령시 에너지환경국 신산업전략과",
+      "summary": [
+        "보령시 청년 결혼장려금 지원",
+        "결혼장려금 지원을 통해 청년의 혼인 ",
+        "충청남도 보령시 에너지환경국"
+      ],
+      "plain_desc": "결혼장려금 지원을 통해 청년의 혼인 장려 및 지역정착을 도모하여 저출산 인구감소 위기에 적극 대응하고자 함",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "청년(19-34세)"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "충청남도"
+        ],
+        "districts": [
+          "보령시"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006605&wlfareInfoReldBztpCd=02",
+      "contact": "50",
+      "support_type": "서민금융",
+      "support_cycle": "년",
+      "gemini_ok": true,
+      "updated_at": "2026-09-11T05:37:08.117384+09:00"
+    },
+    {
+      "id": "local_WLF00005692",
+      "source": "local",
+      "title": "난임부부 지원사업",
+      "organization": "세종특별자치시 보건소 남부통합보건지소",
+      "summary": [
+        "난임부부 지원사업",
+        "체외수정 및 인공수정 시술비 등 보조",
+        "세종특별자치시 보건소 남부통"
+      ],
+      "plain_desc": "체외수정 및 인공수정 시술비 등 보조생식술을 받는 난임부부에게 건강보험본인부담금 및 비급여 일부를 지원하여 경제적부담을 경감시킴으로써 난임부부가 희망하는 자녀를 갖도록 지원하기 위함.",
+      "categories": [
+        "임신·출산·육아"
+      ],
+      "age_groups": [
+        "청년(19-34세)",
+        "중장년(35-64세)"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "세종특별자치시"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005692&wlfareInfoReldBztpCd=02",
+      "contact": "3741",
+      "support_type": "서민금융, 임신·출산",
+      "support_cycle": "수시",
+      "gemini_ok": true,
+      "updated_at": "2026-09-11T05:37:08.117459+09:00"
+    },
+    {
+      "id": "local_WLF00005737",
+      "source": "local",
+      "title": "세종 이응패스 도입",
+      "organization": "세종특별자치시 교통국 대중교통과",
+      "summary": [
+        "세종 이응패스 도입",
+        "장애인",
+        "세종특별자치시 교통국 대중교"
+      ],
+      "plain_desc": "타 특·광역시에 비해 낮은 대중교통 이용을 활성화하기 위해 세종형 대중교통 월정액권* 이응패스 도입 * 일반 시민 이용료 2만원 / 어르신(만 70세 이상), 청소년(만 13세 ~ 만 80세), 장애인(장애인 등록자)은 패스 이용료 무료",
+      "categories": [
+        "교육·훈련",
+        "장애인지원"
+      ],
+      "age_groups": [
+        "아동·청소년(7-18세)"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "세종특별자치시"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005737&wlfareInfoReldBztpCd=02",
+      "contact": "7672",
+      "support_type": "",
+      "support_cycle": "월",
+      "gemini_ok": true,
+      "updated_at": "2026-09-11T05:37:08.117544+09:00"
+    },
+    {
+      "id": "local_WLF00005325",
+      "source": "local",
+      "title": "청년 주거임대료 지원사업",
+      "organization": "세종특별자치시 기획조정실 청년정책담당관",
+      "summary": [
+        "청년 주거임대료 지원사업",
+        "○ 월세 거주 무주택 1인 가구 청년",
+        "세종특별자치시 기획조정실 청"
+      ],
+      "plain_desc": "○ 월세 거주 무주택 1인 가구 청년의 주거비 부담을 줄여 자립기반을 도모하고, 지역사회 정착을 지원",
+      "categories": [
+        "주거·임대"
+      ],
+      "age_groups": [
+        "청년(19-34세)"
+      ],
+      "household_types": [
+        "1인가구"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "세종특별자치시"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005325&wlfareInfoReldBztpCd=02",
+      "contact": "57990",
+      "support_type": "서민금융",
+      "support_cycle": "월",
+      "gemini_ok": true,
+      "updated_at": "2026-09-11T05:37:08.117601+09:00"
+    },
+    {
+      "id": "local_WLF00006556",
+      "source": "local",
+      "title": "365일 24시간 돌봄어린이집",
+      "organization": "세종특별자치시 보건복지국 인구여성가족과",
+      "summary": [
+        "365일 24시간 돌봄어린이집",
+        "-보육시설 운영시간을 보완하여 출산과",
+        "세종특별자치시 보건복지국 인"
+      ],
+      "plain_desc": "-보육시설 운영시간을 보완하여 출산과 양육에 유리한 환경 조성 -부모의 금로시간과 다양한 가족형태 등을 감안하여 보육수요에 능동적 대응으로 수요자 중심의 맞춤형 서비스 제공 -긴급하게 돌봄이 필요한 영유아 대상으로 보육서비스를 제공함으로써 부모의 양육 부담 경감",
+      "categories": [
+        "임신·출산·육아"
+      ],
+      "age_groups": [
+        "영유아(0-6세)",
+        "아동·청소년(7-18세)"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "세종특별자치시"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006556&wlfareInfoReldBztpCd=02",
+      "contact": "891",
+      "support_type": "",
+      "support_cycle": "반기",
+      "gemini_ok": true,
+      "updated_at": "2026-09-11T05:37:08.117679+09:00"
+    },
+    {
+      "id": "local_WLF00006555",
+      "source": "local",
+      "title": "민간가정어린이집 차액보육료 지원",
+      "organization": "세종특별자치시 보건복지국 인구여성가족과",
+      "summary": [
+        "민간가정어린이집 차액보육료 지원",
+        "정부 미지원 어린이집(민간",
+        "세종특별자치시 보건복지국 인"
+      ],
+      "plain_desc": "정부 미지원 어린이집(민간, 가정)에 재원 중인 3~5세 영유아의 실질적인 무상보육을 위해 누리과정 차액보육료 지원",
+      "categories": [
+        "임신·출산·육아"
+      ],
+      "age_groups": [
+        "영유아(0-6세)"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "세종특별자치시"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006555&wlfareInfoReldBztpCd=02",
+      "contact": "839",
+      "support_type": "",
+      "support_cycle": "월",
+      "gemini_ok": true,
+      "updated_at": "2026-09-11T05:37:08.117735+09:00"
+    },
+    {
+      "id": "local_WLF00005958",
+      "source": "local",
+      "title": "세종특별자치시 다자녀가정 입학지원금",
+      "organization": "세종특별자치시 자치행정국 교육지원과",
+      "summary": [
+        "세종특별자치시 다자녀가정 입학지원금",
+        "다자녀",
+        "세종특별자치시 자치행정국 교"
+      ],
+      "plain_desc": "세종시 내에 셋째 자녀 이상의 아동을 양육하고 있는 다자녀 가정의 입학지원금 지급으로 학부모의 양육부담 완화",
+      "categories": [
+        "임신·출산·육아",
+        "교육·훈련",
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "아동·청소년(7-18세)"
+      ],
+      "household_types": [
+        "다자녀가구"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "세종특별자치시"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005958&wlfareInfoReldBztpCd=02",
+      "contact": "3557",
+      "support_type": "서민금융",
+      "support_cycle": "1회성",
+      "gemini_ok": true,
+      "updated_at": "2026-09-11T05:37:08.117796+09:00"
+    },
+    {
+      "id": "local_WLF00004019",
+      "source": "local",
+      "title": "노인일자리 및 사회활동 지원사업",
+      "organization": "세종특별자치시 보건복지국 노인장애인과",
+      "summary": [
+        "노인일자리 및 사회활동 지원사업",
+        "노인이 일자리와 사회활동을 통하여 활",
+        "세종특별자치시 보건복지국 노"
+      ],
+      "plain_desc": "노인이 일자리와 사회활동을 통하여 활동적이고 생산적인 노후생활을 영위할 수 있도록 지원함으로써 노인의 건강과 복지를 증진",
+      "categories": [
+        "취업·창업",
+        "노인돌봄"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "세종특별자치시"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00004019&wlfareInfoReldBztpCd=02",
+      "contact": "33843",
+      "support_type": "서민금융",
+      "support_cycle": "월",
+      "gemini_ok": true,
+      "updated_at": "2026-09-11T05:37:08.117852+09:00"
+    },
+    {
+      "id": "local_WLF00000651",
+      "source": "local",
+      "title": "참전유공자 유족(배우자) 복지수당",
+      "organization": "세종특별자치시 보건복지국 복지정책과",
+      "summary": [
+        "참전유공자 유족(배우자) 복지수당",
+        "보훈대상자",
+        "세종특별자치시 보건복지국 복"
+      ],
+      "plain_desc": "참전유공자의 명예와 자긍심을 고취시키고 고령의 참전유공자 사망시 예우 증진",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "세종특별자치시"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000651&wlfareInfoReldBztpCd=02",
+      "contact": "1886",
+      "support_type": "서민금융",
+      "support_cycle": "월",
+      "gemini_ok": true,
+      "updated_at": "2026-09-11T05:37:08.117905+09:00"
+    },
+    {
+      "id": "local_WLF00001265",
+      "source": "local",
+      "title": "청소년 꿈끼카드 지원",
+      "organization": "세종특별자치시 보건복지국 아동청소년과",
+      "summary": [
+        "청소년 꿈끼카드 지원",
+        "청소년이 진로˙직업체험 및 문화활동 ",
+        "세종특별자치시 보건복지국 아"
+      ],
+      "plain_desc": "청소년이 진로˙직업체험 및 문화활동 등 다양한 활동에 참여하도록 1인 연10만원 지원하여 자신의 꿈과 희망을 실현할 기회를 제공하는 사업입니다.",
+      "categories": [
+        "교육·훈련"
+      ],
+      "age_groups": [
+        "아동·청소년(7-18세)"
+      ],
+      "household_types": [
+        "1인가구"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "세종특별자치시"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001265&wlfareInfoReldBztpCd=02",
+      "contact": "5621",
+      "support_type": "",
+      "support_cycle": "1회성",
+      "gemini_ok": true,
+      "updated_at": "2026-09-11T05:37:08.117962+09:00"
+    },
+    {
+      "id": "local_WLF00001039",
+      "source": "local",
+      "title": "참전유공자 사망위로금 지급",
+      "organization": "세종특별자치시 보건복지국 복지정책과",
+      "summary": [
+        "참전유공자 사망위로금 지급",
+        "보훈대상자",
+        "세종특별자치시 보건복지국 복"
+      ],
+      "plain_desc": "참전유공자 예우 및 지원",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "세종특별자치시"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001039&wlfareInfoReldBztpCd=02",
+      "contact": "1685",
+      "support_type": "서민금융",
+      "support_cycle": "1회성",
+      "gemini_ok": true,
+      "updated_at": "2026-09-11T05:37:08.118010+09:00"
+    },
+    {
+      "id": "local_WLF00001014",
+      "source": "local",
+      "title": "독립유공자(유족) 및 전몰군경 명예수당 지원",
+      "organization": "세종특별자치시 보건복지국 복지정책과",
+      "summary": [
+        "독립유공자(유족) 및 전몰군경 명예수",
+        "보훈대상자",
+        "세종특별자치시 보건복지국 복"
+      ],
+      "plain_desc": "독립유공자(유족) 및 전몰군경 예우",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "세종특별자치시"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001014&wlfareInfoReldBztpCd=02",
+      "contact": "2024",
+      "support_type": "서민금융",
+      "support_cycle": "월",
+      "gemini_ok": true,
+      "updated_at": "2026-09-11T05:37:08.118073+09:00"
+    },
+    {
+      "id": "local_WLF00002762",
+      "source": "local",
+      "title": "산모·신생아 건강관리 지원사업",
+      "organization": "세종특별자치시 보건소 남부통합보건지소",
+      "summary": [
+        "산모·신생아 건강관리 지원사업",
+        "출산가정에 산모신생아 건강관리사를 파",
+        "세종특별자치시 보건소 남부통"
+      ],
+      "plain_desc": "출산가정에 산모신생아 건강관리사를 파견하여 산모의 회복과 신생아 양육지원에 필요한 경제적 부담 경감을 목적으로, 산모신생아 제공기관 이용시 이용료 중 본인부담금을 제외한 전액 지원",
+      "categories": [
+        "의료·건강",
+        "임신·출산·육아"
+      ],
+      "age_groups": [
+        "영유아(0-6세)"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "세종특별자치시"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00002762&wlfareInfoReldBztpCd=02",
+      "contact": "4693",
+      "support_type": "임신·출산",
+      "support_cycle": "1회성",
+      "gemini_ok": true,
+      "updated_at": "2026-09-11T05:37:08.118142+09:00"
+    },
+    {
+      "id": "local_WLF00004413",
+      "source": "local",
+      "title": "장애인활동보조(시추가)",
+      "organization": "세종특별자치시 보건복지국 노인장애인과",
+      "summary": [
+        "장애인활동보조(시추가)",
+        "장애인",
+        "세종특별자치시 보건복지국 노"
+      ],
+      "plain_desc": "국비로 지원되는 중증장애인 활동지원 급여부족(서비스 시간)에 따른 추가활동보조 서비스 제공으로 중증장애인의 자립생활도모 및 사회참여 증진",
+      "categories": [
+        "임신·출산·육아",
+        "교육·훈련",
+        "취업·창업",
+        "장애인지원"
+      ],
+      "age_groups": [
+        "아동·청소년(7-18세)",
+        "청년(19-34세)",
+        "중장년(35-64세)"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "세종특별자치시"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00004413&wlfareInfoReldBztpCd=02",
+      "contact": "8797",
+      "support_type": "안전·위기, 일자리, 교육",
+      "support_cycle": "월",
+      "gemini_ok": true,
+      "updated_at": "2026-09-11T05:37:08.118205+09:00"
+    },
+    {
+      "id": "local_WLF00002661",
+      "source": "local",
+      "title": "명절위문품 지원",
+      "organization": "세종특별자치시 보건복지국 복지정책과",
+      "summary": [
+        "명절위문품 지원",
+        "명절을 맞아 이웃과 따뜻한 정을 나누",
+        "세종특별자치시 보건복지국 복"
+      ],
+      "plain_desc": "명절을 맞아 이웃과 따뜻한 정을 나누는 사회분위기 조성",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "세종특별자치시"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00002661&wlfareInfoReldBztpCd=02",
+      "contact": "2064",
+      "support_type": "서민금융",
+      "support_cycle": "1회성",
+      "gemini_ok": true,
+      "updated_at": "2026-09-11T05:37:08.118247+09:00"
+    },
+    {
+      "id": "local_WLF00001924",
+      "source": "local",
+      "title": "참전유공자 참전명예수당",
+      "organization": "세종특별자치시 보건복지국 복지정책과",
+      "summary": [
+        "참전유공자 참전명예수당",
+        "보훈대상자",
+        "세종특별자치시 보건복지국 복"
+      ],
+      "plain_desc": "참전유공자의 국가에 공헌한 희생과 봉사에 대한 응분의 예우와 보상을 통해 명예선양 및 애국정신 함양",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "세종특별자치시"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001924&wlfareInfoReldBztpCd=02",
+      "contact": "1615",
+      "support_type": "서민금융",
+      "support_cycle": "월",
+      "gemini_ok": true,
+      "updated_at": "2026-09-11T05:37:08.118301+09:00"
+    },
+    {
+      "id": "local_WLF00002572",
+      "source": "local",
+      "title": "노인급식지원사업",
+      "organization": "세종특별자치시 보건복지국 노인장애인과",
+      "summary": [
+        "노인급식지원사업",
+        "저소득",
+        "세종특별자치시 보건복지국 노"
+      ],
+      "plain_desc": "저소득 결식우려의 거동불편 노인에 대한 양질의 급식지원",
+      "categories": [
+        "노인돌봄",
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "세종특별자치시"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00002572&wlfareInfoReldBztpCd=02",
+      "contact": "9285",
+      "support_type": "안전·위기",
+      "support_cycle": "주",
+      "gemini_ok": true,
+      "updated_at": "2026-09-11T05:37:08.118350+09:00"
+    },
+    {
+      "id": "local_WLF00006445",
+      "source": "local",
+      "title": "다자녀 가정 학생 교육비 지원",
+      "organization": "세종특별자치시교육청 행정국 교육복지과",
+      "summary": [
+        "다자녀 가정 학생 교육비 지원",
+        "다자녀",
+        "세종특별자치시교육청 행정국 "
+      ],
+      "plain_desc": "다자녀 가정의 자녀교육에 따른 경제적 부담 경감 및 출산장려정책 부응",
+      "categories": [
+        "임신·출산·육아",
+        "교육·훈련"
+      ],
+      "age_groups": [
+        "아동·청소년(7-18세)"
+      ],
+      "household_types": [
+        "다자녀가구"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "세종특별자치시"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006445&wlfareInfoReldBztpCd=02",
+      "contact": "1037",
+      "support_type": "교육",
+      "support_cycle": "년",
+      "gemini_ok": true,
+      "updated_at": "2026-09-11T05:37:08.118415+09:00"
+    },
+    {
+      "id": "local_WLF00006127",
+      "source": "local",
+      "title": "세종특별자치시 영구임대주택 임대보증금 지원",
+      "organization": "세종특별자치시 도시주택국 주택과",
+      "summary": [
+        "세종특별자치시 영구임대주택 임대보증금",
+        "저소득",
+        "세종특별자치시 도시주택국 주"
+      ],
+      "plain_desc": "ㅇ(사업목적) 영구임대주택에 입주하는 저소득계층 및 저소득 원주민을 대상으로 임대보증금을 지원함으로써 시민의 주거안정과 주거수준 향상에 이바지함을 목적으로 함 ㅇ(지원방법) 임대보증금 지급 후 무이자 원금 2년간 분기별 균등 분할 납부 ㅇ(지원내용) 현금(150만원 한도 내, 신규입주자는 임대보증금의 50%이내) - 기존입주자는 임대보증금 증액분이 발생한 경우, 증액분 이내",
+      "categories": [
+        "주거·임대",
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "세종특별자치시"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006127&wlfareInfoReldBztpCd=02",
+      "contact": "2308",
+      "support_type": "서민금융",
+      "support_cycle": "수시",
+      "gemini_ok": true,
+      "updated_at": "2026-09-11T05:37:08.118522+09:00"
+    },
+    {
+      "id": "local_WLF00006009",
+      "source": "local",
+      "title": "척척세종 생활민원 기동처리반 운영",
+      "organization": "세종특별자치시 시민안전실 민원과",
+      "summary": [
+        "척척세종 생활민원 기동처리반 운영",
+        "저소득",
+        "세종특별자치시 시민안전실 민"
+      ],
+      "plain_desc": "척척세종 생활민원기동처리반 운영으로 사회취약계층 및 공공시설물의 생활불편사항을 신속히 해결하여 기본 주거생활 지원, 불편 해소에 따른 삶의 질 향상 및 안전사고 예방에 기여하고자 합니다.",
+      "categories": [
+        "장애인지원",
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "한부모가구"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "세종특별자치시"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006009&wlfareInfoReldBztpCd=02",
+      "contact": "2414",
+      "support_type": "",
+      "support_cycle": "수시",
+      "gemini_ok": true,
+      "updated_at": "2026-09-11T05:37:08.118594+09:00"
+    },
+    {
+      "id": "local_WLF00005648",
+      "source": "local",
+      "title": "농업인 수당 지원사업",
+      "organization": "세종특별자치시 경제산업국 농업정책과",
+      "summary": [
+        "농업인 수당 지원사업",
+        "농업인의 기본 소득안정과 농업·농촌의",
+        "세종특별자치시 경제산업국 농"
+      ],
+      "plain_desc": "농업인의 기본 소득안정과 농업·농촌의 공익적 기능 유지 및 증진, 농촌 소멸 방지·최소화",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "세종특별자치시"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005648&wlfareInfoReldBztpCd=02",
+      "contact": "5991",
+      "support_type": "서민금융",
+      "support_cycle": "년",
+      "gemini_ok": true,
+      "updated_at": "2026-09-11T05:37:08.118642+09:00"
+    },
+    {
+      "id": "local_WLF00005302",
+      "source": "local",
+      "title": "세종특별자치시 행복아파트(영구임대주택) 임차인 중 저소득 원주민 임대료 일부 감면 사업",
+      "organization": "세종특별자치시 건설교통국 주택과",
+      "summary": [
+        "세종특별자치시 행복아파트(영구임대주택",
+        "세종시 건설로 생활 터전을 상실한 저",
+        "세종특별자치시 건설교통국 주"
+      ],
+      "plain_desc": "세종시 건설로 생활 터전을 상실한 저소득 원주민의 월 임대료 할증분 감면으로 주거 안정과 주거 수준 향상에 기여",
+      "categories": [
+        "주거·임대",
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "세종특별자치시"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005302&wlfareInfoReldBztpCd=02",
+      "contact": "2114",
+      "support_type": "",
+      "support_cycle": "분기",
+      "gemini_ok": true,
+      "updated_at": "2026-09-11T05:37:08.118701+09:00"
+    },
+    {
+      "id": "local_WLF00005275",
+      "source": "local",
+      "title": "현장체험학습비 지원",
+      "organization": "세종특별자치시교육청 교육행정국 교육복지과",
+      "summary": [
+        "현장체험학습비 지원",
+        "교육복지 실현 및 학부모 교육비 부담",
+        "세종특별자치시교육청 교육행정"
+      ],
+      "plain_desc": "교육복지 실현 및 학부모 교육비 부담 경감",
+      "categories": [
+        "교육·훈련"
+      ],
+      "age_groups": [
+        "아동·청소년(7-18세)"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "세종특별자치시"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005275&wlfareInfoReldBztpCd=02",
+      "contact": "1951",
+      "support_type": "서민금융, 교육",
+      "support_cycle": "1회성",
+      "gemini_ok": true,
+      "updated_at": "2026-09-11T05:37:08.118750+09:00"
+    },
+    {
+      "id": "local_WLF00005266",
+      "source": "local",
+      "title": "중고 신입생 체육복비 지원",
+      "organization": "세종특별자치시교육청 교육행정국 교육복지과",
+      "summary": [
+        "중고 신입생 체육복비 지원",
+        "학생체육복비 지원으로 보편적 교육복지",
+        "세종특별자치시교육청 교육행정"
+      ],
+      "plain_desc": "학생체육복비 지원으로 보편적 교육복지 실현을 통한 명품교육 도시 실현",
+      "categories": [
+        "교육·훈련",
+        "문화·여가"
+      ],
+      "age_groups": [
+        "아동·청소년(7-18세)"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "세종특별자치시"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005266&wlfareInfoReldBztpCd=02",
+      "contact": "2958",
+      "support_type": "서민금융, 교육",
+      "support_cycle": "1회성",
+      "gemini_ok": true,
+      "updated_at": "2026-09-11T05:37:08.118800+09:00"
+    },
+    {
+      "id": "local_WLF00004834",
+      "source": "local",
+      "title": "공영장례 지원",
+      "organization": "세종특별자치시 보건복지국 노인장애인과",
+      "summary": [
+        "공영장례 지원",
+        "홀로 고독사를 맞이한 경우",
+        "세종특별자치시 보건복지국 노"
+      ],
+      "plain_desc": "홀로 고독사를 맞이한 경우, 연고자가 미성년자 또는 장애인으로만 구성되어 장례절차를 진행할 능력이 없는 경우, 가족관계 단절 등으로 시신 인수를 거부·기피하는 경우 공영장례에 필요한 비용 지원",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "세종특별자치시"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00004834&wlfareInfoReldBztpCd=02",
+      "contact": "2482",
+      "support_type": "서민금융",
+      "support_cycle": "1회성",
+      "gemini_ok": true,
+      "updated_at": "2026-09-11T05:37:08.118862+09:00"
+    },
+    {
+      "id": "local_WLF00005361",
+      "source": "local",
+      "title": "세종특별자치시 국민임대주택 공동전기료 지원 사업",
+      "organization": "세종특별자치시 건설교통국 주택과",
+      "summary": [
+        "세종특별자치시 국민임대주택 공동전기료",
+        "저소득",
+        "세종특별자치시 건설교통국 주"
+      ],
+      "plain_desc": "국민임대주택 입주자 중 저소득 주민(기초생활수급자 가구)의 경제적 부담 경감 및 주거복지 증진",
+      "categories": [
+        "주거·임대",
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "기초생활수급자"
+      ],
+      "regions": {
+        "sido": [
+          "세종특별자치시"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005361&wlfareInfoReldBztpCd=02",
+      "contact": "1610",
+      "support_type": "서민금융",
+      "support_cycle": "월",
+      "gemini_ok": true,
+      "updated_at": "2026-09-11T05:37:08.118919+09:00"
+    },
+    {
+      "id": "local_WLF00004893",
+      "source": "local",
+      "title": "세종특별자치시 만 65세 이상 취약계층 어르신 대상포진 예방접종 지원사업",
+      "organization": "세종특별자치시 보건소 보건의료과",
+      "summary": [
+        "세종특별자치시 만 65세 이상 취약계",
+        "저소득",
+        "세종특별자치시 보건소 보건의"
+      ],
+      "plain_desc": "65세 이상 취약계층 어르신 대상포진 예방접종 지원",
+      "categories": [
+        "노인돌봄",
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "세종특별자치시"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00004893&wlfareInfoReldBztpCd=02",
+      "contact": "4464",
+      "support_type": "",
+      "support_cycle": "1회성",
+      "gemini_ok": true,
+      "updated_at": "2026-09-11T05:37:08.118971+09:00"
+    },
+    {
+      "id": "local_WLF00001936",
+      "source": "local",
+      "title": "여성장애인 출산 및 양육 지원",
+      "organization": "세종특별자치시 보건복지국 노인장애인과",
+      "summary": [
+        "여성장애인 출산 및 양육 지원",
+        "장애인",
+        "세종특별자치시 보건복지국 노"
+      ],
+      "plain_desc": "- 출산지원금 : 여성장애인의 출산비용 지원을 통해 경제적 부담 경감 및 출산친화 문화 조성 - 양육지원금 : 여성장애인에게 양육비 지원을 통해 여성장애인의 안정적인 가족생활 영위 및 출산장려",
+      "categories": [
+        "임신·출산·육아",
+        "장애인지원"
+      ],
+      "age_groups": [
+        "영유아(0-6세)"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "세종특별자치시"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001936&wlfareInfoReldBztpCd=02",
+      "contact": "2486",
+      "support_type": "임신·출산, 서민금융",
+      "support_cycle": "월",
+      "gemini_ok": true,
+      "updated_at": "2026-09-11T05:37:08.119049+09:00"
+    },
+    {
+      "id": "local_WLF00004476",
+      "source": "local",
+      "title": "아이 돌보는 아빠 장려금 지원",
+      "organization": "세종특별자치시 보건복지국 인구여성가족과",
+      "summary": [
+        "아이 돌보는 아빠 장려금 지원",
+        "□ 사업개요 ○ (사업목적) 남성 근",
+        "세종특별자치시 보건복지국 인"
+      ],
+      "plain_desc": "□ 사업개요 ○ (사업목적) 남성 근로자의 육아 휴직을 장려하고 양육에 따른 경제적 부담을 완화하므로써 일과 가정생활의 양립 및 가족 친화적인 사회환경 조성 ○ (지원대상) ‘26. 1. 1 기준 육아휴직 중인 남성 근로자 ○ (지원조건) 다음 조건을 모두 충족하는 남성 육아휴직자 - 육아휴직자가 신청일 기준 시에 1년 이상 계속하여 주민등록이 되어 있는 경우 - 육아휴직의 대상 자녀가 신청일 기준 시에 주민등록을 두고 있는 경우 - 고용보험법 제70조에 따른 육아휴직 급여의 지급조건을 충족하는 경우 - 고용보험법 시행령 제95조의",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "세종특별자치시"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00004476&wlfareInfoReldBztpCd=02",
+      "contact": "6420",
+      "support_type": "서민금융",
+      "support_cycle": "월",
+      "gemini_ok": true,
+      "updated_at": "2026-09-11T05:37:08.119291+09:00"
+    },
+    {
+      "id": "local_WLF00001036",
+      "source": "local",
+      "title": "인플루엔자(독감) 무료예방접종 확대",
+      "organization": "세종특별자치시 보건소 보건의료과",
+      "summary": [
+        "인플루엔자(독감) 무료예방접종 확대",
+        "보훈대상자",
+        "세종특별자치시 보건소 보건의"
+      ],
+      "plain_desc": "인플루엔자 예방접종은 보건복지부 장관이 감염병 예방을 위해 필요하다고 지정한 동절기 호흡기 감염병 예방접종으로 국가사업(만65세 이상 어르신, 생후6~12세 이하, 임신부)대상자 이외에 인플루엔자 고위험군인 60~64세 어르신, 만성질환자, 장애인 및 기초생활수급자, 차상위 계층, 국가유공자에게 무료접종을 확대하여 예방적 보건의료서비스 제공",
+      "categories": [
+        "의료·건강",
+        "장애인지원",
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "기초생활수급자"
+      ],
+      "regions": {
+        "sido": [
+          "세종특별자치시"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001036&wlfareInfoReldBztpCd=02",
+      "contact": "5918",
+      "support_type": "신체건강",
+      "support_cycle": "1회성",
+      "gemini_ok": true,
+      "updated_at": "2026-09-11T05:37:08.119393+09:00"
+    },
+    {
+      "id": "local_WLF00002657",
+      "source": "local",
+      "title": "세종형 쉐어하우스 임대 및 운영",
+      "organization": "세종특별자치시 건설교통국 주택과",
+      "summary": [
+        "세종형 쉐어하우스 임대 및 운영",
+        "저소득층 대학생의 주거부담완화 및 경",
+        "세종특별자치시 건설교통국 주"
+      ],
+      "plain_desc": "저소득층 대학생의 주거부담완화 및 경제적 자립 지원, 입주대학생의 재능기부 및 자원봉사활동을 통한 지역공동체 활성화",
+      "categories": [
+        "주거·임대"
+      ],
+      "age_groups": [
+        "청년(19-34세)"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "세종특별자치시"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00002657&wlfareInfoReldBztpCd=02",
+      "contact": "3566",
+      "support_type": "",
+      "support_cycle": "년",
+      "gemini_ok": true,
+      "updated_at": "2026-09-11T05:37:08.119450+09:00"
+    },
+    {
+      "id": "local_WLF00002662",
+      "source": "local",
+      "title": "세종형 기초생계지원",
+      "organization": "세종특별자치시 보건복지국 복지정책과",
+      "summary": [
+        "세종형 기초생계지원",
+        "세종시민 복지기준 계획 및 ‘26년 ",
+        "세종특별자치시 보건복지국 복"
+      ],
+      "plain_desc": "세종시민 복지기준 계획 및 ‘26년 기초생활보장제도 내용을 반영 부양의무자기준, 재산기준 등으로 인한 생계급여 탈락가구에 대하여 세종형 기초생계지원제도를 실시하여 빈곤 사각지대 해소를 도모",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "기초생활수급자"
+      ],
+      "regions": {
+        "sido": [
+          "세종특별자치시"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00002662&wlfareInfoReldBztpCd=02",
+      "contact": "3375",
+      "support_type": "서민금융",
+      "support_cycle": "월",
+      "gemini_ok": true,
+      "updated_at": "2026-09-11T05:37:08.119517+09:00"
+    },
+    {
+      "id": "local_WLF00002659",
+      "source": "local",
+      "title": "다문화가족 어울림, 정착지원 활성화, 다문화 특화사업",
+      "organization": "세종특별자치시 보건복지국 인구여성가족과",
+      "summary": [
+        "다문화가족 어울림, 정착지원 활성화,",
+        "* 다문화 어울림 사업 : 결혼이민자",
+        "세종특별자치시 보건복지국 인"
+      ],
+      "plain_desc": "* 다문화 어울림 사업 : 결혼이민자의 자립역량 강화 지원서비스 체계를 확립하여 결혼이민자 스스로 정착과정을 설계할 수 있도록 지원 * 다문화가족 정착지원 활성화 사업 : 다문화가족의 안정적인 생활을 위한 부부교육, 성인권 감수성 교육, 다문화 이해 교육 등을 통한 가족관계 향상 도모 * 다문화가족 특화사업 : 결혼이민자 통번역사 추가 지원(2명)",
+      "categories": [
+        "문화·여가"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "다자녀가구",
+        "다문화가구"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "세종특별자치시"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00002659&wlfareInfoReldBztpCd=02",
+      "contact": "2561",
+      "support_type": "",
+      "support_cycle": "년",
+      "gemini_ok": true,
+      "updated_at": "2026-09-11T05:37:08.119610+09:00"
+    },
+    {
+      "id": "local_WLF00001013",
+      "source": "local",
+      "title": "노인대학 운영",
+      "organization": "세종특별자치시 보건복지국 노인장애인과",
+      "summary": [
+        "노인대학 운영",
+        "노인 여가활동 지원",
+        "세종특별자치시 보건복지국 노"
+      ],
+      "plain_desc": "'노인대학 운영' 서비스입니다. 자세한 내용은 세종특별자치시 보건복지국 노인장애인과에 문의하세요.",
+      "categories": [
+        "노인돌봄"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "세종특별자치시"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001013&wlfareInfoReldBztpCd=02",
+      "contact": "3890",
+      "support_type": "",
+      "support_cycle": "반기",
+      "gemini_ok": true,
+      "updated_at": "2026-09-11T05:37:08.119651+09:00"
+    },
+    {
+      "id": "local_WLF00001015",
+      "source": "local",
+      "title": "사회활동장려금 지원",
+      "organization": "세종특별자치시 보건복지국 노인장애인과",
+      "summary": [
+        "사회활동장려금 지원",
+        "어르신의 여가와 문화활동을 장려하고 ",
+        "세종특별자치시 보건복지국 노"
+      ],
+      "plain_desc": "어르신의 여가와 문화활동을 장려하고 사회활동 참여를 촉진",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "세종특별자치시"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001015&wlfareInfoReldBztpCd=02",
+      "contact": "3316",
+      "support_type": "서민금융",
+      "support_cycle": "월",
+      "gemini_ok": true,
+      "updated_at": "2026-09-11T05:37:08.119700+09:00"
+    },
+    {
+      "id": "local_WLF00001267",
+      "source": "local",
+      "title": "저소득 한부모가족 생활안정지원",
+      "organization": "세종특별자치시 보건복지국 인구여성가족과",
+      "summary": [
+        "저소득 한부모가족 생활안정지원",
+        "한부모·조손",
+        "세종특별자치시 보건복지국 인"
+      ],
+      "plain_desc": "저소득 한부모가족의 건전한 가족기능 유지와 생활안정에 기여(교통비, 명절지원금, 월동비 지원)",
+      "categories": [
+        "임신·출산·육아",
+        "교육·훈련",
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "영유아(0-6세)",
+        "아동·청소년(7-18세)",
+        "청년(19-34세)",
+        "중장년(35-64세)"
+      ],
+      "household_types": [
+        "한부모가구"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "세종특별자치시"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001267&wlfareInfoReldBztpCd=02",
+      "contact": "17141",
+      "support_type": "서민금융",
+      "support_cycle": "년",
+      "gemini_ok": true,
+      "updated_at": "2026-09-11T05:37:08.119761+09:00"
+    },
+    {
+      "id": "local_WLF00002760",
+      "source": "local",
+      "title": "장애인 의료재활지원",
+      "organization": "세종특별자치시 보건복지국 노인장애인과",
+      "summary": [
+        "장애인 의료재활지원",
+        "장애인",
+        "세종특별자치시 보건복지국 노"
+      ],
+      "plain_desc": "저소득 장루 요루 장애인에 대한 의료케어제품 구입비 지원",
+      "categories": [
+        "의료·건강",
+        "임신·출산·육아",
+        "교육·훈련",
+        "장애인지원"
+      ],
+      "age_groups": [
+        "영유아(0-6세)",
+        "아동·청소년(7-18세)",
+        "청년(19-34세)",
+        "중장년(35-64세)"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "세종특별자치시"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00002760&wlfareInfoReldBztpCd=02",
+      "contact": "3126",
+      "support_type": "서민금융",
+      "support_cycle": "1회성",
+      "gemini_ok": true,
+      "updated_at": "2026-09-11T05:37:08.119817+09:00"
+    },
+    {
+      "id": "local_WLF00000675",
+      "source": "local",
+      "title": "청각장애인 인공달팽이관 수술비 및 재활치료비 지원사업",
+      "organization": "세종특별자치시 보건복지국 노인장애인과",
+      "summary": [
+        "청각장애인 인공달팽이관 수술비 및 재",
+        "장애인",
+        "세종특별자치시 보건복지국 노"
+      ],
+      "plain_desc": "청각장애인 인공달팽이관 수술비 및 재활치료비 지원으로 장애인 가구의 의료비 경감",
+      "categories": [
+        "의료·건강",
+        "장애인지원"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "세종특별자치시"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000675&wlfareInfoReldBztpCd=02",
+      "contact": "3647",
+      "support_type": "서민금융, 신체건강",
+      "support_cycle": "월",
+      "gemini_ok": true,
+      "updated_at": "2026-09-11T05:37:08.119877+09:00"
+    },
+    {
+      "id": "local_WLF00002682",
+      "source": "local",
+      "title": "장애인 생활안정 추가지원(부부장애수당,중증장애인가구 월동비)",
+      "organization": "세종특별자치시 보건복지국 노인장애인과",
+      "summary": [
+        "장애인 생활안정 추가지원(부부장애수당",
+        "장애인",
+        "세종특별자치시 보건복지국 노"
+      ],
+      "plain_desc": "저소득장애인의 생활안정 지원",
+      "categories": [
+        "임신·출산·육아",
+        "교육·훈련",
+        "장애인지원",
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "영유아(0-6세)",
+        "아동·청소년(7-18세)",
+        "청년(19-34세)",
+        "중장년(35-64세)"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "세종특별자치시"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00002682&wlfareInfoReldBztpCd=02",
+      "contact": "3535",
+      "support_type": "서민금융",
+      "support_cycle": "월",
+      "gemini_ok": true,
+      "updated_at": "2026-09-11T05:37:08.119935+09:00"
+    },
+    {
+      "id": "local_WLF00002761",
+      "source": "local",
+      "title": "저소득층 국민건강보험료 지원",
+      "organization": "세종특별자치시 보건복지국 복지정책과",
+      "summary": [
+        "저소득층 국민건강보험료 지원",
+        "장애인",
+        "세종특별자치시 보건복지국 복"
+      ],
+      "plain_desc": "생활에 어려움을 겪고 있는 저소득 주민에게 국민건강보험료 및 노인장기요양보험료를 지원함으로써 시민의 건강증진과 사회복지 향상을 도모하고 의료사각지대 해소",
+      "categories": [
+        "의료·건강",
+        "장애인지원",
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "한부모가구"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "세종특별자치시"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00002761&wlfareInfoReldBztpCd=02",
+      "contact": "3290",
+      "support_type": "서민금융",
+      "support_cycle": "월",
+      "gemini_ok": true,
+      "updated_at": "2026-09-11T05:37:08.120001+09:00"
+    },
+    {
+      "id": "local_WLF00000676",
+      "source": "local",
+      "title": "효행장려금 지원",
+      "organization": "세종특별자치시 보건복지국 노인장애인과",
+      "summary": [
+        "효행장려금 지원",
+        "효행을 장려하고 어르신을 공경하는 사",
+        "세종특별자치시 보건복지국 노"
+      ],
+      "plain_desc": "효행을 장려하고 어르신을 공경하는 사회적 분위기를 조성하여 효문화를 정착시키는데 이바지 함",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "세종특별자치시"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000676&wlfareInfoReldBztpCd=02",
+      "contact": "5647",
+      "support_type": "서민금융",
+      "support_cycle": "월",
+      "gemini_ok": true,
+      "updated_at": "2026-09-11T05:37:08.120051+09:00"
+    },
+    {
+      "id": "local_WLF00005320",
+      "source": "local",
+      "title": "청년 주택임차보증금 이자지원사업",
+      "organization": "세종특별자치시 기획조정실 청년정책담당관",
+      "summary": [
+        "청년 주택임차보증금 이자지원사업",
+        "○ 전·월세 거주 청년가구의 주거비 ",
+        "세종특별자치시 기획조정실 청"
+      ],
+      "plain_desc": "○ 전·월세 거주 청년가구의 주거비 부담 완화 및 안정적인 주거생활 지원",
+      "categories": [
+        "주거·임대"
+      ],
+      "age_groups": [
+        "청년(19-34세)"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "세종특별자치시"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005320&wlfareInfoReldBztpCd=02",
+      "contact": "6794",
+      "support_type": "서민금융",
+      "support_cycle": "분기",
+      "gemini_ok": true,
+      "updated_at": "2026-09-11T05:37:08.120120+09:00"
+    },
+    {
+      "id": "local_WLF00005487",
+      "source": "local",
+      "title": "민간가정어린이집 차액보육료 지원",
+      "organization": "세종특별자치시 보건복지국 인구여성가족과",
+      "summary": [
+        "민간가정어린이집 차액보육료 지원",
+        "정부 미지원 어린이집(민간",
+        "세종특별자치시 보건복지국 인"
+      ],
+      "plain_desc": "정부 미지원 어린이집(민간, 가정)에 재원 중인 3-5세 영유아의 실질적인 무상보육을 위해 누리과정 차액보육료 지원",
+      "categories": [
+        "임신·출산·육아"
+      ],
+      "age_groups": [
+        "영유아(0-6세)"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "세종특별자치시"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005487&wlfareInfoReldBztpCd=02",
+      "contact": "1928",
+      "support_type": "",
+      "support_cycle": "월",
+      "gemini_ok": true,
+      "updated_at": "2026-09-11T05:37:08.120179+09:00"
+    },
+    {
+      "id": "local_WLF00001264",
+      "source": "local",
+      "title": "입양축하금 지원",
+      "organization": "세종특별자치시 보건복지국 아동청소년과",
+      "summary": [
+        "입양축하금 지원",
+        "국내입양 활성화를 도모하고 입양아동이",
+        "세종특별자치시 보건복지국 아"
+      ],
+      "plain_desc": "국내입양 활성화를 도모하고 입양아동이 가정생활에 원만하게 적응할 수 있도록 입양가정 지원",
+      "categories": [
+        "임신·출산·육아",
+        "교육·훈련"
+      ],
+      "age_groups": [
+        "영유아(0-6세)",
+        "아동·청소년(7-18세)"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "세종특별자치시"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001264&wlfareInfoReldBztpCd=02",
+      "contact": "1682",
+      "support_type": "입양·위탁, 서민금융",
+      "support_cycle": "1회성",
+      "gemini_ok": true,
+      "updated_at": "2026-09-11T05:37:08.120232+09:00"
     }
   ]
 }
