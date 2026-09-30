@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "last_updated": "2026-09-29T08:04:53.069716+09:00",
-    "last_updated_kst": "2026년 09월 29일 08:04",
-    "total_count": 5280,
-    "total_fetched_from_api": 5280
+    "last_updated": "2026-10-01T07:02:19.574529+09:00",
+    "last_updated_kst": "2026년 10월 01일 07:02",
+    "total_count": 5277,
+    "total_fetched_from_api": 5277
   },
   "items": [
     {
@@ -29331,44 +29331,6 @@
       "support_cycle": "1회성",
       "gemini_ok": true,
       "updated_at": "2026-08-07T09:06:08.349388+09:00"
-    },
-    {
-      "id": "local_WLF00006710",
-      "source": "local",
-      "title": "The 경기패스 어르신 지원 확대 시범사업",
-      "organization": "경기도 교통국 광역교통정책과",
-      "summary": [
-        "The 경기패스 어르신 지원 확대 시",
-        "어르신 교통비 부담 완화",
-        "경기도 교통국 광역교통정책과"
-      ],
-      "plain_desc": "어르신 교통비 부담 완화, 대중교통 이용 촉진을 위한 교통비 지원 확대",
-      "categories": [
-        "노인돌봄"
-      ],
-      "age_groups": [
-        "전체"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "경기도"
-        ],
-        "districts": [
-          "전체"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006710&wlfareInfoReldBztpCd=02",
-      "contact": "197",
-      "support_type": "서민금융",
-      "support_cycle": "분기",
-      "gemini_ok": true,
-      "updated_at": "2026-08-07T09:06:08.349434+09:00"
     },
     {
       "id": "local_WLF00006132",
@@ -85639,44 +85601,6 @@
       "updated_at": "2026-08-07T09:06:13.021101+09:00"
     },
     {
-      "id": "local_WLF00004006",
-      "source": "local",
-      "title": "청년희망적금",
-      "organization": "대구광역시 청년여성교육국 청년정책과",
-      "summary": [
-        "청년희망적금",
-        "사회진입 초기의 근로청년들에게 자산형",
-        "대구광역시 청년여성교육국 청"
-      ],
-      "plain_desc": "사회진입 초기의 근로청년들에게 자산형성의 토대 지원",
-      "categories": [
-        "취업·창업"
-      ],
-      "age_groups": [
-        "청년(19-34세)"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "대구광역시"
-        ],
-        "districts": [
-          "전체"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00004006&wlfareInfoReldBztpCd=02",
-      "contact": "61068",
-      "support_type": "서민금융, 일자리",
-      "support_cycle": "1회성",
-      "gemini_ok": true,
-      "updated_at": "2026-08-07T09:06:13.021139+09:00"
-    },
-    {
       "id": "local_WLF00001220",
       "source": "local",
       "title": "산모신생아 건강관리 지원 사업(자체)",
@@ -103710,44 +103634,6 @@
       "support_cycle": "분기",
       "gemini_ok": true,
       "updated_at": "2026-08-07T09:06:14.841924+09:00"
-    },
-    {
-      "id": "local_WLF00006427",
-      "source": "local",
-      "title": "보은군 발달장애인 배상책임보험 지원 사업",
-      "organization": "충청북도 보은군 복지정책과",
-      "summary": [
-        "보은군 발달장애인 배상책임보험 지원 ",
-        "장애인",
-        "충청북도 보은군 복지정책과"
-      ],
-      "plain_desc": "발달장애인이 사회활동 중 다른사람에게 신체 및 재산상 피해를 입힌 사고에 대하여 보험가입 및 보험료를 지원함으로써 발달장애인의 생활안정과 사회활동 참여증진에 기여함",
-      "categories": [
-        "장애인지원"
-      ],
-      "age_groups": [
-        "전체"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "충청북도"
-        ],
-        "districts": [
-          "보은군"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006427&wlfareInfoReldBztpCd=02",
-      "contact": "294",
-      "support_type": "서민금융",
-      "support_cycle": "수시",
-      "gemini_ok": true,
-      "updated_at": "2026-08-07T09:06:14.841990+09:00"
     },
     {
       "id": "local_WLF00006426",
