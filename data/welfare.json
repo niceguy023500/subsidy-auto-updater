@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "last_updated": "2026-10-01T07:02:19.574529+09:00",
-    "last_updated_kst": "2026년 10월 01일 07:02",
-    "total_count": 5277,
-    "total_fetched_from_api": 5277
+    "last_updated": "2026-10-02T07:29:34.106805+09:00",
+    "last_updated_kst": "2026년 10월 02일 07:29",
+    "total_count": 5280,
+    "total_fetched_from_api": 5280
   },
   "items": [
     {
@@ -206189,6 +206189,124 @@
       "support_cycle": "수시",
       "gemini_ok": true,
       "updated_at": "2026-09-26T06:17:08.363076+09:00"
+    },
+    {
+      "id": "local_WLF00006783",
+      "source": "local",
+      "title": "대구 서구 통합돌봄 사업",
+      "organization": "대구광역시 서구 복지생활국 복지정책과",
+      "summary": [
+        "대구 서구 통합돌봄 사업",
+        "저소득",
+        "대구광역시 서구 복지생활국 "
+      ],
+      "plain_desc": "노쇠, 장애, 질병 등으로 일상생활 수행에 어려움을 겪는 노인, 장애인이 살던 곳에서 거주할 수 있도록 지원 - 가사지원 일상생활에서 가사 수행이 어려운 돌봄대상자에게 기본적인 가사를 도와 안정적인 재가생활을 도모함. - 이동지원 일상생활지원(관공서 동행, 병원 동행 등)을 통해 안전하고 편리하게 이동 할수 있도록 지원함",
+      "categories": [
+        "장애인지원",
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "대구광역시"
+        ],
+        "districts": [
+          "서구"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006783&wlfareInfoReldBztpCd=02",
+      "contact": "27",
+      "support_type": "",
+      "support_cycle": "주",
+      "gemini_ok": true,
+      "updated_at": "2026-10-02T07:29:34.106657+09:00"
+    },
+    {
+      "id": "local_WLF00006782",
+      "source": "local",
+      "title": "달성군 통합돌봄 지원사업",
+      "organization": "대구광역시 달성군 주민복지국 복지정책과",
+      "summary": [
+        "달성군 통합돌봄 지원사업",
+        "거주지 중심 통합돌봄 서비스 지원 -",
+        "대구광역시 달성군 주민복지국"
+      ],
+      "plain_desc": "거주지 중심 통합돌봄 서비스 지원 - 가사·이동 서비스 지원 - 방문목욕 서비스 지원",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "대구광역시"
+        ],
+        "districts": [
+          "달성군"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006782&wlfareInfoReldBztpCd=02",
+      "contact": "26",
+      "support_type": "",
+      "support_cycle": "부정기",
+      "gemini_ok": true,
+      "updated_at": "2026-10-02T07:29:34.106729+09:00"
+    },
+    {
+      "id": "local_WLF00006781",
+      "source": "local",
+      "title": "서울형 스마트 헬스케어",
+      "organization": "서울특별시 시민건강국 스마트건강과",
+      "summary": [
+        "서울형 스마트 헬스케어",
+        "서울형 스마트 헬스케어 플랫폼을 활용",
+        "서울특별시 시민건강국 스마트"
+      ],
+      "plain_desc": "서울형 스마트 헬스케어 플랫폼을 활용하여 건강관리 서비스를 제공함으로써 시민의 자기주도 건강관리 능력 향상 및 건강증진 도모",
+      "categories": [
+        "임신·출산·육아",
+        "교육·훈련"
+      ],
+      "age_groups": [
+        "아동·청소년(7-18세)",
+        "청년(19-34세)",
+        "중장년(35-64세)"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "서울특별시"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006781&wlfareInfoReldBztpCd=02",
+      "contact": "28",
+      "support_type": "서민금융",
+      "support_cycle": "수시",
+      "gemini_ok": true,
+      "updated_at": "2026-10-02T07:29:34.106784+09:00"
     }
   ]
 }
