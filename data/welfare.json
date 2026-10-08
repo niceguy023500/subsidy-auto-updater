@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "last_updated": "2026-10-08T07:55:08.508761+09:00",
-    "last_updated_kst": "2026년 10월 08일 07:55",
-    "total_count": 5280,
-    "total_fetched_from_api": 5280
+    "last_updated": "2026-10-09T08:06:56.987846+09:00",
+    "last_updated_kst": "2026년 10월 09일 08:06",
+    "total_count": 5282,
+    "total_fetched_from_api": 5282
   },
   "items": [
     {
@@ -193262,44 +193262,6 @@
       "updated_at": "2026-08-14T04:12:40.578918+09:00"
     },
     {
-      "id": "local_WLF00005622",
-      "source": "local",
-      "title": "빙그레 웃는 맘, 행복출산 시범사업 운영(운동비, 운동기구 구입비 지원)",
-      "organization": "전남광주통합특별시 완도군 보건의료원 건강증진과",
-      "summary": [
-        "빙그레 웃는 맘, 행복출산 시범사업 ",
-        "출산과 관련된 운동비 지원",
-        "전남광주통합특별시 완도군 보"
-      ],
-      "plain_desc": "출산과 관련된 운동비 지원",
-      "categories": [
-        "임신·출산·육아"
-      ],
-      "age_groups": [
-        "전체"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "광주광역시"
-        ],
-        "districts": [
-          "전체"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005622&wlfareInfoReldBztpCd=02",
-      "contact": "1408",
-      "support_type": "서민금융, 입양·위탁, 임신·출산",
-      "support_cycle": "1회성",
-      "gemini_ok": true,
-      "updated_at": "2026-08-14T04:12:40.578973+09:00"
-    },
-    {
       "id": "local_WLF00005597",
       "source": "local",
       "title": "2024년 난자 동결 시술비 지원사업",
@@ -206307,6 +206269,122 @@
       "support_cycle": "수시",
       "gemini_ok": true,
       "updated_at": "2026-10-02T07:29:34.106784+09:00"
+    },
+    {
+      "id": "local_WLF00006788",
+      "source": "local",
+      "title": "대구 북구 통합돌봄 사업",
+      "organization": "대구광역시 북구 복지환경국 복지정책과",
+      "summary": [
+        "대구 북구 통합돌봄 사업",
+        "장애인",
+        "대구광역시 북구 복지환경국 "
+      ],
+      "plain_desc": "노쇠, 장애, 질병, 사고 등으로 일상생활 수행에 어려움을 겪는 사람이 살던 곳에서 계속하여 건강한 생활을 영위할 수 있도록 의료·요양 등의 돌봄 서비스 제공 (가사지원, 병원동행 등의 일상생활 돌봄서비스 제공)",
+      "categories": [
+        "장애인지원"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "대구광역시"
+        ],
+        "districts": [
+          "북구"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006788&wlfareInfoReldBztpCd=02",
+      "contact": "10",
+      "support_type": "",
+      "support_cycle": "주",
+      "gemini_ok": true,
+      "updated_at": "2026-10-09T08:06:56.987628+09:00"
+    },
+    {
+      "id": "local_WLF00006787",
+      "source": "local",
+      "title": "대구 중구 통합돌봄 사업",
+      "organization": "대구광역시 중구 주민복지국 생활보장과",
+      "summary": [
+        "대구 중구 통합돌봄 사업",
+        "장애인",
+        "대구광역시 중구 주민복지국 "
+      ],
+      "plain_desc": "노쇠, 장애, 질병, 사고 등으로 일상생활 수행에 어려움을 겪는 사람이 살던 곳에서 계속하여 건강한 생활을 영위할 수 있도록 의료·요양 등 돌봄 지원을 통합·연계하여 제공 (우선관리대상자 중 가사서비스 지원을 필요로 하는 자) - 가사지원, 병원동행, 방문운동, 방문목욕(4개사업)",
+      "categories": [
+        "장애인지원",
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "대구광역시"
+        ],
+        "districts": [
+          "중구"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006787&wlfareInfoReldBztpCd=02",
+      "contact": "8",
+      "support_type": "",
+      "support_cycle": "부정기",
+      "gemini_ok": true,
+      "updated_at": "2026-10-09T08:06:56.987754+09:00"
+    },
+    {
+      "id": "local_WLF00006786",
+      "source": "local",
+      "title": "선천성 장애아 발견을 위한 기형아 검사비 지원",
+      "organization": "경기도 광주시 보건소 오포건강생활지원센터",
+      "summary": [
+        "선천성 장애아 발견을 위한 기형아 검",
+        "기형아 검사비 지원을 통해 임신에 따",
+        "경기도 광주시 보건소 오포건"
+      ],
+      "plain_desc": "기형아 검사비 지원을 통해 임신에 따른 경제적 부담을 경감하고 건강한 분만을 유도",
+      "categories": [
+        "임신·출산·육아",
+        "장애인지원"
+      ],
+      "age_groups": [
+        "청년(19-34세)"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "경기도"
+        ],
+        "districts": [
+          "광주시"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006786&wlfareInfoReldBztpCd=02",
+      "contact": "9",
+      "support_type": "서민금융, 임신·출산",
+      "support_cycle": "1회성",
+      "gemini_ok": true,
+      "updated_at": "2026-10-09T08:06:56.987826+09:00"
     }
   ]
 }
