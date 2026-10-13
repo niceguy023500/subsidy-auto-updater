@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "last_updated": "2026-10-13T09:21:05.473307+09:00",
-    "last_updated_kst": "2026년 10월 13일 09:21",
-    "total_count": 5282,
-    "total_fetched_from_api": 5282
+    "last_updated": "2026-10-14T07:27:12.575414+09:00",
+    "last_updated_kst": "2026년 10월 14일 07:27",
+    "total_count": 5281,
+    "total_fetched_from_api": 5281
   },
   "items": [
     {
@@ -44073,44 +44073,6 @@
       "support_cycle": "분기",
       "gemini_ok": true,
       "updated_at": "2026-08-07T09:06:09.974624+09:00"
-    },
-    {
-      "id": "local_WLF00005966",
-      "source": "local",
-      "title": "기장군 다자녀 가정 양육 바우처 지원",
-      "organization": "부산광역시 기장군 복지교육국 가족복지과",
-      "summary": [
-        "기장군 다자녀 가정 양육 바우처 지원",
-        "다자녀",
-        "부산광역시 기장군 복지교육국"
-      ],
-      "plain_desc": "저출산문제가 국가적인 문제로 인식되고 있어 출산·양육에 대한 경제적 부담 경감을 위한 일정기간 양육비 지원 등의 실질적인 대책 필요",
-      "categories": [
-        "교육·훈련"
-      ],
-      "age_groups": [
-        "아동·청소년(7-18세)"
-      ],
-      "household_types": [
-        "다자녀가구"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "부산광역시"
-        ],
-        "districts": [
-          "기장군"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005966&wlfareInfoReldBztpCd=02",
-      "contact": "3119",
-      "support_type": "서민금융",
-      "support_cycle": "년",
-      "gemini_ok": true,
-      "updated_at": "2026-08-07T09:06:09.974714+09:00"
     },
     {
       "id": "local_WLF00005965",
