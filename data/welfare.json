@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-10-12T06:40:21.577628+09:00",
-    "last_updated_kst": "2026년 10월 12일 06:40",
+    "last_updated": "2026-10-13T09:21:03.224532+09:00",
+    "last_updated_kst": "2026년 10월 13일 09:21",
     "total_count": 5282,
     "total_fetched_from_api": 5282
   },
@@ -83192,44 +83192,6 @@
       "support_cycle": "1회성",
       "gemini_ok": true,
       "updated_at": "2026-08-07T09:06:13.017090+09:00"
-    },
-    {
-      "id": "local_WLF00005925",
-      "source": "local",
-      "title": "전입축하 ‘쓰담쓰담 꾸러미 지원 사업’",
-      "organization": "인천광역시 동구 경제환경국 자원순환과",
-      "summary": [
-        "전입축하 ‘쓰담쓰담 꾸러미 지원 사업",
-        "자치단체별 생활쓰레기 배출방법(종량제",
-        "인천광역시 동구 경제환경국 "
-      ],
-      "plain_desc": "자치단체별 생활쓰레기 배출방법(종량제 봉투 및 배출 요일 등) 차이에 따라 우리 구로 신규 전입한 세대의 배출 혼동을 예방하고 적정 배출을 유도",
-      "categories": [
-        "생활비·소득"
-      ],
-      "age_groups": [
-        "전체"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "인천광역시"
-        ],
-        "districts": [
-          "동구"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005925&wlfareInfoReldBztpCd=02",
-      "contact": "1333",
-      "support_type": "",
-      "support_cycle": "1회성",
-      "gemini_ok": true,
-      "updated_at": "2026-08-07T09:06:13.017145+09:00"
     },
     {
       "id": "local_WLF00005905",
@@ -175651,44 +175613,6 @@
       "updated_at": "2026-08-07T09:06:22.493976+09:00"
     },
     {
-      "id": "local_WLF00000367",
-      "source": "local",
-      "title": "행여자보호지원(장제비)",
-      "organization": "전북특별자치도 임실군 복지환경국 주민복지과",
-      "summary": [
-        "행여자보호지원(장제비)",
-        "행여자 및 부랑인 보호 및 지원",
-        "전북특별자치도 임실군 복지환"
-      ],
-      "plain_desc": "행여자 및 부랑인 보호 및 지원",
-      "categories": [
-        "생활비·소득"
-      ],
-      "age_groups": [
-        "전체"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "전북특별자치도"
-        ],
-        "districts": [
-          "임실군"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00000367&wlfareInfoReldBztpCd=02",
-      "contact": "1297",
-      "support_type": "서민금융, 안전·위기",
-      "support_cycle": "1회성",
-      "gemini_ok": true,
-      "updated_at": "2026-08-07T09:06:22.494016+09:00"
-    },
-    {
       "id": "local_WLF00001047",
       "source": "local",
       "title": "청각장애인 인공달팽이관 재활치료",
@@ -206385,6 +206309,86 @@
       "support_cycle": "1회성",
       "gemini_ok": true,
       "updated_at": "2026-10-09T08:06:56.987826+09:00"
+    },
+    {
+      "id": "local_WLF00006791",
+      "source": "local",
+      "title": "특수교육대상자 치료방과후지원 사업(꿈이든카드-외부자유수강권)",
+      "organization": "경기도교육청 학교교육국 특수교육과",
+      "summary": [
+        "특수교육대상자 치료방과후지원 사업(꿈",
+        "특수교육대상자 치료방과후 지원 사업은",
+        "경기도교육청 학교교육국 특수"
+      ],
+      "plain_desc": "특수교육대상자 치료방과후 지원 사업은 특수교육대상자에게 치료지원 및 방과후학교 프로그램을 지원함으로써 특수교육 관련서비스를 확대하고, 프로그램 선택권 강화 및 참여도를 높이며, 학생의 자기계발 촉진과 사회적응력 신장을 도모하기 위한 사업임. 교육 소외계층인 특수교육대상자에 대한 치료방과후 지원을 통해 교육격차 해소와 실질적인 교육복지 실현을 목적으로 함",
+      "categories": [
+        "의료·건강",
+        "임신·출산·육아",
+        "교육·훈련"
+      ],
+      "age_groups": [
+        "영유아(0-6세)",
+        "아동·청소년(7-18세)"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "경기도"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006791&wlfareInfoReldBztpCd=02",
+      "contact": "24",
+      "support_type": "교육",
+      "support_cycle": "월",
+      "gemini_ok": true,
+      "updated_at": "2026-10-13T09:21:03.224352+09:00"
+    },
+    {
+      "id": "local_WLF00006789",
+      "source": "local",
+      "title": "문경시 아동꿈키움 바우처 사업",
+      "organization": "경상북도 문경시 행정복지국 교육지원과",
+      "summary": [
+        "문경시 아동꿈키움 바우처 사업",
+        "□ 초등 4학년 ~ 6학년 학생들에게",
+        "경상북도 문경시 행정복지국 "
+      ],
+      "plain_desc": "□ 초등 4학년 ~ 6학년 학생들에게 바우처 형태로 지급하여 관내 아동의 건강한 성장발달과 복지 증진에 기여 □ 사업개요 ❍ 지원대상 : 문경시에 주민등록을 둔 초등학교 4학년 ~ 6학년 ❍ 지원금액 : 1인당 연 30만원 지원 ❍ 지원형태 : 바우처 카드(충전식) ❍ 예 산 : 400,000천원 ❍ 사 용 처 : 관내 등록 가맹점 교육(음악․미술․무용), 문화, 체육시설, 서점 限 ❍ 운영방법 : 바우처 카드 전산 시스템 구축",
+      "categories": [
+        "임신·출산·육아",
+        "교육·훈련"
+      ],
+      "age_groups": [
+        "아동·청소년(7-18세)"
+      ],
+      "household_types": [
+        "1인가구"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "경상북도"
+        ],
+        "districts": [
+          "문경시"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006789&wlfareInfoReldBztpCd=02",
+      "contact": "10",
+      "support_type": "교육",
+      "support_cycle": "년",
+      "gemini_ok": true,
+      "updated_at": "2026-10-13T09:21:03.224514+09:00"
     }
   ]
 }
