@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "last_updated": "2026-10-14T07:27:12.575414+09:00",
-    "last_updated_kst": "2026년 10월 14일 07:27",
-    "total_count": 5281,
-    "total_fetched_from_api": 5281
+    "last_updated": "2026-10-15T06:24:40.222916+09:00",
+    "last_updated_kst": "2026년 10월 15일 06:24",
+    "total_count": 5283,
+    "total_fetched_from_api": 5283
   },
   "items": [
     {
@@ -206351,6 +206351,83 @@
       "support_cycle": "년",
       "gemini_ok": true,
       "updated_at": "2026-10-13T09:21:03.224514+09:00"
+    },
+    {
+      "id": "local_WLF00006794",
+      "source": "local",
+      "title": "2026년 충청남도 청년 주택임차보증금 이자 지원사업",
+      "organization": "충청남도 청년여성국 청년정책과",
+      "summary": [
+        "2026년 충청남도 청년 주택임차보증",
+        "충청남도 청년들의 주거비용 부담 완화",
+        "충청남도 청년여성국 청년정책"
+      ],
+      "plain_desc": "충청남도 청년들의 주거비용 부담 완화",
+      "categories": [
+        "주거·임대"
+      ],
+      "age_groups": [
+        "청년(19-34세)"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "충청남도"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006794&wlfareInfoReldBztpCd=02",
+      "contact": "15",
+      "support_type": "서민금융",
+      "support_cycle": "반기",
+      "gemini_ok": true,
+      "updated_at": "2026-10-15T06:24:40.222796+09:00"
+    },
+    {
+      "id": "local_WLF00006793",
+      "source": "local",
+      "title": "첫째아 출산지원금",
+      "organization": "부산광역시 해운대구 생활복지국 가족복지과",
+      "summary": [
+        "첫째아 출산지원금",
+        "출산율 저하에 따른 사회문제에 적극 ",
+        "부산광역시 해운대구 생활복지"
+      ],
+      "plain_desc": "출산율 저하에 따른 사회문제에 적극 대처하고자 출산지원금을 지급하여 양육부담을 경감시키고 출산친화적 사회분위기 조성",
+      "categories": [
+        "임신·출산·육아",
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "영유아(0-6세)"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "부산광역시"
+        ],
+        "districts": [
+          "해운대구"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006793&wlfareInfoReldBztpCd=02",
+      "contact": "10",
+      "support_type": "임신·출산, 서민금융",
+      "support_cycle": "1회성",
+      "gemini_ok": true,
+      "updated_at": "2026-10-15T06:24:40.222895+09:00"
     }
   ]
 }
