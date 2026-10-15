@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "last_updated": "2026-10-15T06:24:42.218748+09:00",
-    "last_updated_kst": "2026년 10월 15일 06:24",
-    "total_count": 5283,
-    "total_fetched_from_api": 5283
+    "last_updated": "2026-10-16T06:06:53.390707+09:00",
+    "last_updated_kst": "2026년 10월 16일 06:06",
+    "total_count": 5280,
+    "total_fetched_from_api": 5280
   },
   "items": [
     {
@@ -145027,44 +145027,6 @@
       "updated_at": "2026-08-07T09:06:18.393385+09:00"
     },
     {
-      "id": "local_WLF00005787",
-      "source": "local",
-      "title": "운일암반일암 국민여가캠핑장",
-      "organization": "전북특별자치도 진안군 안전환경국 관광과",
-      "summary": [
-        "운일암반일암 국민여가캠핑장",
-        "다자녀",
-        "전북특별자치도 진안군 안전환"
-      ],
-      "plain_desc": "다자녀(자녀 2명 이상) 가족이 이용하는 경우에 시설이용료 감면",
-      "categories": [
-        "문화·여가"
-      ],
-      "age_groups": [
-        "전체"
-      ],
-      "household_types": [
-        "다자녀가구"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "전북특별자치도"
-        ],
-        "districts": [
-          "전체"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005787&wlfareInfoReldBztpCd=02",
-      "contact": "2784",
-      "support_type": "서민금융",
-      "support_cycle": "수시",
-      "gemini_ok": true,
-      "updated_at": "2026-08-07T09:06:18.393432+09:00"
-    },
-    {
       "id": "local_WLF00005780",
       "source": "local",
       "title": "주민자치센터 프로그램 수강료 감면",
@@ -163956,44 +163918,6 @@
       "support_cycle": "월",
       "gemini_ok": true,
       "updated_at": "2026-08-07T09:06:20.465204+09:00"
-    },
-    {
-      "id": "local_WLF00001348",
-      "source": "local",
-      "title": "농어촌총각 장가보내기 사업",
-      "organization": "인천광역시 강화군 행정복지국 사회복지과",
-      "summary": [
-        "농어촌총각 장가보내기 사업",
-        "국제결혼시 비용일부를 지원함으로써 농",
-        "인천광역시 강화군 행정복지국"
-      ],
-      "plain_desc": "국제결혼시 비용일부를 지원함으로써 농어촌 총각들의 영농의욕 고취 및 삶의 질 향상",
-      "categories": [
-        "생활비·소득"
-      ],
-      "age_groups": [
-        "중장년(35-64세)"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "인천광역시"
-        ],
-        "districts": [
-          "강화군"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001348&wlfareInfoReldBztpCd=02",
-      "contact": "1402",
-      "support_type": "서민금융",
-      "support_cycle": "1회성",
-      "gemini_ok": true,
-      "updated_at": "2026-08-07T09:06:20.465251+09:00"
     },
     {
       "id": "local_WLF00004328",
@@ -193350,44 +193274,6 @@
       "updated_at": "2026-08-14T04:12:40.579283+09:00"
     },
     {
-      "id": "local_WLF00005536",
-      "source": "local",
-      "title": "에너지이용취약계층 등유바우처 지원사업",
-      "organization": "전남광주통합특별시 남구 문화환경국 탄소중립과",
-      "summary": [
-        "에너지이용취약계층 등유바우처 지원사업",
-        "저소득",
-        "전남광주통합특별시 남구 문화"
-      ],
-      "plain_desc": "- 등유 가격의 급격한 인상에 따른 등유 사용가구의 연료비 부담 가중 - 정부와 시에서 추진하는 난방연료 지원사업과 별개로 우리구에서 등유 부족분을 추가로 지원하는 보편적 에너지공급으로 에너지 복지 향상에 기여코자 함.",
-      "categories": [
-        "생활비·소득"
-      ],
-      "age_groups": [
-        "전체"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "광주광역시"
-        ],
-        "districts": [
-          "남구"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00005536&wlfareInfoReldBztpCd=02",
-      "contact": "12750",
-      "support_type": "",
-      "support_cycle": "년",
-      "gemini_ok": true,
-      "updated_at": "2026-08-14T04:12:40.579360+09:00"
-    },
-    {
       "id": "local_WLF00005438",
       "source": "local",
       "title": "장기요양기관 종사자 처우개선수당 지원 사업",
@@ -205960,46 +205846,6 @@
       "updated_at": "2026-09-11T05:37:08.120179+09:00"
     },
     {
-      "id": "local_WLF00001264",
-      "source": "local",
-      "title": "입양축하금 지원",
-      "organization": "세종특별자치시 보건복지국 아동청소년과",
-      "summary": [
-        "입양축하금 지원",
-        "국내입양 활성화를 도모하고 입양아동이",
-        "세종특별자치시 보건복지국 아"
-      ],
-      "plain_desc": "국내입양 활성화를 도모하고 입양아동이 가정생활에 원만하게 적응할 수 있도록 입양가정 지원",
-      "categories": [
-        "임신·출산·육아",
-        "교육·훈련"
-      ],
-      "age_groups": [
-        "영유아(0-6세)",
-        "아동·청소년(7-18세)"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "세종특별자치시"
-        ],
-        "districts": [
-          "전체"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00001264&wlfareInfoReldBztpCd=02",
-      "contact": "1682",
-      "support_type": "입양·위탁, 서민금융",
-      "support_cycle": "1회성",
-      "gemini_ok": true,
-      "updated_at": "2026-09-11T05:37:08.120232+09:00"
-    },
-    {
       "id": "local_WLF00006738",
       "source": "local",
       "title": "어르신 무릎 인공관절 수술비 지원계획",
@@ -206428,6 +206274,45 @@
       "support_cycle": "1회성",
       "gemini_ok": true,
       "updated_at": "2026-10-15T06:24:40.222895+09:00"
+    },
+    {
+      "id": "local_WLF00006795",
+      "source": "local",
+      "title": "서울형 장애인 개인예산제 시범사업",
+      "organization": "서울특별시 복지실 복지기획관 장애인복지과",
+      "summary": [
+        "서울형 장애인 개인예산제 시범사업",
+        "장애인",
+        "서울특별시 복지실 복지기획관"
+      ],
+      "plain_desc": "장애인 당사자의 자기결정권 및 서비스 선택권 보장 강화",
+      "categories": [
+        "장애인지원"
+      ],
+      "age_groups": [
+        "청년(19-34세)",
+        "중장년(35-64세)"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "서울특별시"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006795&wlfareInfoReldBztpCd=02",
+      "contact": "12",
+      "support_type": "서민금융",
+      "support_cycle": "월",
+      "gemini_ok": true,
+      "updated_at": "2026-10-16T06:06:53.390666+09:00"
     }
   ]
 }
