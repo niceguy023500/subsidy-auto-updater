@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "last_updated": "2026-10-16T06:06:55.995244+09:00",
-    "last_updated_kst": "2026년 10월 16일 06:06",
-    "total_count": 5280,
-    "total_fetched_from_api": 5280
+    "last_updated": "2026-10-17T05:42:17.106591+09:00",
+    "last_updated_kst": "2026년 10월 17일 05:42",
+    "total_count": 5281,
+    "total_fetched_from_api": 5281
   },
   "items": [
     {
@@ -206313,6 +206313,46 @@
       "support_cycle": "월",
       "gemini_ok": true,
       "updated_at": "2026-10-16T06:06:53.390666+09:00"
+    },
+    {
+      "id": "local_WLF00006797",
+      "source": "local",
+      "title": "난치병 학생 치료비 지원",
+      "organization": "울산광역시교육청 교육국 체육예술건강과",
+      "summary": [
+        "난치병 학생 치료비 지원",
+        "희귀난치성 질환을 가지고 있는 학생 ",
+        "울산광역시교육청 교육국 체육"
+      ],
+      "plain_desc": "희귀난치성 질환을 가지고 있는 학생 대상 폭넓은 지원을 통하여 학습권을 보장하고 건강한 학교생활을 영위할 수 있게 하기 위함",
+      "categories": [
+        "의료·건강",
+        "임신·출산·육아",
+        "교육·훈련"
+      ],
+      "age_groups": [
+        "아동·청소년(7-18세)"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "울산광역시"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006797&wlfareInfoReldBztpCd=02",
+      "contact": "7",
+      "support_type": "서민금융, 교육",
+      "support_cycle": "년",
+      "gemini_ok": true,
+      "updated_at": "2026-10-17T05:42:17.106549+09:00"
     }
   ]
 }
