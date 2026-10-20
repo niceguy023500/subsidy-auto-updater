@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "last_updated": "2026-10-20T07:09:33.500244+09:00",
-    "last_updated_kst": "2026년 10월 20일 07:09",
-    "total_count": 5281,
-    "total_fetched_from_api": 5281
+    "last_updated": "2026-10-21T06:24:41.486477+09:00",
+    "last_updated_kst": "2026년 10월 21일 06:24",
+    "total_count": 5286,
+    "total_fetched_from_api": 5286
   },
   "items": [
     {
@@ -206353,6 +206353,200 @@
       "support_cycle": "년",
       "gemini_ok": true,
       "updated_at": "2026-10-17T05:42:17.106549+09:00"
+    },
+    {
+      "id": "local_WLF00006802",
+      "source": "local",
+      "title": "광명시 시민정보화교육장",
+      "organization": "경기도 광명시 돌봄복지국 노인장애인과",
+      "summary": [
+        "광명시 시민정보화교육장",
+        "○ 사업목적: 장애인 및 저소득 시민",
+        "경기도 광명시 돌봄복지국 노"
+      ],
+      "plain_desc": "○ 사업목적: 장애인 및 저소득 시민의 정보화 능력을 향상시켜 직업재활의욕 및 삶의 질 향상을 돕기 위하여 시설에 필요한 경비 보조 ○ 지원대상: 장애인 및 장애인가족, 수급자 등 저소득 시민 ○ 서비스내용 - 장애인 무료 컴퓨터( 기초Ⅰ·Ⅱ반, 자격증반) 및 영어 교육",
+      "categories": [
+        "교육·훈련"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "기초생활수급자"
+      ],
+      "regions": {
+        "sido": [
+          "경기도"
+        ],
+        "districts": [
+          "광명시"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006802&wlfareInfoReldBztpCd=02",
+      "contact": "21",
+      "support_type": "",
+      "support_cycle": "수시",
+      "gemini_ok": true,
+      "updated_at": "2026-10-21T06:24:41.486189+09:00"
+    },
+    {
+      "id": "local_WLF00006801",
+      "source": "local",
+      "title": "장애인 체력단련센터 운영",
+      "organization": "경기도 광명시 돌봄복지국 노인장애인과",
+      "summary": [
+        "장애인 체력단련센터 운영",
+        "장애인",
+        "경기도 광명시 돌봄복지국 노"
+      ],
+      "plain_desc": "○ 사업목적: 장애인에게 재활체육 서비스를 제공함으로써 장애인들의 신체적 기능 강화 및 재활 의욕 고취 ○ 지원대상: 장애인 및 장애인가족, 수급자 등 저소득 시민 ○ 서비스내용: 맞춤형 재활 운동 지도 및 재활기구 유지보수",
+      "categories": [
+        "장애인지원"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "기초생활수급자"
+      ],
+      "regions": {
+        "sido": [
+          "경기도"
+        ],
+        "districts": [
+          "광명시"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006801&wlfareInfoReldBztpCd=02",
+      "contact": "22",
+      "support_type": "",
+      "support_cycle": "수시",
+      "gemini_ok": true,
+      "updated_at": "2026-10-21T06:24:41.486284+09:00"
+    },
+    {
+      "id": "local_WLF00006800",
+      "source": "local",
+      "title": "장애어르신 쉼마루",
+      "organization": "경기도 광명시 돌봄복지국 노인장애인과",
+      "summary": [
+        "장애어르신 쉼마루",
+        "장애인",
+        "경기도 광명시 돌봄복지국 노"
+      ],
+      "plain_desc": "장애인의 고령화에 따른 사회문제 발생 예방 및 활기찬 노후 지원",
+      "categories": [
+        "장애인지원",
+        "노인돌봄"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "경기도"
+        ],
+        "districts": [
+          "광명시"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006800&wlfareInfoReldBztpCd=02",
+      "contact": "24",
+      "support_type": "",
+      "support_cycle": "수시",
+      "gemini_ok": true,
+      "updated_at": "2026-10-21T06:24:41.486335+09:00"
+    },
+    {
+      "id": "local_WLF00006799",
+      "source": "local",
+      "title": "주거약자 이사지원",
+      "organization": "전남광주통합특별시 북구 통합돌봄국 주거복지과",
+      "summary": [
+        "주거약자 이사지원",
+        "저소득",
+        "전남광주통합특별시 북구 통합"
+      ],
+      "plain_desc": "○ 혼자서 이사가 어려운 주거취약계층의 이사지원을 통해 경제적 부담 완화 ○ 독거노인 및 중증장애 1인가구의 소외감 해소 및 주거안전서비스 필요",
+      "categories": [
+        "주거·임대",
+        "의료·건강",
+        "장애인지원",
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "1인가구"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "광주광역시"
+        ],
+        "districts": [
+          "북구"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006799&wlfareInfoReldBztpCd=02",
+      "contact": "24",
+      "support_type": "서민금융, 신체건강",
+      "support_cycle": "년",
+      "gemini_ok": true,
+      "updated_at": "2026-10-21T06:24:41.486393+09:00"
+    },
+    {
+      "id": "local_WLF00006798",
+      "source": "local",
+      "title": "행복둥지 사랑의 집수리",
+      "organization": "전남광주통합특별시 북구 통합돌봄국 주거복지과",
+      "summary": [
+        "행복둥지 사랑의 집수리",
+        "저소득",
+        "전남광주통합특별시 북구 통합"
+      ],
+      "plain_desc": "○ 주거환경이 열악한 취약계층 노후주택 개·보수로 저소득층 주거 안정 도모 및 삶의 질 향상 ○ 주거복지 사각지대를 찾아서, 이웃이 이웃을 돕는 마을복지공동체 형성 ○ 지역 업체 자재 우선 구매로 지역경제 활성화 기여",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "광주광역시"
+        ],
+        "districts": [
+          "북구"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006798&wlfareInfoReldBztpCd=02",
+      "contact": "23",
+      "support_type": "",
+      "support_cycle": "년",
+      "gemini_ok": true,
+      "updated_at": "2026-10-21T06:24:41.486460+09:00"
     }
   ]
 }
