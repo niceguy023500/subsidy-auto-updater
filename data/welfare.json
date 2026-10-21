@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "last_updated": "2026-10-21T06:24:43.654071+09:00",
-    "last_updated_kst": "2026년 10월 21일 06:24",
-    "total_count": 5286,
-    "total_fetched_from_api": 5286
+    "last_updated": "2026-10-22T06:26:55.586293+09:00",
+    "last_updated_kst": "2026년 10월 22일 06:26",
+    "total_count": 5287,
+    "total_fetched_from_api": 5287
   },
   "items": [
     {
@@ -206547,6 +206547,46 @@
       "support_cycle": "년",
       "gemini_ok": true,
       "updated_at": "2026-10-21T06:24:41.486460+09:00"
+    },
+    {
+      "id": "local_WLF00006803",
+      "source": "local",
+      "title": "장애인가족사랑여행지원사업",
+      "organization": "전남광주통합특별시 해남군 복지정책과",
+      "summary": [
+        "장애인가족사랑여행지원사업",
+        "저소득",
+        "전남광주통합특별시 해남군 복"
+      ],
+      "plain_desc": "여행 기회가 적은 저소득층 장애인 가정의 여행비를 지원함으로써 가족 간 유대감 제고 및 장애인 복지 실현",
+      "categories": [
+        "장애인지원",
+        "문화·여가",
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "광주광역시"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006803&wlfareInfoReldBztpCd=02",
+      "contact": "24",
+      "support_type": "서민금융",
+      "support_cycle": "1회성",
+      "gemini_ok": true,
+      "updated_at": "2026-10-22T06:26:55.586252+09:00"
     }
   ]
 }
