@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "last_updated": "2026-10-29T07:22:40.158494+09:00",
-    "last_updated_kst": "2026년 10월 29일 07:22",
-    "total_count": 5287,
-    "total_fetched_from_api": 5287
+    "last_updated": "2026-10-30T07:35:21.526022+09:00",
+    "last_updated_kst": "2026년 10월 30일 07:35",
+    "total_count": 5288,
+    "total_fetched_from_api": 5288
   },
   "items": [
     {
@@ -217161,6 +217161,44 @@
       "updated_at": "2026-10-22T06:26:55.586252+09:00",
       "hook_title": "저소득층 장애인 가정 여행비 지원",
       "hook_desc": "여행 기회가 적은 저소득층 장애인 가정의 여행 비용을 지원받을 수 있습니다."
+    },
+    {
+      "id": "local_WLF00006804",
+      "source": "local",
+      "title": "포천시 다자녀가정 포천 쌀 지원사업",
+      "organization": "경기도 포천시 인구성장국 기획예산과",
+      "summary": [
+        "포천시 다자녀가정 포천 쌀 지원사업",
+        "다자녀",
+        "경기도 포천시 인구성장국 기"
+      ],
+      "plain_desc": "다자녀가정에 식료품(쌀)을 지원함으로써 경제적 부담 완화 뿐만 아니라, 다자녀 양육에 대한 긍정적인 환경을 조성할 수 있고, 지역 내 쌀 소비를 촉진하여 경제 선순환 구조 형성에 기여 가능",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "다자녀가구"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "경기도"
+        ],
+        "districts": [
+          "포천시"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006804&wlfareInfoReldBztpCd=02",
+      "contact": "22",
+      "support_type": "",
+      "support_cycle": "분기",
+      "gemini_ok": true,
+      "updated_at": "2026-10-30T07:35:21.525977+09:00"
     }
   ]
 }
