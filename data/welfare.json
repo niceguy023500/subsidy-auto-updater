@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "last_updated": "2026-10-31T07:03:28.244483+09:00",
-    "last_updated_kst": "2026년 10월 31일 07:03",
-    "total_count": 5288,
-    "total_fetched_from_api": 5288
+    "last_updated": "2026-11-01T06:13:09.834704+09:00",
+    "last_updated_kst": "2026년 11월 01일 06:13",
+    "total_count": 5289,
+    "total_fetched_from_api": 5289
   },
   "items": [
     {
@@ -99028,46 +99028,6 @@
       "updated_at": "2026-08-07T09:06:13.035834+09:00",
       "hook_title": "항암치료 중 탈모, 가발비 지원받기",
       "hook_desc": "동대문구 암환자가 항암치료로 인한 탈모 시 가발 구입비를 받을 수 있습니다."
-    },
-    {
-      "id": "local_WLF00006523",
-      "source": "local",
-      "title": "종로구 발달장애인 배상책임보험",
-      "organization": "서울특별시 종로구 복지교육국 사회복지과",
-      "summary": [
-        "종로구 발달장애인 배상책임보험",
-        "장애인",
-        "서울특별시 종로구 복지교육국"
-      ],
-      "plain_desc": "-발달장애인의 특성상 일상생활 중 돌발 사고 발생 위험이 상존하나 이에 대비한 보호장치의 부재 -피해 발생 시 신속하고 적절한 손해배상 지원으로 사회적 갈등 최소화 및 구정 신뢰도 향상 -안정적인 일생생활 보장으로 사회활동 참여 증진 및 안전한 환경 조성",
-      "categories": [
-        "장애인지원"
-      ],
-      "age_groups": [
-        "전체"
-      ],
-      "household_types": [
-        "전체"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "서울특별시"
-        ],
-        "districts": [
-          "종로구"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006523&wlfareInfoReldBztpCd=02",
-      "contact": "300",
-      "support_type": "서민금융",
-      "support_cycle": "수시",
-      "gemini_ok": true,
-      "updated_at": "2026-08-07T09:06:13.035908+09:00",
-      "hook_title": "종로구 발달장애인 배상책임보험",
-      "hook_desc": "발달장애인이 일상생활 중 일으킨 사고에 대해 배상책임을 보장받습니다."
     },
     {
       "id": "local_WLF00006521",
@@ -217199,6 +217159,82 @@
       "support_cycle": "분기",
       "gemini_ok": true,
       "updated_at": "2026-10-30T07:35:21.525977+09:00"
+    },
+    {
+      "id": "local_WLF00006784",
+      "source": "local",
+      "title": "발달장애인 생활안심보험 가입 지원",
+      "organization": "서울특별시 관악구 복지돌봄국 장애인복지과",
+      "summary": [
+        "발달장애인 생활안심보험 가입 지원",
+        "장애인",
+        "서울특별시 관악구 복지돌봄국"
+      ],
+      "plain_desc": "발달장애인이 일상생활 중 돌발·도전적 행동 등으로 인한 사고 발생 시 피해보상 대책을 마련할 수 있도록 보험 가입 및 보험료를 지원함으로써 발달장애인의 생활안정과 사회활동 참여 증진에 기여함",
+      "categories": [
+        "장애인지원"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "서울특별시"
+        ],
+        "districts": [
+          "관악구"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006784&wlfareInfoReldBztpCd=02",
+      "contact": "40",
+      "support_type": "",
+      "support_cycle": "년",
+      "gemini_ok": true,
+      "updated_at": "2026-11-01T06:13:09.834561+09:00"
+    },
+    {
+      "id": "local_WLF00006583",
+      "source": "local",
+      "title": "저소득 한부모가족 냉·난방비 지원",
+      "organization": "부산광역시 수영구 복지환경국 가족행복과",
+      "summary": [
+        "저소득 한부모가족 냉·난방비 지원",
+        "한부모·조손",
+        "부산광역시 수영구 복지환경국"
+      ],
+      "plain_desc": "· 지속적으로 증가하는 폭염과 한파로 인하여 자녀를 홀로 양육하는 저소득층 한부모가족의 냉·난방비 등 경제적 부담 가중 · 「기초생활보장법」상 수급자의 경우는 에너지바우처를 지원받을 수 있으나, 수급자가 아닌 한부모가족의 경우 에너지바우처를 지원 받지 못함으로 인한 복지 사각지대 해소",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "한부모가구"
+      ],
+      "income_levels": [
+        "기초생활수급자"
+      ],
+      "regions": {
+        "sido": [
+          "부산광역시"
+        ],
+        "districts": [
+          "수영구"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006583&wlfareInfoReldBztpCd=02",
+      "contact": "114",
+      "support_type": "서민금융",
+      "support_cycle": "기타",
+      "gemini_ok": true,
+      "updated_at": "2026-11-01T06:13:09.834683+09:00"
     }
   ]
 }
