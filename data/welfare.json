@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "last_updated": "2026-11-19T09:02:28.817059+09:00",
-    "last_updated_kst": "2026년 11월 19일 09:02",
-    "total_count": 5289,
-    "total_fetched_from_api": 5289
+    "last_updated": "2026-11-20T09:26:29.143601+09:00",
+    "last_updated_kst": "2026년 11월 20일 09:26",
+    "total_count": 5298,
+    "total_fetched_from_api": 5298
   },
   "items": [
     {
@@ -188047,47 +188047,6 @@
       "hook_desc": "다자녀 가정이 쓰레기봉투를 지원받을 수 있습니다. 고성군에 문의하세요."
     },
     {
-      "id": "local_WLF00004773",
-      "source": "local",
-      "title": "2023년 저소득층을 위한 자체시업(저소득층 위기가정 지원)",
-      "organization": "제주특별자치도 서귀포시 복지위생국 주민복지과",
-      "summary": [
-        "2023년 저소득층을 위한 자체시업(",
-        "한부모·조손",
-        "제주특별자치도 서귀포시 복지"
-      ],
-      "plain_desc": "위기상황에 처한 대상자를 발굴하여 필요한 부분을 지원함으로써 긴급상황 극복 및 삶의 희망 부여",
-      "categories": [
-        "장애인지원",
-        "생활비·소득"
-      ],
-      "age_groups": [
-        "전체"
-      ],
-      "household_types": [
-        "한부모가구"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "제주특별자치도"
-        ],
-        "districts": [
-          "서귀포시"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00004773&wlfareInfoReldBztpCd=02",
-      "contact": "2510",
-      "support_type": "서민금융",
-      "support_cycle": "수시",
-      "gemini_ok": true,
-      "updated_at": "2026-08-07T09:06:22.499571+09:00",
-      "hook_title": "위기상황 맞은 저소득층, 긴급 생활비 지원",
-      "hook_desc": "갑작스러운 어려움으로 생활이 힘든 저소득층이 필요한 지원을 받을 수 있습니다."
-    },
-    {
       "id": "local_WLF00001228",
       "source": "local",
       "title": "6월 호국보훈의 달 국가유공자 위문",
@@ -217235,6 +217194,390 @@
       "support_cycle": "기타",
       "gemini_ok": true,
       "updated_at": "2026-11-01T06:13:09.834683+09:00"
+    },
+    {
+      "id": "local_WLF00006815",
+      "source": "local",
+      "title": "시군 경기도 장애인복지과 사회복지 종사자 장기근속비",
+      "organization": "경기도 복지국 장애인복지과",
+      "summary": [
+        "시군 경기도 장애인복지과 사회복지 종",
+        "사회복지 종사자의 장기근속 유도 및 ",
+        "경기도 복지국 장애인복지과"
+      ],
+      "plain_desc": "사회복지 종사자의 장기근속 유도 및 안정적인 근무환경 조성을 통한 복지서비스 질 제고",
+      "categories": [
+        "장애인지원"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "경기도"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006815&wlfareInfoReldBztpCd=02",
+      "contact": "17",
+      "support_type": "서민금융",
+      "support_cycle": "년",
+      "gemini_ok": true,
+      "updated_at": "2026-11-20T09:26:29.142956+09:00"
+    },
+    {
+      "id": "local_WLF00006814",
+      "source": "local",
+      "title": "경기도 장애인자립지원과 사회복지 종사자 장기근속비",
+      "organization": "경기도 복지국 장애인자립지원과",
+      "summary": [
+        "경기도 장애인자립지원과 사회복지 종사",
+        "사회복지 종사자의 장기근속 유도 및 ",
+        "경기도 복지국 장애인자립지원"
+      ],
+      "plain_desc": "사회복지 종사자의 장기근속 유도 및 안정적인 근무환경 조성을 통한 복지서비스 질 제고 현 소속시설 5년 이상 장기재직 종사자 (’25년 12월말 기준) 1인당 5만원 지원",
+      "categories": [
+        "장애인지원"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "1인가구"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "경기도"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006814&wlfareInfoReldBztpCd=02",
+      "contact": "7",
+      "support_type": "서민금융",
+      "support_cycle": "년",
+      "gemini_ok": true,
+      "updated_at": "2026-11-20T09:26:29.143065+09:00"
+    },
+    {
+      "id": "local_WLF00006813",
+      "source": "local",
+      "title": "청년농업인 농지 임대료 지원사업",
+      "organization": "제주특별자치도 농축산식품국 친환경농업정책과",
+      "summary": [
+        "청년농업인 농지 임대료 지원사업",
+        "창업농의 가장 기본적인 요소인 농지 ",
+        "제주특별자치도 농축산식품국 "
+      ],
+      "plain_desc": "창업농의 가장 기본적인 요소인 농지 마련에 어려움을 겪고 있는 청년농업인에게 농지 임대료 지원을 통해 경영부담 완화 및 안정적 영농정착 지원",
+      "categories": [
+        "주거·임대"
+      ],
+      "age_groups": [
+        "청년(19-34세)"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "제주특별자치도"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006813&wlfareInfoReldBztpCd=02",
+      "contact": "11",
+      "support_type": "서민금융",
+      "support_cycle": "년",
+      "gemini_ok": true,
+      "updated_at": "2026-11-20T09:26:29.143134+09:00"
+    },
+    {
+      "id": "local_WLF00006811",
+      "source": "local",
+      "title": "전세피해 주택임차인 주거비 지원",
+      "organization": "전북특별자치도 건설교통국 주택건축과",
+      "summary": [
+        "전세피해 주택임차인 주거비 지원",
+        "전세사기 피해 임차인들의 조속한 안정",
+        "전북특별자치도 건설교통국 주"
+      ],
+      "plain_desc": "전세사기 피해 임차인들의 조속한 안정과 경제적 부담 완화를 위해 주거비 지원",
+      "categories": [
+        "주거·임대"
+      ],
+      "age_groups": [
+        "청년(19-34세)",
+        "중장년(35-64세)"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전북특별자치도"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006811&wlfareInfoReldBztpCd=02",
+      "contact": "8",
+      "support_type": "서민금융",
+      "support_cycle": "기타(월)",
+      "gemini_ok": true,
+      "updated_at": "2026-11-20T09:26:29.143191+09:00"
+    },
+    {
+      "id": "local_WLF00006810",
+      "source": "local",
+      "title": "보은군 초등학생 치과주치의 의료지원 사업",
+      "organization": "충청북도 보은군 보건소 건강증진과",
+      "summary": [
+        "보은군 초등학생 치과주치의 의료지원 ",
+        "보은군 아동들의 치과의료 접근성 및 ",
+        "충청북도 보은군 보건소 건강"
+      ],
+      "plain_desc": "보은군 아동들의 치과의료 접근성 및 구강건강 수준을 향상시키고 소득간 불평등 해소",
+      "categories": [
+        "의료·건강",
+        "임신·출산·육아",
+        "교육·훈련"
+      ],
+      "age_groups": [
+        "아동·청소년(7-18세)"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "충청북도"
+        ],
+        "districts": [
+          "보은군"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006810&wlfareInfoReldBztpCd=02",
+      "contact": "7",
+      "support_type": "서민금융",
+      "support_cycle": "반기",
+      "gemini_ok": true,
+      "updated_at": "2026-11-20T09:26:29.143252+09:00"
+    },
+    {
+      "id": "local_WLF00006809",
+      "source": "local",
+      "title": "전 군민 인플루엔자 예방접종 지원사업",
+      "organization": "충청남도 예산군 보건소 보건행정과",
+      "summary": [
+        "전 군민 인플루엔자 예방접종 지원사업",
+        "전 군민 대상 독감(인플루엔자) 예방",
+        "충청남도 예산군 보건소 보건"
+      ],
+      "plain_desc": "전 군민 대상 독감(인플루엔자) 예방접종을 적기에 실시하여 인플루엔자 예방 및 합병증으로 인한 입원·사망률 감소",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "충청남도"
+        ],
+        "districts": [
+          "예산군"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006809&wlfareInfoReldBztpCd=02",
+      "contact": "7",
+      "support_type": "",
+      "support_cycle": "년",
+      "gemini_ok": true,
+      "updated_at": "2026-11-20T09:26:29.143308+09:00"
+    },
+    {
+      "id": "local_WLF00006808",
+      "source": "local",
+      "title": "100세 이상 어르신 장수축하 지원사업",
+      "organization": "전북특별자치도 정읍시 복지환경국 노인장애인과",
+      "summary": [
+        "100세 이상 어르신 장수축하 지원사",
+        "초고령사회로 100세 이상 장수하신 ",
+        "전북특별자치도 정읍시 복지환"
+      ],
+      "plain_desc": "초고령사회로 100세 이상 장수하신 어르신에 대한 축하와 지원을 통해 고령친화도시 조성, 경로효친의 사회적 분위기 조성과 노인복지증진에 기여",
+      "categories": [
+        "노인돌봄"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "전북특별자치도"
+        ],
+        "districts": [
+          "정읍시"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006808&wlfareInfoReldBztpCd=02",
+      "contact": "15",
+      "support_type": "",
+      "support_cycle": "1회성",
+      "gemini_ok": true,
+      "updated_at": "2026-11-20T09:26:29.143376+09:00"
+    },
+    {
+      "id": "local_WLF00006807",
+      "source": "local",
+      "title": "다문화가족 모국방문지원사업",
+      "organization": "충청남도 논산시 인구복지국 복지정책과",
+      "summary": [
+        "다문화가족 모국방문지원사업",
+        "다문화·탈북민",
+        "충청남도 논산시 인구복지국 "
+      ],
+      "plain_desc": "경제적 어려움 등으로 장기간 모국을 방문하지 못한 다문화가족에게 고향을 방문할 기회를 제공하여 타향살이의 외로움 해소로 정서적 안정 도모 및 한국 사회에 안정적인 정착 기여",
+      "categories": [
+        "문화·여가"
+      ],
+      "age_groups": [
+        "전체"
+      ],
+      "household_types": [
+        "다자녀가구",
+        "다문화가구"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "충청남도"
+        ],
+        "districts": [
+          "논산시"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006807&wlfareInfoReldBztpCd=02",
+      "contact": "8",
+      "support_type": "서민금융",
+      "support_cycle": "1회성",
+      "gemini_ok": true,
+      "updated_at": "2026-11-20T09:26:29.143461+09:00"
+    },
+    {
+      "id": "local_WLF00006806",
+      "source": "local",
+      "title": "보은군 속리산 유아숲체험원 운영·관리 조례 제정",
+      "organization": "충청북도 보은군 속리산휴양사업소",
+      "summary": [
+        "보은군 속리산 유아숲체험원 운영·관리",
+        "유아숲체험원 조성 및 운영으로 산림 ",
+        "충청북도 보은군 속리산휴양사"
+      ],
+      "plain_desc": "유아숲체험원 조성 및 운영으로 산림 교육 서비스를 제공하여 영유아의 산림교육에 대한 수요를 충족하기 위함",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "영유아(0-6세)"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "충청북도"
+        ],
+        "districts": [
+          "보은군"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006806&wlfareInfoReldBztpCd=02",
+      "contact": "8",
+      "support_type": "",
+      "support_cycle": "수시",
+      "gemini_ok": true,
+      "updated_at": "2026-11-20T09:26:29.143528+09:00"
+    },
+    {
+      "id": "local_WLF00002851",
+      "source": "local",
+      "title": "청년 월세 지원 사업",
+      "organization": "부산광역시 인구청년정책국 청년정책과",
+      "summary": [
+        "청년 월세 지원 사업",
+        "부산에 거주하는 청년들의 주거비 부담",
+        "부산광역시 인구청년정책국 청"
+      ],
+      "plain_desc": "부산에 거주하는 청년들의 주거비 부담을 덜어줌으로써 주거 독립 지원 및 지역 정주 유도",
+      "categories": [
+        "주거·임대"
+      ],
+      "age_groups": [
+        "청년(19-34세)"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "부산광역시"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00002851&wlfareInfoReldBztpCd=02",
+      "contact": "9870",
+      "support_type": "입양·위탁, 보호·돌봄, 서민금융",
+      "support_cycle": "월",
+      "gemini_ok": true,
+      "updated_at": "2026-11-20T09:26:29.143583+09:00"
     }
   ]
 }
