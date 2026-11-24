@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "last_updated": "2026-11-23T08:26:14.749179+09:00",
-    "last_updated_kst": "2026년 11월 23일 08:26",
+    "last_updated": "2026-11-24T12:56:43.022201+09:00",
+    "last_updated_kst": "2026년 11월 24일 12:56",
     "total_count": 5298,
     "total_fetched_from_api": 5298
   },
@@ -143152,46 +143152,6 @@
       "hook_desc": "부산 서구의 고등학교 신입생이 교복 구입비를 지원받을 수 있습니다."
     },
     {
-      "id": "local_WLF00006170",
-      "source": "local",
-      "title": "기후동행카드 다자녀·저소득층 할인제도 운영",
-      "organization": "서울특별시 교통실 교통기획관 교통정책과",
-      "summary": [
-        "기후동행카드 다자녀·저소득층 할인제도",
-        "다자녀",
-        "서울특별시 교통실 교통기획관"
-      ],
-      "plain_desc": "- 출산 친화 분위기 조성 및 교통복지 실현을 위해 맞춤형 할인지원 필요 - 다자녀부모 및 저소득층에 기후동행카드 권종당 최대 17천원 할인",
-      "categories": [
-        "생활비·소득"
-      ],
-      "age_groups": [
-        "전체"
-      ],
-      "household_types": [
-        "다자녀가구"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "서울특별시"
-        ],
-        "districts": [
-          "전체"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006170&wlfareInfoReldBztpCd=02",
-      "contact": "12886",
-      "support_type": "",
-      "support_cycle": "부정기",
-      "gemini_ok": true,
-      "updated_at": "2026-08-07T09:06:18.379605+09:00",
-      "hook_title": "다자녀·저소득층 교통비 최대 17천원 할인",
-      "hook_desc": "기후동행카드로 서울 대중교통 이용할 때 조건에 맞으면 할인받을 수 있습니다."
-    },
-    {
       "id": "local_WLF00004946",
       "source": "local",
       "title": "대전형 양육기본수당",
@@ -217578,6 +217538,44 @@
       "support_cycle": "월",
       "gemini_ok": true,
       "updated_at": "2026-11-20T09:26:29.143583+09:00"
+    },
+    {
+      "id": "local_WLF00006816",
+      "source": "local",
+      "title": "50세 이상 대상포진 예방접종 지원",
+      "organization": "충청남도 예산군 보건소 보건행정과",
+      "summary": [
+        "50세 이상 대상포진 예방접종 지원",
+        "예방접종 비용 지원을 통해 군민의 질",
+        "충청남도 예산군 보건소 보건"
+      ],
+      "plain_desc": "예방접종 비용 지원을 통해 군민의 질병 부담 감소 및 건강한 삶 도모",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "중장년(35-64세)"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "충청남도"
+        ],
+        "districts": [
+          "예산군"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006816&wlfareInfoReldBztpCd=02",
+      "contact": "88",
+      "support_type": "",
+      "support_cycle": "1회성",
+      "gemini_ok": true,
+      "updated_at": "2026-11-24T12:56:43.022168+09:00"
     }
   ]
 }
