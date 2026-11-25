@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "last_updated": "2026-11-24T12:56:45.152791+09:00",
-    "last_updated_kst": "2026년 11월 24일 12:56",
-    "total_count": 5298,
-    "total_fetched_from_api": 5298
+    "last_updated": "2026-11-25T11:02:25.365361+09:00",
+    "last_updated_kst": "2026년 11월 25일 11:02",
+    "total_count": 5299,
+    "total_fetched_from_api": 5299
   },
   "items": [
     {
@@ -217576,6 +217576,44 @@
       "support_cycle": "1회성",
       "gemini_ok": true,
       "updated_at": "2026-11-24T12:56:43.022168+09:00"
+    },
+    {
+      "id": "local_WLF00006818",
+      "source": "local",
+      "title": "울산 자영업자 아이와 함께 행복업",
+      "organization": "울산광역시 기업투자국 기업지원과",
+      "summary": [
+        "울산 자영업자 아이와 함께 행복업",
+        "소상공인의 출산‧육아로 인한 인력 공",
+        "울산광역시 기업투자국 기업지"
+      ],
+      "plain_desc": "소상공인의 출산‧육아로 인한 인력 공백을 최소화하여 사업체의 경영 유지 및 일‧가정 양립 지원",
+      "categories": [
+        "생활비·소득"
+      ],
+      "age_groups": [
+        "청년(19-34세)"
+      ],
+      "household_types": [
+        "전체"
+      ],
+      "income_levels": [
+        "소득무관"
+      ],
+      "regions": {
+        "sido": [
+          "울산광역시"
+        ],
+        "districts": [
+          "전체"
+        ]
+      },
+      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00006818&wlfareInfoReldBztpCd=02",
+      "contact": "26",
+      "support_type": "서민금융",
+      "support_cycle": "월",
+      "gemini_ok": true,
+      "updated_at": "2026-11-25T11:02:25.365330+09:00"
     }
   ]
 }
