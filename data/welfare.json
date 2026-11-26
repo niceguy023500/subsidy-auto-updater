@@ -1,9 +1,9 @@
 {
   "metadata": {
-    "last_updated": "2026-11-25T11:02:27.454223+09:00",
-    "last_updated_kst": "2026년 11월 25일 11:02",
-    "total_count": 5299,
-    "total_fetched_from_api": 5299
+    "last_updated": "2026-11-26T10:43:53.933342+09:00",
+    "last_updated_kst": "2026년 11월 26일 10:43",
+    "total_count": 5298,
+    "total_fetched_from_api": 5298
   },
   "items": [
     {
@@ -155583,47 +155583,6 @@
       "updated_at": "2026-08-07T09:06:18.398239+09:00",
       "hook_title": "장애인가정 신생아 출산시 지원금 받기",
       "hook_desc": "장애인가정에서 아기를 낳을 때 산모와 신생아 건강관리를 위한 지원을 받을 수 있습니다."
-    },
-    {
-      "id": "local_WLF00004613",
-      "source": "local",
-      "title": "저장강박 의심 위기가구 지원사업",
-      "organization": "전북특별자치도 군산시 복지환경국 복지정책과",
-      "summary": [
-        "저장강박 의심 위기가구 지원사업",
-        "장애인",
-        "전북특별자치도 군산시 복지환"
-      ],
-      "plain_desc": "각종 물건을 용도와 관계없이 수집하는 저장강박 의심가구에 대해 안전한 주거환경을 제공하고 시민의 건강과 삶의 질 향상 도모",
-      "categories": [
-        "장애인지원",
-        "생활비·소득"
-      ],
-      "age_groups": [
-        "전체"
-      ],
-      "household_types": [
-        "한부모가구"
-      ],
-      "income_levels": [
-        "소득무관"
-      ],
-      "regions": {
-        "sido": [
-          "전북특별자치도"
-        ],
-        "districts": [
-          "군산시"
-        ]
-      },
-      "apply_url": "https://www.bokjiro.go.kr/ssis-tbu/twataa/wlfareInfo/moveTWAT52011M.do?wlfareInfoId=WLF00004613&wlfareInfoReldBztpCd=02",
-      "contact": "3141",
-      "support_type": "안전·위기",
-      "support_cycle": "1회성",
-      "gemini_ok": true,
-      "updated_at": "2026-08-07T09:06:18.398303+09:00",
-      "hook_title": "저장강박 의심 가구 주거환경 개선 지원",
-      "hook_desc": "물건을 많이 모으는 어려움으로 힘들어하시나요. 안전한 집 환경을 만드는 데 도움을 드립니다."
     },
     {
       "id": "local_WLF00001828",
